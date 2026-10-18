@@ -1,14 +1,13 @@
 # https://chennaicentral.in/events/
-# fetched 2026-10-17T17:51Z
+# fetched 2026-10-18T17:51Z
 CC
 Home
 Events
-Events in Chennai
-Upcoming concerts, cultural festivals, exhibitions, sports and family events happening in Chennai. Jump to this week, the next 30 days, or browse the full schedule below.
-This week · 1
+Upcoming Events in Chennai
+Upcoming concerts, cultural festivals, exhibitions, sports and family events happening in Chennai, soonest first. Jump to this week, the next 30 days, or browse the full schedule below. Events that have finished move to the past events archive at the bottom.
 Next 30 days · 3
 Later · 7
-Past events · 31
+Past events · 32
 BY TYPE
 All
 Art
@@ -28,14 +27,6 @@ ECR
 Nungambakkam
 Poongavanapuram
 More locations →
-This week in Chennai
-17 Oct – 23 Oct
-BUSINESS
-FOOD
-PackVision and FoodVision Expo 2026 Chennai: 15 to 17 October at CTC
-📅 15 Oct 2026 – 17 Oct 2026
-📍 Nandambakkam
-PackVision Expo and FoodVision Expo share Chennai Trade Centre from 15 to 17 October 2026: packaging machinery and materials alongside food processing. Free entry, registration and directions.
 In the next 30 days
 3 events
 TECH & IT
@@ -97,8 +88,8 @@ ELECXPO Chennai 2027: Registration, Dates And Guide
 📅 10 Dec 2027 – 12 Dec 2027
 📍 Nandambakkam
 Plan ELECXPO Chennai from 10 to 12 December 2027. Check electrical, electronics, power and renewable themes, buyer tips, registration and travel.
-Past events
-31 archived · click to expand
+Past events archive
+32 archived · click to expand
 CC
 Chennai Central
 The Singara Chennai Guide — your comprehensive resource for events, attractions, food, history, and everything Chennai.
@@ -106,6 +97,7 @@ A project by Alston Antony
 EXPLORE
 Chennai Guide
 Events
+Calculators
 History
 Travel
 Food
