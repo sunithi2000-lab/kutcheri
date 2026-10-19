@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-10-18T17:51Z
+# fetched 2026-10-19T17:57Z
 Select Language
 English
 Tamil
@@ -10,27 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-From Kalahasthi to Tirumala
-Sun, 18th Oct 2026 | 10:00 AM
-Free | Offline
-Carnatic Vocal Concert by Shruthi S Bhat
-Sun, 18th Oct 2026 | 6:15 PM
-Free | Offline
-Carnatic Vocal Concert by BU Ganeshprasad
-Sun, 18th Oct 2026 | 6:30 PM
-Free | Offline
-Carnatic Vocal Concert by Prasanna Venkataraman
-Sun, 18th Oct 2026 | 6:30 PM
-Free | Offline
-Carnatic Vocal Concert by Vidya Kalyanaraman
-Sun, 18th Oct 2026 | 6:30 PM
-Free | Offline
-Navarathri Vocal Concert
-Sun, 18th Oct 2026 | 6:30 PM
-Free | Offline
-Carnatic Vocal Concert by Anirudh Subramanian
-Sun, 18th Oct 2026 | 7:00 PM
-Free | Offline
 Carnatic Vocal Concert by Amritha Murali
 Mon, 19th Oct 2026 | 6:15 PM
 Free | Offline
@@ -130,10 +109,10 @@ Ticketed | Offline
 4.00 PM | K P Nandini | 6.30 PM | Sikkil Gurucharan - Charsur Arts Foundation
 Wed, 16th Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM | Vidya Kalyanaraman | 6.30 PM | Rithvik Raja - Charsur Arts Foundation
+Carnatic Vocal Concert by 'Sangeetha Choodamani' Abhishek Raghuram
 Thu, 17th Dec 2026 | 4:00 PM
 Ticketed | Offline
-Carnatic Vocal Concert by 'Sangeetha Choodamani' Abhishek Raghuram
+4.00 PM | Vidya Kalyanaraman | 6.30 PM | Rithvik Raja - Charsur Arts Foundation
 Thu, 17th Dec 2026 | 4:00 PM
 Ticketed | Offline
 Carnatic Vocal & Flute Duet Concert by Kunnakudi M Balamurali Krishna & Shashank Subramanyam
@@ -142,10 +121,10 @@ Ticketed | Offline
 4.00 PM | D B Ashvin | 6.30 PM | R K Shriramkumar (Violin Solo) | Charsur Arts Foundation
 Fri, 18th Dec 2026 | 4:00 PM
 Ticketed | Offline
-Carnatic Vocal Concert by S Mahathi
+4.00 PM | Anahita Apoorva | 6.30 PM | K Bharat Sundar | Charsur Arts Foundation
 Sat, 19th Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM | Anahita Apoorva | 6.30 PM | K Bharat Sundar | Charsur Arts Foundation
+Carnatic Vocal Concert by S Mahathi
 Sat, 19th Dec 2026 | 4:00 PM
 Ticketed | Offline
 31st Year Celebrations - Mega Isai Vizha - Mahakavi Bharathiyaar Maniyaana Padalgal
@@ -172,10 +151,10 @@ Ticketed | Offline
 4.00 PM | S Adithyanarayanan | 6.30 PM | Sriranjani Tapasya Santhanagopalan | Charsur Arts Foundation
 Tue, 22nd Dec 2026 | 4:00 PM
 Ticketed | Offline
-Carnatic Violin Trio Concert by A Kanyakumari, Embar Kannan & L Ramakrishnan
+4.00 PM | Kruthi Vittal | 6.30 PM | K Gayatri | Charsur Arts Foundation
 Wed, 23rd Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM | Kruthi Vittal | 6.30 PM | K Gayatri | Charsur Arts Foundation
+Carnatic Violin Trio Concert by A Kanyakumari, Embar Kannan & L Ramakrishnan
 Wed, 23rd Dec 2026 | 4:00 PM
 Ticketed | Offline
 Carnatic Vocal Duet by Malladi Brothers Sriram Prasad & Ravikumar
@@ -199,10 +178,10 @@ Ticketed | Offline
 K Arun Prakash - Ensemble | Charsur Arts Foundation
 Sat, 26th Dec 2026 | 10:00 AM
 Ticketed | Offline
-Carnatic Vocal Concert by Sikkil Gurucharan
+4.00 PM | Vittal Rangan | 6.30 PM | Kunnakudi Balamuralikrishna | Charsur Arts Foundation
 Sat, 26th Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM | Vittal Rangan | 6.30 PM | Kunnakudi Balamuralikrishna | Charsur Arts Foundation
+Carnatic Vocal Concert by Sikkil Gurucharan
 Sat, 26th Dec 2026 | 4:00 PM
 Ticketed | Offline
 Madhusudhanan Kalaichelvan - LecDem | Charsur Arts Foundation
