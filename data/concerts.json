@@ -1,5 +1,31 @@
 [
  {
+  "id": "as-2026-11-15-0900-trichurbro",
+  "date": "2026-11-15",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Trichur Brothers",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Trichur Brothers",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Teen Prahar",
+  "venue": "Bharata Kalakshetra Auditorium, Kalakshetra Foundation",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://www.bandsintown.com/e/109048069-trichur-brothers-at-bharata-kalakshetra-auditorium-kalakshetra-foundation",
+  "source_label": "Bandsintown listing",
+  "note": "Part of \"Teen Prahar\", a day-long festival on the time theory of ragas (mostly Hindustani artists: Anand Bhate, Jayateerth Mevundi, Sanjeev Abhyankar, Pravin Godkhindi, Rahul Sharma). 9 am is the listed start for every artist, so this slot's exact time is not published; organiser not named on the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-11-16-1800-nravikiran",
   "date": "2026-11-16",
   "start": "18:00",
