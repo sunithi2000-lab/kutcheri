@@ -37,7 +37,7 @@ ORGS = [
     ("Rasika Ranjani Sabha", MAJOR, AW, "Mylapore", "Dakshinamoorthy Auditorium", "", "", "https://rrsabha.org/"),
     ("Bharatiya Vidya Bhavan, Chennai Kendra", MAJOR, AW, "Mylapore", "East Mada Street", "", "Its festival usually opens the season in late November.", ""),
     ("Tamil Isai Sangam", MAJOR, AW, "George Town", "Rajah Annamalai Mandram, Esplanade Road", "", "", ""),
-    ("Hamsadhwani", MAJOR, AW, "Adyar", "Indira Nagar", "", "Sandeep Narayan's website lists a 9 Dec 2026 \"Margazhi Maha Utsavam\" concert at Hamsadhwani, Indira Nagar (organiser not named there).", ""),
+    ("Hamsadhwani", MAJOR, AW, "Adyar", "Indira Nagar", "Margazhi Maha Utsavam", "Sandeep Narayan's website lists a 9 Dec 2026 \"Margazhi Maha Utsavam\" concert at Hamsadhwani, Indira Nagar (organiser not named there).", ""),
     ("Asthika Samajam", MAJOR, AW, "Alwarpet", "Venus Colony", "", "", ""),
     ("Chromepet Cultural Academy", OTHER, AW, "Chromepet", "", "", "Margazhi Festival.", ""),
     ("Thrimoorthi Sangeetha Sabha", OTHER, AW, "", "", "", "", ""),
@@ -105,7 +105,7 @@ ORGS += [
 for i, row in enumerate(ORGS):
     if row[0] in {"Brahma Gana Sabha", "Sruthi Laya Kendra", "Sri Parthasarathy Swami Sabha",
                   "Bharatiya Vidya Bhavan, Chennai Kendra", "Sri Thyaga Brahma Gana Sabha",
-                  "The Indian Fine Arts Society"}:
+                  "The Indian Fine Arts Society", "Hamsadhwani", "Tamil Isai Sangam"}:
         ORGS[i] = row[:2] + (PART,) + row[3:6] + ("Own schedule not yet published; dates found on artists' websites.",) + row[7:]
 out = [dict(name=n, group=g, status=s, area=a, venue=v, festival_2026=f, note=note, url=u)
        for n, g, s, a, v, f, note, u in ORGS]

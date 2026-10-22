@@ -299,13 +299,13 @@
    }
   ],
   "entry": "Not stated",
-  "organisation": "Organiser not stated",
+  "organisation": "Hamsadhwani",
   "festival": "Margazhi Maha Utsavam",
   "venue": "Hamsadhwani, Indira Nagar, Adyar",
   "area": "Adyar",
   "source_url": "https://sandeepnarayan.in/concerts",
   "source_label": "Artist's website",
-  "note": "Listed as \"Margazhi Maha Utsavam\" at Hamsadhwani, Indira Nagar; the site names no organiser (possibly Hamsadhwani, not confirmed); tickets \"TBA\".",
+  "note": "Listed as \"Margazhi Maha Utsavam\" at Hamsadhwani, Indira Nagar; this is Hamsadhwani's season festival (Mylapore Times sabha-schedule page: \"Marghazhi Maha Utsavam / Hamsadhwani, Adyar\"); tickets \"TBA\".",
   "fetched": "2026-10-12"
  },
  {
@@ -6824,6 +6824,32 @@
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
   "note": "Presented by Live4You (MDnD listing); venue not yet published.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-30-1830-sanjaysubr",
+  "date": "2026-12-30",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sanjay Subrahmanyan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sanjay Subrahmanyan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Tamil Isai Sangam",
+  "festival": "—",
+  "venue": "Raja Annamalai Mandram, Esplanade Road",
+  "area": "George Town",
+  "source_url": "https://sanjaysub.com/",
+  "source_label": "Artist's website",
+  "note": "Listed as \"Tamilisai sangam\" at Raja Annamalai Mandram, Chennai 600104; artist's site marks details as awaited.",
   "fetched": "2026-10-12"
  },
  {
