@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-10-21T17:59Z
+# fetched 2026-10-22T17:58Z
 Select Language
 English
 Tamil
@@ -10,19 +10,10 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Violin Solo Concert by Shreelakshmi Bhat
-Wed, 21st Oct 2026 | 6:15 PM
-Free | Offline
-Carnatic Ghatam Concert by Dr. S. Karthick
-Wed, 21st Oct 2026 | 6:30 PM
-Free | Offline
-Carnatic Vocal Concert by Mambalam Sisters
-Wed, 21st Oct 2026 | 7:00 PM
-Free | Offline
-Carnatic Nadaswaram Concert by Valliyur M. Sankara Suyambu Lingam & Nanguneri G. Ujain Ganesh
+Carnatic Vocal Concert by Vivek Sadasivam
 Thu, 22nd Oct 2026 | 6:15 PM
 Free | Offline
-Carnatic Vocal Concert by Vivek Sadasivam
+Carnatic Nadaswaram Concert by Valliyur M. Sankara Suyambu Lingam & Nanguneri G. Ujain Ganesh
 Thu, 22nd Oct 2026 | 6:15 PM
 Free | Offline
 Carnatic Vocal Concert by Cuddalore S J Jananiy
@@ -38,6 +29,9 @@ Carnatic Vocal Concert by Dr K Gayatri
 Sat, 24th Oct 2026 | 6:30 PM
 Free | Offline
 Carnatic Vocal by Sikkil Gurucharan & Bharatanatyam by Indu Nidheesh & Nidheesh Kumar
+Sun, 25th Oct 2026 | 6:00 PM
+Free | Offline
+Carnatic Vocal Concert by Lakshana Venkatakrishnan
 Sun, 25th Oct 2026 | 6:00 PM
 Free | Offline
 Carnatic Vocal Concert by S Saketharaman
@@ -67,28 +61,28 @@ Free | Offline
 Carnatic Flute Concert by Students of Ramani's Academy of Flute
 Sat, 31st Oct 2026 | 4:00 PM
 Free | Offline
-Jurassic Carnatic -S Saketharaman with Students 4.30 PM | Ramakrishnan Murthy - 6.45 PM | Carnatic | Sri Parthasarathy Swami Sabha
+Jurassic Carnatic -S Saketharaman with Students 4.30 PM | Ramakrishnan Murthy - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
 Sun, 1st Nov 2026 | 4:30 PM
 Ticketed | Offline
 Strings of Rasa - An evening of Ragas & Rhythm by Ramana Balachandran
 Sun, 1st Nov 2026 | 5:30 PM
 Ticketed | Offline
-Vande Bharat - Sooryagayathri, S Aishwarya and S Soundarya 4.30 PM | Bharat Sundar, Rajhesh Vaidhya - 6.45 PM | Carnatic | Sri Parthasarathy Swami Sabha
+Vande Bharat - Sooryagayathri, S Aishwarya and S Soundarya 4.30 PM | Bharat Sundar, Rajhesh Vaidhya - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
 Mon, 2nd Nov 2026 | 4:30 PM
 Ticketed | Offline
-BHARATA SANGEETA BASHA -Amrutha Venkatesh 4.30 PM | THE MUSIC BETWEEN US - Sikkil C. Gurucharan and Vid. Anil Srinivasan - 6.45 PM | Carnatic | Sri Parthasarathy Swami Sabha
+BHARATA SANGEETA BASHA -Amrutha Venkatesh 4.30 PM | THE MUSIC BETWEEN US - Sikkil C. Gurucharan and Vid. Anil Srinivasan - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
 Tue, 3rd Nov 2026 | 4:30 PM
 Ticketed | Offline
-The Carnatic Nerds Kshetrajna meets Jacob Collier - An instrumental ensemble conducted by Abhishek Raghuram 4.30 PM | STRINGS ATTACHED by R. Kumaresh and Dr. Jayanthi Kumaresh - Veena - 6.45 PM | Carnatic | Sri Parthasarathy Swami Sabha
+The Carnatic Nerds Kshetrajna meets Jacob Collier - An instrumental ensemble conducted by Abhishek Raghuram 4.30 PM | Grand Vocal Concert by Abhishek Raghuram - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
 Wed, 4th Nov 2026 | 4:30 PM
 Ticketed | Offline
-MUSIC MATRIX - A Carnatic Jazz Amalgamation Spoorthi Rao & Lydian Nadhaswaram 4.30 PM | TUKKADA KADHAI presented by Kruthi Bhat - 6.45 PM | Carnatic | Sri Parthasarathy Swami Sabha
+MUSIC MATRIX - A Carnatic Jazz Amalgamation Spoorthi Rao & Lydian Nadhaswaram 4.30 PM | TUKKADA KADHAI presented by Kruthi Bhat - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
 Thu, 5th Nov 2026 | 4:30 PM
 Ticketed | Offline
-MEL A RHYTHM by Vid. Ramana Balachandhran 4.30 PM | THYAGARAJA HRIDAYAM by U. Ve. Dushyanth Sridhar with Malladi Brothers- 6.45 PM | Carnatic | Sri Parthasarathy Swami Sabha
+MEL A RHYTHM by Vid. Ramana Balachandhran 4.30 PM | THYAGARAJA HRIDAYAM by U. Ve. Dushyanth Sridhar with Malladi Brothers- 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
 Fri, 6th Nov 2026 | 4:30 PM
 Ticketed | Offline
-SANgeet DEEPavali by Sandeep Narayan | QFR | Carnatica Global & Sri Parthasarathy Sabha
+SANgeet DEEPavali by Sandeep Narayan | QFR | Carnatica Global and Sri Parthasarathy Swami Sabha
 Sat, 7th Nov 2026 | 6:45 PM
 Ticketed | Offline
 Chitravina N Ravikiran and Aditya Mohan - A fundraiser Concert
@@ -151,10 +145,10 @@ Ticketed | Offline
 4.00 PM | S Adithyanarayanan | 6.30 PM | Sriranjani Tapasya Santhanagopalan | Charsur Arts Foundation
 Tue, 22nd Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM | Kruthi Vittal | 6.30 PM | K Gayatri | Charsur Arts Foundation
+Carnatic Violin Trio Concert by A Kanyakumari, Embar Kannan & L Ramakrishnan
 Wed, 23rd Dec 2026 | 4:00 PM
 Ticketed | Offline
-Carnatic Violin Trio Concert by A Kanyakumari, Embar Kannan & L Ramakrishnan
+4.00 PM | Kruthi Vittal | 6.30 PM | K Gayatri | Charsur Arts Foundation
 Wed, 23rd Dec 2026 | 4:00 PM
 Ticketed | Offline
 Carnatic Vocal Duet by Malladi Brothers Sriram Prasad & Ravikumar

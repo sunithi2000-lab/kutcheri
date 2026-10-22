@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2420
-# fetched 2026-10-21T17:59Z
+# fetched 2026-10-22T17:58Z
 Select Language
 English
 Tamil
@@ -9,54 +9,83 @@ Kannada
 Malayalam
 Select Location
 0
-73rd Annual Art Festival
-18th December 2026 to 27th December 2026
 Instructions:
 1. Once a customer buys tickets from www.mdnd.in, they will get a QR code in WhatsApp and E-mail
 2. Kindly validate the QR Code at the time of entry.
 3. Doors for the event will open 30 minutes prior to the event
 4. Kindly make sure you are in simple Indian attire/ long trousers/formal wear.
 More
-Filters
-Ticketed
 Season Tickets
+Season Pass | 73rd Annual Arts Festival | Kalakshetra Foundation
+Dec 18, 2026
+Multiple Passes
 73rd Annual Arts Festival | Kalakshetra Foundation
-Fri, 18th Dec 2026 to Sun, 27th Dec 2026
-Offline
-Season Pass | 73rd Annual Arts Festival | Kalakshetra Foundation
-Fri, 18th Dec 2026 | 5:30 PM
-Offline
+Dec 18, 2026 – Dec 27, 2026
+❖
 Individual Tickets
-Season Pass | 73rd Annual Arts Festival | Kalakshetra Foundation
-Fri, 18th Dec 2026 | 5:30 PM
-Offline
+Events are grouped by date.
+FILTER BY DATE
+All dates
+18 December 2026 · Friday
+19 December 2026 · Saturday
+20 December 2026 · Sunday
+21 December 2026 · Monday
+22 December 2026 · Tuesday
+23 December 2026 · Wednesday
+24 December 2026 · Thursday
+25 December 2026 · Friday
+26 December 2026 · Saturday
+27 December 2026 · Sunday
+SEARCH EVENTS
+Clear
+10 days shown
+18 December 2026
+Friday
 Rukmini Kalyanam | Artists of Kalakshetra Foundation | Kalakshetra Foundation
-Fri, 18th Dec 2026 | 6:00 PM
-Offline
+Bharata Kalakshetra Foundation, Chennai
+6:00 PM
+19 December 2026
+Saturday
 Panchali Sabatham | Artists of Kalakshetra Foundation | Kalakshetra Foundation
-Sat, 19th Dec 2026 | 6:00 PM
-Offline
+Bharata Kalakshetra Foundation, Chennai
+6:00 PM
+20 December 2026
+Sunday
 Carnatic Vocal | Sandeep Narayan | Kalakshetra Foundation
-Sun, 20th Dec 2026 | 6:00 PM
-Offline
+Bharata Kalakshetra Foundation, Chennai
+6:00 PM
+21 December 2026
+Monday
 Bharatanatyam Dance by Meenakshi Sreenivasan | Kalakshetra Foundation
-Mon, 21st Dec 2026 | 6:00 PM
-Offline
+Bharata Kalakshetra Foundation, Chennai
+6:00 PM
+22 December 2026
+Tuesday
 Meenakshi Vijayam | Artists of Kalakshetra Foundation | Kalakshetra Foundation
-Tue, 22nd Dec 2026 | 6:00 PM
-Offline
+Bharata Kalakshetra Foundation, Chennai
+6:00 PM
+23 December 2026
+Wednesday
 Koorma Avatharam | Artists of Kalakshetra Foundation | Kalakshetra Foundation
-Wed, 23rd Dec 2026 | 6:00 PM
-Offline
+Bharata Kalakshetra Foundation, Chennai
+6:00 PM
+24 December 2026
+Thursday
 Dancing Tales -Panchathantra - Ananda Shankar Jayanth - 6 PM | Agre Pashyami - Anithaguha & Ensemble - 7.45 PM | Kalakshetra Foundation
-Thu, 24th Dec 2026 | 6:00 PM
-Offline
+Bharata Kalakshetra Foundation, Chennai
+6:00 PM
+25 December 2026
+Friday
 Choodamani Pradhanam | Artists of Kalakshetra Foundation | Kalakshetra Foundation
-Fri, 25th Dec 2026 | 6:00 PM
-Offline
+Bharata Kalakshetra Foundation, Chennai
+6:00 PM
+26 December 2026
+Saturday
 Maha Pattabhishekam | Artists of Kalakshetra Foundation | Kalakshetra Foundation
-Sat, 26th Dec 2026 | 6:00 PM
-Offline
+Bharata Kalakshetra Foundation, Chennai
+6:00 PM
+27 December 2026
+Sunday
 Ranjani - Gayatri | Carnatic Vocal | Kalakshetra Foundation
-Sun, 27th Dec 2026 | 6:00 PM
-Offline
+Bharata Kalakshetra Foundation, Chennai
+6:00 PM
