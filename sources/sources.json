@@ -328,6 +328,17 @@
    "slug": "artist-sikkil-gurucharan",
    "kind": "artist",
    "url": "https://sikkil.com/newsandschedule/"
+  },
+  {
+   "slug": "brahma-gana-sabha",
+   "kind": "sabha",
+   "url": "https://www.brahmaganasabha.com/",
+   "follow_pdfs": true
+  },
+  {
+   "slug": "artist-akkarai-sisters",
+   "kind": "artist",
+   "url": "https://akkarai.in/schedule/"
   }
  ],
  "_blocked_note": "BookMyShow, District, Bandsintown and chennaidecemberseason.com refuse automated visits (403/429); the research job checks them by web search instead."
