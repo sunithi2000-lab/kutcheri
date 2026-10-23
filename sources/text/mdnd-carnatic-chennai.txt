@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-10-22T17:58Z
+# fetched 2026-10-23T18:07Z
 Select Language
 English
 Tamil
@@ -10,11 +10,8 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Vocal Concert by Vivek Sadasivam
-Thu, 22nd Oct 2026 | 6:15 PM
-Free | Offline
-Carnatic Nadaswaram Concert by Valliyur M. Sankara Suyambu Lingam & Nanguneri G. Ujain Ganesh
-Thu, 22nd Oct 2026 | 6:15 PM
+Carnatic Mridangam Concert by Dr. T. V. Gopalakrishnan
+Fri, 23rd Oct 2026 | 6:15 PM
 Free | Offline
 Carnatic Vocal Concert by Cuddalore S J Jananiy
 Fri, 23rd Oct 2026 | 6:30 PM
@@ -25,6 +22,9 @@ Free | Offline
 Carnatic Vocal Concert by Brindha Manickavasakan
 Sat, 24th Oct 2026 | 6:00 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Delhi V. Muthukumar
+Sat, 24th Oct 2026 | 6:15 PM
+Free | Offline
 Carnatic Vocal Concert by Dr K Gayatri
 Sat, 24th Oct 2026 | 6:30 PM
 Free | Offline
