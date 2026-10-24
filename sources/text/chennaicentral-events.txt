@@ -1,5 +1,5 @@
 # https://chennaicentral.in/events/
-# fetched 2026-10-23T18:07Z
+# fetched 2026-10-24T17:52Z
 CC
 Home
 Events
@@ -29,7 +29,7 @@ Nungambakkam
 Poongavanapuram
 More locations →
 This week in Chennai
-23 Oct – 29 Oct
+24 Oct – 30 Oct
 TECH & IT
 ENTERTAINMENT
 IGDC 2026 Chennai: India Game Developer Conference, 28 to 31 October
