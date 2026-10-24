@@ -32,7 +32,9 @@ ORGS = [
     ("Sri Thyaga Brahma Gana Sabha", MAJOR, AW, "T. Nagar", "Vani Mahal, G.N. Road", "", "", "https://www.vanimahal.com/"),
     ("Brahma Gana Sabha", MAJOR, AW, "Mylapore", "Sivagami Pethachi Auditorium", "", "", ""),
     ("Mylapore Fine Arts Club", MAJOR, AW, "Mylapore", "45 Musiri Subramaniam Road", "", "", ""),
-    ("Sri Parthasarathy Swami Sabha", MAJOR, AW, "Mylapore", "Vidya Bharathi, Bheemasena Garden Road", "", "", "https://parthasarathyswamisabha.com/"),
+    ("Sri Parthasarathy Swami Sabha", MAJOR, PUB, "Mylapore", "Vidya Bharathi, Bheemasena Garden Road",
+     "Isai Vizha · 17 Dec 2026 – 3 Jan 2027", "Two ticketed concerts daily, 4 pm and 6.30 pm, 17 Dec – 2 Jan, listed on MDnD (venue and any free slots not yet published); Shashank & Abhishek Raghuram 3 Jan from the artist's site.",
+     "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
     ("The Indian Fine Arts Society", MAJOR, AW, "Alwarpet / TTK Road", "Ethiraja Kalyana Nilayam, TTK Road", "", "", ""),
     ("Rasika Ranjani Sabha", MAJOR, AW, "Mylapore", "Dakshinamoorthy Auditorium", "", "", "https://rrsabha.org/"),
     ("Bharatiya Vidya Bhavan, Chennai Kendra", MAJOR, AW, "Mylapore", "East Mada Street", "", "Its festival usually opens the season in late November.", ""),
@@ -103,7 +105,7 @@ ORGS += [
 ]
 # organisers whose individual dates appear on artists' websites, before their own schedule is out
 for i, row in enumerate(ORGS):
-    if row[0] in {"Brahma Gana Sabha", "Sruthi Laya Kendra", "Sri Parthasarathy Swami Sabha",
+    if row[0] in {"Brahma Gana Sabha", "Sruthi Laya Kendra",
                   "Bharatiya Vidya Bhavan, Chennai Kendra", "Sri Thyaga Brahma Gana Sabha",
                   "The Indian Fine Arts Society", "Hamsadhwani", "Tamil Isai Sangam"}:
         ORGS[i] = row[:2] + (PART,) + row[3:6] + ("Own schedule not yet published; dates found on artists' websites.",) + row[7:]

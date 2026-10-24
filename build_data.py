@@ -49,6 +49,10 @@ ORG = {
         name="Charsur Arts Foundation", festival="DVAYAM – Sounds of Duality (December Season Music Festival 2026)",
         venue="My Bungalow, 40 Eldams Road, Teynampet, Chennai 600018", area="Teynampet",
         url="https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
+    "sri-parthasarathy-swami-sabha": dict(
+        name="Sri Parthasarathy Swami Sabha", festival="Isai Vizha (December season 2026–27)",
+        venue="Vidya Bharathi, Bheemasena Garden Road, Mylapore", area="Mylapore",
+        url="https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
 }
 
 concerts = []
@@ -138,6 +142,23 @@ for line in (ROOT / "raw_charsur_2026.txt").read_text().splitlines():
         performers=[dict(name=artist, instrument=form, role="main")],
         entry=entry, organisation=o["name"], festival=o["festival"], venue=o["venue"], area=o["area"],
         source_url=o["url"], source_label="MDnD listing", note=note, fetched="2026-10-18"))
+
+# Sri Parthasarathy Swami Sabha: main artist only, from the MDnD listing (same pattern as Charsur)
+VENUE_NOTE = "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore."
+for line in (ROOT / "raw_sri_parthasarathy_swami_sabha_2026.txt").read_text().splitlines():
+    if not line or line.startswith("#"):
+        continue
+    date, start, entry, artist, form, note = line.split("|")
+    ctype, instrument = classify(form)
+    o = ORG["sri-parthasarathy-swami-sabha"]
+    concerts.append(dict(
+        id=f"spss-{date}-{start.replace(':','')}",
+        date=date, start=start, end="", slot=slot(start),
+        main_artist=artist, main_instrument=instrument, concert_type=ctype,
+        performers=[dict(name=artist, instrument=form, role="main")],
+        entry=entry, organisation=o["name"], festival=o["festival"], venue=o["venue"], area=o["area"],
+        source_url=o["url"], source_label="MDnD listing", note=" ".join(x for x in (note, VENUE_NOTE) if x),
+        fetched="2026-10-25"))
 
 # Artists' own websites / listings: concerts not in any organiser schedule
 for line in (ROOT / "raw_artist_sites_2026.txt").read_text().splitlines():

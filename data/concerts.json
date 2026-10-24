@@ -1492,6 +1492,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-17-1600",
+  "date": "2026-12-17",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Renganatha Sharma",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Renganatha Sharma",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-17-1600",
   "date": "2026-12-17",
   "start": "16:00",
@@ -1557,6 +1583,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "spss-2026-12-17-1830",
+  "date": "2026-12-17",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Gayathri Venkataraghavan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Gayathri Venkataraghavan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-17-1845",
@@ -1857,6 +1909,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-18-1600",
+  "date": "2026-12-18",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Prince Rama Varma",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Prince Rama Varma",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-18-1600",
   "date": "2026-12-18",
   "start": "16:00",
@@ -1948,6 +2026,32 @@
   "source_label": "MDnD listing",
   "note": "Violin solo.",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "spss-2026-12-18-1830",
+  "date": "2026-12-18",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "N. Vijay Siva",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "N. Vijay Siva",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-18-1845",
@@ -2294,6 +2398,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-19-1600",
+  "date": "2026-12-19",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Sriram Parasuram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Sriram Parasuram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "as-2026-12-19-1600-sjjananiy",
   "date": "2026-12-19",
   "start": "16:00",
@@ -2385,6 +2515,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "spss-2026-12-19-1830",
+  "date": "2026-12-19",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sudha Ragunathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sudha Ragunathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-19-1845",
@@ -2701,6 +2857,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-20-1600",
+  "date": "2026-12-20",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-20-1600",
   "date": "2026-12-20",
   "start": "16:00",
@@ -2818,6 +3000,32 @@
   "source_label": "Artist's website",
   "note": "Listed as a flute solo; no end time.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "spss-2026-12-20-1830",
+  "date": "2026-12-20",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramakrishnan Murthy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ramakrishnan Murthy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-20-1845",
@@ -3087,6 +3295,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "spss-2026-12-21-1600",
+  "date": "2026-12-21",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ashok Ramani",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ashok Ramani",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-21-1600",
   "date": "2026-12-21",
   "start": "16:00",
@@ -3178,6 +3412,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "spss-2026-12-21-1830",
+  "date": "2026-12-21",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Trichur Brothers - Srikrishna Mohan & Ramkumar Mohan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Trichur Brothers - Srikrishna Mohan & Ramkumar Mohan",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-21-1845",
@@ -3478,6 +3738,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-22-1600",
+  "date": "2026-12-22",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Amritha Murali",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Amritha Murali",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-22-1600",
   "date": "2026-12-22",
   "start": "16:00",
@@ -3543,6 +3829,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "spss-2026-12-22-1830",
+  "date": "2026-12-22",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramana Balachandhran",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Ramana Balachandhran",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-22-1845",
@@ -3843,6 +4155,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-23-1600",
+  "date": "2026-12-23",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Nisha Rajagopalan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Nisha Rajagopalan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-23-1600",
   "date": "2026-12-23",
   "start": "16:00",
@@ -3908,6 +4246,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "spss-2026-12-23-1830",
+  "date": "2026-12-23",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "P. Unnikrishnan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "P. Unnikrishnan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-23-1845",
@@ -4208,6 +4572,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-24-1600",
+  "date": "2026-12-24",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ashwath Narayanan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ashwath Narayanan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-24-1600",
   "date": "2026-12-24",
   "start": "16:00",
@@ -4299,6 +4689,32 @@
   "source_label": "Artist's website",
   "note": "Ticket link on the artist's site.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "spss-2026-12-24-1830",
+  "date": "2026-12-24",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Palghat R. Ramprasad",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Palghat R. Ramprasad",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Palghat Ramaprasad\". Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-24-1845",
@@ -4641,6 +5057,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-25-1600",
+  "date": "2026-12-25",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Mahathi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Mahathi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-25-1600",
   "date": "2026-12-25",
   "start": "16:00",
@@ -4732,6 +5174,32 @@
   "source_label": "Artist's website",
   "note": "Ticket link on the artist's site.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "spss-2026-12-25-1830",
+  "date": "2026-12-25",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sikkil C. Gurucharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sikkil C. Gurucharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-25-1845",
@@ -5043,6 +5511,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-26-1600",
+  "date": "2026-12-26",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vignesh Ishwar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vignesh Ishwar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-26-1600",
   "date": "2026-12-26",
   "start": "16:00",
@@ -5129,6 +5623,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "spss-2026-12-26-1830",
+  "date": "2026-12-26",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Malladi Brothers",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Malladi Brothers",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Malladi Brothers (Shriramkumar & Ravikumar)\". Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-26-1845",
@@ -5430,6 +5950,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-27-1600",
+  "date": "2026-12-27",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. N.J. Nandini",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. N.J. Nandini",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-27-1600",
   "date": "2026-12-27",
   "start": "16:00",
@@ -5547,6 +6093,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "spss-2026-12-27-1830",
+  "date": "2026-12-27",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sid Sriram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sid Sriram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-27-1845",
@@ -5806,6 +6378,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-28-1600",
+  "date": "2026-12-28",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sriranjani Tapasya Santhanagopalan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sriranjani Tapasya Santhanagopalan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-28-1600",
   "date": "2026-12-28",
   "start": "16:00",
@@ -5923,6 +6521,32 @@
   "source_label": "Artist's website",
   "note": "Ticket link on the artist's site.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "spss-2026-12-28-1830",
+  "date": "2026-12-28",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Saketharaman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Saketharaman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-28-1845",
@@ -6301,6 +6925,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-29-1600",
+  "date": "2026-12-29",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Amrutha Venkatesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Amrutha Venkatesh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-29-1600",
   "date": "2026-12-29",
   "start": "16:00",
@@ -6392,6 +7042,32 @@
   "source_label": "MDnD listing",
   "note": "Presented by Live4You (MDnD listing); venue not yet published.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "spss-2026-12-29-1830",
+  "date": "2026-12-29",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sandeep Narayan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sandeep Narayan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-29-1845",
@@ -6739,6 +7415,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-30-1600",
+  "date": "2026-12-30",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. K. Gayatri",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. K. Gayatri",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-30-1600",
   "date": "2026-12-30",
   "start": "16:00",
@@ -6825,6 +7527,32 @@
   "source_label": "MDnD listing",
   "note": "Presented by Live4You (MDnD listing); venue not yet published.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "spss-2026-12-30-1830",
+  "date": "2026-12-30",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K. Bharat Sundar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K. Bharat Sundar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "as-2026-12-30-1830-sanjaysubr",
@@ -7156,6 +7884,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2026-12-31-1600",
+  "date": "2026-12-31",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Neyveli R. Santhanagopalan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Neyveli R. Santhanagopalan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "ma-2026-12-31-1600",
   "date": "2026-12-31",
   "start": "16:00",
@@ -7216,6 +7970,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "spss-2026-12-31-1830",
+  "date": "2026-12-31",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "O.S. Arun",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "O.S. Arun",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "ma-2026-12-31-1845",
@@ -7496,6 +8276,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "spss-2027-01-01-1600",
+  "date": "2027-01-01",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Gayathri Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Gayathri Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "bk-2027-01-01-1730-giridharan",
   "date": "2027-01-01",
   "start": "17:30",
@@ -7520,6 +8326,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "spss-2027-01-01-1830",
+  "date": "2027-01-01",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Nithyasree Mahadevan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Nithyasree Mahadevan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "bk-2027-01-02-1400-rasikasiva",
@@ -7639,6 +8471,32 @@
   "source_label": "MDnD listing",
   "note": "Presented by Live4You (MDnD listing); venue not yet published.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "spss-2027-01-02-1830",
+  "date": "2027-01-02",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Kunnakudi M. Balamuralikrishna",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kunnakudi M. Balamuralikrishna",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "Isai Vizha (December season 2026–27)",
+  "venue": "Vidya Bharathi, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore.",
+  "fetched": "2026-10-25"
  },
  {
   "id": "bk-2027-01-03-1030-shishirkum",

@@ -1,0 +1,43 @@
+# Source: MDnD Chennai Carnatic listing https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
+#   (watcher snapshot mdnd-carnatic-chennai, run 2026-10-24 17:52Z; first seen in this run). All entries "Ticketed | Offline".
+# Sri Parthasarathy Swami Sabha, December season 2026–27: each MDnD entry lists two concerts, "4.00 PM <artist> (<instrument>) | 6.30 PM <artist> (<instrument>)",
+#   17 Dec 2026 – 2 Jan 2027. No accompanists, end times, prices or venue printed. Venue set to the sabha's festival venue
+#   (Vidya Bharathi, Bheemasena Garden Road, Mylapore — per parthasarathyswamisabha.com for its 2024 and 2025–26 festivals); not printed in this listing.
+# Excluded: 2 Jan 2027 4 pm U. Rajesh (mandolin) and Anil Srinivasan (piano) — mandolin–piano duo, not a Carnatic concert format (same rule as the
+#   Bharat Kalachar Anil Srinivasan piano item). The 1–7 Nov Carnatica Global co-presentations are before the season. Shashank & Abhishek Raghuram
+#   3 Jan (artist's site) is kept in raw_artist_sites_2026.txt (not in this listing).
+# Weekdays checked: 17 Dec 2026 = Thu, 31 Dec 2026 = Thu, 1 Jan 2027 = Fri, 2 Jan 2027 = Sat.
+# date|start|entry|artist|instrument|note
+2026-12-17|16:00|Ticketed|Dr. Renganatha Sharma|Vocal|
+2026-12-17|18:30|Ticketed|Gayathri Venkataraghavan|Vocal|
+2026-12-18|16:00|Ticketed|Prince Rama Varma|Vocal|
+2026-12-18|18:30|Ticketed|N. Vijay Siva|Vocal|
+2026-12-19|16:00|Ticketed|Dr. Sriram Parasuram|Vocal|
+2026-12-19|18:30|Ticketed|Sudha Ragunathan|Vocal|
+2026-12-20|16:00|Ticketed|Carnatica Brothers - K.N. Shashikiran & P. Ganesh|Vocal Duet|
+2026-12-20|18:30|Ticketed|Ramakrishnan Murthy|Vocal|
+2026-12-21|16:00|Ticketed|Ashok Ramani|Vocal|
+2026-12-21|18:30|Ticketed|Trichur Brothers - Srikrishna Mohan & Ramkumar Mohan|Vocal Duet|
+2026-12-22|16:00|Ticketed|Amritha Murali|Vocal|
+2026-12-22|18:30|Ticketed|Ramana Balachandhran|Veena|
+2026-12-23|16:00|Ticketed|Nisha Rajagopalan|Vocal|
+2026-12-23|18:30|Ticketed|P. Unnikrishnan|Vocal|
+2026-12-24|16:00|Ticketed|Ashwath Narayanan|Vocal|
+2026-12-24|18:30|Ticketed|Palghat R. Ramprasad|Vocal|Listed as "Palghat Ramaprasad".
+2026-12-25|16:00|Ticketed|S. Mahathi|Vocal|
+2026-12-25|18:30|Ticketed|Sikkil C. Gurucharan|Vocal|
+2026-12-26|16:00|Ticketed|Vignesh Ishwar|Vocal|
+2026-12-26|18:30|Ticketed|Malladi Brothers|Vocal Duet|Listed as "Malladi Brothers (Shriramkumar & Ravikumar)".
+2026-12-27|16:00|Ticketed|Dr. N.J. Nandini|Vocal|
+2026-12-27|18:30|Ticketed|Sid Sriram|Vocal|
+2026-12-28|16:00|Ticketed|Sriranjani Tapasya Santhanagopalan|Vocal|
+2026-12-28|18:30|Ticketed|S. Saketharaman|Vocal|
+2026-12-29|16:00|Ticketed|Amrutha Venkatesh|Vocal|
+2026-12-29|18:30|Ticketed|Sandeep Narayan|Vocal|
+2026-12-30|16:00|Ticketed|Dr. K. Gayatri|Vocal|
+2026-12-30|18:30|Ticketed|K. Bharat Sundar|Vocal|
+2026-12-31|16:00|Ticketed|Neyveli R. Santhanagopalan|Vocal|
+2026-12-31|18:30|Ticketed|O.S. Arun|Vocal|
+2027-01-01|16:00|Ticketed|Dr. Gayathri Girish|Vocal|
+2027-01-01|18:30|Ticketed|Dr. Nithyasree Mahadevan|Vocal|
+2027-01-02|18:30|Ticketed|Kunnakudi M. Balamuralikrishna|Vocal|
