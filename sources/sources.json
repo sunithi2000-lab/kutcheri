@@ -339,6 +339,24 @@
    "slug": "artist-akkarai-sisters",
    "kind": "artist",
    "url": "https://akkarai.in/schedule/"
+  },
+  {
+   "slug": "mdnd-narada-gana-sabha-2026",
+   "kind": "ticketing",
+   "url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2400",
+   "wait_ms": 10000
+  },
+  {
+   "slug": "mdnd-narada-gana-sabha-season-pass-2026",
+   "kind": "ticketing",
+   "url": "https://mdnd.in/SeasonTickets/Members_Season_Pass_%7C_Narada_Gana_Sabha?ci=c3NrMTAx&se=ZWt5MTY0&r_id=2400&is_multiple=N",
+   "wait_ms": 10000
+  },
+  {
+   "slug": "mdnd-parthasarathy-swami-sabha-2026",
+   "kind": "ticketing",
+   "url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304",
+   "wait_ms": 10000
   }
  ],
  "_blocked_note": "BookMyShow, District, Bandsintown and chennaidecemberseason.com refuse automated visits (403/429); the research job checks them by web search instead."

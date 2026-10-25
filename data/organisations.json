@@ -35,9 +35,9 @@
   "status": "Dates announced",
   "area": "Alwarpet / TTK Road",
   "venue": "TTK Road, Teynampet",
-  "festival_2026": "December Season 2026 · from 1 Dec 2026",
-  "note": "Top-billed concerts to start by 3.30 pm. Concert list not yet published.",
-  "url": "https://www.mylaporetimes.com/2026/10/december-season-2026-narada-gana-sabha-is-improving-its-audio-systems/"
+  "festival_2026": "Isai Natya Nataka Vizha 2026 · 13 Dec 2026 – 1 Jan 2027",
+  "note": "Top-billed concerts to start by 3.30 pm. Festival dates and season passes are on MDnD; concert list not yet readable here.",
+  "url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2400"
  },
  {
   "name": "Sri Krishna Gana Sabha",
@@ -85,7 +85,7 @@
   "status": "Schedule published",
   "area": "Mylapore",
   "venue": "Vidya Bharathi, Bheemasena Garden Road",
-  "festival_2026": "Isai Vizha · 17 Dec 2026 – 3 Jan 2027",
+  "festival_2026": "126th Year Isai Vizha · 17 Dec 2026 – 3 Jan 2027",
   "note": "Two ticketed concerts daily, 4 pm and 6.30 pm, 17 Dec – 2 Jan, listed on MDnD (venue and any free slots not yet published); Shashank & Abhishek Raghuram 3 Jan from the artist's site.",
   "url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"
  },
@@ -282,12 +282,12 @@
  {
   "name": "Bharat Sangeet Utsav",
   "group": "Festival / arts organisation",
-  "status": "Awaiting 2026–27 schedule",
+  "status": "Dates announced",
   "area": "Alwarpet / TTK Road",
   "venue": "Narada Gana Sabha",
-  "festival_2026": "",
-  "note": "Held in early November, before Margazhi. Organiser name not found; listed under the festival name.",
-  "url": ""
+  "festival_2026": "Bharat Sangeet Utsav 2026 · 31 Oct – 7 Nov 2026",
+  "note": "Presented by Carnatica with Sri Parthasarathy Swami Sabha at Narada Gana Sabha. Held before the 15 Nov – 31 Jan season window, so its concerts are not listed here.",
+  "url": "https://kalaverse.com/festivals/bharat-sangeet-utsav-2026"
  },
  {
   "name": "Sruti Foundation & The Music Forum",
@@ -456,7 +456,7 @@
   "area": "Mylapore",
   "venue": "Desiga Vidya Bhavanam (Paddhathi Music Fest)",
   "festival_2026": "",
-  "note": "Also runs the Global Heritage Music Fest.",
+  "note": "Also runs the Global Heritage Music Fest. Co-presents Bharat Sangeet Utsav 2026 (31 Oct – 7 Nov, before the season) with Sri Parthasarathy Swami Sabha.",
   "url": "https://carnatica.net/"
  },
  {
@@ -633,10 +633,10 @@
   "name": "Live4You",
   "group": "Festival / arts organisation",
   "status": "Dates announced",
-  "area": "",
-  "venue": "",
-  "festival_2026": "",
-  "note": "Presents ticketed concerts listed on MDnD (29 & 30 Dec, 2 & 3 Jan, 6.30 pm); venue not yet published.",
+  "area": "Egmore",
+  "venue": "Museum Theatre, Pantheon Road",
+  "festival_2026": "Jyothirgamaya – Diya Dhvani Season 2 · 29 Dec 2026 – 3 Jan 2027",
+  "note": "Presents ticketed concerts listed on MDnD (29 & 30 Dec, 2 & 3 Jan, 6.30 pm); festival name and venue from indian-heritage.org.",
   "url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"
  },
  {
