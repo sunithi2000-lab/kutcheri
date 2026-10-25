@@ -1,13 +1,9 @@
 # https://jayanthikumaresh.com/schedule
-# fetched 2026-10-24T17:52Z
+# fetched 2026-10-25T17:54Z
 JAYANTHI KUMARESH
 JK
 SCHEDULE
 UPCOMING SCHEDULE
-Date / Time : Oct 24, 2026 / 6:00 pm
-Venue :
-Indian Music Experience Museum, Bangalore
-Musicians in the Museum
 Date / Time : Oct 25, 2026 / 11:00 am
 Venue :
 Indian Music Experience Museum, Bangalore
@@ -21,6 +17,10 @@ Venue :
 Narada Gana Sabha, Chennai
 Bharat Sangeet Utsav
 PAST SCHEDULE
+Date / Time : Oct 24, 2026 / 6:00 pm
+Venue :
+Indian Music Experience Museum, Bangalore
+Musicians in the Museum
 Date / Time : Oct 19, 2026 / 6:00 pm
 Venue :
 Malleshwaram Bangalore
@@ -57,10 +57,6 @@ Date / Time : Sep 12, 2026 / 6:00 pm
 Venue :
 The Cup O' Carnatic Show, SIMA, Kennedy High School Performing Arts Center, 8331 Walker St., La Palma, CA 90623
 SIMA • LOS ANGELES
-Date / Time : Sep 11, 2026 / 7:00 pm
-Venue :
-The Cup O' Carnatic Show, Carlson Theatre, 3000 Landerholm Cir SE, Bellevue, WA 98007, USA
-Temple of Music • SEATTLE
 PHOTO CREDIT: VINAY DUTTA, USHA KRIS & BALU MASTI
 © 2024 JAYANTHI KUMARESH | ALL RIGHTS ARE RESERVED
 SUBSCRIBE TO OUR
