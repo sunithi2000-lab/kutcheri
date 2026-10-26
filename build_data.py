@@ -50,9 +50,9 @@ ORG = {
         venue="My Bungalow, 40 Eldams Road, Teynampet, Chennai 600018", area="Teynampet",
         url="https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
     "sri-parthasarathy-swami-sabha": dict(
-        name="Sri Parthasarathy Swami Sabha", festival="Isai Vizha (December season 2026–27)",
-        venue="Vidya Bharathi, Bheemasena Garden Road, Mylapore", area="Mylapore",
-        url="https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
+        name="Sri Parthasarathy Swami Sabha", festival="126th Year Isai Vizha (December Music Festival)",
+        venue="Vidya Bharathi Kalyana Mandapam, Bheemasena Garden Road, Mylapore", area="Mylapore",
+        url="https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304"),
 }
 
 concerts = []
@@ -144,7 +144,7 @@ for line in (ROOT / "raw_charsur_2026.txt").read_text().splitlines():
         source_url=o["url"], source_label="MDnD listing", note=note, fetched="2026-10-18"))
 
 # Sri Parthasarathy Swami Sabha: main artist only, from the MDnD listing (same pattern as Charsur)
-VENUE_NOTE = "Venue not printed in the listing; the sabha's festival is held at Vidya Bharathi, Mylapore."
+VENUE_NOTE = "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website."
 for line in (ROOT / "raw_sri_parthasarathy_swami_sabha_2026.txt").read_text().splitlines():
     if not line or line.startswith("#"):
         continue
