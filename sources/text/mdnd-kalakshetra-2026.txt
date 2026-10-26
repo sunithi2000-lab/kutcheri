@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2420
-# fetched 2026-10-25T17:54Z
+# fetched 2026-10-26T18:06Z
 Select Language
 English
 Tamil
@@ -18,9 +18,6 @@ More
 Season Tickets
 Season Pass | 73rd Annual Arts Festival | Kalakshetra Foundation
 Dec 18, 2026
-Multiple Passes
-73rd Annual Arts Festival | Kalakshetra Foundation
-Dec 18, 2026 – Dec 27, 2026
 ❖
 Individual Tickets
 Events are grouped by date.
