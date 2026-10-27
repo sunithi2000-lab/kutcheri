@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-10-26T18:06Z
+# fetched 2026-10-27T18:09Z
 Select Language
 English
 Tamil
@@ -10,9 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Veena Concert by S Sundar
-Mon, 26th Oct 2026 | 6:30 PM
-Free | Offline
 Carnatic Vocal Concert by Maharajapuram S Ganesh Vishwanathan
 Tue, 27th Oct 2026 | 6:30 PM
 Free | Offline
@@ -43,8 +40,8 @@ Ticketed | Offline
 BHARATA SANGEETA BASHA -Amrutha Venkatesh 4.30 PM | THE MUSIC BETWEEN US - Sikkil C. Gurucharan and Vid. Anil Srinivasan - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
 Tue, 3rd Nov 2026 | 4:30 PM
 Ticketed | Offline
-The Carnatic Nerds Kshetrajna meets Jacob Collier - An instrumental ensemble conducted by Abhishek Raghuram 4.30 PM | Grand Vocal Concert by Abhishek Raghuram - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
-Wed, 4th Nov 2026 | 4:30 PM
+The Carnatic Nerds Kshetrajna meets Jacob Collier - An instrumental ensemble conducted by Abhishek Raghuram 5.00 PM | Grand Vocal Concert by Abhishek Raghuram - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
+Wed, 4th Nov 2026 | 5:00 PM
 Ticketed | Offline
 MUSIC MATRIX - A Carnatic Jazz Amalgamation Spoorthi Rao & Lydian Nadhaswaram 4.30 PM | TUKKADA KADHAI presented by Kruthi Bhat - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
 Thu, 5th Nov 2026 | 4:30 PM
@@ -145,10 +142,10 @@ Ticketed | Offline
 4.00 PM NISHA RAJAGOPALAN (Vocal) | 6.30 PM P. UNNIKRISHNAN (Vocal) | SRI PARTHASARATHY SWAMI SABHA
 Wed, 23rd Dec 2026 | 4:00 PM
 Ticketed | Offline
-Carnatic Violin Trio Concert by A Kanyakumari, Embar Kannan & L Ramakrishnan
+4.00 PM | Kruthi Vittal | 6.30 PM | K Gayatri | Charsur Arts Foundation
 Wed, 23rd Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM | Kruthi Vittal | 6.30 PM | K Gayatri | Charsur Arts Foundation
+Carnatic Violin Trio Concert by A Kanyakumari, Embar Kannan & L Ramakrishnan
 Wed, 23rd Dec 2026 | 4:00 PM
 Ticketed | Offline
 A Carnatic Shot - Unscripted by G Ravikiran

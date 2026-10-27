@@ -1,5 +1,5 @@
 # https://www.bandsintown.com/c/chennai-india
-# fetched 2026-10-18T17:51Z
+# fetched 2026-10-27T18:09Z
 Get app
 Venues
 Cities
@@ -8,7 +8,7 @@ Bandsintown for Artists
 Bandsintown Pro
 Help
 Privacy
-Terms & Conditions
+Terms & conditions
 English
 Español
 Français
@@ -16,58 +16,58 @@ Português
 日本語
 Deutsch
 Get the app
-Sign Up
-Log In
+Sign up
+Log in
 City
 Chennai, India
 Get tickets to upcoming concerts, live shows, festivals, and events in Chennai, India. Enjoy personalized concert recommendations and stay connected with your favorite artists. Explore live music events near you, or browse by genre, venues, artists, and more.
 Chennai, India
-All Dates
+All dates
 Free shows
 All genres
 Popular concerts & live events in Chennai, India
-William Barton
-Sun, Oct 18 • 6:30 PM
-Rukmini Arangam
-Shubhendra Rao
-Sun, Oct 18 • 6:30 PM
-Rukmini Arangam
-Adhithya RK
-Sun, Oct 18 • 7 PM
-Secret Story Chennai
-Akshay Anantapadmanabhan
-Tue, Oct 20 • 5 PM
-TBA
-S. J. Jananiy
-Fri, Oct 23 • 6:30 PM
-Raga Sudha Hall
-Asal Kolaar
-Sat, Oct 24 • 5 PM
-Express Avenue
 Anuv Jain
 Sat, Oct 31 • 7 PM
 EVP Film City - Chennai
 Dj Deepika
 Sat, Oct 31 • 9 PM
 Hard Rock Cafe Chennai
+Jayateerth Mevundi
+Sun, Nov 15 • 9 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+Pravin Godkhindi
+Sun, Nov 15 • 9 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+Rahul Sharma
+Sun, Nov 15 • 9 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+Trichur Brothers
+Sun, Nov 15 • 9 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+Paal Dabba
+Sun, Nov 15 • 4 PM
+Sir Pt Thiyagrayar Kalaiyarangam
+Rishabh Jain
+Sun, Nov 15 • 6:30 PM
+YMCA Royapettah
 Perception Delta
 Sat, Nov 21 • 6:30 PM
 Aura Studios
-Shreya Ghoshal
-Sat, Mar 20, 2027 • 6 PM
-YMCA Ground
-Sharanya Srinivas
-Mon, Oct 19 • 6 PM
-Guru Nanak College
-Sublahshini
-Sat, Oct 31 • 7 PM
-EVP Film City - Chennai
-Sukoon Wali Qawwali
-Sat, Nov 7 • 8 PM
-Venue to be announced
 Veeramani Raju
 Tue, Dec 15 • 5 PM
 GKS Convention Centre
+S. J. Jananiy
+Sat, Dec 19 • 4 PM
+Vani Mahal
+Sanjay Subrahmanyan
+Fri, Dec 25 • 6:30 PM
+Muthamizh Peravai ,T.N Rajarathinam Kalai Arangam
+Shreya Ghoshal
+Sat, Mar 20, 2027 • 6 PM
+YMCA Ground
+VENGAYO
+Sun, Nov 15 • 4 PM
+Sir Pt Thiyagrayar Kalaiyarangam
 Shows selling fast
 Anuv Jain
 Sat, Oct 31 • 7 PM
@@ -78,39 +78,45 @@ YMCA Ground
 Dj Deepika
 Sat, Oct 31 • 9 PM
 Hard Rock Cafe Chennai
-Asal Kolaar
-Sat, Oct 24 • 5 PM
-Express Avenue
-Perception Delta
-Sat, Nov 21 • 6:30 PM
-Aura Studios
-Adhithya RK
-Sun, Oct 18 • 7 PM
-Secret Story Chennai
-William Barton
-Sun, Oct 18 • 6:30 PM
-Rukmini Arangam
-Shubhendra Rao
-Sun, Oct 18 • 6:30 PM
-Rukmini Arangam
-One Girl Shy
-Fri, Oct 23 • 9 PM
-Hard Rock Cafe Chennai
+Sanjay Subrahmanyan
+Mon, Dec 28 • 6:30 PM
+M. S. Subbulakshmi Auditorium
+Paal Dabba
+Sun, Nov 15 • 4 PM
+Sir Pt Thiyagrayar Kalaiyarangam
+Sanjeev Abhyankar
+Sun, Nov 15 • 9 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+Pravin Godkhindi
+Sun, Nov 15 • 9 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+Rahul Sharma
+Sun, Nov 15 • 9 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+Jayateerth Mevundi
+Sun, Nov 15 • 9 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+Trichur Brothers
+Sun, Nov 15 • 9 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
 Rishabh Jain
 Sun, Nov 15 • 6:30 PM
 YMCA Royapettah
-Sharanya Srinivas
-Mon, Oct 19 • 6 PM
-Guru Nanak College
+Perception Delta
+Sat, Nov 21 • 6:30 PM
+Aura Studios
 Veeramani Raju
 Tue, Dec 15 • 5 PM
 GKS Convention Centre
 Sublahshini
 Sat, Oct 31 • 7 PM
 EVP Film City - Chennai
-Sukoon Wali Qawwali
-Sat, Nov 7 • 8 PM
-Venue to be announced
+VENGAYO
+Sun, Nov 15 • 4 PM
+Sir Pt Thiyagrayar Kalaiyarangam
+Anand Bhate (Anand Gandharva)
+Sun, Nov 15 • 9 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
 Chennai venue map
 View all
 YMCA Royapettah
@@ -118,30 +124,30 @@ YMCA Royapettah
 345 Followers
 YMCA Ground
 1 events coming up
-237 Followers
+238 Followers
 Vani Mahal
 1 events coming up
 68 Followers
-Hard Rock Cafe Chennai
+Muthamizh Peravai ,T.N Rajarathinam Kalai Arangam
 2 events coming up
-21 Followers
+52 Followers
+M. S. Subbulakshmi Auditorium
+1 events coming up
+30 Followers
+Hard Rock Cafe Chennai
+1 events coming up
+22 Followers
 EVP Film City - Chennai
 2 events coming up
-11 Followers
-Express Avenue
-1 events coming up
-9 Followers
-Guru Nanak College
-1 events coming up
-0 Followers
-Rukmini Arangam
-2 events coming up
+13 Followers
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+6 events coming up
 0 Followers
 GKS Convention Centre
 1 events coming up
 0 Followers
-Secret Story Chennai
-1 events coming up
+Sir Pt Thiyagrayar Kalaiyarangam
+2 events coming up
 0 Followers
 Featured festivals
 Shillong Cherry Blossom Festival 2026
@@ -160,8 +166,9 @@ The Foothills of Nandi - Sulthanpet, India
 Reincarock 2026
 November 15, 2026
 The Humming Tree - Bengaluru, India
-ADVERTISEMENT
-SCROLL TO CONTINUE READING
+Diwali Singing Event 2026
+November 6 – 10, 2026
+OP VLN ️ HOME - Anaiyappadi, India
 Concerts near Chennai, India
 Tiruvottiyur, India
 Manali, India
@@ -186,41 +193,43 @@ Tinnanur, India
 Find a show in Chennai, India
 Find tickets to concerts, tour dates and live music near Chennai, India
 Chennai, India
-All Dates
+All dates
 Free shows
 All genres
 All artists
-Adhithya RK
-Sun, Oct 18 • 7:00 PM
-Secret Story Chennai
-Sharanya Srinivas
-Mon, Oct 19 • 6:00 PM
-Guru Nanak College
-Akshay Anantapadmanabhan
-Tue, Oct 20 • 5:00 PM
-TBA
-S. J. Jananiy
-Fri, Oct 23 • 6:30 PM
-Carnatic Classical Vocal Concert by Kalaimamani S. J. Jananiy for Mylapore Arts Academy
-One Girl Shy
-Fri, Oct 23 • 9:00 PM
-Hard Rock Cafe Chennai
-Asal Kolaar
-Sat, Oct 24 • 5:00 PM
-Express Avenue
-View All
-Frequently Asked Questions about Chennai
+Anuv Jain
+Sat, Oct 31 • 7:00 PM
+Route 143 - Anuv Jain
+Sublahshini
+Sat, Oct 31 • 7:00 PM
+Route 143 - Anuv Jain
+Dj Deepika
+Sat, Oct 31 • 9:00 PM
+Halloween Night (Bolly vs Kolly) ft. DJ Deepika
+Jayateerth Mevundi
+Sun, Nov 15 • 9:00 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+Pravin Godkhindi
+Sun, Nov 15 • 9:00 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+Rahul Sharma
+Sun, Nov 15 • 9:00 AM
+Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+View all
+Frequently asked questions about Chennai
 What are the most popular concert and event venues in Chennai?
 −
 Chennai is home to many different event venues and has something for everyone, no matter what you’re in the mood for. Here are some of the top venues to see live music in Chennai:
 YMCA Royapettah
 YMCA Ground
 Vani Mahal
-Hard Rock Cafe Chennai
-EVP Film City - Chennai
+Muthamizh Peravai ,T.N Rajarathinam Kalai Arangam
+M. S. Subbulakshmi Auditorium
 Which artists have tour dates in Chennai this year?
 +
 How many upcoming concerts are there happening in Chennai?
++
+What are the most popular music festivals in Chennai?
 +
 About
 Cities
@@ -236,8 +245,8 @@ Português
 日本語
 Deutsch
 Copyright 2011-2026 Bandsintown, LLC
-Terms of Use
-Privacy Policy
-Cookie Policy
-GDPR/CCPA Privacy Request
+Terms of use
+Privacy policy
+Cookie policy
+GDPR/CCPA privacy request
 Cookie Settings

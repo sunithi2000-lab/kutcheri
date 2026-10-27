@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304
-# fetched 2026-10-26T18:06Z
+# fetched 2026-10-27T18:09Z
 Select Language
 English
 Tamil
@@ -10,10 +10,6 @@ Malayalam
 India
 Chennai
 0
-Sri Parthasarathy Swami Sabha
-126th Year - Isai Vizha December Music Festival
-Dates - 17-12-2026 to 01-01-2027
-More
 Season Tickets
 Season Pass | SRI PARTHASARATHY SWAMI SABHA
 Dec 17, 2026 – Jan 2, 2027
