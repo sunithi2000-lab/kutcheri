@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-10-27T18:09Z
+# fetched 2026-10-28T18:12Z
 Select Language
 English
 Tamil
@@ -10,9 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Vocal Concert by Maharajapuram S Ganesh Vishwanathan
-Tue, 27th Oct 2026 | 6:30 PM
-Free | Offline
 Carnatic Violin Duet Concert by Dr M Lalitha & Dr M Nandhini
 Wed, 28th Oct 2026 | 6:30 PM
 Free | Offline
@@ -21,6 +18,9 @@ Thu, 29th Oct 2026 | 6:30 PM
 Free | Offline
 Carnatic Vocal Concert by Sikkil Gurucharan
 Fri, 30th Oct 2026 | 6:15 PM
+Free | Offline
+Carnatic LecDem by Dr. Sumithra Vasudev
+Fri, 30th Oct 2026 | 9:40 AM
 Free | Offline
 GRAND INAUGURAL CONCERT
 Sat, 31st Oct 2026 | 3:15 PM
