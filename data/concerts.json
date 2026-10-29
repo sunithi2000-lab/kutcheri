@@ -2937,16 +2937,31 @@
     "name": "Sandeep Narayan",
     "instrument": "Vocal",
     "role": "main"
+   },
+   {
+    "name": "Nishanth Chandran",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "Srimushnam Raja Rao",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "Giridhar Udupa",
+    "instrument": "Ghatam",
+    "role": "accompanist"
    }
   ],
   "entry": "Ticketed",
   "organisation": "Kalakshetra Foundation",
   "festival": "73rd Annual Art Festival",
-  "venue": "Kalakshetra Foundation, Thiruvanmiyur",
+  "venue": "Bharatha Kalakshetra Auditorium, Kalakshetra Foundation, Thiruvanmiyur",
   "area": "Thiruvanmiyur",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Part of Kalakshetra's 73rd Annual Art Festival (18–27 Dec); the listing names no hall — the festival is held on the Kalakshetra campus.",
+  "note": "Part of Kalakshetra's 73rd Annual Art Festival (18–27 Dec). Hall (Bharatha Kalakshetra Auditorium) and accompanists from the artist's website (sandeepnarayan.in/concerts, 29 Oct 2026).",
   "fetched": "2026-10-12"
  },
  {
@@ -6069,6 +6084,42 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-27-1800-sandeepnar",
+  "date": "2026-12-27",
+  "start": "18:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sandeep Narayan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sandeep Narayan",
+    "instrument": "Vocal",
+    "role": "main"
+   },
+   {
+    "name": "H.N. Bhaskar",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "Arjun Ganesh",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Narada Gana Sabha",
+  "festival": "Isai Natya Nataka Vizha 2026",
+  "venue": "Narada Gana Sabha Main Hall, TTK Road, Teynampet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://sandeepnarayan.in/concerts",
+  "source_label": "Artist's website",
+  "note": "Listed under \"Narada Gana Sabha\" on the artist's site (Main Hall, Teynampet); only violin and mridangam listed; tickets \"TBA\". Narada Gana Sabha's own concert list is not yet published.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ch-2026-12-27-1830",
   "date": "2026-12-27",
   "start": "18:30",
@@ -7972,6 +8023,47 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-31-1815-sandeepnar",
+  "date": "2026-12-31",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sandeep Narayan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sandeep Narayan",
+    "instrument": "Vocal",
+    "role": "main"
+   },
+   {
+    "name": "B. Ananthakrishnan",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "Thiruvarur Bhakthavathsalam",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "V. Anirudh Athreya",
+    "instrument": "Kanjira",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Brahma Gana Sabha",
+  "festival": "Brahma Gana Sabha December festival",
+  "venue": "RR Sabha Main Hall (Rasika Ranjani Sabha), Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sandeepnarayan.in/concerts",
+  "source_label": "Artist's website",
+  "note": "Listed under \"Brahma Gana Sabha\" at \"RR Sabha Main Hall, Mylapore\" on the artist's site; tickets \"TBA\".",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "spss-2026-12-31-1830",
   "date": "2026-12-31",
   "start": "18:30",
@@ -8354,6 +8446,47 @@
   "fetched": "2026-10-25"
  },
  {
+  "id": "as-2027-01-02-0600-sandeepnar",
+  "date": "2027-01-02",
+  "start": "06:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Sandeep Narayan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sandeep Narayan",
+    "instrument": "Vocal",
+    "role": "main"
+   },
+   {
+    "name": "Vittal Rangan",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "Nirmal Narayan",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "Chandrasekara Sharma",
+    "instrument": "Ghatam",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "VVS Foundation & SaMaa Arts",
+  "festival": "Ekaantha Sangeetha Seva",
+  "venue": "Sri Srikara Anjaneya Raghavendra Swamy Sannidhanam, near R.R. Sabha, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sandeepnarayan.in/concerts",
+  "source_label": "Artist's website",
+  "note": "Listed as \"Ekaantha Sangeetha Seva (Samaa Arts, VVS Foundation)\", free admission. Early-morning concert series; location \"near R.R. Sabha, Mylapore\" from Mylapore Times' report on earlier editions. End time not published.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bk-2027-01-02-1400-rasikasiva",
   "date": "2027-01-02",
   "start": "14:00",
@@ -8631,6 +8764,21 @@
     "name": "Sandeep Narayan",
     "instrument": "Vocal",
     "role": "main"
+   },
+   {
+    "name": "Vittal Rangan",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "K. Sai Giridhar",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "S. Karthick",
+    "instrument": "Ghatam",
+    "role": "accompanist"
    }
   ],
   "entry": "Ticketed",
@@ -8640,7 +8788,7 @@
   "area": "Egmore",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Presented by Live4You (MDnD listing). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore.",
+  "note": "Presented by Live4You (MDnD listing). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore. Accompanists from the artist's website (listed there as \"Jyothirgamaya 2026\", Museum Theatre, Egmore).",
   "fetched": "2026-10-12"
  },
  {
@@ -8751,6 +8899,47 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2027-01-09-1830-sandeepnar",
+  "date": "2027-01-09",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sandeep Narayan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sandeep Narayan",
+    "instrument": "Vocal",
+    "role": "main"
+   },
+   {
+    "name": "Rajeev Mukundan",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "K.U. Jayachandra Rao",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "G. Guruprasanna",
+    "instrument": "Kanjira",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "—",
+  "venue": "Sri Ganapathy Sachchidananda Ashram, Velachery",
+  "area": "Velachery",
+  "source_url": "https://sandeepnarayan.in/concerts",
+  "source_label": "Artist's website",
+  "note": "Listed under \"Nada Sudha\" at Ganapathy Sachidananda Ashram, Velachery on the artist's site; tickets \"TBA\".",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bk-2027-01-10-1030-charulatha",

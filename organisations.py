@@ -24,7 +24,7 @@ ORGS = [
      "December Season festival · from 1 Dec 2026", "Concert list not yet published.",
      "https://www.mylaporetimes.com/2026/10/december-season-2026-narada-gana-sabha-is-improving-its-audio-systems/"),
     ("Narada Gana Sabha", MAJOR, ANN, "Alwarpet / TTK Road", "TTK Road, Teynampet",
-     "Isai Natya Nataka Vizha 2026 · 13 Dec 2026 – 1 Jan 2027", "Top-billed concerts to start by 3.30 pm. Season passes on sale on MDnD (Members and All Season Pass 13 Dec – 1 Jan; Core Season Pass 20 Dec – 1 Jan); concert list not yet published.",
+     "Isai Natya Nataka Vizha 2026 · 13 Dec 2026 – 1 Jan 2027", "Top-billed concerts to start by 3.30 pm. Season passes on sale on MDnD (Members and All Season Pass 13 Dec – 1 Jan; Core Season Pass 20 Dec – 1 Jan); concert list not yet published. Sandeep Narayan 27 Dec (6 pm) found on the artist's website.",
      "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2400"),
     ("Sri Krishna Gana Sabha", MAJOR, PUB, "T. Nagar", "Dr. Nalli Gana Vihar, 20 Maharajapuram Santhanam Salai",
      "70th Margazhi Mela · 12 Dec 2026 – 3 Jan 2027", "Music and dance; tickets on tikkl.com. Natya Kala Conference (dance) 26–28 Dec.",
@@ -81,7 +81,7 @@ ORGS = [
     ("Shakthi Sangita Sabha", FEST, AW, "Valasaravakkam", "Anbu Nagar", "", "", ""),
     ("SASTRA Satsangh", FEST, AW, "", "", "", "Margazhi Mela.", ""),
     ("TTVV Trust & Cleveland Thyagaraja Festival", FEST, AW, "Teynampet", "Tattvaloka Hall, Eldams Road", "", "Margazhi Mela.", ""),
-    ("VVS Foundation & SaMaa Arts", FEST, AW, "Mylapore", "Raghavendra Swami Mutt, Salai Street", "", "Swagatham and Ekaantha Sangeetha Seva festivals.", ""),
+    ("VVS Foundation & SaMaa Arts", FEST, AW, "Mylapore", "Raghavendra Swami Mutt, Salai Street; Sri Srikara Anjaneya Raghavendra Swamy Sannidhanam, near R.R. Sabha", "Ekaantha Sangeetha Seva (early-morning concerts)", "Swagatham and Ekaantha Sangeetha Seva festivals.", ""),
     ("Kauvery Margazhi Maha Utsavam", FEST, AW, "", "", "", "Organiser name not found; listed under the festival name.", ""),
     ("Lalitha Jewellery", FEST, AW, "Valasaravakkam", "Jyothi Indira Thirumana Mandapam", "", "Runs the Jyothi Indira Margazhi Yuvautsav.", ""),
     ("Lakshman Sruthi", FEST, AW, "", "", "", "Runs the Chennaiyil Thiruvaiyaru festival.", ""),
@@ -107,7 +107,8 @@ ORGS += [
 for i, row in enumerate(ORGS):
     if row[0] in {"Brahma Gana Sabha", "Sruthi Laya Kendra",
                   "Bharatiya Vidya Bhavan, Chennai Kendra", "Sri Thyaga Brahma Gana Sabha",
-                  "The Indian Fine Arts Society", "Hamsadhwani", "Tamil Isai Sangam"}:
+                  "The Indian Fine Arts Society", "Hamsadhwani", "Tamil Isai Sangam",
+                  "Nada Sudha", "VVS Foundation & SaMaa Arts"}:
         ORGS[i] = row[:2] + (PART,) + row[3:6] + ("Own schedule not yet published; dates found on artists' websites.",) + row[7:]
 out = [dict(name=n, group=g, status=s, area=a, venue=v, festival_2026=f, note=note, url=u)
        for n, g, s, a, v, f, note, u in ORGS]
