@@ -1,5 +1,5 @@
 # https://ragarasa.in/
-# fetched 2026-10-28T18:12Z
+# fetched 2026-10-29T18:13Z
 RāgaRasa
 INDIAN CLASSICAL ARTS
 Stop Missing Classical Music Performances
@@ -34,13 +34,6 @@ EVENTS
 Upcoming Events
 Discover the finest Indian classical music and dance performances
 View all events
-5 Days
-Classical Dance
-Nanjanagudu Sri Raghavendra Swamy Mutt, Jayanagar – October 2026 Thursday Cultural Programmes
-Geetha R Bhat
-01 Oct – 29 Oct 2026
-Nanjanagudu Sri Raghavendra Swamy Mutt, Jayanagar, Bengaluru, Karnataka
-View Details
 8 Days
 Carnatic Vocal
 The Bangalore Gayana Samaja – 56th Music Conference 2026
@@ -50,7 +43,7 @@ by Bengaluru Gayana Samaaja
 Bangalore Gayana Samaja, Bengaluru, Karnataka
 View Details
 3 Days
-Dance
+Carnatic Instrumental
 Whitefield Music Festival 2026
 Ravindra Yavagal
 30 Oct – 01 Nov 2026
@@ -72,6 +65,11 @@ Carnatic Saxophone Concert by Vidwan Sri G Ramanathan
 Sunil Subramanya
 Sat, 28 Nov 2026 · 5:30 PM
 Indiranagar Sangeetha Sabha, Bengaluru, Karnataka
+View Details
+Hindustani Instrumental
+Sitar Ramarao Utsav 2026
+Sat, 05 Dec 2026 · 6:00 PM
+Chowdiah Memorial Hall, Bengaluru, Karnataka
 View Details
 ARTISTS
 Featured Artists
