@@ -1,5 +1,5 @@
 # https://www.bandsintown.com/a/15524468-s.-j.-jananiy
-# fetched 2026-10-29T18:13Z
+# fetched 2026-10-30T18:07Z
 Get app
 Venues
 Cities
@@ -46,4 +46,4 @@ Terms of use
 Privacy policy
 Cookie policy
 GDPR/CCPA privacy request
-Do Not Sell My Personal Information
+Cookie Settings
