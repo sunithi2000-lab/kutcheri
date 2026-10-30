@@ -7,9 +7,10 @@
 # 2026-10-23: 1 row added from sanjaysub.com (watcher snapshot 2026-10-22, re-read live): 30 Dec Tamil Isai Sangam at Raja Annamalai Mandram. Organiser of the 9 Dec Sandeep Narayan row set to Hamsadhwani ("Marghazhi Maha Utsavam" is Hamsadhwani's festival: season.mylaporetimes.com/sabha-schedule/ lists "Marghazhi Maha Utsavam / Hamsadhwani, Adyar").
 # 2026-10-29: Sandeep Narayan's BVB concert moved from 30 Nov to 29 Nov on his site.
 # 2026-10-30: 4 more Sandeep Narayan dates from his site (27 Dec Narada Gana Sabha, 31 Dec Brahma Gana Sabha, 2 Jan Ekaantha Sangeetha Seva, 9 Jan Nada Sudha); accompanists added to his 20 Dec Kalakshetra and 3 Jan Live4You rows.
+# 2026-10-31: Sanjay 6 Dec organiser found — Show Space Event Solutions LLP (thamizhumnaanum.com, 9th edition, ticketed).
 # When the artist's site names no organiser, the venue's own sabha is NOT assumed; organisation = "Organiser not stated".
 # date|start|end|entry|organisation|festival|venue|area|musicians|source_url|source_label|note
-2026-12-06|18:30||Not stated|Organiser not stated|Tamizhum Naanum|Music Academy Auditorium, TTK Road|Alwarpet / TTK Road|Sanjay Subrahmanyan (Vocal)|https://sanjaysub.com/|Artist's website|Accompanists not listed per concert.
+2026-12-06|18:30||Ticketed|Show Space Event Solutions LLP|Thamizhum Naanum (9th edition)|Music Academy Auditorium, TTK Road|Alwarpet / TTK Road|Sanjay Subrahmanyan (Vocal)|https://www.thamizhumnaanum.com/|Organiser's website|All-Tamil concert presented by Show Space Event Solutions LLP (event website: "Thamizhum Naanum by Show Space Event Solutions LLP", 9th edition; gates open 6 pm; tickets via the site's "Book now" link). Accompanists not listed.
 2026-12-13|18:00||Not stated|Brahma Gana Sabha|Brahma Gana Sabha December festival|Sundareswarar Hall, Rasika Ranjani Sabha|Mylapore|Sanjay Subrahmanyan (Vocal)|https://sanjaysub.com/|Artist's website|Artist's site marks details as awaited.
 2026-12-14|18:30||Not stated|Organiser not stated|—|Vani Mahal, G.N. Road|T. Nagar|Sanjay Subrahmanyan (Vocal)|https://sanjaysub.com/|Artist's website|Artist's site marks details as awaited.
 2026-12-24|18:30||Ticketed|Sanjay Subrahmanyan|Sanjay Sabha Live|Muthamizh Peravai, R.A. Puram|R.A. Puram|Sanjay Subrahmanyan (Vocal)|https://sanjaysub.com/|Artist's website|Ticket link on the artist's site.

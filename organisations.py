@@ -96,6 +96,10 @@ ORGS = [
     ("Live4You", FEST, ANN, "Egmore", "Museum Theatre, Pantheon Road", "Jyothirgamaya – Diya Dhvani Season 2 · 29 Dec 2026 – 3 Jan 2027",
      "Presents ticketed concerts listed on MDnD (29 & 30 Dec, 2 & 3 Jan, 6.30 pm); festival name and venue from indian-heritage.org.",
      "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
+    ("Show Space Event Solutions LLP", FEST, PUB, "Alwarpet / TTK Road", "The Music Academy, Madras",
+     "Thamizhum Naanum (9th edition) · 6 Dec 2026",
+     "Presents Sanjay Subrahmanyan's all-Tamil concert \"Thamizhum Naanum\" (6.30 pm; gates open 6 pm); tickets via the event website.",
+     "https://www.thamizhumnaanum.com/"),
 ]
 
 PART = "Some dates via artists' websites"
