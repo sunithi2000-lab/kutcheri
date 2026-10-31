@@ -8901,6 +8901,32 @@
   "note": ""
  },
  {
+  "id": "as-2027-01-09-1830-spoorthira",
+  "date": "2027-01-09",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Spoorthi Rao",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Spoorthi Rao",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Chennaiyil Sangeeth Utsav",
+  "festival": "Chennaiyil Sangeeth Utsav",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue not printed in the listing (earlier editions of the festival were held at AMRK Banquet Hall, Neelankarai). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2027-01-09-1830-sandeepnar",
   "date": "2027-01-09",
   "start": "18:30",
@@ -9044,6 +9070,84 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2027-01-10-1830-sikkilguru",
+  "date": "2027-01-10",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sikkil Gurucharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sikkil Gurucharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Chennaiyil Sangeeth Utsav",
+  "festival": "Chennaiyil Sangeeth Utsav",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue not printed in the listing (earlier editions of the festival were held at AMRK Banquet Hall, Neelankarai). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2027-01-12-1830-rajheshvai",
+  "date": "2027-01-12",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Rajhesh Vaidhya",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Rajhesh Vaidhya",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Chennaiyil Sangeeth Utsav",
+  "festival": "Chennaiyil Sangeeth Utsav",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue not printed in the listing (earlier editions of the festival were held at AMRK Banquet Hall, Neelankarai). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2027-01-13-1830-sudharagun",
+  "date": "2027-01-13",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sudha Ragunathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sudha Ragunathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Chennaiyil Sangeeth Utsav",
+  "festival": "Chennaiyil Sangeeth Utsav",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue not printed in the listing (earlier editions of the festival were held at AMRK Banquet Hall, Neelankarai). Accompanists not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bk-2027-01-16-1030-atulkumar",

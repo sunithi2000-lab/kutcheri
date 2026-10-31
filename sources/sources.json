@@ -357,6 +357,12 @@
    "slug": "thamizhumnaanum",
    "kind": "ticketing",
    "url": "https://www.thamizhumnaanum.com/"
+  },
+  {
+   "slug": "bhavanschennai-events",
+   "kind": "sabha",
+   "url": "https://www.bhavanschennai.org/events_news.php",
+   "follow_pdfs": true
   }
  ],
  "_blocked_note": "BookMyShow, District, Bandsintown and chennaidecemberseason.com refuse automated visits (403/429); the research job checks them by web search instead."

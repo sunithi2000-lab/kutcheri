@@ -117,7 +117,7 @@
   "venue": "East Mada Street",
   "festival_2026": "",
   "note": "Own schedule not yet published; dates found on artists' websites.",
-  "url": ""
+  "url": "https://www.bhavanschennai.org/events_news.php"
  },
  {
   "name": "Tamil Isai Sangam",
@@ -572,12 +572,12 @@
  {
   "name": "Chennaiyil Sangeeth Utsav",
   "group": "Festival / arts organisation",
-  "status": "Awaiting 2026–27 schedule",
+  "status": "Schedule published",
   "area": "Neelankarai",
-  "venue": "AMRK Banquet Hall",
-  "festival_2026": "",
-  "note": "Organiser name not found; listed under the festival name.",
-  "url": ""
+  "venue": "AMRK Banquet Hall (earlier editions)",
+  "festival_2026": "Chennaiyil Sangeeth Utsav · 9–13 Jan 2027",
+  "note": "Four ticketed 6.30 pm concerts listed on MDnD (9, 10, 12, 13 Jan 2027); venue not printed for 2027. Organiser name not found; listed under the festival name.",
+  "url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"
  },
  {
   "name": "RASOHAM",
