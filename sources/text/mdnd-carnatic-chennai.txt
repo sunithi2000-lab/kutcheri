@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-10-31T17:59Z
+# fetched 2026-11-01T17:59Z
 Select Language
 English
 Tamil
@@ -10,18 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-GRAND INAUGURAL CONCERT
-Sat, 31st Oct 2026 | 3:15 PM
-Free | Offline
-Carnatic Flute Concert by Students of Ramani's Academy of Flute
-Sat, 31st Oct 2026 | 4:00 PM
-Free | Offline
-Carnatic Vocal Concert by Bhuvaneshwari Vaidhyanathan
-Sat, 31st Oct 2026 | 5:00 PM
-Free | Offline
-Carnatic Vocal Concert by J B Keerthana
-Sat, 31st Oct 2026 | 6:15 PM
-Free | Offline
 Jurassic Carnatic -S Saketharaman with Students 4.30 PM | Ramakrishnan Murthy - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
 Sun, 1st Nov 2026 | 4:30 PM
 Ticketed | Offline
@@ -82,22 +70,22 @@ Ticketed | Offline
 4.00 PM | K P Nandini | 6.30 PM | Sikkil Gurucharan - Charsur Arts Foundation
 Wed, 16th Dec 2026 | 4:00 PM
 Ticketed | Offline
-Carnatic Vocal Concert by 'Sangeetha Choodamani' Abhishek Raghuram
-Thu, 17th Dec 2026 | 4:00 PM
-Ticketed | Offline
 4.00 PM Dr. RENGANATHA SHARMA (Vocal) | 6.30 PM GAYATHRI VENKATARAGHAVAN (Vocal) | SRI PARTHASARATHY SWAMI SABHA
 Thu, 17th Dec 2026 | 4:00 PM
 Ticketed | Offline
 4.00 PM | Vidya Kalyanaraman | 6.30 PM | Rithvik Raja - Charsur Arts Foundation
 Thu, 17th Dec 2026 | 4:00 PM
 Ticketed | Offline
-Carnatic Vocal & Flute Duet Concert by Kunnakudi M Balamurali Krishna & Shashank Subramanyam
-Fri, 18th Dec 2026 | 4:00 PM
+Carnatic Vocal Concert by 'Sangeetha Choodamani' Abhishek Raghuram
+Thu, 17th Dec 2026 | 4:00 PM
 Ticketed | Offline
 4.00 PM | D B Ashvin | 6.30 PM | R K Shriramkumar (Violin Solo) | Charsur Arts Foundation
 Fri, 18th Dec 2026 | 4:00 PM
 Ticketed | Offline
 4.00 PM PRINCE RAMA VARMA (Vocal) | 6.30 PM N. VIJAY SIVA (Vocal) | SRI PARTHASARATHY SWAMI SABHA
+Fri, 18th Dec 2026 | 4:00 PM
+Ticketed | Offline
+Carnatic Vocal & Flute Duet Concert by Kunnakudi M Balamurali Krishna & Shashank Subramanyam
 Fri, 18th Dec 2026 | 4:00 PM
 Ticketed | Offline
 Carnatic Vocal Concert by S Mahathi
@@ -154,22 +142,22 @@ Ticketed | Offline
 4.00 PM NISHA RAJAGOPALAN (Vocal) | 6.30 PM P. UNNIKRISHNAN (Vocal) | SRI PARTHASARATHY SWAMI SABHA
 Wed, 23rd Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM | Kruthi Vittal | 6.30 PM | K Gayatri | Charsur Arts Foundation
+Carnatic Violin Trio Concert by A Kanyakumari, Embar Kannan & L Ramakrishnan
 Wed, 23rd Dec 2026 | 4:00 PM
 Ticketed | Offline
-Carnatic Violin Trio Concert by A Kanyakumari, Embar Kannan & L Ramakrishnan
+4.00 PM | Kruthi Vittal | 6.30 PM | K Gayatri | Charsur Arts Foundation
 Wed, 23rd Dec 2026 | 4:00 PM
 Ticketed | Offline
 A Carnatic Shot - Unscripted by G Ravikiran
 Thu, 24th Dec 2026 | 2:30 PM
 Ticketed | Offline
-Carnatic Vocal Duet by Malladi Brothers Sriram Prasad & Ravikumar
+4.00 PM | N J Nandini | 6.30 PM | Amritha Murali | Charsur Arts Foundation
 Thu, 24th Dec 2026 | 4:00 PM
 Ticketed | Offline
 4.00 PM ASHWATH NARAYANAN (Vocal) | 6.30 PM PALGHAT RAMAPRASAD (Vocal) | SRI PARTHASARATHY SWAMI SABHA
 Thu, 24th Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM | N J Nandini | 6.30 PM | Amritha Murali | Charsur Arts Foundation
+Carnatic Vocal Duet by Malladi Brothers Sriram Prasad & Ravikumar
 Thu, 24th Dec 2026 | 4:00 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Sudha Raghunathan
@@ -196,13 +184,13 @@ Ticketed | Offline
 A Carnatic Shot - Holly Jolly by Aishwarya Vidhya Raghunath & V Anirudh Athreya
 Sat, 26th Dec 2026 | 2:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Sikkil Gurucharan
+Sat, 26th Dec 2026 | 4:00 PM
+Ticketed | Offline
 4.00 PM | Vittal Rangan | 6.30 PM | Kunnakudi Balamuralikrishna | Charsur Arts Foundation
 Sat, 26th Dec 2026 | 4:00 PM
 Ticketed | Offline
 4.00 PM VIGNESH ISHWAR (Vocal) | 6.30 PM MALLADI BROTHERS (Shriramkumar & Ravikumar) (Vocal) | SRI PARTHASARATHY SWAMI SABHA
-Sat, 26th Dec 2026 | 4:00 PM
-Ticketed | Offline
-Carnatic Vocal Concert by Sikkil Gurucharan
 Sat, 26th Dec 2026 | 4:00 PM
 Ticketed | Offline
 Madhusudhanan Kalaichelvan - LecDem | Charsur Arts Foundation
