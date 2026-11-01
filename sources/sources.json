@@ -363,6 +363,13 @@
    "kind": "sabha",
    "url": "https://www.bhavanschennai.org/events_news.php",
    "follow_pdfs": true
+  },
+  {
+   "slug": "kalaverse-events",
+   "kind": "aggregator",
+   "url": "https://kalaverse.com/events",
+   "follow_pdfs": false,
+   "wait_ms": 8000
   }
  ],
  "_blocked_note": "BookMyShow, District, Bandsintown and chennaidecemberseason.com refuse automated visits (403/429); the research job checks them by web search instead."
