@@ -1,5 +1,5 @@
 # https://www.indian-heritage.org/musicseason/sch.html
-# fetched 2026-11-01T17:59Z
+# fetched 2026-11-02T18:20Z
 Music Season
 Schedule
 Awards
@@ -173,14 +173,6 @@ Vasudevan
 duet)
 Sunday
 13.12.26
-7
-am
-Namasankeerthanam
-by
-Vittaldas
-Jayakrishna
-Deekshithar
-Maharaj
 11
 am
 ER
@@ -234,14 +226,6 @@ Company
 CONCERT)
 Monday
 14.12.26
-7
-am
-Namasankeerthanam
-by
-Vittaldas
-Jayakrishna
-Deekshithar
-Maharaj
 11
 am
 Anirudh
@@ -303,14 +287,6 @@ Sadana”
 CONCERT)
 Tuesday
 15.12.26
-7
-am
-Namasankeerthanam
-by
-Vittaldas
-Jayakrishna
-Deekshithar
-Maharaj
 11
 am
 Sanjana
