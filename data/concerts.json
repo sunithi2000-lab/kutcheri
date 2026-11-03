@@ -57,6 +57,302 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-11-18-1815-drrhemalat",
+  "date": "2026-11-18",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr R Hemalatha & Dr R Lakshmipriya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Dr R Hemalatha",
+    "instrument": "Vocal",
+    "role": "main"
+   },
+   {
+    "name": "Dr R Lakshmipriya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Dr R Hemalatha & Dr R Lakshmipriya\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-11-20-1815-adyarspadm",
+  "date": "2026-11-20",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Adyar S Padmanabhan & Thirukalukundram M.R. Hemaraj",
+  "main_instrument": "Nagaswaram",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Adyar S Padmanabhan",
+    "instrument": "Nagaswaram",
+    "role": "main"
+   },
+   {
+    "name": "Thirukalukundram M.R. Hemaraj",
+    "instrument": "Nagaswaram",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Nadaswaram Concert by Adyar S Padmanabhan & Thirukalukundram M.R. Hemaraj\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-11-21-1815-drbrindham",
+  "date": "2026-11-21",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr Brindha Manickavasakan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr Brindha Manickavasakan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Dr Brindha Manickavasakan\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-11-22-1815-aishwaryas",
+  "date": "2026-11-22",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Aishwarya Shankar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aishwarya Shankar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Aishwarya Shankar\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-11-23-1815-vigneshkri",
+  "date": "2026-11-23",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vignesh Krishnamurthy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vignesh Krishnamurthy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Vignesh Krishnamurthy\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-11-24-1815-gkbaanupri",
+  "date": "2026-11-24",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "G K Baanu Priya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "G K Baanu Priya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by G K Baanu Priya\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-11-25-1815-mylaikarth",
+  "date": "2026-11-25",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Mylai Karthikeyan",
+  "main_instrument": "Nagaswaram",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Mylai Karthikeyan",
+    "instrument": "Nagaswaram",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Nadaswaram Concert by Mylai Karthikeyan\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-11-26-1815-drgayathri",
+  "date": "2026-11-26",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr Gayathri Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr Gayathri Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Dr Gayathri Girish\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-11-27-1815-vishwashar",
+  "date": "2026-11-27",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vishwas Hari",
+  "main_instrument": "Mandolin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Vishwas Hari",
+    "instrument": "Mandolin",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Mandolin Concert by Vishwas Hari\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-11-28-1815-trivandrum",
+  "date": "2026-11-28",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Trivandrum Dr Baby Sreeram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Trivandrum Dr Baby Sreeram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Trivandrum Dr Baby Sreeram\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-11-29-1815-anikodersh",
+  "date": "2026-11-29",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Anikode R. Shyamsundar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Anikode R. Shyamsundar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Anikode R. Shyamsundar\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-11-29-1830-sandeepnar",
   "date": "2026-11-29",
   "start": "18:30",
@@ -95,6 +391,32 @@
   "source_url": "https://sandeepnarayan.in/concerts",
   "source_label": "Artist's website",
   "note": "Organiser and venue as printed on the artist's site; tickets \"TBA\". Date changed from 30 Nov to 29 Nov (Sun) on the artist's site (watcher snapshot 28 Oct 2026).",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-11-30-1815-shreyasgow",
+  "date": "2026-11-30",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shreyas Gowrishankar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shreyas Gowrishankar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Shreyas Gowrishankar\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
   "fetched": "2026-10-12"
  },
  {
