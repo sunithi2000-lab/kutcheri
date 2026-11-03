@@ -1,13 +1,11 @@
 # https://jayanthikumaresh.com/schedule
-# fetched 2026-11-02T18:20Z
+# fetched 2026-11-03T18:15Z
 JAYANTHI KUMARESH
 JK
 SCHEDULE
 UPCOMING SCHEDULE
-Date / Time : Nov 04, 2026 / -
-Venue :
-Narada Gana Sabha, Chennai
-Bharat Sangeet Utsav
+SORRY
+No upcoming schedule right now. Please check back later.
 PAST SCHEDULE
 Date / Time : Oct 31, 2026 / 11:55 pm
 Venue :

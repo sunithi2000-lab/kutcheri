@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-02T18:20Z
+# fetched 2026-11-03T18:15Z
 Select Language
 English
 Tamil
@@ -10,12 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Vande Bharat - Sooryagayathri, S Aishwarya and S Soundarya 4.30 PM | Bharat Sundar, Rajhesh Vaidhya - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
-Mon, 2nd Nov 2026 | 4:30 PM
-Ticketed | Offline
-Carnatic Vocal Concert by Bhavya Hari
-Mon, 2nd Nov 2026 | 6:15 PM
-Free | Offline
 BHARATA SANGEETA BASHA -Amrutha Venkatesh 4.30 PM | THE MUSIC BETWEEN US - Sikkil C. Gurucharan and Vid. Anil Srinivasan - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
 Tue, 3rd Nov 2026 | 4:30 PM
 Ticketed | Offline
@@ -26,6 +20,9 @@ The Carnatic Nerds Kshetrajna meets Jacob Collier - An instrumental ensemble con
 Wed, 4th Nov 2026 | 5:00 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Santhosh Subramaniam
+Wed, 4th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Abhinaya Ananthanarayanan
 Wed, 4th Nov 2026 | 6:15 PM
 Free | Offline
 MUSIC MATRIX - A Carnatic Jazz Amalgamation Spoorthi Rao & Lydian Nadhaswaram 4.30 PM | TUKKADA KADHAI presented by Kruthi Bhat - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
@@ -40,12 +37,72 @@ Ticketed | Offline
 Carnatic Vocal Concert by Dharini Veeraraghavan
 Fri, 6th Nov 2026 | 6:00 PM
 Free | Offline
+Carnatic Vocal Concert by Neyveli R Santhanagopalan
+Fri, 6th Nov 2026 | 6:00 PM
+Free | Offline
+Carnatic Vocal Concert by Abilash Giri Prasad
+Fri, 6th Nov 2026 | 6:15 PM
+Free | Offline
 SANgeet DEEPavali by Sandeep Narayan | Carnatica Global and Sri Parthasarathy Swami Sabha
 Sat, 7th Nov 2026 | 6:45 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Dr Sumithra Vasudev
+Mon, 9th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Shakthi Muralidharan & Dhanush Anantharaman
+Thu, 12th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Delhi Sunder Rajan
+Fri, 13th Nov 2026 | 6:00 PM
+Free | Offline
+Carnatic Vocal Concert by Sunil Gargyan
+Sat, 14th Nov 2026 | 6:00 PM
+Free | Offline
+A Musical Tribute to Various Composers
+Sun, 15th Nov 2026 | 6:15 PM
+Free | Offline
 Chitravina N Ravikiran and Aditya Mohan - A fundraiser Concert
 Mon, 16th Nov 2026 | 6:00 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Dr R Hemalatha & Dr R Lakshmipriya
+Wed, 18th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic LecDem by Dr. Premeela Gurumurthy
+Thu, 19th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Nadaswaram Concert by Adyar S Padmanabhan & Thirukalukundram M.R. Hemaraj
+Fri, 20th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Dr Brindha Manickavasakan
+Sat, 21st Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Aishwarya Shankar
+Sun, 22nd Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Vignesh Krishnamurthy
+Mon, 23rd Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by G K Baanu Priya
+Tue, 24th Nov 2026 | 6:15 PM
+Free | Offline
+Nadaswaram Concert by Mylai Karthikeyan
+Wed, 25th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Dr Gayathri Girish
+Thu, 26th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Mandolin Concert by Vishwas Hari
+Fri, 27th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Trivandrum Dr Baby Sreeram
+Sat, 28th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Anikode R. Shyamsundar
+Sun, 29th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Shreyas Gowrishankar
+Mon, 30th Nov 2026 | 6:15 PM
+Free | Offline
 Carnatic Vocal Duet by K Gayatri & Amritha Murali
 Mon, 14th Dec 2026 | 4:00 PM
 Ticketed | Offline
@@ -118,13 +175,13 @@ Ticketed | Offline
 A Carnatic Shot - Soundscapes by Sayee Rakshith and Chandrasekara Sharma
 Tue, 22nd Dec 2026 | 2:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Sandeep Narayan
+Tue, 22nd Dec 2026 | 4:00 PM
+Ticketed | Offline
 4.00 PM | S Adithyanarayanan | 6.30 PM | Sriranjani Tapasya Santhanagopalan | Charsur Arts Foundation
 Tue, 22nd Dec 2026 | 4:00 PM
 Ticketed | Offline
 4.00 PM AMRITHA MURALI (Vocal) | 6.30 PM RAMANA BALACHANDHRAN (Veena) | SRI PARTHASARATHY SWAMI SABHA
-Tue, 22nd Dec 2026 | 4:00 PM
-Ticketed | Offline
-Carnatic Vocal Concert by Sandeep Narayan
 Tue, 22nd Dec 2026 | 4:00 PM
 Ticketed | Offline
 A Carnatic Shot - Echo Chamber by Sumesh Narayanan
@@ -145,10 +202,10 @@ Ticketed | Offline
 Carnatic Vocal Duet by Malladi Brothers Sriram Prasad & Ravikumar
 Thu, 24th Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM ASHWATH NARAYANAN (Vocal) | 6.30 PM PALGHAT RAMAPRASAD (Vocal) | SRI PARTHASARATHY SWAMI SABHA
+4.00 PM | N J Nandini | 6.30 PM | Amritha Murali | Charsur Arts Foundation
 Thu, 24th Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM | N J Nandini | 6.30 PM | Amritha Murali | Charsur Arts Foundation
+4.00 PM ASHWATH NARAYANAN (Vocal) | 6.30 PM PALGHAT RAMAPRASAD (Vocal) | SRI PARTHASARATHY SWAMI SABHA
 Thu, 24th Dec 2026 | 4:00 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Sudha Raghunathan
@@ -175,13 +232,13 @@ Ticketed | Offline
 A Carnatic Shot - Holly Jolly by Aishwarya Vidhya Raghunath & V Anirudh Athreya
 Sat, 26th Dec 2026 | 2:30 PM
 Ticketed | Offline
-4.00 PM VIGNESH ISHWAR (Vocal) | 6.30 PM MALLADI BROTHERS (Shriramkumar & Ravikumar) (Vocal) | SRI PARTHASARATHY SWAMI SABHA
+Carnatic Vocal Concert by Sikkil Gurucharan
 Sat, 26th Dec 2026 | 4:00 PM
 Ticketed | Offline
 4.00 PM | Vittal Rangan | 6.30 PM | Kunnakudi Balamuralikrishna | Charsur Arts Foundation
 Sat, 26th Dec 2026 | 4:00 PM
 Ticketed | Offline
-Carnatic Vocal Concert by Sikkil Gurucharan
+4.00 PM VIGNESH ISHWAR (Vocal) | 6.30 PM MALLADI BROTHERS (Shriramkumar & Ravikumar) (Vocal) | SRI PARTHASARATHY SWAMI SABHA
 Sat, 26th Dec 2026 | 4:00 PM
 Ticketed | Offline
 Madhusudhanan Kalaichelvan - LecDem | Charsur Arts Foundation
@@ -211,10 +268,10 @@ Ticketed | Offline
 Carnatic Vocal Concert by Sriranjani Tapasya Santhanagopalan
 Tue, 29th Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM AMRUTHA VENKATESH (Vocal) | 6.30 PM SANDEEP NARAYAN (Vocal) | SRI PARTHASARATHY SWAMI SABHA
+4.00 PM | Ashwath Narayanan | 6.30 PM | Dr. Jayanthi Kumaresh - Charsur Arts Foundation
 Tue, 29th Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM | Ashwath Narayanan | 6.30 PM | Dr. Jayanthi Kumaresh - Charsur Arts Foundation
+4.00 PM AMRUTHA VENKATESH (Vocal) | 6.30 PM SANDEEP NARAYAN (Vocal) | SRI PARTHASARATHY SWAMI SABHA
 Tue, 29th Dec 2026 | 4:00 PM
 Ticketed | Offline
 Ramakrishnan Murthy | Carnatic Vocal | Live4You
@@ -238,10 +295,10 @@ Ticketed | Offline
 4.00 PM Neyveli R. SANTHANAGOPALAN (Vocal) | 6.30 PM O.S.ARUN (Vocal) | SRI PARTHASARATHY SWAMI SABHA
 Thu, 31st Dec 2026 | 4:00 PM
 Ticketed | Offline
-4.00 PM Dr. GAYATHRI GIRISH (Vocal) | 6.30 PM Dr. NITHYASREE MAHADEVAN (Vocal) | SRI PARTHASARATHY SWAMI SABHA
+Carnatic Vocal Concert by Palghat Dr R Ramprasad
 Fri, 1st Jan 2027 | 4:00 PM
 Ticketed | Offline
-Carnatic Vocal Concert by Palghat Dr R Ramprasad
+4.00 PM Dr. GAYATHRI GIRISH (Vocal) | 6.30 PM Dr. NITHYASREE MAHADEVAN (Vocal) | SRI PARTHASARATHY SWAMI SABHA
 Fri, 1st Jan 2027 | 4:00 PM
 Ticketed | Offline
 Carnatic Violin Duet by Akkarai Sisters S Subhalakshmi & S Sornalatha

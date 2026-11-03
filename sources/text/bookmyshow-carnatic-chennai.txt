@@ -1,5 +1,5 @@
 # https://in.bookmyshow.com/explore/music-shows-chennai
-# fetched 2026-10-16T17:57Z
+# fetched 2026-11-03T18:15Z
 Skip to main content
 Pick A Region
 Detect my location
@@ -93,6 +93,7 @@ Ankola
 Annavaram
 Annigeri
 Anthiyur
+Anuppur
 Anuradhapura
 Apra
 Arakkonam
@@ -239,6 +240,7 @@ Berhampur (Odisha)
 Bestavaripeta
 Betalbatim
 Betberia
+Bethamangala
 Bethamcherla
 Bettiah
 Betul
@@ -331,6 +333,7 @@ Budhlada
 Buhari
 Bulandshahr
 Buldana
+Bundi
 Bundu
 Burdwan
 Burhanpur
@@ -647,6 +650,7 @@ Goramadagu
 Gorantla
 Gotegaon
 Gownipalli
+Gudalur
 Gudivada
 Gudiyatham
 Gudlavalleru
@@ -679,6 +683,7 @@ Halol
 Hambantota
 Hamirpur (HP)
 Hampi
+Hanamkonda
 Handwara
 Hansi
 Hanuman Junction
@@ -841,6 +846,7 @@ Kallakurichi
 Kallara
 Kallur
 Kalluru
+Kalluvathukkal
 Kalna
 Kalol (Gandhinagar)
 Kalol (Panchmahal)
@@ -1263,6 +1269,7 @@ Mummidivaram
 Mundakayam
 Mundargi
 Mundra
+Munger
 Mungra Badshahpur
 Muniguda
 Muradnagar
@@ -1920,6 +1927,7 @@ Thrissur
 Thullur
 Thuraiyur
 Tihu
+Tikamgarh
 Tilda Neora
 Tindivanam
 Tinsukia
@@ -1987,6 +1995,7 @@ Utraula
 Uttar Dinajpur
 Uttara Kannada
 Uttarkashi
+V Kota
 Vadakara
 Vadakkencherry
 Vadalur
@@ -2029,6 +2038,7 @@ Vettaikaranpudur
 Vettavalam
 Vidisha
 Vijapur
+Vijayamangalam
 Vijayapura (Bengaluru Rural)
 Vijayapura (Bijapur)
 Vijayarai
