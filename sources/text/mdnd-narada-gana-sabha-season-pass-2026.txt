@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/Members_Season_Pass_%7C_Narada_Gana_Sabha?ci=c3NrMTAx&se=ZWt5MTY0&r_id=2400&is_multiple=N
-# fetched 2026-11-03T18:15Z
+# fetched 2026-11-04T18:19Z
 Select Language
 English
 Tamil
@@ -24,6 +24,6 @@ Narada Gana Sabha (Regd)
 Venue :
 Narada Gana Sabha, Chennai
 Description :
-Attention Season Pass Holders:
-Your physical season pass will be delivered free at your doorstep
+Note:
+Once purchased, we’ll contact you for your location and deliver your tickets to your doorstep—absolutely free
 Read Less
