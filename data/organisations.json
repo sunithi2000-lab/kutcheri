@@ -142,11 +142,11 @@
  {
   "name": "Asthika Samajam",
   "group": "Major sabha",
-  "status": "Awaiting 2026–27 schedule",
+  "status": "Some dates via artists' websites",
   "area": "Alwarpet",
   "venue": "Venus Colony",
   "festival_2026": "",
-  "note": "",
+  "note": "Own schedule not yet published; dates found on artists' websites.",
   "url": ""
  },
  {
@@ -272,11 +272,11 @@
  {
   "name": "SciArtsRUs",
   "group": "Festival / arts organisation",
-  "status": "Awaiting 2026–27 schedule",
+  "status": "Some dates via artists' websites",
   "area": "Mylapore",
   "venue": "Bharatiya Vidya Bhavan; P.S. High School; IIT Madras",
   "festival_2026": "",
-  "note": "Margazhi Matram festival.",
+  "note": "Own schedule not yet published; dates found on artists' websites.",
   "url": ""
  },
  {
@@ -352,11 +352,11 @@
  {
   "name": "Sri Rama Bhaktha Jana Samaj",
   "group": "Other sabha",
-  "status": "Awaiting 2026–27 schedule",
+  "status": "Some dates via artists' websites",
   "area": "",
   "venue": "",
   "festival_2026": "",
-  "note": "",
+  "note": "Own schedule not yet published; dates found on artists' websites.",
   "url": ""
  },
  {
@@ -432,11 +432,11 @@
  {
   "name": "Madhuradhwani",
   "group": "Festival / arts organisation",
-  "status": "Awaiting 2026–27 schedule",
+  "status": "Some dates via artists' websites",
   "area": "Mylapore",
   "venue": "Arkay Convention Centre",
   "festival_2026": "",
-  "note": "ACC Anniversary festival.",
+  "note": "Own schedule not yet published; dates found on artists' websites.",
   "url": ""
  },
  {
@@ -452,11 +452,11 @@
  {
   "name": "Carnatica",
   "group": "Festival / arts organisation",
-  "status": "Awaiting 2026–27 schedule",
+  "status": "Some dates via artists' websites",
   "area": "Mylapore",
   "venue": "Desiga Vidya Bhavanam (Paddhathi Music Fest)",
   "festival_2026": "",
-  "note": "Also runs the Global Heritage Music Fest. Co-presents Bharat Sangeet Utsav 2026 (31 Oct – 7 Nov, before the season) with Sri Parthasarathy Swami Sabha.",
+  "note": "Own schedule not yet published; dates found on artists' websites.",
   "url": "https://carnatica.net/"
  },
  {
@@ -492,11 +492,11 @@
  {
   "name": "Gayatri Fine Arts Global",
   "group": "Festival / arts organisation",
-  "status": "Awaiting 2026–27 schedule",
+  "status": "Some dates via artists' websites",
   "area": "Mylapore",
   "venue": "Sri Krishna Saras Hall, P.S. Sivaswamy Salai",
   "festival_2026": "",
-  "note": "",
+  "note": "Own schedule not yet published; dates found on artists' websites.",
   "url": ""
  },
  {
@@ -522,11 +522,11 @@
  {
   "name": "TTVV Trust & Cleveland Thyagaraja Festival",
   "group": "Festival / arts organisation",
-  "status": "Awaiting 2026–27 schedule",
+  "status": "Some dates via artists' websites",
   "area": "Teynampet",
   "venue": "Tattvaloka Hall, Eldams Road",
   "festival_2026": "",
-  "note": "Margazhi Mela.",
+  "note": "Own schedule not yet published; dates found on artists' websites.",
   "url": ""
  },
  {
@@ -562,11 +562,11 @@
  {
   "name": "Lakshman Sruthi",
   "group": "Festival / arts organisation",
-  "status": "Awaiting 2026–27 schedule",
+  "status": "Some dates via artists' websites",
   "area": "",
   "venue": "",
   "festival_2026": "",
-  "note": "Runs the Chennaiyil Thiruvaiyaru festival.",
+  "note": "Own schedule not yet published; dates found on artists' websites.",
   "url": ""
  },
  {
@@ -648,6 +648,16 @@
   "festival_2026": "Thamizhum Naanum (9th edition) · 6 Dec 2026",
   "note": "Presents Sanjay Subrahmanyan's all-Tamil concert \"Thamizhum Naanum\" (6.30 pm; gates open 6 pm); tickets via the event website.",
   "url": "https://www.thamizhumnaanum.com/"
+ },
+ {
+  "name": "Anujan Broadcast & Sreedaya Trust",
+  "group": "Other sabha",
+  "status": "Some dates via artists' websites",
+  "area": "Mylapore",
+  "venue": "Ramanujar Millennium Hall",
+  "festival_2026": "",
+  "note": "Own schedule not yet published; dates found on artists' websites.",
+  "url": ""
  },
  {
   "name": "Mudhra",

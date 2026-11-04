@@ -100,6 +100,7 @@ ORGS = [
      "Thamizhum Naanum (9th edition) · 6 Dec 2026",
      "Presents Sanjay Subrahmanyan's all-Tamil concert \"Thamizhum Naanum\" (6.30 pm; gates open 6 pm); tickets via the event website.",
      "https://www.thamizhumnaanum.com/"),
+    ("Anujan Broadcast & Sreedaya Trust", OTHER, AW, "Mylapore", "Ramanujar Millennium Hall", "", "", ""),
 ]
 
 PART = "Some dates via artists' websites"
@@ -112,7 +113,10 @@ for i, row in enumerate(ORGS):
     if row[0] in {"Brahma Gana Sabha", "Sruthi Laya Kendra",
                   "Bharatiya Vidya Bhavan, Chennai Kendra", "Sri Thyaga Brahma Gana Sabha",
                   "The Indian Fine Arts Society", "Hamsadhwani", "Tamil Isai Sangam",
-                  "Nada Sudha", "VVS Foundation & SaMaa Arts"}:
+                  "Nada Sudha", "VVS Foundation & SaMaa Arts",
+                  "Madhuradhwani", "Carnatica", "TTVV Trust & Cleveland Thyagaraja Festival", "Lakshman Sruthi",
+                  "SciArtsRUs", "Sri Rama Bhaktha Jana Samaj", "Gayatri Fine Arts Global", "Asthika Samajam",
+                  "Anujan Broadcast & Sreedaya Trust"}:
         ORGS[i] = row[:2] + (PART,) + row[3:6] + ("Own schedule not yet published; dates found on artists' websites.",) + row[7:]
 out = [dict(name=n, group=g, status=s, area=a, venue=v, festival_2026=f, note=note, url=u)
        for n, g, s, a, v, f, note, u in ORGS]

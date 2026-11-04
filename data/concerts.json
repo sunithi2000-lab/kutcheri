@@ -223,6 +223,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-11-23-1830-ksvishnude",
+  "date": "2026-11-23",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Madhuradhwani",
+  "festival": "—",
+  "venue": "Arkay Convention Centre, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-11-24-1815-gkbaanupri",
   "date": "2026-11-24",
   "start": "18:15",
@@ -446,6 +472,37 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-01-1645-ksvishnude",
+  "date": "2026-12-01",
+  "start": "16:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev & Mylai Karthikeyan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   },
+   {
+    "name": "Mylai Karthikeyan",
+    "instrument": "Nagaswaram",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam",
+  "venue": "Youth Hostel, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "Listed as \"Margazhi Maha Utsavam\" (Hamsadhwani's season festival), in collaboration with Mylai Karthikeyan (nagaswaram). From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-01-1830-shashanksu",
   "date": "2026-12-01",
   "start": "18:30",
@@ -616,6 +673,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-09-1630-ksvishnude",
+  "date": "2026-12-09",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
+  "festival": "—",
+  "venue": "Bharatiya Vidya Bhavan, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-09-1845-sandeepnar",
   "date": "2026-12-09",
   "start": "18:45",
@@ -657,6 +740,37 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-10-1830-ksvishnude",
+  "date": "2026-12-10",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev & Malladi Suribabu",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   },
+   {
+    "name": "Malladi Suribabu",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Madhuradhwani",
+  "festival": "—",
+  "venue": "Arkay Convention Centre, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "In collaboration with Malladi Suribabu. From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-10-1845-shashanksu",
   "date": "2026-12-10",
   "start": "18:45",
@@ -690,6 +804,32 @@
   "source_url": "https://www.shashank.org/tours",
   "source_label": "Artist's website",
   "note": "",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-11-1800-ksvishnude",
+  "date": "2026-12-11",
+  "start": "18:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Brahma Gana Sabha",
+  "festival": "Brahma Gana Sabha December festival",
+  "venue": "RR Sabha Auditorium (Rasika Ranjani Sabha), Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
   "fetched": "2026-10-12"
  },
  {
@@ -1547,6 +1687,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-16-1830-ksvishnude",
+  "date": "2026-12-16",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Anujan Broadcast & Sreedaya Trust",
+  "festival": "—",
+  "venue": "Ramanujar Millennium Hall, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ch-2026-12-16-1830",
   "date": "2026-12-16",
   "start": "18:30",
@@ -1907,6 +2073,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-17-1630-ksvishnude",
+  "date": "2026-12-17",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Carnatica",
+  "festival": "—",
+  "venue": "Sri Sankara Matriculation School, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "Listed under \"Carnatica Global\". From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ch-2026-12-17-1830",
   "date": "2026-12-17",
   "start": "18:30",
@@ -2034,6 +2226,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-18-1000-ksvishnude",
+  "date": "2026-12-18",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "126th Year Isai Vizha (December Music Festival)",
+  "venue": "Vidya Bharathi Kalyana Mandapam, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "Morning slot (not in the sabha's MDnD list of 4 pm and 6.30 pm concerts). From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "skgs-2026-12-18-1100",
@@ -4585,6 +4803,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-23-1715-ksvishnude",
+  "date": "2026-12-23",
+  "start": "17:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "TTVV Trust & Cleveland Thyagaraja Festival",
+  "festival": "—",
+  "venue": "Tattvaloka, Eldams Road, Teynampet",
+  "area": "Teynampet",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "Listed under \"TTVV Trust\". From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ch-2026-12-23-1830",
   "date": "2026-12-23",
   "start": "18:30",
@@ -5080,6 +5324,32 @@
   "fetched": "2026-10-25"
  },
  {
+  "id": "as-2026-12-24-1830-ksvishnude",
+  "date": "2026-12-24",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "—",
+  "venue": "Vani Mahal, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-24-1845",
   "date": "2026-12-24",
   "start": "18:45",
@@ -5248,6 +5518,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-25-1100-ksvishnude",
+  "date": "2026-12-25",
+  "start": "11:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Lakshman Sruthi",
+  "festival": "Chennaiyil Thiruvaiyaru",
+  "venue": "Kamarajar Arangam, Anna Salai, Teynampet",
+  "area": "Teynampet",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "Listed as \"Chennayil Tiruvayyaru\" (Lakshman Sruthi's festival). From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "ma-2026-12-25-1145",
@@ -5668,6 +5964,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "as-2026-12-26-1000-ksvishnude",
+  "date": "2026-12-26",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Narada Gana Sabha",
+  "festival": "Isai Natya Nataka Vizha 2026",
+  "venue": "Narada Gana Sabha, TTK Road",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bk-2026-12-26-1030-rajeshvaid",
   "date": "2026-12-26",
   "start": "10:30",
@@ -6012,6 +6334,32 @@
   "source_label": "MDnD listing",
   "note": "Listed as \"Malladi Brothers (Shriramkumar & Ravikumar)\". Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2026-12-26-1845-ksvishnude",
+  "date": "2026-12-26",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "SciArtsRUs",
+  "festival": "—",
+  "venue": "Bharatiya Vidya Bhavan mini hall, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "ma-2026-12-26-1845",
@@ -6870,6 +7218,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-28-1800-ksvishnude",
+  "date": "2026-12-28",
+  "start": "18:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Sri Rama Bhaktha Jana Samaj",
+  "festival": "—",
+  "venue": "Avichi College of Arts & Science, Virugambakkam",
+  "area": "Virugambakkam",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "Listed as \"K.K. Nagar Rama Bhakta Jana Samajam\". From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ch-2026-12-28-1830",
   "date": "2026-12-28",
   "start": "18:30",
@@ -7425,6 +7799,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-29-1700-ksvishnude",
+  "date": "2026-12-29",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Gayatri Fine Arts Global",
+  "festival": "—",
+  "venue": "Sri Krishna Saras Hall, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "Listed as \"Gayathri Fine Arts\". From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "ch-2026-12-29-1830",
@@ -9557,6 +9957,32 @@
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
   "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue not printed in the listing (earlier editions of the festival were held at AMRK Banquet Hall, Neelankarai). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2027-01-11-1830-ksvishnude",
+  "date": "2027-01-11",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.S. Vishnudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.S. Vishnudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Asthika Samajam",
+  "festival": "—",
+  "venue": "Asthika Samajam, Venus Colony, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
+  "source_label": "Artist's poster (Facebook)",
+  "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
   "fetched": "2026-10-12"
  },
  {
