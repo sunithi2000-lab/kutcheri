@@ -119,6 +119,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-11-21-1800-veenavenka",
+  "date": "2026-11-21",
+  "start": "18:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Veena Venkatramani",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Veena Venkatramani",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Veena Concert by Veena Venkatramani\" (6 pm, ticketed); organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-11-21-1815-drbrindham",
   "date": "2026-11-21",
   "start": "18:15",
@@ -7231,6 +7257,42 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-29-1530-mylaikarth",
+  "date": "2026-12-29",
+  "start": "15:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Mylai Karthikeyan & Vishwas Hari & Charulatha Chandrasekhar",
+  "main_instrument": "Nagaswaram",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Mylai Karthikeyan",
+    "instrument": "Nagaswaram",
+    "role": "main"
+   },
+   {
+    "name": "Vishwas Hari",
+    "instrument": "Mandolin",
+    "role": "main"
+   },
+   {
+    "name": "Charulatha Chandrasekhar",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Nadaswaram, Mandolin and Veena Concert Mylai Karthikeyan, Vishwas Hari, Charulatha Chandrasekhar\" (3.30 pm, free) — a nagaswaram–mandolin–veena trio; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ch-2026-12-29-1600",
   "date": "2026-12-29",
   "start": "16:00",
@@ -8216,6 +8278,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-31-1530-spoorthira",
+  "date": "2026-12-31",
+  "start": "15:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Spoorthi Rao",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Spoorthi Rao",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Live4You",
+  "festival": "Jyothirgamaya – Diya Dhvani Season 2",
+  "venue": "Museum Theatre, Pantheon Road, Egmore",
+  "area": "Egmore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Live4You (MDnD listing: \"Carnatic Vocal Concert by Spoorthi Rao – Live4You\", 3.30 pm). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore. Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "skgs-2026-12-31-1600",
   "date": "2026-12-31",
   "start": "16:00",
@@ -8835,6 +8923,32 @@
   "note": ""
  },
  {
+  "id": "as-2027-01-02-1530-anahitaapo",
+  "date": "2027-01-02",
+  "start": "15:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Anahita & Apoorva",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Anahita & Apoorva",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Live4You",
+  "festival": "Jyothirgamaya – Diya Dhvani Season 2",
+  "venue": "Museum Theatre, Pantheon Road, Egmore",
+  "area": "Egmore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Live4You (MDnD listing: \"Carnatic Vocal Concert by Anahita and Apoorva – Live4You\", 3.30 pm). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore. Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "skgs-2027-01-02-1600",
   "date": "2027-01-02",
   "start": "16:00",
@@ -9004,6 +9118,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2027-01-03-1530-anirudhsub",
+  "date": "2027-01-03",
+  "start": "15:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Anirudh Subramaniam",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Anirudh Subramaniam",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Live4You",
+  "festival": "Jyothirgamaya – Diya Dhvani Season 2",
+  "venue": "Museum Theatre, Pantheon Road, Egmore",
+  "area": "Egmore",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Live4You (MDnD listing: \"Carnatic Vocal Concert by Anirudh Subramaniam – Live4You\", 3.30 pm). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore. Accompanists not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "skgs-2027-01-03-1600",
