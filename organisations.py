@@ -100,6 +100,9 @@ ORGS = [
      "Thamizhum Naanum (9th edition) · 6 Dec 2026",
      "Presents Sanjay Subrahmanyan's all-Tamil concert \"Thamizhum Naanum\" (6.30 pm; gates open 6 pm); tickets via the event website.",
      "https://www.thamizhumnaanum.com/"),
+    ("Amazon Music", FEST, PUB, "", "Not stated", "Margazhi Experience · 19 Nov 2026",
+     "Presents a free 6.30 pm \"Margazhi Experience\" concert by Sudha Ragunathan (MDnD listing); venue not printed.",
+     "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
     ("Anujan Broadcast & Sreedaya Trust", OTHER, AW, "Mylapore", "Ramanujar Millennium Hall", "", "", ""),
 ]
 

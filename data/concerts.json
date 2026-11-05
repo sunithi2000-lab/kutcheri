@@ -88,6 +88,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-11-19-1830-sudharagun",
+  "date": "2026-11-19",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sudha Ragunathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sudha Ragunathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Amazon Music",
+  "festival": "Margazhi Experience",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Amazon Music presents Margazhi Experience with Padma Bhushan Dr. Sudha Ragunathan\" (6.30 pm, free, offline); venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-11-20-1815-adyarspadm",
   "date": "2026-11-20",
   "start": "18:15",
