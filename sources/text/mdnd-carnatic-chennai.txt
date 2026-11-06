@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-05T18:09Z
+# fetched 2026-11-06T18:24Z
 Select Language
 English
 Tamil
@@ -10,12 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-MUSIC MATRIX - A Carnatic Jazz Amalgamation Spoorthi Rao & Lydian Nadhaswaram 4.30 PM | TUKKADA KADHAI presented by Kruthi Bhat - 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
-Thu, 5th Nov 2026 | 4:30 PM
-Ticketed | Offline
-Carnatic Vocal Concert by Thiruvarur Girish
-Thu, 5th Nov 2026 | 6:15 PM
-Free | Offline
 MEL A RHYTHM by Vid. Ramana Balachandhran 4.30 PM | THYAGARAJA HRIDAYAM by U. Ve. Dushyanth Sridhar with Malladi Brothers- 6.45 PM | Carnatica Global and Sri Parthasarathy Swami Sabha
 Fri, 6th Nov 2026 | 4:30 PM
 Ticketed | Offline
