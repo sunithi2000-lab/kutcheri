@@ -104,6 +104,9 @@ ORGS = [
      "Presents a free 6.30 pm \"Margazhi Experience\" concert by Sudha Ragunathan (MDnD listing); venue not printed.",
      "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
     ("Anujan Broadcast & Sreedaya Trust", OTHER, AW, "Mylapore", "Ramanujar Millennium Hall", "", "", ""),
+    ("Pranavakaram Fine Arts Trust", FEST, PUB, "Mylapore", "Bharatiya Vidya Bhavan Chennai Kendra", "Fundraiser concert · 16 Nov 2026",
+     "Presents a ticketed fundraiser concert by Chitravina N. Ravikiran with Aditya Mohan (Hawaiian guitar), 6 pm at Bharatiya Vidya Bhavan Chennai Kendra (ragarasa.in listing).",
+     "https://ragarasa.in/events/100th-annual-concerts-2026"),
 ]
 
 PART = "Some dates via artists' websites"
