@@ -1,5 +1,5 @@
 # https://www.bandsintown.com/a/15524468-s.-j.-jananiy
-# fetched 2026-11-05T18:09Z
+# fetched 2026-11-07T18:01Z
 Get app
 Venues
 Cities
@@ -20,7 +20,7 @@ Sign up
 Log in
 Artist
 Nahal Rave
-1 Followers
+1 followers
 Follow
 No upcoming shows
 Send a request to Nahal Rave to play in your city
