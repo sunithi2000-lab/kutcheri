@@ -86,7 +86,9 @@ ORGS = [
     ("Lalitha Jewellery", FEST, AW, "Valasaravakkam", "Jyothi Indira Thirumana Mandapam", "", "Runs the Jyothi Indira Margazhi Yuvautsav.", ""),
     ("Lakshman Sruthi", FEST, AW, "", "", "", "Runs the Chennaiyil Thiruvaiyaru festival.", ""),
     ("Chennaiyil Sangeeth Utsav", FEST, PUB, "Neelankarai", "AMRK Banquet Hall (earlier editions)", "Chennaiyil Sangeeth Utsav · 9–13 Jan 2027", "Four ticketed 6.30 pm concerts listed on MDnD (9, 10, 12, 13 Jan 2027); venue not printed for 2027. Organiser name not found; listed under the festival name.", "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
-    ("RASOHAM", FEST, AW, "", "Multiple venues", "", "Runs the Kutty Kutchery Festival.", "https://rasoham.org/"),
+    ("RASOHAM", FEST, ANN, "Alwarpet", "Rasoham, Alwarpet", "Kutty Kutchery Festival 2026 · 12–21 Dec 2026",
+     "Ten-day festival listed on ragarasa.in (Carnatic vocal and instrumental, Hindustani, dance and folk); programme not yet published.",
+     "https://rasoham.org/"),
     ("Medai The Stage", FEST, AW, "Alwarpet", "1st Cross St, Co-operative Colony", "", "", ""),
     ("Triplicane Music Festival", FEST, AW, "Triplicane", "NKT Muthu Hall", "", "Organiser name not found; listed under the festival name.", ""),
     ("TAPAS", FEST, AW, "", "", "", "Runs the TAPAS Music and Dance Festival.", ""),
@@ -107,6 +109,9 @@ ORGS = [
     ("Pranavakaram Fine Arts Trust", FEST, PUB, "Mylapore", "Bharatiya Vidya Bhavan Chennai Kendra", "Fundraiser concert · 16 Nov 2026",
      "Presents a ticketed fundraiser concert by Chitravina N. Ravikiran with Aditya Mohan (Hawaiian guitar), 6 pm at Bharatiya Vidya Bhavan Chennai Kendra (ragarasa.in listing).",
      "https://ragarasa.in/events/100th-annual-concerts-2026"),
+    ("Beachville Coffee Roasters", FEST, PUB, "Alwarpet / TTK Road", "Beachville Coffee Roasters, 99 St. Mary's Road, Alwarpet", "A Carnatic Shot (2nd edition) · 21–26 Dec 2026",
+     "Six short themed Carnatic sets in the café, 2.30 pm daily, ticketed (artists and times on MDnD). The 2025 edition was curated by Aalaap.",
+     "https://www.indian-heritage.org/musicseason/sch.html"),
 ]
 
 PART = "Some dates via artists' websites"

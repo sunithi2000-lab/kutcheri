@@ -137,11 +137,11 @@
   "entry": "Free",
   "organisation": "Organiser not stated",
   "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
+  "venue": "Raga Sudha Hall, Luz Avenue, Mylapore",
+  "area": "Mylapore",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Nadaswaram Concert by Adyar S Padmanabhan & Thirukalukundram M.R. Hemaraj\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "note": "Listed on MDnD as \"Carnatic Nadaswaram Concert by Adyar S Padmanabhan & Thirukalukundram M.R. Hemaraj\" — one of a series of free 6.15 pm concerts in November; organiser and accompanists not printed in the listing. Venue Raga Sudha Hall from ragarasa.in's event listing (6:15 PM).",
   "fetched": "2026-10-12"
  },
  {
@@ -163,11 +163,11 @@
   "entry": "Ticketed",
   "organisation": "Organiser not stated",
   "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
+  "venue": "MDnD Performance Centre, Luz Church Road, Mylapore",
+  "area": "Mylapore",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Veena Concert by Veena Venkatramani\" (6 pm, ticketed); organiser, venue and accompanists not printed in the listing.",
+  "note": "Listed on MDnD as \"Carnatic Veena Concert by Veena Venkatramani\" (6 pm, ticketed); venue MDnD Performance Centre, Mylapore from ragarasa.in's event listing; organiser and accompanists not printed.",
   "fetched": "2026-10-12"
  },
  {
@@ -319,11 +319,11 @@
   "entry": "Free",
   "organisation": "Organiser not stated",
   "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
+  "venue": "Raga Sudha Hall, Luz Avenue, Mylapore",
+  "area": "Mylapore",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Nadaswaram Concert by Mylai Karthikeyan\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "note": "Listed on MDnD as \"Nadaswaram Concert by Mylai Karthikeyan\" — one of a series of free 6.15 pm concerts in November; organiser and accompanists not printed in the listing. Venue Raga Sudha Hall from ragarasa.in's event listing (6:15 PM).",
   "fetched": "2026-10-12"
  },
  {
@@ -371,11 +371,11 @@
   "entry": "Free",
   "organisation": "Organiser not stated",
   "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
+  "venue": "Raga Sudha Hall, Luz Avenue, Mylapore",
+  "area": "Mylapore",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Mandolin Concert by Vishwas Hari\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
+  "note": "Listed on MDnD as \"Carnatic Mandolin Concert by Vishwas Hari\" — one of a series of free 6.15 pm concerts in November; organiser and accompanists not printed in the listing. Venue Raga Sudha Hall from ragarasa.in's event listing (6:15 PM).",
   "fetched": "2026-10-12"
  },
  {
@@ -3876,6 +3876,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-21-1430-ashwathnar",
+  "date": "2026-12-21",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Ashwath Narayanan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ashwath Narayanan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Beachville Coffee Roasters",
+  "festival": "A Carnatic Shot (2nd edition)",
+  "venue": "Beachville Coffee Roasters, 99 St. Mary's Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"A Carnatic Shot - Raga Saga by Ashwath Narayanan\" (2.30 pm, ticketed). Part of \"A Carnatic Shot\" (2nd edition, 21–26 Dec 2026), short themed Carnatic sets presented at Beachville Coffee Roasters; presenter and venue from indian-heritage.org's 2026–27 season page. Accompanists and end time not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ch-2026-12-21-1600",
   "date": "2026-12-21",
   "start": "16:00",
@@ -4276,6 +4302,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-22-1430-sayeeraksh",
+  "date": "2026-12-22",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Sayee Rakshith & Chandrasekara Sharma",
+  "main_instrument": "Violin & Ghatam",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Sayee Rakshith & Chandrasekara Sharma",
+    "instrument": "Violin & Ghatam",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Beachville Coffee Roasters",
+  "festival": "A Carnatic Shot (2nd edition)",
+  "venue": "Beachville Coffee Roasters, 99 St. Mary's Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"A Carnatic Shot - Soundscapes by Sayee Rakshith and Chandrasekara Sharma\" (2.30 pm, ticketed). Part of \"A Carnatic Shot\" (2nd edition, 21–26 Dec 2026), short themed Carnatic sets presented at Beachville Coffee Roasters; presenter and venue from indian-heritage.org's 2026–27 season page. Accompanists and end time not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "ch-2026-12-22-1600",
@@ -4698,6 +4750,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-23-1430-sumeshnara",
+  "date": "2026-12-23",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Sumesh Narayanan",
+  "main_instrument": "Mridangam Solo",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Sumesh Narayanan",
+    "instrument": "Mridangam Solo",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Beachville Coffee Roasters",
+  "festival": "A Carnatic Shot (2nd edition)",
+  "venue": "Beachville Coffee Roasters, 99 St. Mary's Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"A Carnatic Shot - Echo Chamber by Sumesh Narayanan\" (2.30 pm, ticketed). Part of \"A Carnatic Shot\" (2nd edition, 21–26 Dec 2026), short themed Carnatic sets presented at Beachville Coffee Roasters; presenter and venue from indian-heritage.org's 2026–27 season page. Accompanists and end time not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "ch-2026-12-23-1600",
@@ -5136,6 +5214,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-24-1430-gravikiran",
+  "date": "2026-12-24",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "G. Ravikiran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "G. Ravikiran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Beachville Coffee Roasters",
+  "festival": "A Carnatic Shot (2nd edition)",
+  "venue": "Beachville Coffee Roasters, 99 St. Mary's Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"A Carnatic Shot - Unscripted by G Ravikiran\" (2.30 pm, ticketed). Part of \"A Carnatic Shot\" (2nd edition, 21–26 Dec 2026), short themed Carnatic sets presented at Beachville Coffee Roasters; presenter and venue from indian-heritage.org's 2026–27 season page. Accompanists and end time not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "ch-2026-12-24-1600",
@@ -5675,6 +5779,37 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-25-1430-sadityanar",
+  "date": "2026-12-25",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "S. Adityanarayanan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Adityanarayanan",
+    "instrument": "Vocal",
+    "role": "main"
+   },
+   {
+    "name": "Sruti Sarathy",
+    "instrument": "Violin",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Beachville Coffee Roasters",
+  "festival": "A Carnatic Shot (2nd edition)",
+  "venue": "Beachville Coffee Roasters, 99 St. Mary's Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"A Carnatic Shot - No words by S Adityanarayanan and Sruti Sarathy\" (2.30 pm, ticketed). Part of \"A Carnatic Shot\" (2nd edition, 21–26 Dec 2026), short themed Carnatic sets presented at Beachville Coffee Roasters; presenter and venue from indian-heritage.org's 2026–27 season page. Accompanists and end time not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ch-2026-12-25-1600",
   "date": "2026-12-25",
   "start": "16:00",
@@ -6153,6 +6288,37 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-26-1430-aishwaryav",
+  "date": "2026-12-26",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Aishwarya Vidhya Raghunath",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aishwarya Vidhya Raghunath",
+    "instrument": "Vocal",
+    "role": "main"
+   },
+   {
+    "name": "V. Anirudh Athreya",
+    "instrument": "Kanjira",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Beachville Coffee Roasters",
+  "festival": "A Carnatic Shot (2nd edition)",
+  "venue": "Beachville Coffee Roasters, 99 St. Mary's Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"A Carnatic Shot - Holly Jolly by Aishwarya Vidhya Raghunath & V Anirudh Athreya\" (2.30 pm, ticketed). Part of \"A Carnatic Shot\" (2nd edition, 21–26 Dec 2026), short themed Carnatic sets presented at Beachville Coffee Roasters; presenter and venue from indian-heritage.org's 2026–27 season page. Accompanists and end time not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "ch-2026-12-26-1600",
