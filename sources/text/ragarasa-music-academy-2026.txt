@@ -1,5 +1,5 @@
 # https://ragarasa.in/events/100th-annual-concerts-2026
-# fetched 2026-11-07T18:01Z
+# fetched 2026-11-08T18:00Z
 RāgaRasa
 Back to Events
 View
@@ -145,9 +145,9 @@ Fri, 20 Nov 2026 · 6:15 PM
 Raga Sudha Hall, Chennai, Tamil Nadu
 View Details
 2 Days
+Carnatic Vocal
 Carnatic Instrumental
 Classical Dance
-Carnatic Vocal
 Sama Festival of Music & Dance 2026
 Omkar G.
 21 Nov – 22 Nov 2026
@@ -189,9 +189,9 @@ Sat, 28 Nov 2026 · 5:30 PM
 Indiranagar Sangeetha Sabha, Bengaluru, Karnataka
 View Details
 3 Days
-Classical Dance
-Carnatic Vocal
 Carnatic Instrumental
+Carnatic Vocal
+Classical Dance
 Aradhana 2026 – Celebrating Art (Ambalam Foundation)
 C.N. Chandrasekhar
 09 Dec – 11 Dec 2026
@@ -199,23 +199,23 @@ Seva Sadan, Bengaluru, Karnataka
 View Details
 3 Days
 Carnatic Devotional Music
-Carnatic Instrumental
-Carnatic Folk Music
-Carnatic Vocal
 Classical Dance
+Carnatic Vocal
+Carnatic Folk Music
+Carnatic Instrumental
 70th Margazhi Mela 2026 – Dr. Nalli Gana Vihar Concerts
 Tumkur B. Ravishankar
 12 Dec – 14 Dec 2026
 Dr. Nalli Gana Vihar, Chennai, Tamil Nadu
 View Details
 10 Days
-Hindustani Classical Music
+Folk Music
+Carnatic Vocal
 Classical Dance
 Folk Percussion
 Folk Dance
-Carnatic Vocal
-Folk Music
 Carnatic Instrumental
+Hindustani Classical Music
 Kutty Kutchery Festival 2026 – Rasoham, Alwarpet
 G. Ramanathan
 12 Dec – 21 Dec 2026
@@ -228,10 +228,10 @@ Sun, 13 Dec 2026 · 11:00 AM
 Bangalore Gayana Samaja, Bengaluru, Karnataka
 View Details
 10 Days
-Carnatic Instrumental
+Carnatic Vocal
 Carnatic Folk Music
 Classical Dance
-Carnatic Vocal
+Carnatic Instrumental
 Narada Gana Sabha – Isai Natya Nataka Vizha 2026
 Abhishek Raghuram
 13 Dec – 22 Dec 2026

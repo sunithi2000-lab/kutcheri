@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-07T18:01Z
+# fetched 2026-11-08T18:00Z
 Select Language
 English
 Tamil
@@ -10,9 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-SANgeet DEEPavali by Sandeep Narayan | Carnatica Global and Sri Parthasarathy Swami Sabha
-Sat, 7th Nov 2026 | 6:45 PM
-Ticketed | Offline
 Carnatic Vocal Concert by Dr Sumithra Vasudev
 Mon, 9th Nov 2026 | 6:15 PM
 Free | Offline
