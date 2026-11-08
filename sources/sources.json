@@ -167,11 +167,6 @@
    "url": "https://jayanthikumaresh.com/schedule"
   },
   {
-   "slug": "artist-sj-jananiy",
-   "kind": "artist",
-   "url": "https://www.bandsintown.com/a/15524468-s.-j.-jananiy"
-  },
-  {
    "slug": "artist-aruna-sairam",
    "kind": "artist",
    "url": "https://www.arunasairam.com/"
@@ -370,6 +365,12 @@
    "url": "https://kalaverse.com/events",
    "follow_pdfs": false,
    "wait_ms": 8000
+  },
+  {
+   "slug": "artist-sj-jananiy-site",
+   "kind": "artist",
+   "url": "https://sjjananiy.com/shows",
+   "follow_pdfs": false
   }
  ],
  "_blocked_note": "BookMyShow, District, Bandsintown and chennaidecemberseason.com refuse automated visits (403/429); the research job checks them by web search instead."
