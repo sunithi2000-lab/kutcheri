@@ -1,5 +1,5 @@
 # https://ragarasa.in/
-# fetched 2026-11-08T18:00Z
+# fetched 2026-11-09T19:31Z
 RāgaRasa
 INDIAN CLASSICAL ARTS
 Stop Missing Classical Music Performances
@@ -34,11 +34,17 @@ EVENTS
 Upcoming Events
 Discover the finest Indian classical music and dance performances
 View all events
-Vocal
-Sumithra Vasudev - Carnatic Vocal
-Sumithra Vasudev
-Mon, 09 Nov 2026 · 6:15 PM
-Raga Sudha Hall, Chennai, Tamil Nadu
+2 Days
+Carnatic Vocal
+Margazhi Festival
+10 Nov – 11 Nov 2026
+Venue
+View Details
+Carnatic Vocal
+Deepavali Sangeethotsavam 2026
+Chintalapalli Manoj R S
+Wed, 11 Nov 2026 · 3:00 PM
+Venue
 View Details
 Carnatic Vocal
 Abhiram Hariharapura - Carnatic Vocal
@@ -51,32 +57,25 @@ V.Deepika & Nandhika
 Wed, 11 Nov 2026 · 4:30 PM
 Arkay Convention Centre (ACC), Chennai, Tamil Nadu
 View Details
-Indian Classical
 Flute
 Fusion
+Indian Classical
 Chowdiah Utsava – Sri K. K. Murthy Memorial Music Festival 2026
 A Amit Nadig
 Wed, 11 Nov 2026 · 5:30 PM
 Chowdiah Memorial Hall, Bengaluru, Karnataka
 View Details
-Violin
-Nagai R. Muralidharan - Carnatic Violin
-Nagai R.Muralidharan
-Wed, 11 Nov 2026 · 6:15 PM
-Venue
-View Details
+16 Days
 Carnatic Vocal
-Vijay Prakash & Party - Classical Fusion Concert
-Wed, 11 Nov 2026 · 7:00 PM
-Chowdiah Memorial Hall, Bengaluru, Karnataka
+R. Suryaprakash – Carnatic Music Concert Schedule 2026-27
+R. Suryaprakash
+11 Nov – 06 Jan 2027
+Sri Swathi Thirunal Sangeetha Sabha, Thiruvananthapuram, Kerala
 View Details
 ARTISTS
 Featured Artists
 Celebrated masters of Indian classical arts
 View all artists
-Vidushi Ranjani
-VOCAL
-Chennai, Tamil Nadu
 Gayatri
 VOCAL
 Chennai, Tamil Nadu
@@ -89,6 +88,9 @@ Bengaluru, Karnataka
 Vittal Rangan
 VIOLIN
 Chennai, Tamil Nadu
+Vijay Natesan
+MRIDANGAM
+Bengaluru, Karnataka
 JOIN US
 Ready to Join the
 Classical Arts Ecosystem?

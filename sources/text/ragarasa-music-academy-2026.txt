@@ -1,5 +1,5 @@
 # https://ragarasa.in/events/100th-annual-concerts-2026
-# fetched 2026-11-08T18:00Z
+# fetched 2026-11-09T19:31Z
 RāgaRasa
 Back to Events
 View
@@ -123,12 +123,21 @@ B.K. Anantha Ram
 Sun, 15 Nov 2026 · 3:00 PM
 MALLESHWARA RAMAMANDIR, Bengaluru
 View Details
-Hindustani Vocal
 Carnatic Instrumental
+Hindustani Vocal
 Nada Samvadha - S Shashank & Jayateerth Mevundi Jugalbandi
 Jayateerth Mevundi
 Sun, 15 Nov 2026 · 7:00 PM
 Chowdiah Memorial Hall, Bengaluru, Karnataka
+View Details
+Carnatic Instrumental
+Ghatam
+Violin
+Mridangam
+Vittal Ramamurthy - Carnatic Violin
+Vittal Ramamurthy
+Sun, 15 Nov 2026 · 7:00 PM
+The Music Academy, Chennai, Tamil Nadu
 View Details
 Hindustani Instrumental
 Carnatic Instrumental
@@ -188,33 +197,45 @@ Sunil Subramanya
 Sat, 28 Nov 2026 · 5:30 PM
 Indiranagar Sangeetha Sabha, Bengaluru, Karnataka
 View Details
-3 Days
 Carnatic Instrumental
-Carnatic Vocal
+Jyotsna Hebbar – Carnatic Veena Concert (Layatvam Karthika Maasa Festival)
+Jyotsna Hebbar
+Sat, 05 Dec 2026 · 6:00 PM
+Haritasam, ISRO Layout, Bengaluru, Karnataka
+View Details
+Carnatic Instrumental
+Shankar Rajan & Anand Vishwanathan – Carnatic Violin Duet (Layatvam Karthika Maasa Festival)
+Bhargava Simhadri
+Sun, 06 Dec 2026 · 6:00 PM
+Haritasam, ISRO Layout, Bengaluru, Karnataka
+View Details
+3 Days
 Classical Dance
+Carnatic Vocal
+Carnatic Instrumental
 Aradhana 2026 – Celebrating Art (Ambalam Foundation)
 C.N. Chandrasekhar
 09 Dec – 11 Dec 2026
 Seva Sadan, Bengaluru, Karnataka
 View Details
 3 Days
+Carnatic Folk Music
+Carnatic Instrumental
 Carnatic Devotional Music
 Classical Dance
 Carnatic Vocal
-Carnatic Folk Music
-Carnatic Instrumental
 70th Margazhi Mela 2026 – Dr. Nalli Gana Vihar Concerts
 Tumkur B. Ravishankar
 12 Dec – 14 Dec 2026
 Dr. Nalli Gana Vihar, Chennai, Tamil Nadu
 View Details
 10 Days
+Carnatic Instrumental
 Folk Music
-Carnatic Vocal
-Classical Dance
 Folk Percussion
 Folk Dance
-Carnatic Instrumental
+Carnatic Vocal
+Classical Dance
 Hindustani Classical Music
 Kutty Kutchery Festival 2026 – Rasoham, Alwarpet
 G. Ramanathan
@@ -228,10 +249,10 @@ Sun, 13 Dec 2026 · 11:00 AM
 Bangalore Gayana Samaja, Bengaluru, Karnataka
 View Details
 10 Days
-Carnatic Vocal
 Carnatic Folk Music
-Classical Dance
 Carnatic Instrumental
+Carnatic Vocal
+Classical Dance
 Narada Gana Sabha – Isai Natya Nataka Vizha 2026
 Abhishek Raghuram
 13 Dec – 22 Dec 2026
@@ -245,6 +266,54 @@ Charsur December Season Music Festival 2026 – Dvayam (Sounds of Duality)
 Vittal Rangan
 15 Dec – 31 Dec 2026
 My Bungalow, Chennai, Tamil Nadu
+View Details
+Carnatic Instrumental
+Mysore M. Nagaraj & Mysore M. Manjunath - Carnatic Violin Duet
+Giridhar Udupa
+Fri, 01 Jan 2027 · 9:15 AM
+The Music Academy, Chennai, Tamil Nadu
+View Details
+Carnatic Instrumental
+Ganesh & Kumaresh - Carnatic Violin Duet
+R.Ganesh & R.Kumaresh R.Ganesh
+Fri, 01 Jan 2027 · 10:30 AM
+Sri YGP Auditorium, Chennai, Tamil Nadu
+View Details
+Carnatic Instrumental
+Rishabh Ranganathan & Vishwas Hari - Carnatic Fusion
+Sat, 02 Jan 2027 · 10:30 AM
+Sri YGP Auditorium, Chennai, Tamil Nadu
+View Details
+Carnatic Instrumental
+U Rajesh & Anil Srinivasan - Mandolin & Piano
+U. Rajesh
+Sat, 02 Jan 2027 · 4:00 PM
+Vidya Bharathi Auditorium, Chennai, Tamil Nadu
+View Details
+Carnatic Instrumental
+Shishir Kumar & Vignesh Shankar - Saxophone & Guitar
+S.Shishir Kumar
+Sun, 03 Jan 2027 · 10:30 AM
+Sri YGP Auditorium, Chennai, Tamil Nadu
+View Details
+Carnatic Instrumental
+Bangalore N. Amrit - Layanadamrita Vaibhava
+Bangalore Amrit
+Sat, 30 Jan 2027 · 10:00 AM
+Prestige Centre for Performing Arts, Bengaluru, Karnataka
+View Details
+Carnatic Instrumental
+Ganesh & Kumaresh - Strings, Clay & Skin
+K.U. Jayachandra Rao
+Sun, 31 Jan 2027 · 10:00 AM
+Prestige Centre for Performing Arts, Bengaluru, Karnataka
+View Details
+Carnatic Vocal
+Carnatic Instrumental
+Dushyanth Sridhar - Nada Katha Tattvam
+Shreelakshmi S.Bhat
+Sun, 31 Jan 2027 · 7:00 PM
+Prestige Centre for Performing Arts, Bengaluru, Karnataka
 View Details
 RāgaRasa
 Connecting the Indian Classical Arts community — artists, organizers, and enthusiasts for a vibrant cultural ecosystem.
