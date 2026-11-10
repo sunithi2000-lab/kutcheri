@@ -254,12 +254,6 @@
    "url": "https://rrsabha.org/cevent.html"
   },
   {
-   "slug": "ragarasa-music-academy-2026",
-   "kind": "aggregator",
-   "url": "https://ragarasa.in/events/100th-annual-concerts-2026",
-   "wait_ms": 10000
-  },
-  {
    "slug": "chennaicentral-events",
    "kind": "aggregator",
    "url": "https://chennaicentral.in/events/"
