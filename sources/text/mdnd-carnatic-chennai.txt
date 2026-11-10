@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-09T19:31Z
+# fetched 2026-11-10T18:12Z
 Select Language
 English
 Tamil
@@ -10,9 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Vocal Concert by Dr Sumithra Vasudev
-Mon, 9th Nov 2026 | 6:15 PM
-Free | Offline
 Carnatic Violin Duet Concert by Deepika & Nandhika
 Wed, 11th Nov 2026 | 4:30 PM
 Free | Offline
@@ -127,7 +124,7 @@ Ticketed | Offline
 Unnikrishnan & Uthara | Carnatic Vocal Concert | Bharat Kalchar
 Sat, 19th Dec 2026 | 6:30 PM
 Ticketed | Offline
-31st Year Celebrations - Mega Isai Vizha - Mahakavi Bharathiyaar Maniyaana Padalgal
+31st Year Celebrations - Mega Isai Vizha - Perumalin Perumai
 Sat, 19th Dec 2026 | 7:00 PM
 Ticketed | Offline
 R K Shriramkumar - Lec Dem | Charsur Arts Foundation
@@ -340,6 +337,12 @@ Ticketed | Offline
 Carnatic Vocal Concert by Giridharan
 Fri, 1st Jan 2027 | 5:30 PM
 Free | Offline
+Carnatic Fusion by Rishabh Ranganathan & Viswas Hari
+Sat, 2nd Jan 2027 | 10:30 AM
+Free | Offline
+Carnatic Vocal Concert by Rasika Sivakumar
+Sat, 2nd Jan 2027 | 2:00 PM
+Free | Offline
 Carnatic Vocal Concert by Anahita and Apoorva | Live4You
 Sat, 2nd Jan 2027 | 3:30 PM
 Ticketed | Offline
@@ -349,9 +352,18 @@ Ticketed | Offline
 4.00 PM U RAJESH (Mandolin) and Anil Srinivasan (Piano) | 6.30 PM Kunnakudi M Balamuralikrishna (Vocal) | SRI PARTHASARATHY SWAMI SABHA
 Sat, 2nd Jan 2027 | 4:00 PM
 Ticketed | Offline
+Carnatic Vocal Concert by R Suryaprakash
+Sat, 2nd Jan 2027 | 4:30 PM
+Free | Offline
 Ranjani Gayatri | Carnatic Vocal | Live4You
 Sat, 2nd Jan 2027 | 6:30 PM
 Ticketed | Offline
+Carnatic Saxophone by Shishir Kumar & Guitar by Vignesh Shankar
+Sun, 3rd Jan 2027 | 10:30 AM
+Free | Offline
+Carnatic Vocal Concert by Vishruthii Girish
+Sun, 3rd Jan 2027 | 2:00 PM
+Free | Offline
 Carnatic Vocal Concert by Anirudh Subramaniam | Live4You
 Sun, 3rd Jan 2027 | 3:30 PM
 Ticketed | Offline

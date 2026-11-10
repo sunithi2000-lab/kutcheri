@@ -1,5 +1,5 @@
 # https://kalaverse.com/events
-# fetched 2026-11-09T19:31Z
+# fetched 2026-11-10T18:12Z
 Toggle menu
 K
 ·
@@ -53,6 +53,7 @@ Davanagere
 Dehradun
 Delhi NCR
 Dharwad
+Erode
 Guntur
 Guruvayur
 Haripad
@@ -80,6 +81,7 @@ Pandalam
 Pune
 Puttur
 Satara
+Sivakasi
 Solapur
 Sringeri
 Thanjavur

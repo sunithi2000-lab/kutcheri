@@ -1,5 +1,5 @@
 # https://sandeepnarayan.in/concerts
-# fetched 2026-11-09T19:31Z
+# fetched 2026-11-10T18:12Z
 Skip to Main Content
 Upcoming
 Concerts
@@ -7,7 +7,7 @@ Nov 29
 6:30 PM
 Chennai
 Bharatiya Vidya Bhavan
-Bharatiya Vidya Bhavan Main Hall
+Main Auditorium
 Vinayaka Nagar Colony, Mylapore
 Accompanied by:
 L Ramakrishnan (violin)
@@ -18,7 +18,7 @@ Dec 5
 6:45 PM
 Chennai
 Kartik Fine Arts
-Narada Gana Sabha Main Hall
+Narada Gana Sabha
 TTK Road, Alwarpet
 Accompanied by:
 Rajeev Mukundan (violin)
@@ -39,7 +39,7 @@ Free Admission
 Dec 12
 6:30 PM
 Chennai
-Shri Thyaga Brahma Gana Sabha
+Sri Thyaga Brahma Gana Sabha
 Vani Mahal
 GN Chetty Rd, T Nagar
 Accompanied by:
@@ -74,7 +74,7 @@ Dec 22
 Chennai
 Krishna Gana Sabha
 Dr. Nalli Gana Vihar
-Maharajapuram, Santhanam Salai, T. Nagar
+Maharajapuram Santhanam Salai, T. Nagar
 Accompanied by:
 HN Bhaskar (violin)
 Umayalpuram K Sivaraman (mrudangam)
@@ -84,7 +84,7 @@ Dec 25
 6:45 PM
 Chennai
 The Music Academy
-Music Academy Main Hall
+TTK Auditorium
 TTK Road, Royapettah
 Accompanied by:
 B Ananthakrishnan (violin)
@@ -95,7 +95,7 @@ Dec 27
 6:00 PM
 Chennai
 Narada Gana Sabha
-Narada Gana Sabha Main Hall
+Sathguru Gnanananda Hall
 TTK Road, Alwarpet
 Accompanied by:
 HN Bhaskar (violin)
@@ -104,7 +104,7 @@ Tickets TBA
 Dec 29
 6:30 PM
 Chennai
-Parthasarthy Swami Sabha
+Sri Parthasarthy Swami Sabha
 Vidyabharathi Kalyana Mandapam
 Bheema Sena Garden St, Mylapore
 Accompanied by:
@@ -155,5 +155,17 @@ Accompanied by:
 Rajeev Mukundan (violin)
 KU Jayachandra Rao (mrudangam)
 G Guruprasanna (kanjira)
+Tickets TBA
+Jan 16
+7:00 PM
+Chennai
+Abbas Cultural
+Sandeep Narayan & Ensemble
+Kamaraj Arangam, Anna Salai, Teynampet
+Accompanied by:
+Lalit Talluri (flute)
+Marshall (keyboard)
+Sai Giridhar (percussions)
+Sunil Kumar (percussions)
 Tickets TBA
 ​Copyright © 2025 sandeepnarayan.in All rights reserved.
