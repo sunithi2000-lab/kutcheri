@@ -1,5 +1,5 @@
 # https://www.mdnd.in/
-# fetched 2026-11-10T18:12Z
+# fetched 2026-11-11T18:18Z
 Select Language
 English
 Tamil
@@ -28,8 +28,8 @@ Contact Us
 About Us
 MDnD Access App
 Copyright © 2026 MDnD Entertainment Private Limited
-Select Your Country
-Choose your country to see available cities
+Select Country
+Choose country to see available cities
 Algeria
 Andorra
 Angola
