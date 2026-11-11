@@ -53,6 +53,16 @@ ORG = {
         name="Sri Parthasarathy Swami Sabha", festival="126th Year Isai Vizha (December Music Festival)",
         venue="Vidya Bharathi Kalyana Mandapam, Bheemasena Garden Road, Mylapore", area="Mylapore",
         url="https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304"),
+    # 2026-11-12: Kartik Fine Arts' programme (2–12 Dec) on MDnD's Chennai Carnatic listing; held at Narada Gana Sabha
+    "kartik-fine-arts": dict(
+        name="Kartik Fine Arts", festival="52nd Art Festival",
+        venue="Narada Gana Sabha, 314 TTK Road, Alwarpet", area="Alwarpet / TTK Road",
+        url="https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
+    # 2026-11-12: Narada Gana Sabha's programme (13 Dec – 1 Jan) on its own MDnD organiser page
+    "narada-gana-sabha": dict(
+        name="Narada Gana Sabha", festival="Isai Natya Nataka Vizha 2026",
+        venue="Narada Gana Sabha, 314 TTK Road, Alwarpet", area="Alwarpet / TTK Road",
+        url="https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2400"),
 }
 
 concerts = []
@@ -159,6 +169,31 @@ for line in (ROOT / "raw_sri_parthasarathy_swami_sabha_2026.txt").read_text().sp
         entry=entry, organisation=o["name"], festival=o["festival"], venue=o["venue"], area=o["area"],
         source_url=o["url"], source_label="MDnD listing", note=" ".join(x for x in (note, VENUE_NOTE) if x),
         fetched="2026-10-25"))
+
+# Kartik Fine Arts and Narada Gana Sabha (2026-11-12): main artist only, from MDnD (Charsur pattern).
+# Raw line: date|start|entry|artist|form|note ; form "Ensemble" = percussion/instrumental ensemble
+def mdnd_main_only(raw, key, prefix, fetched, extra_note=""):
+    for line in (ROOT / raw).read_text().splitlines():
+        if not line or line.startswith("#"):
+            continue
+        date, start, entry, artist, form, note = line.split("|")
+        if form == "Ensemble":
+            ctype, instrument = "Instrumental ensemble", "Ensemble"
+        else:
+            ctype, instrument = classify(form)
+        o = ORG[key]
+        concerts.append(dict(
+            id=f"{prefix}-{date}-{start.replace(':','')}",
+            date=date, start=start, end="", slot=slot(start),
+            main_artist=artist, main_instrument=instrument, concert_type=ctype,
+            performers=[dict(name=artist, instrument=form, role="main")],
+            entry=entry, organisation=o["name"], festival=o["festival"], venue=o["venue"], area=o["area"],
+            source_url=o["url"], source_label="MDnD listing",
+            note=" ".join(x for x in (note, extra_note) if x), fetched=fetched))
+
+mdnd_main_only("raw_kartik_fine_arts_2026.txt", "kartik-fine-arts", "kfa", "2026-11-12",
+               "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.")
+mdnd_main_only("raw_narada_gana_sabha_2026.txt", "narada-gana-sabha", "ngs", "2026-11-12")
 
 # Artists' own websites / listings: concerts not in any organiser schedule
 for line in (ROOT / "raw_artist_sites_2026.txt").read_text().splitlines():
