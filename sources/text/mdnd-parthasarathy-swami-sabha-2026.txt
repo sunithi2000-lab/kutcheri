@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304
-# fetched 2026-11-11T18:18Z
+# fetched 2026-11-12T19:32Z
 Select Language
 English
 Tamil
@@ -7,8 +7,7 @@ Hindi
 Telugu
 Kannada
 Malayalam
-India
-Chennai
+Select Location
 0
 Season Tickets
 Season Pass | SRI PARTHASARATHY SWAMI SABHA

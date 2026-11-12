@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/Members_Season_Pass_%7C_Narada_Gana_Sabha?ci=c3NrMTAx&se=ZWt5MTY0&r_id=2400&is_multiple=N
-# fetched 2026-11-11T18:18Z
+# fetched 2026-11-12T19:32Z
 Select Language
 English
 Tamil
@@ -7,23 +7,6 @@ Hindi
 Telugu
 Kannada
 Malayalam
-India
-Chennai
+Select Location
 0
-Select membership type
-Enter membership number*
-Name
-E-mail ID
-Click to buy season tickets
-Members Season Pass | Narada Gana Sabha
-Share
-Date :
-Sun, 13th Dec 2026 - Fri, 1st Jan 2027
-Organiser :
-Narada Gana Sabha (Regd)
-Venue :
-Narada Gana Sabha, Chennai
-Description :
-Note:
-Once purchased, we’ll contact you for your location and deliver your tickets to your doorstep—absolutely free
-Read Less
+‌
