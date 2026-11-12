@@ -8230,6 +8230,47 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "as-2026-12-27-1830-neyvelirsa",
+  "date": "2026-12-27",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Neyveli R. Santhanagopalan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Neyveli R. Santhanagopalan",
+    "instrument": "Vocal",
+    "role": "main"
+   },
+   {
+    "name": "V.V. Ravi",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "Trichur C. Narendran",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "H. Sivaramakrishnan",
+    "instrument": "Ghatam",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Eswara Ganothsavam",
+  "festival": "Eswara Ganothsavam 2026 (4th year)",
+  "venue": "Durgabai Deshmukh Centenary Auditorium, Andhra Mahila Sabha, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/eswara-ganothsavam-2026.jpg",
+  "source_label": "Festival poster",
+  "note": "\"Eswara Gana Manjari\" concert of compositions by Dr. Thamarasseri Eswaran Bhattathiri, part of Eswara Ganothsavam 2026 (4th year). Poster says \"All are cordially invited\" (no ticket mentioned); organiser not named on the poster, so listed under the festival name. Copy of the poster kept with the site's sources (sent in by the site owner, 12 Nov 2026).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "spss-2026-12-27-1830",
   "date": "2026-12-27",
   "start": "18:30",
