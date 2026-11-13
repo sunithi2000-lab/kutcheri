@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-12T22:50Z
+# fetched 2026-11-13T19:31Z
 Select Language
 English
 Tamil
@@ -10,8 +10,8 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Vocal Concert by Shakthi Muralidharan & Dhanush Anantharaman
-Thu, 12th Nov 2026 | 6:15 PM
+Carnatic Vocal Concert by Padmashree Srinivasan
+Fri, 13th Nov 2026 | 2:00 PM
 Free | Offline
 Carnatic Vocal Concert by Delhi Sunder Rajan
 Fri, 13th Nov 2026 | 6:00 PM
@@ -379,6 +379,9 @@ Free | Offline
 Carnatic Vocal by Trichur Brothers | Narada Gana Sabha
 Sat, 26th Dec 2026 | 6:30 PM
 Ticketed | Offline
+Carnatic Veena Concert by Nirmala Rajasekar
+Sat, 26th Dec 2026 | 6:30 PM
+Free | Offline
 Madhusudhanan Kalaichelvan - LecDem | Charsur Arts Foundation
 Sun, 27th Dec 2026 | 10:00 AM
 Ticketed | Offline
@@ -412,6 +415,9 @@ Ticketed | Offline
 Carnatic Vocal by Sandeep Narayan | Narada Gana Sabha
 Sun, 27th Dec 2026 | 6:00 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Unnikrishnan & Uthara Unnikrishnan
+Sun, 27th Dec 2026 | 6:30 PM
+Free | Offline
 Carnatic Vocal by Ashwath Narayanan | Narada Gana Sabha
 Mon, 28th Dec 2026 | 3:30 PM
 Ticketed | Offline
@@ -430,6 +436,9 @@ Free | Offline
 Carnatic Vocal by Bharat Sundar | Narada Gana Sabha
 Mon, 28th Dec 2026 | 6:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by NJ Nandini
+Mon, 28th Dec 2026 | 6:30 PM
+Free | Offline
 Carnatic Violin by Sanjay Suresh & Mandolin by Sai Govind Vijayaraghavan
 Tue, 29th Dec 2026 | 10:30 AM
 Free | Offline
@@ -460,6 +469,9 @@ Ticketed | Offline
 Carnatic Veena by Ramana Balachandran | Narada Gana Sabha
 Tue, 29th Dec 2026 | 6:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Carnatica brothers KN Shashikiran & P Ganesh
+Tue, 29th Dec 2026 | 6:30 PM
+Free | Offline
 Carnatic Vocal Concert by Kalyanapuram S Arvind
 Wed, 30th Dec 2026 | 10:30 AM
 Free | Offline
@@ -478,12 +490,18 @@ Ticketed | Offline
 4.00 PM Dr. K. GAYATRI (Vocal) | 6.30 PM K. BHARAT SUNDAR (Vocal) | SRI PARTHASARATHY SWAMI SABHA
 Wed, 30th Dec 2026 | 4:00 PM
 Ticketed | Offline
+Carnatic Mandolin Concert by Saigovind Vijayaraghavan
+Wed, 30th Dec 2026 | 5:00 PM
+Free | Offline
 Trichur Brothers | Carnatic Vocal | Live4You
 Wed, 30th Dec 2026 | 6:30 PM
 Ticketed | Offline
 Carnatic Vocal by Sudha Ragunathan | Narada Gana Sabha
 Wed, 30th Dec 2026 | 6:30 PM
 Ticketed | Offline
+Carnatic Violin Concert by Saravanapriyan Sriraman & Prahlad Saravanapriyan
+Wed, 30th Dec 2026 | 6:30 PM
+Free | Offline
 Carnatic Vocal Concert by Spoorthi Rao | Live4You
 Thu, 31st Dec 2026 | 3:30 PM
 Ticketed | Offline
