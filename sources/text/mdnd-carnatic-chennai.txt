@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-14T21:39Z
+# fetched 2026-11-15T19:31Z
 Select Language
 English
 Tamil
@@ -10,9 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Vocal Concert by Sunil Gargyan
-Sat, 14th Nov 2026 | 6:00 PM
-Free | Offline
 Carnatic Vocal Concert by G Ravi Kiran
 Sun, 15th Nov 2026 | 6:00 PM
 Free | Offline
