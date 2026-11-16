@@ -1,0 +1,31 @@
+# Carnatica (with Sri Parthasarathy Swami Sabha) – Global Heritage Music & Arts Fest 2026, 11–22 Dec 2026 (Carnatic music only).
+# Source: MDnD's Chennai Carnatic listing (watcher snapshot mdnd-carnatic-chennai, run 2026-11-15 22:00Z): one entry a day,
+#   "4.30 PM <concert> | 6.45 PM <concert> | CARNATICA AND SRI PARTHASARATHY SWAMI SABHA" (4 pm / 6.30 pm on 14 and 20 Dec), Ticketed | Offline.
+#   No accompanists, venue or end times printed. Organiser page on MDnD: https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=30992
+#   ("Carnatica Global & Sri Parthasarathy Swami Sabha"; JavaScript-only).
+# Festival name, dates and venue from indian-heritage.org's 2026–27 season page: "Global Heritage Music & Arts Fest 2026, 11–22 Dec 2026,
+#   Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur" (the 2025 edition page names the presenters "Carnatica & Sri Parthasarathy Swami Sabha").
+# Not included: 18 Dec 6.45 pm "Concert by Anil Srinivasan & Sikkil C. Gurucharan with Madhan Karky" (piano–vocal with lyricist; same rule as other
+#   Anil Srinivasan piano items); 21 Dec 7 pm "QFR fame Subhashree Thanikachalam" (film/light music). No entry on 19 Dec.
+# Already listed (raw_artist_sites_2026.txt): 17 Dec 4.30 pm K.S. Vishnudev (artist's poster, "Carnatica Global").
+# Names normalised to the spellings used elsewhere in the dataset; weekdays checked (11 Dec = Fri, 22 Dec = Tue).
+# date|start|entry|artist|form|note   (form "A & B" = duet of two instruments, first named first)
+2026-12-11|16:30|Ticketed|Charumathi Raghuraman|Violin|
+2026-12-11|18:45|Ticketed|Nirmala Rajasekar|Veena|Listed as "Saraswati Veena by Nirmala Rajasekar".
+2026-12-12|16:30|Ticketed|J.A. Jayant & Mylai Karthikeyan|Flute & Nagaswaram|Listed as "Carnatic Flute and Nadaswaram Concert by J.A. Jayanth and Mylai Karthikeyan".
+2026-12-12|18:45|Ticketed|Abhishek Raghuram & J.B. Sruti Sagar|Vocal & Flute|Listed as "Carnatic Vocal and Flute Concert by Abhishek Raghuram and Sruti Sagar".
+2026-12-13|16:30|Ticketed|R.K. Shriramkumar & V.V.S. Murari|Violin & Viola|Listed as "Carnatic Violin and Viola Concert".
+2026-12-13|18:45|Ticketed|Sid Sriram|Vocal|
+2026-12-14|16:00|Ticketed|Ashwath Narayanan|Vocal|
+2026-12-14|18:30|Ticketed|Rajhesh Vaidhya|Veena|Listed as "Rajhesh Vaidya".
+2026-12-15|16:30|Ticketed|Nagai R. Muralidharan|Violin|
+2026-12-15|18:45|Ticketed|Palghat R. Ramprasad|Vocal|Listed as "Palghat Ramprasad".
+2026-12-16|16:30|Ticketed|Prince Rama Varma|Vocal|
+2026-12-16|18:45|Ticketed|Ramakrishnan Murthy|Vocal|
+2026-12-17|18:45|Ticketed|Vignesh Ishwar|Vocal|
+2026-12-18|16:30|Ticketed|S. Saketharaman|Vocal|
+2026-12-20|16:00|Ticketed|Rahul Vellal|Vocal|
+2026-12-20|18:30|Ticketed|Ramana Balachandhran|Veena|
+2026-12-21|16:30|Ticketed|Amrutha Venkatesh|Vocal|
+2026-12-22|16:30|Ticketed|Ashok Ramani|Vocal|Listed as "Papanasam Ashok Ramani".
+2026-12-22|18:45|Ticketed|K. Bharat Sundar|Vocal|

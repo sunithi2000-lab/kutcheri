@@ -232,11 +232,11 @@
  {
   "name": "Trinity Arts",
   "group": "Festival / arts organisation",
-  "status": "Awaiting 2026–27 schedule",
-  "area": "",
-  "venue": "",
-  "festival_2026": "",
-  "note": "Trinity Arts Festival.",
+  "status": "Dates announced",
+  "area": "Mylapore",
+  "venue": "Rasika Ranjani Sabha",
+  "festival_2026": "Trinity Arts Festival 2026 · from Nov 2026",
+  "note": "Festival at R.R. Sabha; S. J. Jananiy's 21 Nov concert comes from the artist's website. Full programme not yet found.",
   "url": ""
  },
  {
@@ -452,12 +452,12 @@
  {
   "name": "Carnatica",
   "group": "Festival / arts organisation",
-  "status": "Some dates via artists' websites",
-  "area": "Mylapore",
-  "venue": "Desiga Vidya Bhavanam (Paddhathi Music Fest)",
-  "festival_2026": "",
-  "note": "Own schedule not yet published; dates found on artists' websites.",
-  "url": "https://carnatica.net/"
+  "status": "Schedule published",
+  "area": "Thiruvanmiyur",
+  "venue": "Sri Sankara Vidhyashramam School Auditorium, Thiruvanmiyur",
+  "festival_2026": "Global Heritage Music & Arts Fest 2026 · 11–22 Dec 2026",
+  "note": "Presented with Sri Parthasarathy Swami Sabha: two ticketed concerts a day (4.30 pm and 6.45 pm; 4 pm and 6.30 pm on 14 and 20 Dec), 11–22 Dec, listed on MDnD; venue from indian-heritage.org. Two non-Carnatic items (18 Dec piano–vocal with Madhan Karky, 21 Dec film music) are not listed here. Also co-presented Bharat Sangeet Utsav 2026 (31 Oct – 7 Nov, before the season).",
+  "url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=30992"
  },
  {
   "name": "MDnD",
@@ -574,9 +574,9 @@
   "group": "Festival / arts organisation",
   "status": "Schedule published",
   "area": "Neelankarai",
-  "venue": "AMRK Banquet Hall (earlier editions)",
-  "festival_2026": "Chennaiyil Sangeeth Utsav · 9–13 Jan 2027",
-  "note": "Four ticketed 6.30 pm concerts listed on MDnD (9, 10, 12, 13 Jan 2027); venue not printed for 2027. Organiser name not found; listed under the festival name.",
+  "venue": "R.K Convention Centre",
+  "festival_2026": "Chennaiyil Sangeeth Utsav Season 5 · 9–14 Jan 2027",
+  "note": "Four ticketed 6.30 pm concerts listed on MDnD (9, 10, 12, 13 Jan 2027); venue R.K Convention Centre, Neelankarai (indian-heritage.org). Organiser name not found; listed under the festival name.",
   "url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"
  },
  {

@@ -171,6 +171,47 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-11-21-1715-sjjananiy",
+  "date": "2026-11-21",
+  "start": "17:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. J. Jananiy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. J. Jananiy",
+    "instrument": "Vocal",
+    "role": "main"
+   },
+   {
+    "name": "Usha Rajagopalan",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "Nellai A. Balaji",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "Hariharasubramanian",
+    "instrument": "Ghatam",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Trinity Arts",
+  "festival": "Trinity Arts Festival",
+  "venue": "Rasika Ranjani Sabha, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sjjananiy.com/shows",
+  "source_label": "Artist's website",
+  "note": "Listed on the artist's site as \"Trinity Arts Festival - Carnatic Vocal Concert by Kalaimamani Ms S. J. Jananiy\", Sat, Nov 21 @ 5:15 PM, Rasika Ranjani Sabha, Chennai (watcher run 2026-11-15 22:00Z; re-read live 17 Nov). Trinity Arts' festival is held at R.R. Sabha (Mylapore Times, 2025 edition). Ticket details not given.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-11-21-1800-veenavenka",
   "date": "2026-11-21",
   "start": "18:00",
@@ -1249,6 +1290,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "cg-2026-12-11-1630",
+  "date": "2026-12-11",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Charumathi Raghuraman",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Charumathi Raghuraman",
+    "instrument": "Violin",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
+ },
+ {
   "id": "as-2026-12-11-1800-ksvishnude",
   "date": "2026-12-11",
   "start": "18:00",
@@ -1273,6 +1340,58 @@
   "source_label": "Artist's poster (Facebook)",
   "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "cg-2026-12-11-1845",
+  "date": "2026-12-11",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Nirmala Rajasekar",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Nirmala Rajasekar",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Saraswati Veena by Nirmala Rajasekar\". Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
+ },
+ {
+  "id": "cg-2026-12-12-1630",
+  "date": "2026-12-12",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "J.A. Jayant & Mylai Karthikeyan",
+  "main_instrument": "Flute",
+  "concert_type": "Duet",
+  "performers": [
+   {
+    "name": "J.A. Jayant & Mylai Karthikeyan",
+    "instrument": "Flute & Nagaswaram",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Carnatic Flute and Nadaswaram Concert by J.A. Jayanth and Mylai Karthikeyan\". Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
  },
  {
   "id": "kfa-2026-12-12-1630",
@@ -1340,6 +1459,32 @@
   "source_label": "Artist's website",
   "note": "Listed under \"Thyaga Brahma Gana Sabha\" on the artist's site; tickets \"TBA\".",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "cg-2026-12-12-1845",
+  "date": "2026-12-12",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Abhishek Raghuram & J.B. Sruti Sagar",
+  "main_instrument": "Vocal",
+  "concert_type": "Duet",
+  "performers": [
+   {
+    "name": "Abhishek Raghuram & J.B. Sruti Sagar",
+    "instrument": "Vocal & Flute",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Carnatic Vocal and Flute Concert by Abhishek Raghuram and Sruti Sagar\". Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
  },
  {
   "id": "kfa-2026-12-12-1845",
@@ -1445,6 +1590,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "cg-2026-12-13-1630",
+  "date": "2026-12-13",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "R.K. Shriramkumar & V.V.S. Murari",
+  "main_instrument": "Violin",
+  "concert_type": "Duet",
+  "performers": [
+   {
+    "name": "R.K. Shriramkumar & V.V.S. Murari",
+    "instrument": "Violin & Viola",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Carnatic Violin and Viola Concert\". Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
+ },
+ {
   "id": "as-2026-12-13-1800-sanjaysubr",
   "date": "2026-12-13",
   "start": "18:00",
@@ -1495,6 +1666,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "cg-2026-12-13-1845",
+  "date": "2026-12-13",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sid Sriram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sid Sriram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
  },
  {
   "id": "skgs-2026-12-14-1100",
@@ -1600,6 +1797,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "cg-2026-12-14-1600",
+  "date": "2026-12-14",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ashwath Narayanan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ashwath Narayanan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
+ },
+ {
   "id": "skgs-2026-12-14-1600",
   "date": "2026-12-14",
   "start": "16:00",
@@ -1660,6 +1883,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "cg-2026-12-14-1830",
+  "date": "2026-12-14",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Rajhesh Vaidhya",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Rajhesh Vaidhya",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Rajhesh Vaidya\". Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
  },
  {
   "id": "ngs-2026-12-14-1830",
@@ -1920,6 +2169,32 @@
   "note": ""
  },
  {
+  "id": "cg-2026-12-15-1630",
+  "date": "2026-12-15",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Nagai R. Muralidharan",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Nagai R. Muralidharan",
+    "instrument": "Violin",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
+ },
+ {
   "id": "ch-2026-12-15-1830",
   "date": "2026-12-15",
   "start": "18:30",
@@ -1970,6 +2245,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "cg-2026-12-15-1845",
+  "date": "2026-12-15",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Palghat R. Ramprasad",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Palghat R. Ramprasad",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Palghat Ramprasad\". Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
  },
  {
   "id": "ma-2026-12-15-1900",
@@ -2337,6 +2638,32 @@
   "note": ""
  },
  {
+  "id": "cg-2026-12-16-1630",
+  "date": "2026-12-16",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Prince Rama Varma",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Prince Rama Varma",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
+ },
+ {
   "id": "as-2026-12-16-1830-ksvishnude",
   "date": "2026-12-16",
   "start": "18:30",
@@ -2413,6 +2740,32 @@
   "source_label": "MDnD listing",
   "note": "Listed on the sabha's page as \"Carnatic Vocal by Unnikrishnan and Uthra\".",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "cg-2026-12-16-1845",
+  "date": "2026-12-16",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramakrishnan Murthy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ramakrishnan Murthy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
  },
  {
   "id": "ma-2026-12-16-1845",
@@ -2790,14 +3143,14 @@
     "role": "main"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Ticketed",
   "organisation": "Carnatica",
-  "festival": "—",
-  "venue": "Sri Sankara Matriculation School, Thiruvanmiyur",
+  "festival": "Global Heritage Music & Arts Fest 2026",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
   "area": "Thiruvanmiyur",
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
   "source_label": "Artist's poster (Facebook)",
-  "note": "Listed under \"Carnatica Global\". From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "note": "Listed under \"Carnatica Global\" at \"Sri Sankara Matriculation School, Thiruvanmiyur\" on the artist's poster; also on MDnD (4.30 pm, ticketed) in the Global Heritage Music & Arts Fest 2026 presented by Carnatica and Sri Parthasarathy Swami Sabha (venue per indian-heritage.org). From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
   "fetched": "2026-10-12"
  },
  {
@@ -2877,6 +3230,32 @@
   "source_label": "MDnD listing",
   "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "cg-2026-12-17-1845",
+  "date": "2026-12-17",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vignesh Ishwar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vignesh Ishwar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
  },
  {
   "id": "ma-2026-12-17-1845",
@@ -3294,6 +3673,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "cg-2026-12-18-1630",
+  "date": "2026-12-18",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Saketharaman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Saketharaman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
  },
  {
   "id": "bk-2026-12-18-1830-bolavavitt",
@@ -4188,6 +4593,32 @@
   "note": ""
  },
  {
+  "id": "cg-2026-12-20-1600",
+  "date": "2026-12-20",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Rahul Vellal",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Rahul Vellal",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
+ },
+ {
   "id": "ch-2026-12-20-1600",
   "date": "2026-12-20",
   "start": "16:00",
@@ -4387,6 +4818,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "cg-2026-12-20-1830",
+  "date": "2026-12-20",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramana Balachandhran",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Ramana Balachandhran",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
  },
  {
   "id": "ch-2026-12-20-1830",
@@ -4851,6 +5308,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "cg-2026-12-21-1630",
+  "date": "2026-12-21",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Amrutha Venkatesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Amrutha Venkatesh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
  },
  {
   "id": "bk-2026-12-21-1830-sudharagun",
@@ -5348,6 +5831,32 @@
   "note": ""
  },
  {
+  "id": "cg-2026-12-22-1630",
+  "date": "2026-12-22",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ashok Ramani",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ashok Ramani",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Papanasam Ashok Ramani\". Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
+ },
+ {
   "id": "ch-2026-12-22-1830",
   "date": "2026-12-22",
   "start": "18:30",
@@ -5424,6 +5933,32 @@
   "source_label": "MDnD listing",
   "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "cg-2026-12-22-1845",
+  "date": "2026-12-22",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K. Bharat Sundar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K. Bharat Sundar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Carnatica",
+  "festival": "Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+  "venue": "Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur",
+  "area": "Thiruvanmiyur",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "fetched": "2026-11-17"
  },
  {
   "id": "ma-2026-12-22-1845",
@@ -7036,6 +7571,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-25-1700-bhargavhar",
+  "date": "2026-12-25",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Bhargav Hariharan & Krupalakshmi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Bhargav Hariharan & Krupalakshmi",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Bhargav Hariharan & Krupalakshmi\" (5 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ngs-2026-12-25-1800",
   "date": "2026-12-25",
   "start": "18:00",
@@ -7086,6 +7647,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "as-2026-12-25-1830-pantularam",
+  "date": "2026-12-25",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Pantula Rama",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Pantula Rama",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Panthula Rama\" (6.30 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-25-1830-sanjaysubr",
@@ -7620,6 +8207,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-26-1700-dharinikal",
+  "date": "2026-12-26",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dharini Kalyanaraman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dharini Kalyanaraman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Dharini Kalyanaraman\" (5 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ch-2026-12-26-1830",
   "date": "2026-12-26",
   "start": "18:30",
@@ -7670,6 +8283,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-26-1830-nirmalaraj",
+  "date": "2026-12-26",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Nirmala Rajasekar",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Nirmala Rajasekar",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Veena Concert by Nirmala Rajasekar\" (6.30 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "spss-2026-12-26-1830",
@@ -8142,6 +8781,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-27-1700-rithuuraje",
+  "date": "2026-12-27",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Rithuu Rajendran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Rithuu Rajendran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Rithuu Rajendran\" (5 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-27-1800-ranjanigay",
   "date": "2026-12-27",
   "start": "18:00",
@@ -8268,6 +8933,32 @@
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/eswara-ganothsavam-2026.jpg",
   "source_label": "Festival poster",
   "note": "\"Eswara Gana Manjari\" concert of compositions by Dr. Thamarasseri Eswaran Bhattathiri, part of Eswara Ganothsavam 2026 (4th year). Poster says \"All are cordially invited\" (no ticket mentioned); organiser not named on the poster, so listed under the festival name. Copy of the poster kept with the site's sources (sent in by the site owner, 12 Nov 2026).",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-27-1830-unnikrishn",
+  "date": "2026-12-27",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Unnikrishnan & Uthara",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Unnikrishnan & Uthara",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Unnikrishnan & Uthara Unnikrishnan\" (6.30 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
   "fetched": "2026-10-12"
  },
  {
@@ -8673,6 +9364,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-28-1700-suriyasath",
+  "date": "2026-12-28",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Suriya & Sathya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Suriya & Sathya",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Suriya & Sathya\" (5 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-28-1800-ksvishnude",
   "date": "2026-12-28",
   "start": "18:00",
@@ -8749,6 +9466,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-28-1830-njnandini",
+  "date": "2026-12-28",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "N.J. Nandini",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "N.J. Nandini",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by NJ Nandini\" (6.30 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-28-1830-sanjaysubr",
@@ -9334,6 +10077,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-29-1700-shruthisha",
+  "date": "2026-12-29",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shruthi Shankar Kumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shruthi Shankar Kumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Shruthi shankar kumar\" (5 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ch-2026-12-29-1830",
   "date": "2026-12-29",
   "start": "18:30",
@@ -9410,6 +10179,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-29-1830-carnaticab",
+  "date": "2026-12-29",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Carnatica brothers KN Shashikiran & P Ganesh\" (6.30 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "spss-2026-12-29-1830",
@@ -9871,6 +10666,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-30-1700-saigovindv",
+  "date": "2026-12-30",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sai Govind Vijayaraghavan",
+  "main_instrument": "Mandolin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Sai Govind Vijayaraghavan",
+    "instrument": "Mandolin",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Mandolin Concert by Saigovind Vijayaraghavan\" (5 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ch-2026-12-30-1830",
   "date": "2026-12-30",
   "start": "18:30",
@@ -9947,6 +10768,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-30-1830-saravanapr",
+  "date": "2026-12-30",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Saravanapriyan Sriraman & Prahlad Saravanapriyan",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Saravanapriyan Sriraman & Prahlad Saravanapriyan",
+    "instrument": "Violin Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Violin Concert by Saravanapriyan Sriraman & Prahlad Saravanapriyan\" (6.30 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "spss-2026-12-30-1830",
@@ -11391,12 +12238,12 @@
   ],
   "entry": "Ticketed",
   "organisation": "Chennaiyil Sangeeth Utsav",
-  "festival": "Chennaiyil Sangeeth Utsav",
-  "venue": "Not stated",
-  "area": "Not stated",
+  "festival": "Chennaiyil Sangeeth Utsav (Season 5)",
+  "venue": "R.K Convention Centre, Neelankarai",
+  "area": "Neelankarai",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue not printed in the listing (earlier editions of the festival were held at AMRK Banquet Hall, Neelankarai). Accompanists not listed.",
+  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue R.K Convention Centre, Neelankarai, from indian-heritage.org's 2026–27 season page (\"Chennaiyil Sangeeth Utsav Season 5, 9–14 Jan 2027, 6:30 PM\"). Accompanists not listed.",
   "fetched": "2026-10-12"
  },
  {
@@ -11562,12 +12409,12 @@
   ],
   "entry": "Ticketed",
   "organisation": "Chennaiyil Sangeeth Utsav",
-  "festival": "Chennaiyil Sangeeth Utsav",
-  "venue": "Not stated",
-  "area": "Not stated",
+  "festival": "Chennaiyil Sangeeth Utsav (Season 5)",
+  "venue": "R.K Convention Centre, Neelankarai",
+  "area": "Neelankarai",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue not printed in the listing (earlier editions of the festival were held at AMRK Banquet Hall, Neelankarai). Accompanists not listed.",
+  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue R.K Convention Centre, Neelankarai, from indian-heritage.org's 2026–27 season page (\"Chennaiyil Sangeeth Utsav Season 5, 9–14 Jan 2027, 6:30 PM\"). Accompanists not listed.",
   "fetched": "2026-10-12"
  },
  {
@@ -11614,12 +12461,12 @@
   ],
   "entry": "Ticketed",
   "organisation": "Chennaiyil Sangeeth Utsav",
-  "festival": "Chennaiyil Sangeeth Utsav",
-  "venue": "Not stated",
-  "area": "Not stated",
+  "festival": "Chennaiyil Sangeeth Utsav (Season 5)",
+  "venue": "R.K Convention Centre, Neelankarai",
+  "area": "Neelankarai",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue not printed in the listing (earlier editions of the festival were held at AMRK Banquet Hall, Neelankarai). Accompanists not listed.",
+  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue R.K Convention Centre, Neelankarai, from indian-heritage.org's 2026–27 season page (\"Chennaiyil Sangeeth Utsav Season 5, 9–14 Jan 2027, 6:30 PM\"). Accompanists not listed.",
   "fetched": "2026-10-12"
  },
  {
@@ -11640,12 +12487,12 @@
   ],
   "entry": "Ticketed",
   "organisation": "Chennaiyil Sangeeth Utsav",
-  "festival": "Chennaiyil Sangeeth Utsav",
-  "venue": "Not stated",
-  "area": "Not stated",
+  "festival": "Chennaiyil Sangeeth Utsav (Season 5)",
+  "venue": "R.K Convention Centre, Neelankarai",
+  "area": "Neelankarai",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue not printed in the listing (earlier editions of the festival were held at AMRK Banquet Hall, Neelankarai). Accompanists not listed.",
+  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue R.K Convention Centre, Neelankarai, from indian-heritage.org's 2026–27 season page (\"Chennaiyil Sangeeth Utsav Season 5, 9–14 Jan 2027, 6:30 PM\"). Accompanists not listed.",
   "fetched": "2026-10-12"
  },
  {

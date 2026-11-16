@@ -371,6 +371,12 @@
    "kind": "aggregator",
    "url": "https://www.chennaitop10.com/entertainment/",
    "follow_pdfs": false
+  },
+  {
+   "slug": "mdnd-carnatica-global-heritage-2026",
+   "kind": "sabha",
+   "url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=30992",
+   "follow_pdfs": false
   }
  ],
  "_blocked_note": "BookMyShow, District, Bandsintown and chennaidecemberseason.com refuse automated visits (403/429); the research job checks them by web search instead."

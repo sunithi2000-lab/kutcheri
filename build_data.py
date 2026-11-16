@@ -63,6 +63,11 @@ ORG = {
         name="Narada Gana Sabha", festival="Isai Natya Nataka Vizha 2026",
         venue="Narada Gana Sabha, 314 TTK Road, Alwarpet", area="Alwarpet / TTK Road",
         url="https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2400"),
+    # 2026-11-17: Global Heritage Music & Arts Fest 2026 (Carnatica with Sri Parthasarathy Swami Sabha), 11–22 Dec, on MDnD
+    "carnatica": dict(
+        name="Carnatica", festival="Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
+        venue="Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur", area="Thiruvanmiyur",
+        url="https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
 }
 
 concerts = []
@@ -194,6 +199,28 @@ def mdnd_main_only(raw, key, prefix, fetched, extra_note=""):
 mdnd_main_only("raw_kartik_fine_arts_2026.txt", "kartik-fine-arts", "kfa", "2026-11-12",
                "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.")
 mdnd_main_only("raw_narada_gana_sabha_2026.txt", "narada-gana-sabha", "ngs", "2026-11-12")
+
+# Carnatica – Global Heritage Music & Arts Fest 2026 (2026-11-17): main artist only, from MDnD (Charsur pattern).
+# form "A & B" with two different instruments = a duet of two instruments (concert type "Duet", first instrument shown).
+for line in (ROOT / "raw_carnatica_2026.txt").read_text().splitlines():
+    if not line or line.startswith("#"):
+        continue
+    date, start, entry, artist, form, note = line.split("|")
+    parts = [x.strip() for x in form.split("&")]
+    if len(parts) == 2 and parts[0].lower() != parts[1].lower():
+        ctype, instrument = "Duet", classify(parts[0])[1]
+    else:
+        ctype, instrument = classify(form)
+    o = ORG["carnatica"]
+    concerts.append(dict(
+        id=f"cg-{date}-{start.replace(':','')}",
+        date=date, start=start, end="", slot=slot(start),
+        main_artist=artist, main_instrument=instrument, concert_type=ctype,
+        performers=[dict(name=artist, instrument=form, role="main")],
+        entry=entry, organisation=o["name"], festival=o["festival"], venue=o["venue"], area=o["area"],
+        source_url=o["url"], source_label="MDnD listing",
+        note=" ".join(x for x in (note, "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.") if x),
+        fetched="2026-11-17"))
 
 # Artists' own websites / listings: concerts not in any organiser schedule
 for line in (ROOT / "raw_artist_sites_2026.txt").read_text().splitlines():
