@@ -377,6 +377,30 @@
    "kind": "sabha",
    "url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=30992",
    "follow_pdfs": false
+  },
+  {
+   "slug": "mdnd-anujan-2026",
+   "kind": "sabha",
+   "url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=44564",
+   "follow_pdfs": false
+  },
+  {
+   "slug": "natyanetwork-margazhi-music",
+   "kind": "aggregator",
+   "url": "https://natyanetwork.com/margazhi?day=all&type=music",
+   "follow_pdfs": false
+  },
+  {
+   "slug": "natyanetwork-margazhi-sabhas",
+   "kind": "aggregator",
+   "url": "https://natyanetwork.com/margazhi/sabhas",
+   "follow_pdfs": false
+  },
+  {
+   "slug": "bhavanschennai-margazhi-2026-schedule",
+   "kind": "sabha",
+   "url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
+   "follow_pdfs": false
   }
  ],
  "_blocked_note": "BookMyShow, District, Bandsintown and chennaidecemberseason.com refuse automated visits (403/429); the research job checks them by web search instead."

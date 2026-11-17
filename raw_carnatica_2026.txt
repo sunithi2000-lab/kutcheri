@@ -6,7 +6,7 @@
 # Festival name, dates and venue from indian-heritage.org's 2026–27 season page: "Global Heritage Music & Arts Fest 2026, 11–22 Dec 2026,
 #   Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur" (the 2025 edition page names the presenters "Carnatica & Sri Parthasarathy Swami Sabha").
 # Not included: 18 Dec 6.45 pm "Concert by Anil Srinivasan & Sikkil C. Gurucharan with Madhan Karky" (piano–vocal with lyricist; same rule as other
-#   Anil Srinivasan piano items); 21 Dec 7 pm "QFR fame Subhashree Thanikachalam" (film/light music). No entry on 19 Dec.
+#   Anil Srinivasan piano items); 21 Dec 7 pm "QFR fame Subhashree Thanikachalam" (film/light music). 19 Dec 6.45 pm from NatyaNetwork (18 Nov).
 # Already listed (raw_artist_sites_2026.txt): 17 Dec 4.30 pm K.S. Vishnudev (artist's poster, "Carnatica Global").
 # Names normalised to the spellings used elsewhere in the dataset; weekdays checked (11 Dec = Fri, 22 Dec = Tue).
 # date|start|entry|artist|form|note   (form "A & B" = duet of two instruments, first named first)
@@ -24,6 +24,7 @@
 2026-12-16|18:45|Ticketed|Ramakrishnan Murthy|Vocal|
 2026-12-17|18:45|Ticketed|Vignesh Ishwar|Vocal|
 2026-12-18|16:30|Ticketed|S. Saketharaman|Vocal|
+2026-12-19|18:45|Ticketed|Kunnakudi M. Balamuralikrishna|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (Carnatica, 6.45 pm, ticketed).
 2026-12-20|16:00|Ticketed|Rahul Vellal|Vocal|
 2026-12-20|18:30|Ticketed|Ramana Balachandhran|Veena|
 2026-12-21|16:30|Ticketed|Amrutha Venkatesh|Vocal|

@@ -68,6 +68,16 @@ ORG = {
         name="Carnatica", festival="Global Heritage Music & Arts Fest 2026 (with Sri Parthasarathy Swami Sabha)",
         venue="Sri Sankara Vidhyashramam Mat. Hr. Sec. School Auditorium, Thiruvanmiyur", area="Thiruvanmiyur",
         url="https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
+    # 2026-11-18: Bhavan's Margazhi Mahotsav 2026 (20 Nov – 12 Dec), the Kendra's programme schedule PDF
+    "bharatiya-vidya-bhavan": dict(
+        name="Bharatiya Vidya Bhavan, Chennai Kendra", festival="Bhavan's Margazhi Mahotsav 2026",
+        venue="Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore", area="Mylapore",
+        url="https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf"),
+    # 2026-11-18: Anujan Broadcasts and Sri Dayaa Trust, 15–31 Dec, NatyaNetwork listing (bookings on MDnD r_id=44564)
+    "anujan": dict(
+        name="Anujan Broadcast & Sreedaya Trust", festival="December season concerts",
+        venue="Sri Ramanujar Millennium Hall, Mylapore", area="Mylapore",
+        url="https://natyanetwork.com/margazhi"),
 }
 
 concerts = []
@@ -221,6 +231,31 @@ for line in (ROOT / "raw_carnatica_2026.txt").read_text().splitlines():
         source_url=o["url"], source_label="MDnD listing",
         note=" ".join(x for x in (note, "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.") if x),
         fetched="2026-11-17"))
+
+# Bharatiya Vidya Bhavan and Anujan (2026-11-18): main artist only (Charsur pattern), with their own source labels.
+def main_only(raw, key, prefix, fetched, label, extra_note=""):
+    for line in (ROOT / raw).read_text().splitlines():
+        if not line or line.startswith("#"):
+            continue
+        date, start, entry, artist, form, note = line.split("|")
+        if form == "Ensemble":
+            ctype, instrument = "Instrumental ensemble", "Ensemble"
+        else:
+            ctype, instrument = classify(form)
+        o = ORG[key]
+        concerts.append(dict(
+            id=f"{prefix}-{date}-{start.replace(':','')}",
+            date=date, start=start, end="", slot=slot(start),
+            main_artist=artist, main_instrument=instrument, concert_type=ctype,
+            performers=[dict(name=artist, instrument=form, role="main")],
+            entry=entry, organisation=o["name"], festival=o["festival"], venue=o["venue"], area=o["area"],
+            source_url=o["url"], source_label=label,
+            note=" ".join(x for x in (note, extra_note) if x), fetched=fetched))
+
+main_only("raw_bharatiya_vidya_bhavan_2026.txt", "bharatiya-vidya-bhavan", "bvb", "2026-11-18", "Organiser's schedule (PDF)",
+          "\"All are welcome\" (free). Accompanists not printed.")
+main_only("raw_anujan_2026.txt", "anujan", "abst", "2026-11-18", "NatyaNetwork listing",
+          "Organiser listed as \"Anujan Broadcasts and Sri Dayaa Trust\"; tickets on MDnD. Accompanists not listed.")
 
 # Artists' own websites / listings: concerts not in any organiser schedule
 for line in (ROOT / "raw_artist_sites_2026.txt").read_text().splitlines():

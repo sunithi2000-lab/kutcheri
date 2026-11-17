@@ -86,7 +86,7 @@
   "area": "Mylapore",
   "venue": "Vidya Bharathi Kalyana Mandapam, Bheemasena Garden Road",
   "festival_2026": "126th Year Isai Vizha · 17 Dec 2026 – 3 Jan 2027",
-  "note": "Two ticketed concerts daily, 4 pm and 6.30 pm, 17 Dec – 2 Jan, on the sabha's MDnD festival page (venue Vidya Bharathi Kalyana Mandapam); Shashank & Abhishek Raghuram 3 Jan from the artist's site.",
+  "note": "Two ticketed concerts daily, 4 pm and 6.30 pm, 17 Dec – 2 Jan, on the sabha's MDnD festival page (venue Vidya Bharathi Kalyana Mandapam); Shashank & Abhishek Raghuram 3 Jan, 6.30 pm, at Narada Gana Sabha (artist's site; now on MDnD). Dance and drama on 3, 4 and 6 Jan at Narada Gana Sabha are not listed here.",
   "url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304"
  },
  {
@@ -112,12 +112,12 @@
  {
   "name": "Bharatiya Vidya Bhavan, Chennai Kendra",
   "group": "Major sabha",
-  "status": "Some dates via artists' websites",
+  "status": "Schedule published",
   "area": "Mylapore",
-  "venue": "East Mada Street",
-  "festival_2026": "",
-  "note": "Own schedule not yet published; dates found on artists' websites.",
-  "url": "https://www.bhavanschennai.org/events_news.php"
+  "venue": "Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street",
+  "festival_2026": "Bhavan's Margazhi Mahotsav 2026 (first edition) · 20 Nov – 12 Dec 2026",
+  "note": "With South Zone Cultural Centre. Free (all are welcome): 4.30 pm and 6.45 pm daily, some 10.30 am slots, from the Kendra's programme schedule PDF. Bhajans, discourses, harikatha, dance and film-based items are not listed here.",
+  "url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf"
  },
  {
   "name": "Tamil Isai Sangam",
@@ -416,7 +416,7 @@
   "area": "Teynampet",
   "venue": "My Bungalow, 40 Eldams Road",
   "festival_2026": "DVAYAM – Sounds of Duality · 15–31 Dec 2026",
-  "note": "Two concerts daily, 4 pm and 6.30 pm (plus some 10 am slots); programme for 15–30 Dec listed on MDnD, 31 Dec not yet listed. Lecture-demonstrations not included.",
+  "note": "Two concerts daily, 4 pm and 6.30 pm (plus some 10 am slots); programme for 15–30 Dec listed on MDnD; 31 Dec 6.30 pm A.S. Murali from NatyaNetwork's listing. Lecture-demonstrations not included.",
   "url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"
  },
  {
@@ -456,7 +456,7 @@
   "area": "Thiruvanmiyur",
   "venue": "Sri Sankara Vidhyashramam School Auditorium, Thiruvanmiyur",
   "festival_2026": "Global Heritage Music & Arts Fest 2026 · 11–22 Dec 2026",
-  "note": "Presented with Sri Parthasarathy Swami Sabha: two ticketed concerts a day (4.30 pm and 6.45 pm; 4 pm and 6.30 pm on 14 and 20 Dec), 11–22 Dec, listed on MDnD; venue from indian-heritage.org. Two non-Carnatic items (18 Dec piano–vocal with Madhan Karky, 21 Dec film music) are not listed here. Also co-presented Bharat Sangeet Utsav 2026 (31 Oct – 7 Nov, before the season).",
+  "note": "Presented with Sri Parthasarathy Swami Sabha: two ticketed concerts a day (4.30 pm and 6.45 pm; 4 pm and 6.30 pm on 14 and 20 Dec), 11–22 Dec, listed on MDnD; venue from indian-heritage.org. Two non-Carnatic items (18 Dec piano–vocal with Madhan Karky, 21 Dec film music) and a 19 Dec katha kutcheri are not listed here; Kunnakudi M. Balamuralikrishna 19 Dec 6.45 pm from NatyaNetwork's listing. Also co-presented Bharat Sangeet Utsav 2026 (31 Oct – 7 Nov, before the season).",
   "url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=30992"
  },
  {
@@ -636,7 +636,7 @@
   "area": "Egmore",
   "venue": "Museum Theatre, Pantheon Road",
   "festival_2026": "Jyothirgamaya – Diya Dhvani Season 2 · 29 Dec 2026 – 3 Jan 2027",
-  "note": "Presents ticketed concerts listed on MDnD (29 & 30 Dec, 2 & 3 Jan, 6.30 pm); festival name and venue from indian-heritage.org.",
+  "note": "Presents ticketed concerts listed on MDnD (29 & 30 Dec, 2 & 3 Jan, 6.30 pm; 31 Dec, 2 & 3 Jan, 3.30 pm) and a free 3.30 pm nagaswaram–mandolin–veena trio on 29 Dec (NatyaNetwork); festival name and venue from indian-heritage.org. Hindustani concerts (30 & 31 Dec) are not listed here.",
   "url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"
  },
  {
@@ -662,12 +662,12 @@
  {
   "name": "Anujan Broadcast & Sreedaya Trust",
   "group": "Other sabha",
-  "status": "Some dates via artists' websites",
+  "status": "Schedule published",
   "area": "Mylapore",
-  "venue": "Ramanujar Millennium Hall",
-  "festival_2026": "",
-  "note": "Own schedule not yet published; dates found on artists' websites.",
-  "url": ""
+  "venue": "Sri Ramanujar Millennium Hall",
+  "festival_2026": "December season concerts · 15–31 Dec 2026",
+  "note": "Also listed as \"Anujan Broadcasts and Sri Dayaa Trust\". Ticketed concerts at 4 pm and 6.30 pm, 15–31 Dec, from NatyaNetwork's Margazhi 2026 listing (tickets on MDnD). An abhang (devotional) programme on 20 Dec is not listed here.",
+  "url": "https://natyanetwork.com/margazhi"
  },
  {
   "name": "Pranavakaram Fine Arts Trust",
@@ -700,14 +700,44 @@
   "url": "https://www.indian-heritage.org/musicseason/sch.html"
  },
  {
+  "name": "Psiog",
+  "group": "Festival / arts organisation",
+  "status": "Dates announced",
+  "area": "Mylapore",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road",
+  "festival_2026": "Srothovaham Music Festival 2026 (3rd edition) · 5–13 Dec 2026",
+  "note": "Edition 3: \"Rooted. Rising. Resonance\" (indian-heritage.org 2026–27 season page). Programme not yet found.",
+  "url": "https://www.indian-heritage.org/musicseason/sch.html"
+ },
+ {
+  "name": "Tamil Cultural Academy",
+  "group": "Other sabha",
+  "status": "Schedule published",
+  "area": "R.A. Puram",
+  "venue": "Image Auditorium, Raja Annamalaipuram",
+  "festival_2026": "31st year celebrations · 19–20 Dec 2026",
+  "note": "Spoorthi Rao's \"Tribute to the Female Trinity\" on 19 Dec (NatyaNetwork listing); its Mega Isai Vizha and film-hits shows are not listed here.",
+  "url": "https://natyanetwork.com/margazhi"
+ },
+ {
+  "name": "Minnaminni",
+  "group": "Festival / arts organisation",
+  "status": "Schedule published",
+  "area": "Alwarpet / TTK Road",
+  "venue": "Medai – The Stage, Alwarpet",
+  "festival_2026": "Mélange Fest · 15 Nov 2026",
+  "note": "J.B. Sruthi Sagar flute concert on 15 Nov (NatyaNetwork listing); a storytelling item is not listed here.",
+  "url": "https://natyanetwork.com/margazhi"
+ },
+ {
   "name": "Mudhra",
   "group": "Other sabha",
-  "status": "Some dates via artists' websites",
+  "status": "Dates announced",
   "area": "T. Nagar",
-  "venue": "Sri Thyaga Brahma Gana Sabha (Vani Mahal)",
-  "festival_2026": "",
-  "note": "Date found on Shashank's website.",
-  "url": ""
+  "venue": "Vani Mahal (Obul Reddy Hall), G.N. Road",
+  "festival_2026": "32nd Fine Arts Festival · 1–27 Dec 2026",
+  "note": "Inauguration and awards on 1 Dec at Obul Reddy Hall (Vani Mahal Mini Hall); programmes 2–27 Dec streamed on Paalam TV (indian-heritage.org). Programme not yet published; Shashank's 1 Dec concert comes from the artist's website.",
+  "url": "https://www.mudhra.org/fine-art-festival"
  },
  {
   "name": "Sanjay Subrahmanyan",
