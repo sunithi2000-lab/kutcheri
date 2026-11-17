@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-15T22:00Z
+# fetched 2026-11-17T01:00Z
 Select Language
 English
 Tamil
@@ -10,12 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Vocal Concert by G Ravi Kiran
-Sun, 15th Nov 2026 | 6:00 PM
-Free | Offline
-A Musical Tribute to Various Composers
-Sun, 15th Nov 2026 | 6:15 PM
-Free | Offline
 Carnatic Vocal Concert by Dr R Hemalatha & Dr R Lakshmipriya
 Wed, 18th Nov 2026 | 6:15 PM
 Free | Offline
@@ -55,6 +49,9 @@ Free | Offline
 Carnatic Vocal Concert by Trivandrum Dr Baby Sreeram
 Sat, 28th Nov 2026 | 6:15 PM
 Free | Offline
+Raga & Rhythm | IndoSoul by Karthick Iyer | Gems of Margazhi
+Sun, 29th Nov 2026 | 6:00 PM
+Ticketed | Offline
 Carnatic Vocal Concert by Anikode R. Shyamsundar
 Sun, 29th Nov 2026 | 6:15 PM
 Free | Offline
@@ -557,6 +554,9 @@ Sikkil Gurucharan | Carnatic Vocal | Bharat Kalachar
 Sun, 3rd Jan 2027 | 4:30 PM
 Ticketed | Offline
 Sandeep Narayan | Carnatic Vocal | Live4You
+Sun, 3rd Jan 2027 | 6:30 PM
+Ticketed | Offline
+Carnatic Vocal and Flute Concert by Abhishek Raghuram and S S Shashank | Sri Parthasarathy Swami Sabha
 Sun, 3rd Jan 2027 | 6:30 PM
 Ticketed | Offline
 Ramana Balachandhran | Veena | Bharat Kalachar

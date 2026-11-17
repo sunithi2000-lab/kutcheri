@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304
-# fetched 2026-11-15T22:00Z
+# fetched 2026-11-17T01:00Z
 Select Language
 English
 Tamil
@@ -37,9 +37,12 @@ All dates
 31 December 2026 · Thursday
 1 January 2027 · Friday
 2 January 2027 · Saturday
+3 January 2027 · Sunday
+4 January 2027 · Monday
+6 January 2027 · Wednesday
 SEARCH EVENTS
 Clear
-17 days shown
+20 days shown
 17 December 2026
 Thursday
 4.00 PM Dr. RENGANATHA SHARMA (Vocal) | 6.30 PM GAYATHRI VENKATARAGHAVAN (Vocal) | SRI PARTHASARATHY SWAMI SABHA
@@ -125,3 +128,21 @@ Saturday
 4.00 PM U RAJESH (Mandolin) and Anil Srinivasan (Piano) | 6.30 PM Kunnakudi M Balamuralikrishna (Vocal) | SRI PARTHASARATHY SWAMI SABHA
 Vidya Bharathi Kalyana Mandapam, Chennai
 4:00 PM
+Sridevi Nrithyalaya presents SRINIVASA KALYANAM | Sri Parthasarathy Swami Sabha
+Narada Gana Sabha, Chennai
+6:30 PM
+3 January 2027
+Sunday
+Carnatic Vocal and Flute Concert by Abhishek Raghuram and S S Shashank | Sri Parthasarathy Swami Sabha
+Narada Gana Sabha, Chennai
+6:30 PM
+4 January 2027
+Monday
+Sri Saraswathy Gana Nilayam presents PPadhumaigal Sollum Kadhaigal | Sri Parthasarathy Swami Sabha
+Narada Gana Sabha, Chennai
+6:30 PM
+6 January 2027
+Wednesday
+Stage Creations presents Kathadi Ramamurthy in Ever Green Comedy Play AYYA, AMMA, AMMAMMA | Sri Parthasarathy Swami Sabha
+Narada Gana Sabha, Chennai
+6:30 PM
