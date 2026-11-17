@@ -1,461 +1,541 @@
-# Source watcher — 2026-11-17 01:00 UTC
+# Source watcher — 2026-11-17 19:33 UTC
 
-69 sources checked: 17 changed, 1 new, 9 failed, 42 unchanged.
+73 sources checked: 19 changed, 4 new, 10 failed, 40 unchanged.
 Full page text for every source: `sources/text/<slug>.txt` (https://kutcheri-dec.netlify.app/sources/text/<slug>.txt).
 Lines marked **[season]** mention 2026/2027, December, Margazhi, season, kutcheri or concert.
 
 ## Changed since the last run
 
-### rasika-ranjani-sabha (sabha) — https://rrsabha.org/
-7 line(s) added, 0 removed. Full text: sources/text/rasika-ranjani-sabha.txt
+### music-academy (sabha) — https://musicacademymadras.in/100th-annual-concerts-2026/
+1 line(s) added, 1 removed. Full text: sources/text/music-academy.txt
 
-- + We've got awesome
-- + programs
-- + schedules for you, every month . . .
-- + Music, Dance,
-- + Drama and Discussions...
-- + Download Program Schedule
-- + ×
+- + (Non-ticketed) Sangita Kalanidhi T.M. Krishna (Vocal), Dr.R.Hemalatha (Violin), Praveen Sparsh (Mridangam), S.Sunil Kumar (Kanjira)
+- − (Non-ticketed) Sangita Kalanidhi T.M. Krishna (Vocal), H.N.Bhaskar (Violin), Praveen Sparsh (Mridangam), S.Sunil Kumar (Kanjira)
 
 ### mylapore-times-arts (news) — https://www.mylaporetimes.com/category/arts/
-7 line(s) added, 7 removed. Full text: sources/text/mylapore-times-arts.txt
+18 line(s) added, 18 removed. Full text: sources/text/mylapore-times-arts.txt
 
+- + Wednesday, November 18, 2026 **[season]**
+- + A concert in one hall, a play in another: both themed on Sri Ayyappan **[season]**
+- + Tuesday, November 17, 2026 - by Team MyTimes - Leave a Comment **[season]**
+- + Even as the first set of over a hundred people began their rituals for the Sri Ayyappan season of pilgrimage this morning at the temple in MRC Nagar, Mylapore’s halls … **[season]**
+- + READ MORE
+- + ARTS
+- + Wednesday, October 28, 2026 - by Team MyTimes **[season]**
+- + A concert in one hall, a play in another: both themed on Sri Ayyappan **[season]**
 - + Tuesday, November 17, 2026 **[season]**
-- + Teens at this Mandaveli campus set up food stalls for their Children’s Day event
-- + Monday, November 16, 2026 **[season]**
-- + Huge number of people attend Soorasamharam on Sunday evening
-- + Monday, November 16, 2026 **[season]**
-- + Community (4,655)
-- + Religious (2,531)
+- + Alumni Club’s Christmas Carnival: stall booking open now
+- + Tuesday, November 17, 2026 **[season]**
+- + CIT Colony community holds Children’s Day event in park
+- + Tuesday, November 17, 2026 **[season]**
+- + Small, quiet thirukalyanam celebrated at Sri Karaneeswarar Temple
+- + Tuesday, November 17, 2026 **[season]**
+- + Arts (3,492)
+- + Community (4,658)
+- + Religious (2,532)
+- − Tuesday, November 17, 2026
+- − Wednesday, October 28, 2026 - by Team MyTimes - Leave a Comment
+- − READ MORE
+- − ARTS
+- − R. R. Sabha honours artistes with its awards for 2026
+- − Saturday, October 24, 2026 - by Team MyTimes
+- − Artistes Dr. T. V. Gopalakrishnan , Dr. Thiruvarur Bakthavatsalam, Udaiyalur Dr. K. Kalyanaraman, Aruna Mohanty, Kudanthai Mali, Amruta Venkatesh and Vaidehi Harish were honoured by the Rasika Ranjani Sabha Foundation …
+- − Teens at this Mandaveli campus set up food stalls for their Children’s Day event
 - − Monday, November 16, 2026
-- − Saturday, November 14, 2026
-- − Children’s Day at Fatima Nursery and Primary School, R. A. Puram
-- − Saturday, November 14, 2026
-- − 60 hours of non-stop devotional music at Sri Sundara Panduranga Mandir
-- − Community (4,654)
-- − Religious (2,530)
-
-### indian-heritage-season (aggregator) — https://www.indian-heritage.org/musicseason/sch.html
-131 line(s) added, 1 removed. Full text: sources/text/indian-heritage-season.txt
-
-- + Bharatiya Vidya Bhavan
-- + Bhavan's Margazhi Mahotsav 2026 (20 Nov - 12 Dec 2026) **[season]**
-- + In Association with South Zone Cultural Centre
-- + Schedule (All are welcome)
-- + Venue: Bhavan's Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore, Chennai
-- + Info: bhavanschennai.org
-- + Schedule ; fb
-- + Paddhathi music fest (23 - 31 Dec 2025, 2 - 11 Jan 2026) **[season]**
-- + Venue: Desiga Vidya Bhavanam, 27, Venkatesa Agraharam Road, Mylapore, Chennai 4
-- + Schedule
-- + Mudhra
-- + 32nd Fine Arts Festival (1 - 27 Dec 2026) **[season]**
-- + Schedule
-- + Programmes from 2 - 27 Dec will be streamed online through Paalam TV
-- + Venue: Inauguration and Award Function on Dec 1 at Obul Reddy Hall (Vani Mahal - Mini Hall), GN Road, T.Nagar, Chennai 17
-- + Info: livechennai.com
-- + Psiog
-- + Srothovaham Music Festival 2026 (5 - 13 Dec 2026) **[season]**
-- + Edition 3: Rooted. Rising. Resonance: Celebrating Legacy and its Continuum
-- + Info
-- + Venue: Srinivasa Sastri Hall, Luz Church Road, Mylapore, Chennai
-- + RASOHAM
-- + Kutty Kutchery Festival 2026 (12 - 21 Dec 2026) **[season]**
-- + Schedule
-- + SciArtsRUs
-- + 7th edition of Margazhi Matram 2026 **[season]**
-- + Theme: SYNESTHESIA
-- + fb
-- + Pongal Dance Festival (8-17 Jan 2027) **[season]**
-- + Schedule ; fb
-- + The House of Meenu Subbiah
-- + Gems of Margazhi - Roots & Resonance (27-29 Nov 2026, 6-8pm) **[season]**
-- + 27 November | Saindhavi & Sai Vignesh | Bhajan Clubbing
-- + 28 November | Aayana Dance Company | Classical Expressions
-- + 29 November | IndoSoul | Indian Fusion Music
-- + Tickets
-- + Venue: M. S. Subbulakshmi Auditorium, Chennai
-- + Abstratics
-- + 5th edition of Canvas Dance Festival 2026 (20 Nov 2026) **[season]**
-- + Venue: Seva Sadan, 14th Cross Road, West Park Road, Opposite MLA College, Kadumalleshwara, Malleshwaram, Bengaluru 560003
-- … 91 more added lines
-- − Schedule
-
-### icarnatic (aggregator) — https://www.icarnatic.org/
-1 line(s) added, 1 removed. Full text: sources/text/icarnatic.txt
-
-- + Tuesday November 17. 2026 **[season]**
-- − Sunday November 15. 2026
+- − Huge number of people attend Soorasamharam on Sunday evening
 
 ### ragarasa (aggregator) — https://ragarasa.in/
-8 line(s) added, 9 removed. Full text: sources/text/ragarasa.txt
+2 line(s) added, 2 removed. Full text: sources/text/ragarasa.txt
 
-- + Carnatic Instrumental
-- + View Details
 - + Carnatic Instrumental
 - + Veena
-- + Veena Venkatramani - Veena
-- + Veena Venkataramani
-- + Sat, 21 Nov 2026 · 6:00 PM **[season]**
-- + MDnD Performance Centre, Mylapore, Chennai
 - − Carnatic Instrumental
-- − Hindustani Instrumental
-- − Carnatic Vocal
-- − Pranavakaram Fine Arts Trust Fundraiser Concert – N Ravikiran (Chitravina) & Aditya Mohan (Hawaiian Guitar)
-- − Chitravina N. Ravikiran
-- − Mon, 16 Nov 2026 · 6:00 PM
-- − Bharatiya Vidya Bhavan Chennai Kendra, Chennai, Tamil Nadu
-- − View Details
-- − Carnatic Instrumental
+- − Veena
 
 ### chennaievent (aggregator) — https://www.chennaievent.com/
-28 line(s) added, 126 removed. Full text: sources/text/chennaievent.txt
+1 line(s) added, 59 removed. Full text: sources/text/chennaievent.txt
 
-- + Tuesday, November 17, 2026 **[season]**
-- + 4:00 PM Krithika Mandala Vedaparayanam - For Vedavathi Donation Welcome Indian Bank,Mylapore A/c 456855550
-- + Krithika Mandala Veda Parayanam
-- + Sri Sankaralayam - Mylai
-- + Sri Sankaralyam - Mylai
-- + @ The Mylai Vaidika Mahajana Sabha 26 , Chitrakulam North Street Mylapore Mylapore .
-- + Phone : 044 2495 7195
-- + 6:00 PM "Maamalai Sabariyele' - A Fully Devotional Concert Live - Commencement of Ayyappa Mandala Vratham **[season]**
-- + Sruthilaya - Suresh Orchestra
-- + Sruthilaya Live Band
-- + Bharatiya Vidya Bhavan (Main Auditorium)
-- + @ East Mada Street, Near Radha Silk Emporium Mylapore .
-- + Phone : 2464 0811
-- + 6:15 PM Discourse - Mahabharatham - Episode 43
-- + Dr. Sudha Seshayyan
-- + Madhuradhwani
-- + Arkay Convention Center
-- + @ No 146/3 OMS Lakshana, Royapettah High Road, Corner Landmark:Near Luz, Mylapore .
-- + Phone : 9381007317
-- + 6:30 PM Maha Skanda Sashti Utsavam Poorti - Anjaneya Utsavam - Namasankeerthanam with Mandali Troupe
-- + Srivanchiyam Murali Bhagavathar
-- + 6:45 PM New Divine Play R.S. Manohar's NXG's Inaugural Play - "Swamy Ayyappan"
-- + 7:00 PM Maha Skanda Sashti Utsavam - Vocal Event
-- + Jayashree Jayaramakrishnan
-- + Om Murukasramam
-- + OM MURUKASRAMAM
-- + @ No 12, Srinivasa Pillai Street West Mambalam .
-- + Phone : 044 2474 7593
-- − Sunday, November 15, 2026
-- − 7:30 AM Maha Skanda Sashti Utsavam - Maha Skanda Sashti Day - "Milk Kavadi" followed by Maha Abhishekam
-- − Om Murugasramam
-- − 9:30 AM Workshop-Voice Breathing Techiniques and Maintance-Admn Fee 2,500/- UPID; SRIARIYAKUDI200@DLB (8939077882)
-- − Dr. Shyamala Vinod Kumar
-- − A. S. Ramakrishnan (Arkay)
-- − Sri Ariyakkudi & Sri K.V. Narayanaswamy Memorial Trust
-- − Arkay Convention Center
-- − @ No 146/3 OMS Lakshana, Royapettah High Road, Corner Landmark:Near Luz, Mylapore .
-- − Phone : 9381007317
+- + Database connection temporarily unavailable. Please refresh the page.
+- − LOGIN
+- − Subscribe
+- − List View
+- − Grid View
+- − Download
+- − By Date
+- − By Artiste
+- − 04 : 00 AM - 10 : 00 AM
+- − 10 : 00 AM - 03 : 00 PM
+- − 03 : 00 PM - 07 : 00 PM
 
 ### the-hindu-friday-review (news) — https://www.thehindu.com/entertainment/music/
-37 line(s) added, 37 removed. Full text: sources/text/the-hindu-friday-review.txt
+40 line(s) added, 39 removed. Full text: sources/text/the-hindu-friday-review.txt
 
-- + Chennai 28°CWeather News
-- + Diljit says attempts made to stop his Indore concert, recites ‘kisi ke baap ka Hindostan thodi hai’ **[season]**
-- + MEHUL MALPANI
-- + Rock gets a new incarnation, courtesy Bengaluru’s Reincarock
-- + ANURAG TAGAT
-- + Shillong Cherry Blossom Festival 2026: Nelly, Khalid, and Swae Lee headline two days of music **[season]**
-- + PRIYAMEDHA DUTTA
-- + ENTERTAINMENT
+- + Chennai 27°CWeather News
 - + Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more **[season]**
-- + The Recording Academy announced the 2027 Grammy Award nominations on Monday, with English singer-songwriter Raye leading the pack **[season]**
 - + AP
 - + ‘Khudgarzi’ by Sheherazaad addresses migrant experiences and the diasporan influence
 - + C. MADAN MOHAN
 - + Bengaluru-based music ensemble LAKKSHYA features five international artistes in new album
+- + C. MADAN MOHAN
+- + JAMMU AND KASHMIR
 - + Penury-hit Kashmir artists seek official handholding
+- + PEERZADA ASHIQ
+- + What a Guns N’ Roses concert feels like in 2026 **[season]**
+- + As Guns N’ Roses performed in Bengaluru after 14 years, fans revelled in a wave of nostalgia and the chance to catch their rock legends up close
+- + ANURAG TAGAT
+- + From Bharati to the Grammys: Inside Devan’s ‘Varuvaaiy’, the first Tamil song to earn a Grammy nomination
+- + SRINIVASA RAMANUJAM
+- + Composer Manikandan Ayyappa on the making of his viral hit ‘Ithino Aadame...’
+- + Gowri Ramnarayan’s Enchantment explores the man behind Pandit Ravi Shankar’s musical legacy
 - + Most Popular
-- + Depression likely to become cyclone, move towards A.P.; Tamil Nadu, Odisha to get rain: IMD
 - + Prince William, Princess Catherine play gully cricket with Sachin Tendulkar in Mumbai
-- + Sonia’s memoir ‘Belonging’ debuts with 2 lakh copies sold in under a week: HarperCollins India CEO
+- + India wants to become the world’s No.1 nation to ensure nobody can dictate terms to us: V-P Radhakrishnan
+- + Moinabad Municipality Town Planning Officer booked in DA case
+- + ADVERTISING
 - + More stories from Music
-- + Lakshmi Venu seeks formal partition of assets of Venu Srinivasan branch of TVS family
-- + Indo-ASEAN ties at the heart of India’s Act East Policy, PM says ahead of ASEAN summit in Manila
-- + Madras High Court protects personality rights of CSK fan popular for his unique yellow look
-- + Lawyer led out after making derogatory remarks in court against CJI
-- + Tamil Nadu Minister Vanni Arasu faces flak for pursuing tiger in Mudumalai Tiger Reserve
+- + Hyderabad Police arrest gang for using aluminium foil disguised as silver foil in sweets, paan and bakery products
+- + Dhoni ends IPL playing career as CSK appoints him team mentor
+- + Transgender rights, healthcare should not be compromised
+- + Trump says ‘would not mind’ Huang being reinstated at Nvidia
 - + ‘Ramayana: Part 1’: Decoding the film’s massive budget and box-office performance
-- + Export duty on diesel hiked ₹2.5/litre, ATF ₹1.5/litre, petrol remains nil
-- + SMAT: J&K gets off the mark with a thrilling victory over Tamil Nadu in a run-fest
-- + 10 arrested for attack on man filing nomination for sarpanch election in Kadapa
-- + A.P. govt. approves Robotics and Physical AI Policy 2026–36 aimed at total ecosystem for State **[season]**
-- + BJP parts ways with Jana Sena, TDP in Bhimavaram Municipal election citing violation of alliance dharma
-- + Congress leaders stage protest outside Tripura State Election Commission office over civic polls
-- + Ex-servicemen stage protest in Kannur, demand improved ECHS healthcare and pension benefits
-- + Call for dedicated a Press Commission to protect journalists
-- + SC upholds NCLAT order to revisit ₹2,962-cr. Videocon resolution plan
-- + Nikhara drive: Cases registered against 275 traders for cheating on weights
-- + Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more **[season]**
-- − Chennai 26°CWeather News
-- − DANCE
+- + India cannot dictate terms on Hasina’s return to Bangladesh: PM’s adviser
+- + Stock Market Live Updates IPL 2027 Retention Deadline Live Share Market News Mahendra Singh Dhoni retires from IPL as player Gold Rate Today Silver Rate Today Diesel Price Today Petrol Price Today Frontline Current Issue **[season]**
+- + AIDYO releases poster for Jaipur national youth conference
+- + Rotary organisations to hold Chinnara Utsav on Nov. 22
+- + Kodiyeri’s brother-in-law quits CPI(M), alleges party has become a ‘Pinarayi-only’ outfit
+- + AEPC moots scheme to develop affordable housing for garment workers
+- + Former Thiruvananthapuram Corporation councillor I.P. Binu included in police rowdy list
+- + Vijayaraghavan calls for united struggle against Centre’s anti-farmer policies
+- + Container driver killed in accident
+- + SIR schedule revised again, final publication moved to Dec 22
+- + Puducherry artisans showcase craft items at trade fair in Delhi
+- + ABVP takes out ‘Save Democracy, Eradicate Anarchy’ rally in Hubballi
+- − Chennai 28°CWeather News
+- − ENTERTAINMENT
+- − Raye leads 2027 Grammy nominations, followed by Rosalía, Ella Langley, Olivia Rodrigo and more
+- − The Recording Academy announced the 2027 Grammy Award nominations on Monday, with English singer-songwriter Raye leading the pack
+- − AP
+- − ‘Khudgarzi’ by Sheherazaad addresses migrant experiences and the diasporan influence
+- − C. MADAN MOHAN
+- − Bengaluru-based music ensemble LAKKSHYA features five international artistes in new album
 - − Penury-hit Kashmir artists seek official handholding
-- − There are artists in Kashmir who are not able to pay school fees of their children or arrange ₹1 lakh to offer a decent burial to their deceased loved ones, says vocalist and music composer Ustaad Waheed Jeelani
-- − PEERZADA ASHIQ
-- − Diljit says attempts made to stop his Indore concert, recites ‘kisi ke baap ka Hindostan thodi hai’
-- − MEHUL MALPANI
-- − Rock gets a new incarnation, courtesy Bengaluru’s Reincarock
-- − Shillong Cherry Blossom Festival 2026: Nelly, Khalid, and Swae Lee headline two days of music
 - − Most Popular
 
 ### artist-shashank (artist) — https://www.shashank.org/tours
-0 line(s) added, 172 removed. Full text: sources/text/artist-shashank.txt
+172 line(s) added, 0 removed. Full text: sources/text/artist-shashank.txt
 
-- − Oklahoma City, OK
-- − Sun, 19 May
-- − More info
-- − Details
-- − Austin, TX
-- − Sat, 18 May
-- − More info
-- − Details
-- − Ottawa, Canada
-- − Sun, 12 May
+- + Oklahoma City, OK
+- + Sun, 19 May
+- + More info
+- + Details
+- + Austin, TX
+- + Sat, 18 May
+- + More info
+- + Details
+- + Ottawa, Canada
+- + Sun, 12 May
+- + More info
+- + Details
+- + Toronto, Canada
+- + Sat, 11 May
+- + More info
+- + Details
+- + Plainsboro, NJ
+- + Sat, 27 Apr
+- + More info
+- + Details
+- + Madison, WI
+- + Fri, 26 Apr
+- + More info
+- + Details
+- + Seattle, WA
+- + Sun, 21 Apr
+- + More info
+- + Details
+- + San Diego, CA
+- + Sat, 20 Apr
+- + More info
+- + Details
+- + San Jose, CA
+- + Sun, 14 Apr
+- + More info
+- + Details
+- + Minneapolis, MN
+- + Sat, 13 Apr
+- + More info
+- + Details
+- … 132 more added lines
 
 ### artist-nithyasree (artist) — https://www.nithyasree.com/
-41 line(s) added, 41 removed. Full text: sources/text/artist-nithyasree.txt
+38 line(s) added, 41 removed. Full text: sources/text/artist-nithyasree.txt
 
-- + Iran and US Continue Talks as New Hormuz Proposal Raises Hopes of a Breakthrough
-- + Adrian Solmere
-- + Latin American floods bring intensifying El Niño into focus
-- + Celia Thornavel
-- + US Midterm Campaign Reaches Final Stage With Control of Congress at Stake
-- + Rowan Kelveris
-- + Global assessment warns of severe collapse risk for coral reefs
-- + Nolan Veycroft
-- + Musk reportedly invests US$1 billion in Skydance
 - + Darian Westmere
 - + British starts headline 2027 Tour de France routes **[season]**
-- + Tessa Brindale
-- + Taiwan indicts five over alleged attack on comedian who mocked Xi
-- + Callen Ordelis
-- + Canada and Türkiye deepen ties as Ottawa seeks more trading partners
-- + Callen Ordelis
-- + US and India signal progress on trade deal
-- + Typhoon Champi disrupts flights as Taiwan and Japan prepare
-- + Adrian Solmere
-- + Trump given December deadline to testify in BBC case **[season]**
 - + Adrian Solmere
 - + South Sudan says market drone attack killed more than 150 people
-- + Callen Ordelis
-- + Binance Restores Withdrawals After Record $6.3 Billion Cryptocurrency Theft
-- + Mira Halverin
-- + Ebola response widens as Nigeria reports case linked to regional travel
-- + Rowan Kelveris
-- + Tibet earthquake kills at least 16, Chinese state media report
 - + Rowan Kelveris
 - + Tuscany flooding and landslides recorded in disaster-monitoring update
-- + A Guide To Australian Ethical Banks
-- + Elara Venswick
-- + How To Set An Allowance For Your Kids
-- + Darian Westmere
-- + Should You Outsource Your Payroll?
-- + How To Protect Yourself Against Inflation
-- + Nolan Veycroft
-- + ANZ cash profit rises to A$7.59 billion as CEO faces questions in Canberra
 - + Callen Ordelis
-- + How To Make Extra Cash - Side Hustles That Actually Work
-- … 1 more added lines
-- − Mira Halverin
-- − Ebola response widens as Nigeria reports case linked to regional travel
-- − Rowan Kelveris
-- − Tuscany flooding and landslides recorded in disaster-monitoring update
-- − South Sudan says market drone attack killed more than 150 people
-- − Rowan Kelveris
-- − Tibet earthquake kills at least 16, Chinese state media report
-- − Latin American floods bring intensifying El Niño into focus
-- − Adrian Solmere
-- − Trump given December deadline to testify in BBC case
+- + Canada and Türkiye deepen ties as Ottawa seeks more trading partners
+- + Nolan Veycroft
+- + Musk reportedly invests US$1 billion in Skydance
+- + US Midterm Campaign Reaches Final Stage With Control of Congress at Stake
+- + Adrian Solmere
+- + Trump given December deadline to testify in BBC case **[season]**
+- + Callen Ordelis
+- + Binance Restores Withdrawals After Record $6.3 Billion Cryptocurrency Theft
+- + Adrian Solmere
+- + Typhoon Champi disrupts flights as Taiwan and Japan prepare
+- + Celia Thornavel
+- + Mira Halverin
+- + Ebola response widens as Nigeria reports case linked to regional travel
+- + Tibet earthquake kills at least 16, Chinese state media report
+- + Rowan Kelveris
+- + COP17 Produces New Biodiversity Plan but Leaves Major Funding Questions Unresolved
+- + Tessa Brindale
+- + Taiwan indicts five over alleged attack on comedian who mocked Xi
+- + Rowan Kelveris
+- + UK approves Jackdaw gas project amid climate debate
+- + Callen Ordelis
+- + Nvidia shares fall 4.3% after Jensen Huang resigns
+- + Liora Fenwicke
+- + 4 Tips For Your Business Marketing Budget
+- + Nolan Veycroft
+- + A Guide To Paying Tax On Cryptocurrency In The UK
+- + Adrian Solmere
+- + Yen nears 160 per dollar as Japan renews intervention warning
+- + Nolan Veycroft
+- + What Is Copy Trading? Your Next Financial Market Solution
+- + Economists expect an ECB rate rise in December as eurozone inflation hits 4% **[season]**
+- − Celia Thornavel
+- − US Midterm Campaign Reaches Final Stage With Control of Congress at Stake
+- − Nolan Veycroft
+- − Musk reportedly invests US$1 billion in Skydance
+- − Darian Westmere
+- − British starts headline 2027 Tour de France routes
+- − Tessa Brindale
+- − Taiwan indicts five over alleged attack on comedian who mocked Xi
+- − Callen Ordelis
+- − Canada and Türkiye deepen ties as Ottawa seeks more trading partners
 
 ### mylapore-times-season-2026-tag (news) — https://www.mylaporetimes.com/tag/december-season-2026
-11 line(s) added, 11 removed. Full text: sources/text/mylapore-times-season-2026-tag.txt
+12 line(s) added, 19 removed. Full text: sources/text/mylapore-times-season-2026-tag.txt
 
+- + Wednesday, November 18, 2026 **[season]**
+- + A concert in one hall, a play in another: both themed on Sri Ayyappan **[season]**
 - + Tuesday, November 17, 2026 **[season]**
-- + Local newspaper delivery
-- + Community news updates
-- + Browse Listings
-- + Read Local News
-- + Teens at this Mandaveli campus set up food stalls for their Children’s Day event
-- + Monday, November 16, 2026 **[season]**
-- + Huge number of people attend Soorasamharam on Sunday evening
-- + Monday, November 16, 2026 **[season]**
-- + Community (4,655)
-- + Religious (2,531)
+- + Alumni Club’s Christmas Carnival: stall booking open now
+- + Tuesday, November 17, 2026 **[season]**
+- + CIT Colony community holds Children’s Day event in park
+- + Tuesday, November 17, 2026 **[season]**
+- + Small, quiet thirukalyanam celebrated at Sri Karaneeswarar Temple
+- + Tuesday, November 17, 2026 **[season]**
+- + Arts (3,492)
+- + Community (4,658)
+- + Religious (2,532)
+- − Tuesday, November 17, 2026
+- − Discover more
+- − Local newspaper delivery
+- − Community news updates
+- − Digital newspaper access
+- − Read Newspapers
+- − Browse Listings
+- − Read Local News
+- − Teens at this Mandaveli campus set up food stalls for their Children’s Day event
 - − Monday, November 16, 2026
-- − Mylapore Times subscription
-- − Newspaper advertising space
-- − Local news updates
-- − Community event listings
-- − Saturday, November 14, 2026
-- − Children’s Day at Fatima Nursery and Primary School, R. A. Puram
-- − Saturday, November 14, 2026
-- − 60 hours of non-stop devotional music at Sri Sundara Panduranga Mandir
-- − Community (4,654)
 
 ### mylapore-times-kartik-fine-arts (news) — https://www.mylaporetimes.com/tag/kartik-fine-arts/
-7 line(s) added, 7 removed. Full text: sources/text/mylapore-times-kartik-fine-arts.txt
+12 line(s) added, 12 removed. Full text: sources/text/mylapore-times-kartik-fine-arts.txt
 
+- + Wednesday, November 18, 2026 **[season]**
+- + A concert in one hall, a play in another: both themed on Sri Ayyappan **[season]**
 - + Tuesday, November 17, 2026 **[season]**
-- + Teens at this Mandaveli campus set up food stalls for their Children’s Day event
-- + Monday, November 16, 2026 **[season]**
-- + Huge number of people attend Soorasamharam on Sunday evening
-- + Monday, November 16, 2026 **[season]**
-- + Community (4,655)
-- + Religious (2,531)
+- + Alumni Club’s Christmas Carnival: stall booking open now
+- + Tuesday, November 17, 2026 **[season]**
+- + CIT Colony community holds Children’s Day event in park
+- + Tuesday, November 17, 2026 **[season]**
+- + Small, quiet thirukalyanam celebrated at Sri Karaneeswarar Temple
+- + Tuesday, November 17, 2026 **[season]**
+- + Arts (3,492)
+- + Community (4,658)
+- + Religious (2,532)
+- − Tuesday, November 17, 2026
+- − Teens at this Mandaveli campus set up food stalls for their Children’s Day event
 - − Monday, November 16, 2026
+- − Huge number of people attend Soorasamharam on Sunday evening
+- − Monday, November 16, 2026
+- − Soorasamharam on Sunday evening. Live action on North Mada St.
+- − Sunday, November 15, 2026
+- − Concert of devotional music. Nov.17. At BVB
 - − Saturday, November 14, 2026
-- − Children’s Day at Fatima Nursery and Primary School, R. A. Puram
-- − Saturday, November 14, 2026
-- − 60 hours of non-stop devotional music at Sri Sundara Panduranga Mandir
-- − Community (4,654)
-- − Religious (2,530)
+- − Arts (3,491)
 
 ### mylapore-times-narada-gana-sabha (news) — https://www.mylaporetimes.com/tag/narada-gana-sabha
-7 line(s) added, 7 removed. Full text: sources/text/mylapore-times-narada-gana-sabha.txt
+12 line(s) added, 12 removed. Full text: sources/text/mylapore-times-narada-gana-sabha.txt
 
+- + Wednesday, November 18, 2026 **[season]**
+- + A concert in one hall, a play in another: both themed on Sri Ayyappan **[season]**
 - + Tuesday, November 17, 2026 **[season]**
-- + Teens at this Mandaveli campus set up food stalls for their Children’s Day event
-- + Monday, November 16, 2026 **[season]**
-- + Huge number of people attend Soorasamharam on Sunday evening
-- + Monday, November 16, 2026 **[season]**
-- + Community (4,655)
-- + Religious (2,531)
+- + Alumni Club’s Christmas Carnival: stall booking open now
+- + Tuesday, November 17, 2026 **[season]**
+- + CIT Colony community holds Children’s Day event in park
+- + Tuesday, November 17, 2026 **[season]**
+- + Small, quiet thirukalyanam celebrated at Sri Karaneeswarar Temple
+- + Tuesday, November 17, 2026 **[season]**
+- + Arts (3,492)
+- + Community (4,658)
+- + Religious (2,532)
+- − Tuesday, November 17, 2026
+- − Teens at this Mandaveli campus set up food stalls for their Children’s Day event
 - − Monday, November 16, 2026
+- − Huge number of people attend Soorasamharam on Sunday evening
+- − Monday, November 16, 2026
+- − Soorasamharam on Sunday evening. Live action on North Mada St.
+- − Sunday, November 15, 2026
+- − Concert of devotional music. Nov.17. At BVB
 - − Saturday, November 14, 2026
-- − Children’s Day at Fatima Nursery and Primary School, R. A. Puram
-- − Saturday, November 14, 2026
-- − 60 hours of non-stop devotional music at Sri Sundara Panduranga Mandir
-- − Community (4,654)
-- − Religious (2,530)
+- − Arts (3,491)
 
 ### mdnd-carnatic-chennai (ticketing) — https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-6 line(s) added, 6 removed. Full text: sources/text/mdnd-carnatic-chennai.txt
+97 line(s) added, 4 removed. Full text: sources/text/mdnd-carnatic-chennai.txt
 
-- + Raga & Rhythm | IndoSoul by Karthick Iyer | Gems of Margazhi **[season]**
-- + Sun, 29th Nov 2026 | 6:00 PM **[season]**
+- + Carnatic Vocal by Anugrah Lakshmanan | Anujan Broadcasts and Sri Dayaa Trust
+- + Tue, 15th Dec 2026 | 4:00 PM **[season]**
 - + Ticketed | Offline
-- + Carnatic Vocal and Flute Concert by Abhishek Raghuram and S S Shashank | Sri Parthasarathy Swami Sabha **[season]**
-- + Sun, 3rd Jan 2027 | 6:30 PM **[season]**
+- + Carnatic Vocal by Bharat Sundar | Anujan Broadcasts and Sri Dayaa Trust
+- + Tue, 15th Dec 2026 | 6:30 PM **[season]**
 - + Ticketed | Offline
-- − Carnatic Vocal Concert by G Ravi Kiran
-- − Sun, 15th Nov 2026 | 6:00 PM
+- + Carnatic Vocal by Padmashree Srinivasan | Anujan Broadcasts and Sri Dayaa Trust
+- + Wed, 16th Dec 2026 | 4:00 PM **[season]**
+- + Ticketed | Offline
+- + Carnatic Vocal by K S Vishnudev | Anujan Broadcasts and Sri Dayaa Trust
+- + Wed, 16th Dec 2026 | 6:30 PM **[season]**
+- + Ticketed | Offline
+- + Carnatic Vocal by Swarathmika Srikanth | Anujan Broadcasts and Sri Dayaa Trust
+- + Thu, 17th Dec 2026 | 4:00 PM **[season]**
+- + Ticketed | Offline
+- + Carnatic Vocal by Amrutha Venkatesh | Anujan Broadcasts and Sri Dayaa Trust
+- + Thu, 17th Dec 2026 | 6:30 PM **[season]**
+- + Ticketed | Offline
+- + Carnatic Vocal by Veena Venkatramani | Anujan Broadcasts and Sri Dayaa Trust
+- + Fri, 18th Dec 2026 | 4:00 PM **[season]**
+- + Ticketed | Offline
+- + Carnatic Vocal by Aravind Soundararajan | Anujan Broadcasts and Sri Dayaa Trust
+- + Fri, 18th Dec 2026 | 6:30 PM **[season]**
+- + Ticketed | Offline
+- + Carnatic Vocal by Aditya Madhavan | Anujan Broadcasts and Sri Dayaa Trust
+- + Sat, 19th Dec 2026 | 4:00 PM **[season]**
+- + Ticketed | Offline
+- + Carnatic Vocal by Akkarai Sisters | Anujan Broadcasts and Sri Dayaa Trust
+- + Sat, 19th Dec 2026 | 6:30 PM **[season]**
+- + Ticketed | Offline
+- + Divya Prabandam by Bhavya Hari | Anujan Broadcasts and Sri Dayaa Trust
+- + Sun, 20th Dec 2026 | 4:00 PM **[season]**
+- + Ticketed | Offline
+- + Carnatic Vocal by Vishruthi Girish | Anujan Broadcasts and Sri Dayaa Trust
+- + Mon, 21st Dec 2026 | 4:00 PM **[season]**
+- + Ticketed | Offline
+- + Carnatic Flute by J B Sruthi Sagar | Anujan Broadcasts and Sri Dayaa Trust
+- + Mon, 21st Dec 2026 | 6:30 PM **[season]**
+- + Ticketed | Offline
+- + Carnatic Veena by Rakshita Ramesh | Anujan Broadcasts and Sri Dayaa Trust
+- … 57 more added lines
+- − Amazon Music presents Margazhi Experience with Padma Bhushan Dr. Sudha Ragunathan
+- − Thu, 19th Nov 2026 | 6:30 PM
 - − Free | Offline
-- − A Musical Tribute to Various Composers
-- − Sun, 15th Nov 2026 | 6:15 PM
-- − Free | Offline
+- − Carnatic Vocal and Flute Concert by Abhishek Raghuram and S S Shashank | Sri Parthasarathy Swami Sabha
 
 ### krishna-gana-sabha-tikkl (ticketing) — https://tikkl.com/krishnaganasabha/c/d6ccf06f/?section=overview
-17 line(s) added, 17 removed. Full text: sources/text/krishna-gana-sabha-tikkl.txt
+16 line(s) added, 16 removed. Full text: sources/text/krishna-gana-sabha-tikkl.txt
 
-- + 14.7k
-- + JJ
-- + Jayalakshmi Jayaraman (J&J)9 hours ago
-- + Looking forward to the magic
-- + SB
-- + Sharmila Badrisankar10 hours ago
-- + HR
-- + Hemalatha R (Ice cube)15 hours ago
-- + First time experience
-- + EM
-- + Enamandra Venkata Madhuri16 hours ago
+- + 14.8k
+- + PS
+- + Pattabiraman Swaminathan (Pattabi and Lalitha)2 hours ago
+- + RK
+- + roja kompalli2 hours ago
+- + Grabbed 3 tickets.
+- + VV
+- + Visvalingam Vijayaratam (vish)2 hours ago
+- + VV
+- + Visvalingam Vijayaratam (vish)2 hours ago
 - + Grabbed 1 ticket.
-- + UV
-- + Uma Venkataraman (Uma)16 hours ago
-- + UK
-- + USHA RANI KOTIKE (Usha Kotike)20 hours ago
-- + Kanyakumari Amma is adorable
-- − 14.5k
-- − RI
-- − Raja Iyer38 minutes ago
-- − PP
-- − Prinushka Padiachy7 hours ago
-- − Traveling from South Africa
-- − AS
-- − Arunachalam Sivaraman7 hours ago
-- − SV
-- − Sandhya Vasu7 hours ago
+- + VV
+- + Visvalingam Vijayaratam (vish)3 hours ago
+- + Grabbed 1 ticket.
+- + MM
+- + M.Rajeswari Muthu5 hours ago
+- − 14.7k
+- − JJ
+- − Jayalakshmi Jayaraman (J&J)9 hours ago
+- − Looking forward to the magic
+- − SB
+- − Sharmila Badrisankar10 hours ago
+- − HR
+- − Hemalatha R (Ice cube)15 hours ago
+- − First time experience
+- − EM
 
 ### ticket9-sanjay-sabha-live (ticketing) — https://www.theticket9.com/event/sanjay-sabha-live-chennai-dec-24
 1 line(s) added, 1 removed. Full text: sources/text/ticket9-sanjay-sabha-live.txt
 
-- + 550+
-- − 500+
+- + Trending
+- − Recommended
 
 ### mylapore-times-bharat-sangeet-utsav (news) — https://www.mylaporetimes.com/tag/bharat-sangeet-utsav
-11 line(s) added, 11 removed. Full text: sources/text/mylapore-times-bharat-sangeet-utsav.txt
+12 line(s) added, 12 removed. Full text: sources/text/mylapore-times-bharat-sangeet-utsav.txt
 
+- + Wednesday, November 18, 2026 **[season]**
+- + A concert in one hall, a play in another: both themed on Sri Ayyappan **[season]**
 - + Tuesday, November 17, 2026 **[season]**
-- + Local newspaper delivery
-- + Community news updates
-- + Browse Listings
-- + Read Local News
-- + Teens at this Mandaveli campus set up food stalls for their Children’s Day event
-- + Monday, November 16, 2026 **[season]**
-- + Huge number of people attend Soorasamharam on Sunday evening
-- + Monday, November 16, 2026 **[season]**
-- + Community (4,655)
-- + Religious (2,531)
+- + Alumni Club’s Christmas Carnival: stall booking open now
+- + Tuesday, November 17, 2026 **[season]**
+- + CIT Colony community holds Children’s Day event in park
+- + Tuesday, November 17, 2026 **[season]**
+- + Small, quiet thirukalyanam celebrated at Sri Karaneeswarar Temple
+- + Tuesday, November 17, 2026 **[season]**
+- + Arts (3,492)
+- + Community (4,658)
+- + Religious (2,532)
+- − Tuesday, November 17, 2026
+- − Teens at this Mandaveli campus set up food stalls for their Children’s Day event
 - − Monday, November 16, 2026
-- − Mylapore Times subscription
-- − Newspaper advertising space
-- − Local news updates
-- − Community event listings
+- − Huge number of people attend Soorasamharam on Sunday evening
+- − Monday, November 16, 2026
+- − Soorasamharam on Sunday evening. Live action on North Mada St.
+- − Sunday, November 15, 2026
+- − Concert of devotional music. Nov.17. At BVB
 - − Saturday, November 14, 2026
-- − Children’s Day at Fatima Nursery and Primary School, R. A. Puram
-- − Saturday, November 14, 2026
-- − 60 hours of non-stop devotional music at Sri Sundara Panduranga Mandir
-- − Community (4,654)
+- − Arts (3,491)
+
+### mdnd-narada-gana-sabha-2026 (ticketing) — https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2400
+2 line(s) added, 0 removed. Full text: sources/text/mdnd-narada-gana-sabha-2026.txt
+
+- + Members Season Pass | Narada Gana Sabha **[season]**
+- + Dec 13, 2026 – Jan 1, 2027 **[season]**
+
+### mdnd-narada-gana-sabha-season-pass-2026 (ticketing) — https://mdnd.in/SeasonTickets/Members_Season_Pass_%7C_Narada_Gana_Sabha?ci=c3NrMTAx&se=ZWt5MTY0&r_id=2400&is_multiple=N
+19 line(s) added, 2 removed. Full text: sources/text/mdnd-narada-gana-sabha-season-pass-2026.txt
+
+- + India
+- + Chennai
+- + Select membership type
+- + Enter membership number*
+- + Name
+- + E-mail ID
+- + Click to buy season tickets **[season]**
+- + Members Season Pass | Narada Gana Sabha **[season]**
+- + Share
+- + Date :
+- + Sun, 13th Dec 2026 - Fri, 1st Jan 2027 **[season]**
+- + Organiser :
+- + Narada Gana Sabha (Regd)
+- + Venue :
+- + Narada Gana Sabha, Chennai
+- + Description :
+- + Note:
+- + Once purchased, we’ll contact you for your location and deliver your tickets to your doorstep—absolutely free
+- + Read Less
+- − Select Location
+- − ‌
 
 ### mdnd-parthasarathy-swami-sabha-2026 (ticketing) — https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304
-22 line(s) added, 1 removed. Full text: sources/text/mdnd-parthasarathy-swami-sabha-2026.txt
+10 line(s) added, 3 removed. Full text: sources/text/mdnd-parthasarathy-swami-sabha-2026.txt
 
-- + 3 January 2027 · Sunday **[season]**
-- + 4 January 2027 · Monday **[season]**
-- + 6 January 2027 · Wednesday **[season]**
-- + 20 days shown
-- + Sridevi Nrithyalaya presents SRINIVASA KALYANAM | Sri Parthasarathy Swami Sabha
+- + India
+- + Chennai
+- + 5 January 2027 · Tuesday **[season]**
+- + 21 days shown
+- + Carnatic Vocal and Flute Concert by Abhishek Raghuram and S Shashank | Sri Parthasarathy Swami Sabha **[season]**
+- + 5 January 2027 **[season]**
+- + Tuesday
+- + Carnatic Vocal by Harish Sivaramakrishnan | Sri Parthasarathy Swami Sabha
 - + Narada Gana Sabha, Chennai
 - + 6:30 PM
-- + 3 January 2027 **[season]**
-- + Sunday
-- + Carnatic Vocal and Flute Concert by Abhishek Raghuram and S S Shashank | Sri Parthasarathy Swami Sabha **[season]**
-- + Narada Gana Sabha, Chennai
-- + 6:30 PM
-- + 4 January 2027 **[season]**
-- + Monday
-- + Sri Saraswathy Gana Nilayam presents PPadhumaigal Sollum Kadhaigal | Sri Parthasarathy Swami Sabha
-- + Narada Gana Sabha, Chennai
-- + 6:30 PM
-- + 6 January 2027 **[season]**
-- + Wednesday
-- + Stage Creations presents Kathadi Ramamurthy in Ever Green Comedy Play AYYA, AMMA, AMMAMMA | Sri Parthasarathy Swami Sabha
-- + Narada Gana Sabha, Chennai
-- + 6:30 PM
-- − 17 days shown
+- − Select Location
+- − 20 days shown
+- − Carnatic Vocal and Flute Concert by Abhishek Raghuram and S S Shashank | Sri Parthasarathy Swami Sabha
+
+### kalaverse-events (aggregator) — https://kalaverse.com/events
+130 line(s) added, 2 removed. Full text: sources/text/kalaverse-events.txt
+
+- + Bay Area
+- + EVENTS · BAY AREA
+- + Got a question?
+- + Reach out — we usually reply within a few hours.
+- + Message us on WhatsApp
+- + Browse venues by city
+- + 🇮🇳
+- + INDIA
+- + Bengaluru
+- + Bhopal
+- + Bhubaneswar
+- + Chennai
+- + Cherpulassery
+- + Chhatrapati Sambhajinagar
+- + Chikkaballapura
+- + Coimbatore
+- + Davanagere
+- + Dehradun
+- + Delhi NCR
+- + Dharwad
+- + Erode
+- + Guntur
+- + Guruvayur
+- + Haripad
+- + Horanadu
+- + Hosur
+- + Hubballi
+- + Hyderabad
+- + Kakinada
+- + Kasaragod
+- + Kochi
+- + Kolar
+- + Kolhapur
+- + Kolkata
+- + Kollam
+- + Kollur
+- + Kottayam
+- + Koyilandy
+- + Lonavala
+- + Malappuram
+- … 90 more added lines
+- − —
+- − EVENTS · UNITED STATES
+
+### mdnd-carnatica-global-heritage-2026 (sabha) — https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=30992
+2 line(s) added, 1 removed. Full text: sources/text/mdnd-carnatica-global-heritage-2026.txt
+
+- + India
+- + Chennai
+- − Select Location
 
 ## Newly watched (first snapshot)
 
-- **mdnd-carnatica-global-heritage-2026** — https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=30992 (5059 chars)
-  - GLOBAL HERITAGE ARTS FEST 2026 -Music and Arts Fest
-  - Date: December 11th – 22nd, 2026
-  - Season Pass | GLOBAL HERITAGE ARTS FEST 2026 | CARNATICA AND SRI PARTHASARATHY SWAMI SABHA
-  - Dec 11, 2026 – Dec 22, 2026
-  - Dec 11, 2026 – Dec 22, 2026
-  - 11 December 2026 · Friday
-  - 12 December 2026 · Saturday
-  - 13 December 2026 · Sunday
+- **mdnd-anujan-2026** — https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=44564 (5758 chars)
+  - 15th Dec - 31st Dec 2026
+  - Dec 15, 2026 – Dec 31, 2026
+  - 15 December 2026 · Tuesday
+  - 16 December 2026 · Wednesday
+  - 17 December 2026 · Thursday
+  - 18 December 2026 · Friday
+  - 19 December 2026 · Saturday
+  - 20 December 2026 · Sunday
+- **natyanetwork-margazhi-music** — https://natyanetwork.com/margazhi?day=all&type=music (73553 chars)
+  - December Season Schedule 2026
+- **natyanetwork-margazhi-sabhas** — https://natyanetwork.com/margazhi/sabhas (3030 chars)
+- **bhavanschennai-margazhi-2026-schedule** — https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf (3290 chars)
+  - BHAVAN'S MARGAZHI MAHOTSAV 2026 - FIRST EDITION
+  - BHAVAN'S MARGAZHI MAHOTSAV 2026 - FIRST EDITION
 
 ## Could not be read (check by web search instead)
 
 - **krishna-gana-sabha** — https://www.krishnaganasabha.org/: HTTP 200, 7 characters of text
 - **bookmyshow-carnatic-chennai** — https://in.bookmyshow.com/explore/music-shows-chennai: HTTP 403, 683 characters of text
-- **district-chennai-music** — https://www.district.in/events/music-in-chennai: HTTP 404, 69 characters of text
+- **district-chennai-music** — https://www.district.in/events/music-in-chennai: HTTP 403, 218 characters of text
+- **chennai-december-season** — https://chennaidecemberseason.com/: HTTP 429, 286 characters of text
 - **kutcheribuzz** — https://www.kutcheribuzz.com/: HTTP 403, 266 characters of text
-- **bandsintown-chennai** — https://www.bandsintown.com/c/chennai-india: HTTP 403, 684 characters of text
-- **artist-bombay-jayashri** — https://www.bombayjayashri.com/: HTTP 403, 269 characters of text
+- **bandsintown-chennai** — https://www.bandsintown.com/c/chennai-india: HTTP 403, 265 characters of text
+- **artist-bombay-jayashri** — https://www.bombayjayashri.com/: HTTP 403, 266 characters of text
 - **artist-ganesh-kumaresh** — https://www.ganeshkumaresh.com/: Page.goto: net::ERR_CONNECTION_REFUSED at https://www.ganeshkumaresh.com/
 - **artist-malladi-brothers** — https://www.malladibrothers.com/: HTTP 503, 23 characters of text
 - **krishna-gana-sabha-com** — https://krishnaganasabha.com/: HTTP 200, 7 characters of text
