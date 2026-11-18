@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi?day=all&type=music
-# fetched 2026-11-17T23:55Z
+# fetched 2026-11-18T19:31Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -51,13 +51,13 @@ Create Your Profile
 Search the December Season
 THE SPIRIT OF DECEMBER
 December Season Schedule 2026
-Every concert from Chennai’s sabhas — 626 concerts from 18 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
+Every concert from Chennai’s sabhas — 654 concerts from 19 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
 Dance
 154
 Music
-426
+453
 Everything
-626
+654
 Sabhas
 Artists
 Add your programme
@@ -123,6 +123,7 @@ Charsur Arts Foundation
 Narada Gana Sabha
 Sri Parthasarathy Swami Sabha
 Anujan Broadcasts and Sri Dayaa Trust
+Mylapore Fine Arts Club (Regd)
 Carnatica
 Kartik Fine Arts
 Kalakshetra
@@ -131,16 +132,16 @@ Live4You
 Beachville Coffee Roasters
 Chennaiyil Sangeeth Utsav
 Gems of Margazhi - From the House of Meenu Subbiah
-Tamil Cultural Academy
 Minnaminni (Mélange Fest)
+Tamil Cultural Academy
 Anusham Arts Academy
 Neighbourhood
 All areas
 Alwarpet (55)
-Chennai (48)
+Chennai (77)
 ECR (6)
 Egmore (10)
-Mandaveli-R.A. Puram (3)
+Mandaveli-R.A. Puram (2)
 Mylapore (216)
 T. Nagar (227)
 Teynampet (40)
@@ -151,6 +152,7 @@ All artists
 "Agre Pashyami" by Anithaguha's Bharathanjali
 (Madison) Sanjay Suresh
 31st Year Celebrations - Mega Isai Vizha - Perumalin Perumai
+4 :00 PM
 A S Murali
 A. Kanyakumari
 A.S.Murali
@@ -215,6 +217,7 @@ Bangalore Brothers
 Bhajan Clubbing
 Bharadwaj Subramaniam
 Bharat Sundar
+Bharat Sundar - Vocal
 Bharathi Tirumagan and Yuva Kala Bharathi
 Bhargavi Venkatram
 Bhavajan Kumar
@@ -224,6 +227,7 @@ C R Vaidyanathan
 C.S. Keshava Chandra
 Carnatic Nadaswaram, Mandolin and Veena Concert Mylai Karthikeyan, Vishwas Hari, Charulatha Chandrasekhar
 Carnatica Brothers
+Carnatica Brothers - Vocal
 Carnatica Brothers (K.N.Shashikiran & P. Ganesh)
 Charulatha Chandrasekar
 Charumathi Raghuraman
@@ -263,14 +267,17 @@ Dr Vidya Rao
 Dr Vinisha Kathiravan
 Dr. Aishwarya Shankar
 Dr. Baby Sreeram
+Dr. Brinda Manickavasagan - Vocal
 Dr. Gayathri Girish
 Dr. Jayanthi Kumaresh
+Dr. Jayanthi Kumaresh - Veena
 Dr. K. Gayatri
 Dr. K.Gayatri
 DR. N.J. Nandini
 Dr. N.Jayakrishnan Unni
 Dr. Neena Prasad
 Dr. Nithyasree Mahadevan
+Dr. Pantula Rama - Vocal
 Dr. Renganatha Sharma
 Dr. Sriram Parasuram
 Dr. Sudha Ragunathan
@@ -288,6 +295,7 @@ G Ravikiran
 G. Narendra
 Ganesh Kumaresh
 Gayathri Venkataraghavan
+Gayathri Venkataraghavan - Vocal
 Gayatri K
 Gayatri Venkatraghavan
 Ghatam Ensemble
@@ -300,6 +308,7 @@ Harish Sivaramakrishnan
 Iluppapattu B Vinodh & Thiruthuraipoondi S Poornachandran
 Indira Kadambi
 Injikudi E M Subramaniam
+Isai Payanam – Classical meets Film – Dr. Charulatha Mani
 J B Sruthi Sagar
 J.A. Jayanth and Mylai Karthikeyan
 J.A.Jayant
@@ -308,6 +317,7 @@ J.T. Jeyaraaj Krishnan & Jaysri Jeyaraaj Krishnan
 Jahnavi
 Jaya Jaya Devi a Sangita Nritya Natakam
 Jayashree Vaidyanathan
+Jayashree Vaidyanathan - Vocal
 JB Keerthana
 Jugalbandi concert
 Jyotsna Vaidee
@@ -362,12 +372,14 @@ Malladi Brothers
 Malladi Brothers - Sreeramaprasad & Dr Ravikumar
 Malladi Brothers - Sreeramaprasad & Dr. Ravikumar
 Malladi Brothers - Sri Ramaprasad and Ravikumar
+Malladi Brothers - Vocal
 Malladi Brothers (Shriramkumar & Ravikumar)
 Malladi Brothers Sriram Prasad & Ravikumar
 Malladi Suribabu
 Malladi Trio
 Malladi Yasashvi Anand
 Mambalam S Santhanam
+Mambalam Sisters - Vocal
 Mandolin Day - U Rajesh and Party
 Mandolin Siblings Samhitha Shivram & Shreyas Shivram
 Master Vittal Prasad
@@ -389,6 +401,7 @@ Mythili Prakash
 N J Nandini
 N Vijay Siva
 N. Vijay Siva
+Nagai Muralidharan & Dr. Badrinarayanan - Violin
 Nagai R. Muralidharan
 Nandhini Karthik
 Nandhini Subbulakshmi
@@ -401,6 +414,7 @@ Nirmala Rajashekar
 Nirupama Rajendra
 Nisha Rajagopal
 Nisha Rajagopalan
+Nisha Rajagopalan - Vocal
 Nivrithi Mahesh
 NJ Nandini
 Nrityagram
@@ -413,6 +427,7 @@ Padma Subrahmanyam
 Padmalakshmi S Suresh
 Padmashree Srinivasan
 Padmini Krishnamurthy
+Palakkad Dr. R. Ramaprasad - Vocal
 Palghat Dr R Ramprasad
 Palghat Ramaprasad
 Palghat Ramprasad
@@ -456,6 +471,7 @@ Rama Vaidyanathan
 Ramakrishnan Murthy
 Ramana Balachandhran
 Ramana Balachandran
+Ramnath Venkat Bagavath - Vocal
 Ranjani & ‘Sangeetha Choodamani’ Gayatri
 Ranjani & Gayatri
 Ranjani and Gayatri
@@ -468,6 +484,7 @@ Riha Giri
 Rishabh Kaushik
 Rishabh Ranganathan and Viswas Hari
 Rithvik Raja
+Rithvik Raja - Vocal
 Ritvik Vaddi Rao
 RP Shravan
 Rukmini Vijayakumar
@@ -483,6 +500,7 @@ S. Mahathi
 S. Saketharaman
 S. Srivathsan
 S.Adithyanarayanan
+S.M. Vilasini - Vocal
 Sai Vignesh & Kavya Muralidharan
 Saikripa Prasanna & Jayanthi Subramaniam
 Saketharaman
@@ -533,12 +551,14 @@ Sid Sriram
 Sidharth Prakash
 Sidhdharth Kaushik
 Sikkil C. Gurucharan
+Sikkil C. Gurucharan - Vocal
 Sikkil C.Gurucharan
 Sikkil Gurucharan
 Sikkil Gurucharan and Party
 Sindhu Shyam
 Sivasree Tejasvisurya
 Sivasri Skandaprasad
+Smt. Visaka Hari - Upanyasam
 Sneha Jayakumar
 Snigdha Venkataramani
 Sooraj Subramaniam
@@ -611,6 +631,7 @@ Vidvan Trichur Narendran
 Vidwan Embar Kannan
 Vidya Kalyanaraman
 Vignesh Ishwar
+Vignesh Ishwar - Vocal
 Vignesh Ishwar & Ashwath Narayanan
 Vijayalakshmi
 Vikram Sridhar
@@ -625,7 +646,6 @@ Vittal Rangan
 Vivek Sadasivam
 Vrindha Parthasarathy
 Weslyan B Balasubramanian and Tiruvarur Girish
-Who is the Hero - Golden Hits of Rajini and Kamal
 Winners in Devotional Music Competition
 Y.Gee. Mahendra – United Amateur Artists
 Yuva Kala Vaibhavam
@@ -642,7 +662,7 @@ Search
 Next up
 Free entry only
 6:00 pm
-in 10 days
+in 9 days
 Saindhavi & Sai Vignesh
 Gems of Margazhi - From the House of Meenu Subbiah · Tharamani
 Sun
@@ -747,9 +767,9 @@ Sat
 Jan 16
 Sun
 Jan 17
-All music 426
-Vocal 233
-Instrumental 70
+All music 453
+Vocal 248
+Instrumental 72
 Harikatha & Namasankeerthanam 31
 Lec-dems & talks 2
 Light & Fusion 8
@@ -757,7 +777,7 @@ Concert (type not listed) 61
 Students' music performance 2
 Devotional music 2
 The whole season
-426 CONCERTS FOUND
+453 CONCERTS FOUND
 Free
 Ticketed
 SUN 15 NOV
@@ -1685,6 +1705,21 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 FRI 18 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+FRI 18 DEC
+4:00 pm
+Music
+Gayathri Venkataraghavan - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+FRI 18 DEC
 4:30 pm
 Music
 S. Saketharaman
@@ -1867,6 +1902,29 @@ Aditya Madhavan
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+SAT 19 DEC
+4:00 pm
+Music
+Mambalam Sisters - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+SAT 19 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+SAT 19 DEC
+4:00 pm
+Music
+Sikkil C. Gurucharan - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
 Ticketed
 SAT 19 DEC
 4:30 pm
@@ -2053,6 +2111,29 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 SUN 20 DEC
+4:00 pm
+Music
+Ramnath Venkat Bagavath - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+SUN 20 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+SUN 20 DEC
+4:00 pm
+Music
+Dr. Jayanthi Kumaresh - Veena
+INSTRUMENTAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+SUN 20 DEC
 6:00 pm
 Music
 Sandeep Narayan
@@ -2068,13 +2149,6 @@ CONCERT (TYPE NOT LISTED)
 Indian singer
 Narada Gana Sabha
 Narada Gana Sabha, TTK Road, Alwarpet
-Ticketed
-SUN 20 DEC
-6:00 pm
-Music
-Who is the Hero - Golden Hits of Rajini and Kamal
-Tamil Cultural Academy
-Image Auditorium, Raja Annamalaipuram, Mandaveli-R.A. Puram
 Ticketed
 SUN 20 DEC
 6:30 pm
@@ -2231,6 +2305,29 @@ Vishruthi Girish
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+MON 21 DEC
+4:00 pm
+Music
+Dr. Brinda Manickavasagan - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+MON 21 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+MON 21 DEC
+4:00 pm
+Music
+Nagai Muralidharan & Dr. Badrinarayanan - Violin
+INSTRUMENTAL
+Mylapore Fine Arts Club (Regd)
+Chennai
 Ticketed
 MON 21 DEC
 4:30 pm
@@ -2409,6 +2506,21 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 TUE 22 DEC
+4:00 pm
+Music
+Carnatica Brothers - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+TUE 22 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+TUE 22 DEC
 4:30 pm
 Music
 Papanasam Ashok Ramani
@@ -2567,6 +2679,28 @@ VOCAL
 Indian singer
 The Music Academy
 Music Academy, TTK Auditorium, Mylapore
+Ticketed
+WED 23 DEC
+4:00 pm
+Music
+Isai Payanam – Classical meets Film – Dr. Charulatha Mani
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+WED 23 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+WED 23 DEC
+4:00 pm
+Music
+Malladi Brothers - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
 Ticketed
 WED 23 DEC
 6:00 pm
@@ -2739,6 +2873,29 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 THU 24 DEC
+4:00 pm
+Music
+Vignesh Ishwar - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+THU 24 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+THU 24 DEC
+4:00 pm
+Music
+Nisha Rajagopalan - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+THU 24 DEC
 6:30 pm
 Music
 Amritha Murali
@@ -2897,6 +3054,29 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 FRI 25 DEC
+4:00 pm
+Music
+S.M. Vilasini - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+FRI 25 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+FRI 25 DEC
+4:00 pm
+Music
+Bharat Sundar - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+FRI 25 DEC
 4:30 pm
 Music
 Sivasree Tejasvisurya
@@ -3046,6 +3226,29 @@ Archana and Samani
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+SAT 26 DEC
+4:00 pm
+Music
+Rithvik Raja - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+SAT 26 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+SAT 26 DEC
+4:00 pm
+Music
+Dr. Pantula Rama - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
 Ticketed
 SAT 26 DEC
 4:30 pm
@@ -3199,6 +3402,29 @@ The Music Academy
 Music Academy, TTK Auditorium, Mylapore
 Ticketed
 AV
+SUN 27 DEC
+4:00 pm
+Music
+Jayashree Vaidyanathan - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+SUN 27 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+SUN 27 DEC
+4:00 pm
+Music
+Palakkad Dr. R. Ramaprasad - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
 SUN 27 DEC
 4:30 pm
 Music

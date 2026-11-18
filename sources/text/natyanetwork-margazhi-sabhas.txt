@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi/sabhas
-# fetched 2026-11-17T23:55Z
+# fetched 2026-11-18T19:31Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -61,7 +61,7 @@ T. Nagar
 Teynampet
 Tharamani
 Thiruvanmiyur
-18 venues with schedules
+19 venues with schedules
 Search venues
 TM
 The Music Academy
@@ -83,6 +83,9 @@ Mylapore · 38 programmes
 AB
 Anujan Broadcasts and Sri Dayaa Trust
 Mylapore · 32 programmes
+MF
+Mylapore Fine Arts Club (Regd)
+Chennai · 29 programmes
 C
 Carnatica
 Thiruvanmiyur · 27 programmes
@@ -105,12 +108,12 @@ ECR · 6 programmes
 GO
 Gems of Margazhi - From the House of Meenu Subbiah
 Tharamani · 3 programmes
-TC
-Tamil Cultural Academy
-Mandaveli-R.A. Puram · 3 programmes
 MM
 Minnaminni (Mélange Fest)
 Alwarpet · 2 programmes
+TC
+Tamil Cultural Academy
+Mandaveli-R.A. Puram · 2 programmes
 AA
 Anusham Arts Academy
 T. Nagar · 1 programmes
