@@ -31,7 +31,9 @@ ORGS = [
      "https://krishnaganasabha.com/assets/images/nkc/margazhimela2026/MM_schedule(2026).pdf"),
     ("Sri Thyaga Brahma Gana Sabha", MAJOR, AW, "T. Nagar", "Vani Mahal, G.N. Road", "", "", "https://www.vanimahal.com/"),
     ("Brahma Gana Sabha", MAJOR, AW, "Mylapore", "Sivagami Pethachi Auditorium", "", "", ""),
-    ("Mylapore Fine Arts Club", MAJOR, AW, "Mylapore", "45 Musiri Subramaniam Road", "", "", ""),
+    ("Mylapore Fine Arts Club", MAJOR, ANN, "Mylapore", "45 Musiri Subramaniam Road", "December festival · 18–27 Dec 2026",
+     "Programme now on NatyaNetwork (listed as \"Mylapore Fine Arts Club (Regd)\", ticketed, tickets on MDnD), but every item is shown at 4 pm, so the real slot times are not yet known; concerts will be added once times are published. Listed: 18 Dec Gayathri Venkataraghavan; 19 Dec Mambalam Sisters, Sikkil C. Gurucharan; 20 Dec Ramnath Venkat Bagavath, Jayanthi Kumaresh (veena); 21 Dec Brinda Manickavasagan, Nagai Muralidharan & Badrinarayanan (violin); 22 Dec Carnatica Brothers; 23 Dec Malladi Brothers; 24 Dec Vignesh Ishwar, Nisha Rajagopalan; 25 Dec S.M. Vilasini, K. Bharat Sundar; 26 Dec Rithvik Raja, Pantula Rama; 27 Dec Jayashree Vaidyanathan, Palghat R. Ramprasad.",
+     "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293"),
     ("Sri Parthasarathy Swami Sabha", MAJOR, PUB, "Mylapore", "Vidya Bharathi Kalyana Mandapam, Bheemasena Garden Road", "126th Year Isai Vizha · 17 Dec 2026 – 3 Jan 2027",
      "Two ticketed concerts daily, 4 pm and 6.30 pm, 17 Dec – 2 Jan, on the sabha's MDnD festival page (venue Vidya Bharathi Kalyana Mandapam); Shashank & Abhishek Raghuram 3 Jan, 6.30 pm, at Narada Gana Sabha (artist's site; now on MDnD). Dance and drama on 3, 4 and 6 Jan at Narada Gana Sabha are not listed here.",
      "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304"),
@@ -75,7 +77,9 @@ ORGS = [
      "Two concerts daily, 4 pm and 6.30 pm (plus some 10 am slots); programme for 15–30 Dec listed on MDnD; 31 Dec 6.30 pm A.S. Murali from NatyaNetwork's listing. Lecture-demonstrations not included.",
      "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
     ("Chennai Fine Arts", FEST, AW, "", "", "", "", ""),
-    ("Madhuradhwani", FEST, AW, "Mylapore", "Arkay Convention Centre", "", "ACC Anniversary festival.", ""),
+    ("Madhuradhwani", FEST, ANN, "Mylapore", "Arkay Convention Centre, Luz", "ACC 16th Anniversary Music Festival · 21 Nov – 6 Dec 2026; December Season 7 Dec 2026 – 13 Jan 2027",
+     "Runs the Arkay Convention Center (ACC). 16-day anniversary festival opens 21 Nov with mangala isai (3.30 pm), inauguration (5.15 pm) and Neyveli R. Santhanagopalan (6.30 pm); a December Season of over 200 concerts follows, 7 Dec – 13 Jan (Mylapore Times, 18 Nov 2026). Full programme not yet published; K.S. Vishnudev's 23 Nov and 10 Dec concerts come from the artist's poster.",
+     "https://www.mylaporetimes.com/2026/11/music-festival-over-16-days-to-mark-16th-anniversary-of-arkay-center-luz/"),
     ("Sunaadalahari", FEST, AW, "Abhiramapuram", "Indira Ranganathan Trust, 52 C.P. Ramaswamy Road", "", "Garden-setting concerts.", ""),
     ("Carnatica", FEST, PUB, "Thiruvanmiyur", "Sri Sankara Vidhyashramam School Auditorium, Thiruvanmiyur", "Global Heritage Music & Arts Fest 2026 · 11–22 Dec 2026",
      "Presented with Sri Parthasarathy Swami Sabha: two ticketed concerts a day (4.30 pm and 6.45 pm; 4 pm and 6.30 pm on 14 and 20 Dec), 11–22 Dec, listed on MDnD; venue from indian-heritage.org. Two non-Carnatic items (18 Dec piano–vocal with Madhan Karky, 21 Dec film music) and a 19 Dec katha kutcheri are not listed here; Kunnakudi M. Balamuralikrishna 19 Dec 6.45 pm from NatyaNetwork's listing. Also co-presented Bharat Sangeet Utsav 2026 (31 Oct – 7 Nov, before the season).",
@@ -149,7 +153,7 @@ for i, row in enumerate(ORGS):
                   "Sri Thyaga Brahma Gana Sabha",
                   "The Indian Fine Arts Society", "Hamsadhwani", "Tamil Isai Sangam",
                   "Nada Sudha", "VVS Foundation & SaMaa Arts",
-                  "Madhuradhwani", "TTVV Trust & Cleveland Thyagaraja Festival", "Lakshman Sruthi",
+                  "TTVV Trust & Cleveland Thyagaraja Festival", "Lakshman Sruthi",
                   "SciArtsRUs", "Sri Rama Bhaktha Jana Samaj", "Gayatri Fine Arts Global", "Asthika Samajam"}:
         ORGS[i] = row[:2] + (PART,) + row[3:6] + ("Own schedule not yet published; dates found on artists' websites.",) + row[7:]
 out = [dict(name=n, group=g, status=s, area=a, venue=v, festival_2026=f, note=note, url=u)
