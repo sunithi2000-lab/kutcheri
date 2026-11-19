@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi?day=all&type=music
-# fetched 2026-11-18T23:30Z
+# fetched 2026-11-19T19:31Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -51,13 +51,13 @@ Create Your Profile
 Search the December Season
 THE SPIRIT OF DECEMBER
 December Season Schedule 2026
-Every concert from Chennai’s sabhas — 654 concerts from 19 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
+Every concert from Chennai’s sabhas — 681 concerts from 19 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
 Dance
-154
+156
 Music
-453
+476
 Everything
-654
+681
 Sabhas
 Artists
 Add your programme
@@ -67,6 +67,7 @@ Sun 15 Nov
 Fri 27 Nov
 Sat 28 Nov
 Sun 29 Nov
+Tue 1 Dec
 Wed 2 Dec
 Thu 3 Dec
 Fri 4 Dec
@@ -119,11 +120,11 @@ All sabhas
 The Music Academy
 Sri Krishna Gana Sabha
 Bharat Kalachar
+Mylapore Fine Arts Club (Regd)
 Charsur Arts Foundation
 Narada Gana Sabha
 Sri Parthasarathy Swami Sabha
 Anujan Broadcasts and Sri Dayaa Trust
-Mylapore Fine Arts Club (Regd)
 Carnatica
 Kartik Fine Arts
 Kalakshetra
@@ -138,7 +139,7 @@ Anusham Arts Academy
 Neighbourhood
 All areas
 Alwarpet (55)
-Chennai (77)
+Chennai (104)
 ECR (6)
 Egmore (10)
 Mandaveli-R.A. Puram (2)
@@ -153,6 +154,7 @@ All artists
 (Madison) Sanjay Suresh
 31st Year Celebrations - Mega Isai Vizha - Perumalin Perumai
 4 :00 PM
+5 :45 PM
 A S Murali
 A. Kanyakumari
 A.S.Murali
@@ -173,12 +175,14 @@ Aishwarya Vidhya Raghunath
 Aishwarya Vidhya Raghunath & V Anirudh Athreya
 Akkarai Sisters
 Akkarai Sisters - S.Subhalakshmi & S. Sornalatha
+Akkarai Sisters - Vocal
 Akkarai Sisters Subhalakshmi & Sornalatha
 Akshara Ramachandran
 Akshay Padmanabhan
 Ambika Buch & Jyotsna Buch
 Amrita Murali
 Amritha Murali
+Amritha Murali - Vocal
 Amrutha Venkatesh
 Amurtha Soundarya & Pavithrasai
 Anahita & Apoorva
@@ -232,6 +236,7 @@ Carnatica Brothers (K.N.Shashikiran & P. Ganesh)
 Charulatha Chandrasekar
 Charumathi Raghuraman
 Chennayil 31st Year Celbrations - Spoorthi Rao- Tribute to the Female Trinity
+Chinmaya Sisters - Vocal
 Christopher Gurusamy
 Classical Expressions
 Cotah Sisters
@@ -276,9 +281,11 @@ Dr. K.Gayatri
 DR. N.J. Nandini
 Dr. N.Jayakrishnan Unni
 Dr. Neena Prasad
+Dr. Nithyashree Mahadevan - Vocal
 Dr. Nithyasree Mahadevan
 Dr. Pantula Rama - Vocal
 Dr. Renganatha Sharma
+Dr. Sheela Unnikrishnan - Bharatanatyam
 Dr. Sriram Parasuram
 Dr. Sudha Ragunathan
 Dr. V Subashri
@@ -293,6 +300,7 @@ Flute J A Jayant
 G Narendra
 G Ravikiran
 G. Narendra
+Ganapathyam – Tales of Ganesa - Bharatanatyam
 Ganesh Kumaresh
 Gayathri Venkataraghavan
 Gayathri Venkataraghavan - Vocal
@@ -348,6 +356,10 @@ Kolkata Padmavathi Saranathan
 Krithika Bharadhwaj
 Kruthi Bhat
 Kruthi Vittal
+Kruthi Vittal - Vocal
+Kum. Anaga Ganesh
+Kum. Meera Rajaraman
+Kum. Vidyalakshmi Vidyanath
 Kunnakudi Balamurali Krishna
 Kunnakudi Balamuralikrishna
 Kunnakudi M Balamuralikrishna
@@ -363,6 +375,7 @@ Lekha Prasad
 M Oviya
 Madhusudhanan Kalaichelvan
 Madurai T.N.S.Krishna
+Maharajapuram Ganesh Viswanathan - Vocal
 Maharajapuram S.Ganesh Viswanathan
 Mahathi
 Mahathi Kannan presents "Ramaya Thubhyam Namaha"
@@ -392,6 +405,7 @@ Meenakshi Srinivasan
 Meera Sreenarayanan
 Mohammed Rafi 102 Night
 Mohan Santhanam
+Mother Creations
 Music Performance By Students of Advanced School of Carnatic Music
 Mylai Karthikeyan
 Mysore brothers
@@ -434,6 +448,7 @@ Palghat Ramprasad
 Pandit Jayateerth Mevundi
 Pandit Venkatesh Kumar
 Papanasam Ashok Ramani
+Papanasam Ashok Ramani - Vocal
 Parshwanath S. Upadhye
 Parshwanath Upadhye
 Patra Pravesa Daruvus in Kuchipudi Natyam
@@ -456,8 +471,10 @@ R Parthasarathy
 R Sai Vignesh
 R Suryaprakash
 R. Ashwath Narayanan
+R. Ashwathnarayanan - Vocal
 R. Lakshmipriya
 R. Ratipriya
+R. Suryaprakash - Vocal
 R.Ashwath Narayanan
 R.K. Shriramkumar & V.V.S.Murari
 R.P.Shravan
@@ -498,6 +515,7 @@ S Srivathsan
 S Swaminathan
 S. Mahathi
 S. Saketharaman
+S. Saketharaman - Vocal
 S. Srivathsan
 S.Adithyanarayanan
 S.M. Vilasini - Vocal
@@ -558,6 +576,7 @@ Sikkil Gurucharan and Party
 Sindhu Shyam
 Sivasree Tejasvisurya
 Sivasri Skandaprasad
+Smt. Anitha Guha
 Smt. Visaka Hari - Upanyasam
 Sneha Jayakumar
 Snigdha Venkataramani
@@ -662,7 +681,7 @@ Search
 Next up
 Free entry only
 6:00 pm
-in 9 days
+in 8 days
 Saindhavi & Sai Vignesh
 Gems of Margazhi - From the House of Meenu Subbiah · Tharamani
 Sun
@@ -673,6 +692,8 @@ Sat
 Nov 28
 Sun
 Nov 29
+Tue
+Dec 1
 Wed
 Dec 2
 Thu
@@ -767,8 +788,8 @@ Sat
 Jan 16
 Sun
 Jan 17
-All music 453
-Vocal 248
+All music 476
+Vocal 258
 Instrumental 72
 Harikatha & Namasankeerthanam 31
 Lec-dems & talks 2
@@ -777,7 +798,7 @@ Concert (type not listed) 61
 Students' music performance 2
 Devotional music 2
 The whole season
-453 CONCERTS FOUND
+476 CONCERTS FOUND
 Free
 Ticketed
 SUN 15 NOV
@@ -811,6 +832,29 @@ IndoSoul by Karthick Iyer
 Gems of Margazhi - From the House of Meenu Subbiah
 M S Subbulakshmi Auditorium, Tharamani
 Ticketed
+TUE 1 DEC
+4:00 pm
+Music
+R. Ashwathnarayanan - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+TUE 1 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+TUE 1 DEC
+4:00 pm
+Music
+Akkarai Sisters - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
 WED 2 DEC
 4:30 pm
 Music
@@ -818,6 +862,13 @@ R. Ashwath Narayanan
 VOCAL
 Kartik Fine Arts
 Narada Gana Sabha, Chennai
+Ticketed
+WED 2 DEC
+5:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
 Ticketed
 WED 2 DEC
 6:45 pm
@@ -3579,6 +3630,29 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 MON 28 DEC
+4:00 pm
+Music
+R. Suryaprakash - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+MON 28 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+MON 28 DEC
+4:00 pm
+Music
+Amritha Murali - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+MON 28 DEC
 4:30 pm
 Music
 Vaishnavi Ramdos
@@ -3740,6 +3814,29 @@ FLUTE
 with Violin · Mridangam · Kanjira
 The Music Academy
 Music Academy, TTK Auditorium, Mylapore
+Ticketed
+TUE 29 DEC
+4:00 pm
+Music
+Chinmaya Sisters - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+TUE 29 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+TUE 29 DEC
+4:00 pm
+Music
+S. Saketharaman - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
 Ticketed
 TUE 29 DEC
 6:30 pm
@@ -3917,6 +4014,29 @@ Weslyan B Balasubramanian and Tiruvarur Girish
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+WED 30 DEC
+4:00 pm
+Music
+Maharajapuram Ganesh Viswanathan - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+WED 30 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+WED 30 DEC
+4:00 pm
+Music
+Dr. Nithyashree Mahadevan - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
 Ticketed
 WED 30 DEC
 4:30 pm
@@ -4102,6 +4222,29 @@ Abhirama Bode
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+THU 31 DEC
+4:00 pm
+Music
+Kruthi Vittal - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+THU 31 DEC
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+THU 31 DEC
+4:00 pm
+Music
+Papanasam Ashok Ramani - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
 Ticketed
 THU 31 DEC
 4:30 pm
@@ -4505,11 +4648,39 @@ Chennaiyil Sangeeth Utsav
 RK Convention Centre, ECR
 Ticketed
 THU 14 JAN
+5:45 pm
+Music
+Kum. Anaga Ganesh
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+THU 14 JAN
+5:45 pm
+Music
+5 :45 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+THU 14 JAN
 6:30 pm
 Music
 Swara Raga Cinema
 Chennaiyil Sangeeth Utsav
 RK Convention Centre, ECR
+Ticketed
+FRI 15 JAN
+5:45 pm
+Music
+Kum. Meera Rajaraman
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+FRI 15 JAN
+5:45 pm
+Music
+5 :45 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
 Ticketed
 SAT 16 JAN
 10:30 am
@@ -4535,6 +4706,27 @@ LIGHT & FUSION
 Bharat Kalachar
 Sri YGP Auditorium, T. Nagar
 CJ
+SAT 16 JAN
+5:45 pm
+Music
+Kum. Vidyalakshmi Vidyanath
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+SAT 16 JAN
+5:45 pm
+Music
+5 :45 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+SAT 16 JAN
+5:45 pm
+Music
+AGRE PASHYAMI
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
 SUN 17 JAN
 10:30 am
 Music

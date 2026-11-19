@@ -1,5 +1,5 @@
 # https://www.bandsintown.com/c/chennai-india
-# fetched 2026-11-09T19:31Z
+# fetched 2026-11-19T19:31Z
 Get app
 Venues
 Cities
@@ -26,15 +26,6 @@ All dates
 Free shows
 All genres
 Popular concerts & live events in Chennai, India
-Rohith Jayaraman
-Sat, Nov 14 • 5:30 PM
-The Nook
-Thakara
-Sat, Nov 14 • 7 PM
-The Spotted Deer
-Paal Dabba
-Sun, Nov 15 • 4 PM
-Sir Pt Thiyagrayar Kalaiyarangam
 Perception Delta
 Sat, Nov 21 • 6:30 PM
 Aura Studios
@@ -47,24 +38,21 @@ GKS Convention Centre
 Sid Sriram
 Sun, Dec 20 • 4 PM
 Bharat Kalachar
-Sivasri Skandaprasad
-Fri, Dec 25 • 4:30 PM
-Bharat Kalachar
-Sanjay Subrahmanyan
-Fri, Dec 25 • 6:30 PM
-Muthamizh Peravai ,T.N Rajarathinam Kalai Arangam
-Flute Jayanth
-Sat, Dec 26 • 10:30 AM
-Bharat Kalachar
 Rajhesh Vaidhya
 Sat, Dec 26 • 10:30 AM
 Bharat Kalachar
-Sooryagayathri
-Sat, Dec 26 • 4:30 PM
+Flute Jayanth
+Sat, Dec 26 • 10:30 AM
 Bharat Kalachar
 Lydian Nadhaswaram
 Sat, Dec 26 • 6 PM
 Sir Mutha Venkatasubba Rao Concert Hall
+S. J. Jananiy
+Sat, Dec 26 • 7 PM
+Bharatiya Vidya Bhavan
+Sanjay Subrahmanyan
+Mon, Dec 28 • 6:30 PM
+M. S. Subbulakshmi Auditorium
 Ganesh Kumaresh
 Fri, Jan 1, 2027 • 10:30 AM
 Bharat Kalachar
@@ -77,46 +65,25 @@ Chennai
 Shreya Ghoshal
 Sat, Mar 20, 2027 • 6 PM
 YMCA Ground
-Shows selling fast
-Rohith Jayaraman
-Sat, Nov 14 • 5:30 PM
-The Nook
-Martin Garrix
-Sat, Mar 13, 2027 • 4 PM
-Chennai
-Sowndharya Uma
-Fri, Nov 13 • 8:30 PM
-Hard Rock Cafe Chennai
-Rainburn
+Recently announced
+Chitralekha Sen
+Sat, Nov 28 • 8 PM
+Secret Story Chennai
+Samay Raina
 Fri, Dec 4 • 8 PM
-Aura Studios
-In Between Sessions
-Wed, Nov 18 • 6 PM
-Museum Theatre
-Rishabh Jain
-Sun, Jan 10, 2027 • 6:30 PM
-YMCA Royapettah
-Blues Conscience
-Fri, Nov 20 • 8:45 PM
-Bay 146
-Faiyaaz Hussain
-Sun, Nov 15 • 7 PM
-Music Academy
-Arvind Sunder
-Sun, Nov 15 • 6 PM
-Trinity Studio
-Henrique Camacho
-Sun, Nov 22 • 5 PM
-Chennai
-Anuvab Pal
-Sun, Jan 17, 2027 • 7 PM
-Medai - The Stage Chennai
-Ramana Balachandhran
-Sun, Jan 3, 2027 • 7 PM
-Bharat Kalachar
-Anusha Karthick
-Wed, Dec 23 • 6:30 PM
-Bharat Kalachar
+M. S. Subbulakshmi Auditorium
+M. G. Sreekumar
+Sat, Jan 9, 2027 • 6:30 PM
+Sir Mutha Venkatasubba Rao Concert Hall
+S. P. Sailaja
+Sun, Dec 13 • 6:30 PM
+Raja Annamalai Mandram
+Akaash Singh
+Fri, Jan 22, 2027 • 8:30 PM
+Sir Mutha Venkatasubba Rao Concert Hall
+Swagatha S. Krishnan
+Sat, Nov 28 • 6 PM
+Victoria Public Hall
 Chennai venue map
 View all
 Medai - The Stage Chennai
@@ -126,35 +93,35 @@ YMCA Royapettah
 1 events coming up
 345 followers
 Music Academy
-2 events coming up
+1 events coming up
 331 followers
 YMCA Ground
 2 events coming up
 244 followers
 Sir Mutha Venkatasubba Rao Concert Hall
-2 events coming up
+4 events coming up
 236 followers
+Narada Gana Sabha
+2 events coming up
+108 followers
 Bharat Kalachar
 18 events coming up
-82 followers
-Museum Theatre
-1 events coming up
-81 followers
+83 followers
 Vani Mahal
 1 events coming up
-68 followers
+69 followers
 Muthamizh Peravai ,T.N Rajarathinam Kalai Arangam
 2 events coming up
-52 followers
+53 followers
 M. S. Subbulakshmi Auditorium
-1 events coming up
-30 followers
-Hard Rock Cafe Chennai
-1 events coming up
-22 followers
-Sir Pt Thiyagrayar Kalaiyarangam
 2 events coming up
-2 followers
+31 followers
+Sri Krishna Gana Sabha Main Hall
+2 events coming up
+7 followers
+Sri Thyaga Brahma Gana Sabha
+1 events coming up
+7 followers
 Bay 146
 1 events coming up
 1 followers
@@ -164,19 +131,19 @@ GKS Convention Centre
 Secret Story Chennai
 1 events coming up
 0 followers
-Vibe Restobar
+Victoria Public Hall
 1 events coming up
 0 followers
-Bharata Kalakshetra Auditorium, Kalakshetra Foundation
-3 events coming up
-0 followers
 Valluvar Kottam
+1 events coming up
+0 followers
+Mirabilis
 1 events coming up
 0 followers
 Featured festivals
 Shillong Cherry Blossom Festival 2026
 November 20 – 21, 2026
-RBDSA Sports Complex, Madan Kurkalang, Bhoirymbong - Bhoirymbong, India
+Madan Kurkalang Sports Complex, Lumdaitkhla, Bhoirymbong. - Shillong, India
 NCPA International Jazz Festival 2026
 November 20 – 22, 2026
 National Centre for Performing Arts (NCPA), Mumbai - Mumbai, India
@@ -184,14 +151,18 @@ Chennai, India festivals near you
 Echoes of Earth 2026
 December 5 – 6, 2026
 The Foothills of Nandi - Sulthanpet, India
-Reincarock 2026
-November 15, 2026
-The Humming Tree - Bengaluru, India
-Diwali Singing Event 2026
-November 6 – 10, 2026
-OP VLN ️ HOME - Aanaipathi, India
-ADVERTISEMENT
-SCROLL TO CONTINUE READING
+Circus Bangalore 2026
+December 18 – 19, 2026
+District Arena @ Terraform - Bengaluru, India
+Christmas Market 2026
+December 5 – 27, 2026
+Ranch at Big Banyan Vineyard & Resort - Bengaluru, India
+South Side Story 2026
+November 28, 2026
+Bhartiya Mall Of Bengaluru - Bengaluru, India
+Circus Bangalore 2026
+December 18 – 19, 2026
+District Arena @ Terraform - Bengaluru, India
 Concerts near Chennai, India
 Tiruvottiyur, India
 Manali, India
@@ -220,24 +191,24 @@ All dates
 Free shows
 All genres
 All artists
-DJ Ryan Nogar
-Fri, Nov 13 • 7:00 PM
-Dil Se Disco - Ryan Nogar - The 360 Set
-Sowndharya Uma
-Fri, Nov 13 • 8:30 PM
-Tamil Rhythm Nights Ft. Sowndharya Uma
-Rohith Jayaraman
-Sat, Nov 14 • 5:30 PM
-INDHA ROOM (Chennai)
-Thakara
-Sat, Nov 14 • 7:00 PM
-The Spotted Deer
-Pravin Godkhindi
-Sun, Nov 15 • 9:00 AM
-Bharata Kalakshetra Auditorium, Kalakshetra Foundation
-Sanjeev Abhyankar
-Sun, Nov 15 • 9:00 AM
-Bharata Kalakshetra Auditorium, Kalakshetra Foundation
+Blues Conscience
+Fri, Nov 20 • 8:45 PM
+Blues Conscience
+Akshay Anantapadmanabhan
+Sat, Nov 21 • 2:30 PM
+52, CP Ramaswamy Iyer Rd, Sriram Colony, Abiramapuram Chennai
+S. J. Jananiy
+Sat, Nov 21 • 5:15 PM
+Trinity Arts Festival - Carnatic Vocal Concert by Kalaimamani Ms S. J. Jananiy
+Perception Delta
+Sat, Nov 21 • 6:30 PM
+The Depths of Deceit Tour: Chennai: AltRising
+Henrique Camacho
+Sun, Nov 22 • 5:00 PM
+CAMACHO in Chennai 2026
+Akshay Anantapadmanabhan
+Fri, Nov 27 • 5:00 PM
+The Music Academy TT Krishnamachari Auditorium305/468, Pudupet, Royapettah, Chennai, 600014, Tamil Nadu, India
 View all
 Frequently asked questions about Chennai
 What are the most popular concert and event venues in Chennai?
@@ -272,4 +243,4 @@ Terms of use
 Privacy policy
 Cookie policy
 GDPR/CCPA privacy request
-Cookie Settings
+Cookies settings

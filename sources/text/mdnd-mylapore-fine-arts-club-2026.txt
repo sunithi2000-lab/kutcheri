@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293
-# fetched 2026-11-18T23:30Z
+# fetched 2026-11-19T19:31Z
 Select Language
 English
 Tamil
@@ -7,8 +7,7 @@ Hindi
 Telugu
 Kannada
 Malayalam
-India
-Chennai
+Select Location
 0
 THE MYLAPORE FINE ARTS CLUB (REGD.)
 presents
@@ -24,6 +23,8 @@ Individual Tickets
 Events are grouped by date.
 FILTER BY DATE
 All dates
+1 December 2026 · Tuesday
+2 December 2026 · Wednesday
 18 December 2026 · Friday
 19 December 2026 · Saturday
 20 December 2026 · Sunday
@@ -34,9 +35,26 @@ All dates
 25 December 2026 · Friday
 26 December 2026 · Saturday
 27 December 2026 · Sunday
+28 December 2026 · Monday
+29 December 2026 · Tuesday
+30 December 2026 · Wednesday
+31 December 2026 · Thursday
+14 January 2027 · Thursday
+15 January 2027 · Friday
+16 January 2027 · Saturday
 SEARCH EVENTS
 Clear
-10 days shown
+19 days shown
+1 December 2026
+Tuesday
+R. ASHWATHNARAYANAN - Vocal | 4 :00 PM | AKKARAI SISTERS - Vocal | 6:30 PM | Mylapore Fine Arts Club
+The Mylapore Fine Arts Club, Chennai
+4:00 PM
+2 December 2026
+Wednesday
+Stage Creations Presents Kathadi Ramamurthy in YAATHIRAI - Drama | 4 :00 PM | Mother Creations Presents JAGATHGURU - Drama | 6:30 PM | Mylapore Fine Arts Club
+The Mylapore Fine Arts Club, Chennai
+5:00 PM
 18 December 2026
 Friday
 Dr. B. VIJAYAGOPAL - Flute | 4 :00 PM | GAYATHRI VENKATARAGHAVAN - Vocal | 6:30 PM | Mylapore Fine Arts Club
@@ -87,3 +105,38 @@ Sunday
 JAYASHREE VAIDYANATHAN - Vocal | 4 :00 PM | Palakkad Dr. R. RAMAPRASAD - Vocal | 6:30 PM | Mylapore Fine Arts Club
 The Mylapore Fine Arts Club, Chennai
 4:00 PM
+28 December 2026
+Monday
+R. SURYAPRAKASH - Vocal | 4 :00 PM | AMRITHA MURALI - Vocal | 6:30 PM | Mylapore Fine Arts Club
+The Mylapore Fine Arts Club, Chennai
+4:00 PM
+29 December 2026
+Tuesday
+Chinmaya Sisters - Vocal | 4 :00 PM | S. SAKETHARAMAN - Vocal | 6:30 PM | Mylapore Fine Arts Club
+The Mylapore Fine Arts Club, Chennai
+4:00 PM
+30 December 2026
+Wednesday
+Maharajapuram GANESH VISWANATHAN - Vocal | 4 :00 PM | Dr. NITHYASHREE MAHADEVAN - Vocal | 6:30 PM | Mylapore Fine Arts Club
+The Mylapore Fine Arts Club, Chennai
+4:00 PM
+31 December 2026
+Thursday
+KRUTHI VITTAL - Vocal | 4 :00 PM | Papanasam ASHOK RAMANI - Vocal | 6:30 PM | Mylapore Fine Arts Club
+The Mylapore Fine Arts Club, Chennai
+4:00 PM
+14 January 2027
+Thursday
+Kum. ANAGA GANESH | 5 :45 PM | GANAPATHYAM – Tales of Ganesa - Bharatanatyam | 7:15 PM | Mylapore Fine Arts Club
+The Mylapore Fine Arts Club, Chennai
+5:45 PM
+15 January 2027
+Friday
+Kum. MEERA RAJARAMAN | 5 :45 PM | JANANI JAGATH KARANI by Dr. Sheela Unnikrishnan - Bharatanatyam | 7:15 PM | Mylapore Fine Arts Club
+The Mylapore Fine Arts Club, Chennai
+5:45 PM
+16 January 2027
+Saturday
+Kum. VIDYALAKSHMI VIDYANATH | 5 :45 PM | AGRE PASHYAMI by Smt. ANITHA GUHA | 7:15 PM | Mylapore Fine Arts Club
+The Mylapore Fine Arts Club, Chennai
+5:45 PM

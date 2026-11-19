@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=44564
-# fetched 2026-11-18T23:30Z
+# fetched 2026-11-19T19:31Z
 Select Language
 English
 Tamil
@@ -7,8 +7,7 @@ Hindi
 Telugu
 Kannada
 Malayalam
-India
-Chennai
+Select Location
 0
 15th Dec - 31st Dec 2026
 Venue - Sri Ramanujar Millenium Hall, Mylapore, Chennai
