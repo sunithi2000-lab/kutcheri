@@ -12,10 +12,10 @@
 # Names normalised to the dataset's spellings (printed form in the note); weekdays checked (20 Nov 2026 = Fri, 12 Dec 2026 = Sat).
 # date|start|entry|artist|form|note
 2026-11-20|16:30|Free|Seshampatti T. Sivalingam|Nagaswaram|Opening day, before the 6 pm inauguration (invitation PDF).
-2026-11-21|10:30|Free|Nithyasree Mahadevan|Vocal|
+2026-11-22|10:30|Free|Nithyasree Mahadevan|Vocal|
 2026-11-21|16:30|Free|B. Kannan|Veena|
 2026-11-21|18:45|Free|Sudha Ragunathan|Vocal|Printed "Dr. Sudha Raghunathan".
-2026-11-22|10:30|Free|Charumathi Raghuraman|Violin|
+2026-11-23|10:30|Free|Charumathi Raghuraman|Violin|
 2026-11-22|16:30|Free|Prince Rama Varma|Vocal|
 2026-11-22|18:45|Free|N. Vijay Siva|Vocal|
 2026-11-23|16:30|Free|Dr. Radha Bhaskar|Vocal|
@@ -24,12 +24,12 @@
 2026-11-24|18:45|Free|Ashok Ramani|Vocal|Printed "Papanasam Sri Ashok Ramani".
 2026-11-25|16:30|Free|Dr. Sundar|Vocal|Printed "Dr. Sundar".
 2026-11-25|18:45|Free|Trichur Brothers|Vocal Duet|
-2026-11-26|10:30|Free|Jayashree Jayaramakrishnan|Vocal|
+2026-11-27|10:30|Free|Jayashree Jayaramakrishnan|Vocal|
 2026-11-26|16:30|Free|Sai Vignesh|Vocal|Printed "Sri Sai Vignesh".
 2026-11-26|18:45|Free|Gayathri Venkataraghavan|Vocal|
 2026-11-27|16:30|Free|Ashwath Narayanan|Vocal|
 2026-11-27|18:45|Free|Ramakrishnan Murthy|Vocal|
-2026-11-28|10:30|Free|Thiruvarur Bakthavathsalam & Troupe|Ensemble|Percussion ensemble led by the mridangam vidwan; the PDF also prints "Laya Madhuraa (Divine Ensemble)" on this page.
+2026-11-29|10:30|Free|Thiruvarur Bakthavathsalam & Troupe|Ensemble|Percussion ensemble led by the mridangam vidwan; the PDF also prints "Laya Madhuraa (Divine Ensemble)" on this page.
 2026-11-28|18:45|Free|Abhishek Raghuram|Vocal|
 2026-11-30|16:30|Free|R.P. Shravan|Vocal|
 2026-11-30|18:45|Free|Priya Sisters|Vocal Duet|
@@ -37,9 +37,9 @@
 2026-12-01|18:45|Free|Malladi Brothers|Vocal Duet|
 2026-12-02|16:30|Free|Rithvik Raja|Vocal|
 2026-12-02|18:45|Free|K. Bharat Sundar|Vocal|
-2026-12-03|10:30|Free|A. Kanyakumari|Violin|
+2026-12-04|10:30|Free|A. Kanyakumari|Violin|
 2026-12-03|18:45|Free|K. Gayatri|Vocal|
-2026-12-04|10:30|Free|Lalgudi G.J.R. Krishnan & Lalgudi Vijayalakshmi|Violin Duet|
+2026-12-05|10:30|Free|Lalgudi G.J.R. Krishnan & Lalgudi Vijayalakshmi|Violin Duet|
 2026-12-04|16:30|Free|Rajhesh Vaidhya|Veena|Printed "Sri Rajesh Vaidhya".
 2026-12-04|18:45|Free|Kunnakudi M. Balamuralikrishna|Vocal|
 2026-12-05|16:30|Free|Viji Krishnan|Violin|Violin solo.
@@ -48,9 +48,9 @@
 2026-12-08|16:30|Free|Dr. M. Narmadha|Violin|Violin solo.
 2026-12-08|18:45|Free|Vignesh Ishwar|Vocal|
 2026-12-09|18:45|Free|S. Mahathi|Vocal|Printed "Smt. Mahathi".
-2026-12-10|10:30|Free|Akshay Ganesh|Violin|Printed "Master Akshay Ganesh".
+2026-12-11|10:30|Free|Akshay Ganesh|Violin|Printed "Master Akshay Ganesh".
 2026-12-10|16:30|Free|Jayanth|Flute|Printed "Sri Jayanth" (flute).
 2026-12-10|18:45|Free|Palghat R. Ramprasad|Vocal|Printed "Palakkad Sri Ramprasath".
-2026-12-11|10:30|Free|Prasanna|Guitar|Printed "Sri Prasanna" (guitar); the line sits just before the 12 Dec heading, read as 11 Dec's last (morning) item.
+2026-12-12|10:30|Free|Prasanna|Guitar|Printed "Sri Prasanna" (guitar).
 2026-12-12|16:30|Free|Nirmala Rajasekar|Veena|
 2026-12-12|18:45|Free|Pantula Rama|Vocal|

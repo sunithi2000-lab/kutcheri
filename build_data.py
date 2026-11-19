@@ -78,6 +78,11 @@ ORG = {
         name="Anujan Broadcast & Sreedaya Trust", festival="December season concerts",
         venue="Sri Ramanujar Millennium Hall, Mylapore", area="Mylapore",
         url="https://natyanetwork.com/margazhi"),
+    # 2026-11-20: The Mylapore Fine Arts Club's 75th Year Art Festival (17 Dec – 16 Jan) on its own MDnD organiser page
+    "mylapore-fine-arts-club": dict(
+        name="Mylapore Fine Arts Club", festival="75th Year Art Festival",
+        venue="The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore", area="Mylapore",
+        url="https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293"),
 }
 
 concerts = []
@@ -209,6 +214,9 @@ def mdnd_main_only(raw, key, prefix, fetched, extra_note=""):
 mdnd_main_only("raw_kartik_fine_arts_2026.txt", "kartik-fine-arts", "kfa", "2026-11-12",
                "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.")
 mdnd_main_only("raw_narada_gana_sabha_2026.txt", "narada-gana-sabha", "ngs", "2026-11-12")
+# 2026-11-20: Mylapore Fine Arts Club, 75th Year Art Festival (club's own MDnD page; artists and times only)
+mdnd_main_only("raw_mylapore_fine_arts_club_2026.txt", "mylapore-fine-arts-club", "mfac", "2026-11-20",
+               "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.")
 
 # Carnatica – Global Heritage Music & Arts Fest 2026 (2026-11-17): main artist only, from MDnD (Charsur pattern).
 # form "A & B" with two different instruments = a duet of two instruments (concert type "Duet", first instrument shown).
@@ -263,8 +271,9 @@ for line in (ROOT / "raw_artist_sites_2026.txt").read_text().splitlines():
         continue
     date, start, end, entry, org, fest, venue, area, musicians, url, label, note = line.split("|")
     people = split_people(musicians)
-    mains = [(n, i) for n, i in people if i.lower() not in ACCOMP]
-    accs = [(n, i) for n, i in people if i.lower() in ACCOMP]
+    # the first person listed is always a main artist (so a violinist can lead a concert); later violin/percussion players are accompanists
+    mains = people[:1] + [(n, i) for n, i in people[1:] if i.lower() not in ACCOMP]
+    accs = [(n, i) for n, i in people[1:] if i.lower() in ACCOMP]
     ctype, instrument = classify(mains[0][1])
     if len(mains) > 1:
         ctype = "Instrumental duet" if instrument != "Vocal" else "Vocal duet"
@@ -280,6 +289,11 @@ for line in (ROOT / "raw_artist_sites_2026.txt").read_text().splitlines():
 for c in concerts:
     c.setdefault("source_label", "Organiser's schedule")
     c.setdefault("note", "")
+
+# 2026-11-19 (owner's decision): the website shows December and January only. November rows stay in the raw files
+# (for the record) but are left out of the published data.
+SEASON_START, SEASON_END = "2026-12-01", "2027-01-31"
+concerts = [c for c in concerts if SEASON_START <= c["date"] <= SEASON_END]
 
 concerts.sort(key=lambda c: (c["date"], c["start"], c["organisation"]))
 

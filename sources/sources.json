@@ -413,6 +413,42 @@
    "kind": "news",
    "url": "https://www.mylaporetimes.com/2026/11/music-festival-over-16-days-to-mark-16th-anniversary-of-arkay-center-luz/",
    "follow_pdfs": false
+  },
+  {
+   "slug": "artist-charumathi-raghuraman",
+   "kind": "artist",
+   "url": "https://www.charuraghu.com/",
+   "follow_pdfs": false
+  },
+  {
+   "slug": "artist-charumathi-raghuraman-events",
+   "kind": "artist",
+   "url": "https://www.charuraghu.com/events",
+   "follow_pdfs": false
+  },
+  {
+   "slug": "artist-ranjani-gayatri-concerts",
+   "kind": "artist",
+   "url": "https://www.ranjanigayatri.com/concerts",
+   "follow_pdfs": false
+  },
+  {
+   "slug": "artist-rithvik-raja",
+   "kind": "artist",
+   "url": "https://www.rithvikraja.com/schedule",
+   "follow_pdfs": false
+  },
+  {
+   "slug": "livechennai-mudhra-2026",
+   "kind": "news",
+   "url": "https://www.livechennai.com/detailnews.asp?newsid=84566",
+   "follow_pdfs": false
+  },
+  {
+   "slug": "casualwalker-festival-guide-2026",
+   "kind": "aggregator",
+   "url": "https://casualwalker.com/complete-guide-to-music-festivals-in-chennai-2025-all-sabha-schedules-season-schedules-kutcheri-schedule-events-carnatic-concerts-classical-performances-margazhi-festival-highlights-chennai-a/",
+   "follow_pdfs": false
   }
  ],
  "_blocked_note": "BookMyShow, District, Bandsintown and chennaidecemberseason.com refuse automated visits (403/429); the research job checks them by web search instead."

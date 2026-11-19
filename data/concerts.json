@@ -1,1220 +1,5 @@
 [
  {
-  "id": "as-2026-11-15-0900-trichurbro",
-  "date": "2026-11-15",
-  "start": "09:00",
-  "end": "",
-  "slot": "Morning",
-  "main_artist": "Trichur Brothers",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal duet",
-  "performers": [
-   {
-    "name": "Trichur Brothers",
-    "instrument": "Vocal Duet",
-    "role": "main"
-   }
-  ],
-  "entry": "Not stated",
-  "organisation": "Organiser not stated",
-  "festival": "Teen Prahar",
-  "venue": "Bharata Kalakshetra Auditorium, Kalakshetra Foundation",
-  "area": "Thiruvanmiyur",
-  "source_url": "https://www.bandsintown.com/e/109048069-trichur-brothers-at-bharata-kalakshetra-auditorium-kalakshetra-foundation",
-  "source_label": "Bandsintown listing",
-  "note": "Part of \"Teen Prahar\", a day-long festival on the time theory of ragas (mostly Hindustani artists: Anand Bhate, Jayateerth Mevundi, Sanjeev Abhyankar, Pravin Godkhindi, Rahul Sharma). 9 am is the listed start for every artist, so this slot's exact time is not published; organiser not named on the listing.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "as-2026-11-15-1800-jbsruthisa",
-  "date": "2026-11-15",
-  "start": "18:00",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "J.B. Sruthi Sagar",
-  "main_instrument": "Flute",
-  "concert_type": "Instrumental",
-  "performers": [
-   {
-    "name": "J.B. Sruthi Sagar",
-    "instrument": "Flute",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Minnaminni",
-  "festival": "Mélange Fest",
-  "venue": "Medai – The Stage, Alwarpet",
-  "area": "Alwarpet / TTK Road",
-  "source_url": "https://natyanetwork.com/margazhi/u-margazhi-2026-2026-11-15-j-b-sruthi-sagar",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing as a Carnatic flute concert with accompanist, Minnaminni (Mélange Fest), Medai – The Stage, Sun 15 Nov 2026, 6 pm, ticketed (a storytelling item by Vikram Sridhar is listed at the same time). Accompanist not named.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "as-2026-11-15-1800-gravikiran",
-  "date": "2026-11-15",
-  "start": "18:00",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "G. Ravikiran",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "G. Ravikiran",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by G Ravi Kiran\" (6 pm, free, offline); organiser, venue and accompanists not printed in the listing.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "as-2026-11-16-1800-nravikiran",
-  "date": "2026-11-16",
-  "start": "18:00",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "N. Ravikiran & Aditya Mohan",
-  "main_instrument": "Chitravina",
-  "concert_type": "Instrumental duet",
-  "performers": [
-   {
-    "name": "N. Ravikiran",
-    "instrument": "Chitravina",
-    "role": "main"
-   },
-   {
-    "name": "Aditya Mohan",
-    "instrument": "Hawaiian Guitar",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Pranavakaram Fine Arts Trust",
-  "festival": "Fundraiser concert",
-  "venue": "Bharatiya Vidya Bhavan Chennai Kendra",
-  "area": "Mylapore",
-  "source_url": "https://ragarasa.in/events/100th-annual-concerts-2026",
-  "source_label": "Ragarasa listing",
-  "note": "Listed on ragarasa.in as \"Pranavakaram Fine Arts Trust Fundraiser Concert – N Ravikiran (Chitravina) & Aditya Mohan (Hawaiian Guitar)\", Mon 16 Nov 2026 6:00 PM, Bharatiya Vidya Bhavan Chennai Kendra; also on MDnD's Chennai Carnatic listing as \"Chitravina N Ravikiran and Aditya Mohan - A fundraiser Concert\" (ticketed). Accompanists not listed.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "as-2026-11-18-1815-drrhemalat",
-  "date": "2026-11-18",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Dr R Hemalatha & Dr R Lakshmipriya",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal duet",
-  "performers": [
-   {
-    "name": "Dr R Hemalatha",
-    "instrument": "Vocal",
-    "role": "main"
-   },
-   {
-    "name": "Dr R Lakshmipriya",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Dr R Hemalatha & Dr R Lakshmipriya\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "as-2026-11-19-1830-sudharagun",
-  "date": "2026-11-19",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Sudha Ragunathan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Sudha Ragunathan",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Amazon Music",
-  "festival": "Margazhi Experience",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Amazon Music presents Margazhi Experience with Padma Bhushan Dr. Sudha Ragunathan\" (6.30 pm, free, offline); venue and accompanists not printed in the listing.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-20-1630",
-  "date": "2026-11-20",
-  "start": "16:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Seshampatti T. Sivalingam",
-  "main_instrument": "Nagaswaram",
-  "concert_type": "Instrumental",
-  "performers": [
-   {
-    "name": "Seshampatti T. Sivalingam",
-    "instrument": "Nagaswaram",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "Opening day, before the 6 pm inauguration (invitation PDF). \"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "as-2026-11-20-1815-adyarspadm",
-  "date": "2026-11-20",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Adyar S Padmanabhan & Thirukalukundram M.R. Hemaraj",
-  "main_instrument": "Nagaswaram",
-  "concert_type": "Instrumental duet",
-  "performers": [
-   {
-    "name": "Adyar S Padmanabhan",
-    "instrument": "Nagaswaram",
-    "role": "main"
-   },
-   {
-    "name": "Thirukalukundram M.R. Hemaraj",
-    "instrument": "Nagaswaram",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Raga Sudha Hall, Luz Avenue, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Nadaswaram Concert by Adyar S Padmanabhan & Thirukalukundram M.R. Hemaraj\" — one of a series of free 6.15 pm concerts in November; organiser and accompanists not printed in the listing. Venue Raga Sudha Hall from ragarasa.in's event listing (6:15 PM).",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-21-1030",
-  "date": "2026-11-21",
-  "start": "10:30",
-  "end": "",
-  "slot": "Morning",
-  "main_artist": "Nithyasree Mahadevan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Nithyasree Mahadevan",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "as-2026-11-21-1530-vannaianba",
-  "date": "2026-11-21",
-  "start": "15:30",
-  "end": "",
-  "slot": "Afternoon",
-  "main_artist": "Vannai A.N. Balamurugan",
-  "main_instrument": "Nagaswaram",
-  "concert_type": "Instrumental",
-  "performers": [
-   {
-    "name": "Vannai A.N. Balamurugan",
-    "instrument": "Nagaswaram",
-    "role": "main"
-   }
-  ],
-  "entry": "Not stated",
-  "organisation": "Madhuradhwani",
-  "festival": "ACC 16th Anniversary Music Festival",
-  "venue": "Arkay Convention Centre, Luz, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.mylaporetimes.com/2026/11/music-festival-over-16-days-to-mark-16th-anniversary-of-arkay-center-luz/",
-  "source_label": "Mylapore Times",
-  "note": "Listed as \"mangala isai by Vannai A.N. Balamurugan and party\" (3.30 pm), opening the Arkay Convention Center's 16th anniversary music festival (21 Nov – 6 Dec); mangala isai is the nagaswaram–thavil tradition, instrument not printed. Inauguration follows at 5.15 pm. Entry not stated (donations welcome).",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-21-1630",
-  "date": "2026-11-21",
-  "start": "16:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "B. Kannan",
-  "main_instrument": "Veena",
-  "concert_type": "Instrumental",
-  "performers": [
-   {
-    "name": "B. Kannan",
-    "instrument": "Veena",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "as-2026-11-21-1715-sjjananiy",
-  "date": "2026-11-21",
-  "start": "17:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "S. J. Jananiy",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "S. J. Jananiy",
-    "instrument": "Vocal",
-    "role": "main"
-   },
-   {
-    "name": "Usha Rajagopalan",
-    "instrument": "Violin",
-    "role": "accompanist"
-   },
-   {
-    "name": "Nellai A. Balaji",
-    "instrument": "Mridangam",
-    "role": "accompanist"
-   },
-   {
-    "name": "Hariharasubramanian",
-    "instrument": "Ghatam",
-    "role": "accompanist"
-   }
-  ],
-  "entry": "Not stated",
-  "organisation": "Trinity Arts",
-  "festival": "Trinity Arts Festival",
-  "venue": "Rasika Ranjani Sabha, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://sjjananiy.com/shows",
-  "source_label": "Artist's website",
-  "note": "Listed on the artist's site as \"Trinity Arts Festival - Carnatic Vocal Concert by Kalaimamani Ms S. J. Jananiy\", Sat, Nov 21 @ 5:15 PM, Rasika Ranjani Sabha, Chennai (watcher run 2026-11-15 22:00Z; re-read live 17 Nov). Trinity Arts' festival is held at R.R. Sabha (Mylapore Times, 2025 edition). Ticket details not given.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "as-2026-11-21-1800-veenavenka",
-  "date": "2026-11-21",
-  "start": "18:00",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Veena Venkatramani",
-  "main_instrument": "Veena",
-  "concert_type": "Instrumental",
-  "performers": [
-   {
-    "name": "Veena Venkatramani",
-    "instrument": "Veena",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "MDnD Performance Centre, Luz Church Road, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Veena Concert by Veena Venkatramani\" (6 pm, ticketed); venue MDnD Performance Centre, Mylapore from ragarasa.in's event listing; organiser and accompanists not printed.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "as-2026-11-21-1815-drbrindham",
-  "date": "2026-11-21",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Dr Brindha Manickavasakan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Dr Brindha Manickavasakan",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Dr Brindha Manickavasakan\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "as-2026-11-21-1830-neyvelirsa",
-  "date": "2026-11-21",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Neyveli R. Santhanagopalan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Neyveli R. Santhanagopalan",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Not stated",
-  "organisation": "Madhuradhwani",
-  "festival": "ACC 16th Anniversary Music Festival",
-  "venue": "Arkay Convention Centre, Luz, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.mylaporetimes.com/2026/11/music-festival-over-16-days-to-mark-16th-anniversary-of-arkay-center-luz/",
-  "source_label": "Mylapore Times",
-  "note": "Inaugural concert \"by Neyveli R. Santhanagopalan and party\" of the Arkay Convention Center's 16th anniversary music festival (21 Nov – 6 Dec 2026); accompanists not named. Entry not stated (donations welcome).",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-21-1845",
-  "date": "2026-11-21",
-  "start": "18:45",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Sudha Ragunathan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Sudha Ragunathan",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "Printed \"Dr. Sudha Raghunathan\". \"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "bvb-2026-11-22-1030",
-  "date": "2026-11-22",
-  "start": "10:30",
-  "end": "",
-  "slot": "Morning",
-  "main_artist": "Charumathi Raghuraman",
-  "main_instrument": "Violin",
-  "concert_type": "Instrumental",
-  "performers": [
-   {
-    "name": "Charumathi Raghuraman",
-    "instrument": "Violin",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "bvb-2026-11-22-1630",
-  "date": "2026-11-22",
-  "start": "16:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Prince Rama Varma",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Prince Rama Varma",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "as-2026-11-22-1815-aishwaryas",
-  "date": "2026-11-22",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Aishwarya Shankar",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Aishwarya Shankar",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Aishwarya Shankar\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-22-1845",
-  "date": "2026-11-22",
-  "start": "18:45",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "N. Vijay Siva",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "N. Vijay Siva",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "bvb-2026-11-23-1630",
-  "date": "2026-11-23",
-  "start": "16:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Dr. Radha Bhaskar",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Dr. Radha Bhaskar",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "as-2026-11-23-1815-vigneshkri",
-  "date": "2026-11-23",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Vignesh Krishnamurthy",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Vignesh Krishnamurthy",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Vignesh Krishnamurthy\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "as-2026-11-23-1830-ksvishnude",
-  "date": "2026-11-23",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "K.S. Vishnudev",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "K.S. Vishnudev",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Not stated",
-  "organisation": "Madhuradhwani",
-  "festival": "ACC 16th Anniversary Music Festival",
-  "venue": "Arkay Convention Centre, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
-  "source_label": "Artist's poster (Facebook)",
-  "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed. Falls within the Arkay Convention Center's 16th anniversary music festival (21 Nov – 6 Dec 2026; Mylapore Times, 18 Nov 2026).",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-23-1845",
-  "date": "2026-11-23",
-  "start": "18:45",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Sikkil C. Gurucharan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Sikkil C. Gurucharan",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "bvb-2026-11-24-1630",
-  "date": "2026-11-24",
-  "start": "16:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Kruthi Vittal",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Kruthi Vittal",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "as-2026-11-24-1815-gkbaanupri",
-  "date": "2026-11-24",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "G K Baanu Priya",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "G K Baanu Priya",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by G K Baanu Priya\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-24-1845",
-  "date": "2026-11-24",
-  "start": "18:45",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Ashok Ramani",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Ashok Ramani",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "Printed \"Papanasam Sri Ashok Ramani\". \"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "bvb-2026-11-25-1630",
-  "date": "2026-11-25",
-  "start": "16:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Dr. Sundar",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Dr. Sundar",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "Printed \"Dr. Sundar\". \"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "as-2026-11-25-1815-mylaikarth",
-  "date": "2026-11-25",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Mylai Karthikeyan",
-  "main_instrument": "Nagaswaram",
-  "concert_type": "Instrumental",
-  "performers": [
-   {
-    "name": "Mylai Karthikeyan",
-    "instrument": "Nagaswaram",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Raga Sudha Hall, Luz Avenue, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Nadaswaram Concert by Mylai Karthikeyan\" — one of a series of free 6.15 pm concerts in November; organiser and accompanists not printed in the listing. Venue Raga Sudha Hall from ragarasa.in's event listing (6:15 PM).",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-25-1845",
-  "date": "2026-11-25",
-  "start": "18:45",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Trichur Brothers",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal duet",
-  "performers": [
-   {
-    "name": "Trichur Brothers",
-    "instrument": "Vocal Duet",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "bvb-2026-11-26-1030",
-  "date": "2026-11-26",
-  "start": "10:30",
-  "end": "",
-  "slot": "Morning",
-  "main_artist": "Jayashree Jayaramakrishnan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Jayashree Jayaramakrishnan",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "bvb-2026-11-26-1630",
-  "date": "2026-11-26",
-  "start": "16:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Sai Vignesh",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Sai Vignesh",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "Printed \"Sri Sai Vignesh\". \"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "as-2026-11-26-1815-drgayathri",
-  "date": "2026-11-26",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Dr Gayathri Girish",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Dr Gayathri Girish",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Dr Gayathri Girish\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-26-1845",
-  "date": "2026-11-26",
-  "start": "18:45",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Gayathri Venkataraghavan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Gayathri Venkataraghavan",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "bvb-2026-11-27-1630",
-  "date": "2026-11-27",
-  "start": "16:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Ashwath Narayanan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Ashwath Narayanan",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "as-2026-11-27-1815-vishwashar",
-  "date": "2026-11-27",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Vishwas Hari",
-  "main_instrument": "Mandolin",
-  "concert_type": "Instrumental",
-  "performers": [
-   {
-    "name": "Vishwas Hari",
-    "instrument": "Mandolin",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Raga Sudha Hall, Luz Avenue, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Mandolin Concert by Vishwas Hari\" — one of a series of free 6.15 pm concerts in November; organiser and accompanists not printed in the listing. Venue Raga Sudha Hall from ragarasa.in's event listing (6:15 PM).",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-27-1845",
-  "date": "2026-11-27",
-  "start": "18:45",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Ramakrishnan Murthy",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Ramakrishnan Murthy",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "bvb-2026-11-28-1030",
-  "date": "2026-11-28",
-  "start": "10:30",
-  "end": "",
-  "slot": "Morning",
-  "main_artist": "Thiruvarur Bakthavathsalam & Troupe",
-  "main_instrument": "Ensemble",
-  "concert_type": "Instrumental ensemble",
-  "performers": [
-   {
-    "name": "Thiruvarur Bakthavathsalam & Troupe",
-    "instrument": "Ensemble",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "Percussion ensemble led by the mridangam vidwan; the PDF also prints \"Laya Madhuraa (Divine Ensemble)\" on this page. \"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "as-2026-11-28-1815-trivandrum",
-  "date": "2026-11-28",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Trivandrum Dr Baby Sreeram",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Trivandrum Dr Baby Sreeram",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Trivandrum Dr Baby Sreeram\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-28-1845",
-  "date": "2026-11-28",
-  "start": "18:45",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Abhishek Raghuram",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Abhishek Raghuram",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "as-2026-11-29-1815-anikodersh",
-  "date": "2026-11-29",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Anikode R. Shyamsundar",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Anikode R. Shyamsundar",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Anikode R. Shyamsundar\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "as-2026-11-29-1845-sandeepnar",
-  "date": "2026-11-29",
-  "start": "18:45",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Sandeep Narayan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Sandeep Narayan",
-    "instrument": "Vocal",
-    "role": "main"
-   },
-   {
-    "name": "L. Ramakrishnan",
-    "instrument": "Violin",
-    "role": "accompanist"
-   },
-   {
-    "name": "Trivandrum Balaji",
-    "instrument": "Mridangam",
-    "role": "accompanist"
-   },
-   {
-    "name": "K.V. Gopalakrishnan",
-    "instrument": "Kanjira",
-    "role": "accompanist"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan Main Hall, Vinayaka Nagar Colony, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://sandeepnarayan.in/concerts",
-  "source_label": "Artist's website",
-  "note": "Organiser and venue as printed on the artist's site; \"Free Admission\" (artist's site, 8 Nov 2026). Date changed from 30 Nov to 29 Nov (Sun) on the artist's site (watcher snapshot 28 Oct 2026). Also in Bhavan's Margazhi Mahotsav 2026 (the Kendra's programme schedule PDF prints 6.45 pm, used here; the artist's site said 6.30 pm).",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-30-1630",
-  "date": "2026-11-30",
-  "start": "16:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "R.P. Shravan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "R.P. Shravan",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
-  "id": "as-2026-11-30-1815-shreyasgow",
-  "date": "2026-11-30",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Shreyas Gowrishankar",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Shreyas Gowrishankar",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Shreyas Gowrishankar\" — one of a series of free 6.15 pm concerts in November; organiser, venue and accompanists not printed in the listing.",
-  "fetched": "2026-10-12"
- },
- {
-  "id": "bvb-2026-11-30-1845",
-  "date": "2026-11-30",
-  "start": "18:45",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Priya Sisters",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal duet",
-  "performers": [
-   {
-    "name": "Priya Sisters",
-    "instrument": "Vocal Duet",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
   "id": "bvb-2026-12-01-1630",
   "date": "2026-12-01",
   "start": "16:30",
@@ -1292,7 +77,7 @@
     "role": "accompanist"
    },
    {
-    "name": "N.C. Bharadwaj",
+    "name": "Patri Satishkumar",
     "instrument": "Mridangam",
     "role": "accompanist"
    },
@@ -1309,7 +94,7 @@
   "area": "T. Nagar",
   "source_url": "https://www.shashank.org/tours",
   "source_label": "Artist's website",
-  "note": "",
+  "note": "Listed \"For Mudhra\" (6.30–9 pm) on the artist's site; mridangam now Patri Satishkumar (artist's site and livechennai.com, 20 Nov 2026). Mudhra's 32nd Fine Arts Festival opens with this concert after the 5.30 pm inauguration; livechennai.com prints 7 pm at Obul Reddy Hall (Vani Mahal mini hall) – check the time and hall before going.",
   "fetched": "2026-10-12"
  },
  {
@@ -1443,32 +228,6 @@
   "fetched": "2026-11-12"
  },
  {
-  "id": "bvb-2026-12-03-1030",
-  "date": "2026-12-03",
-  "start": "10:30",
-  "end": "",
-  "slot": "Morning",
-  "main_artist": "A. Kanyakumari",
-  "main_instrument": "Violin",
-  "concert_type": "Instrumental",
-  "performers": [
-   {
-    "name": "A. Kanyakumari",
-    "instrument": "Violin",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "\"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
   "id": "as-2026-12-03-1630-shashanksu",
   "date": "2026-12-03",
   "start": "16:30",
@@ -1562,13 +321,13 @@
   "start": "10:30",
   "end": "",
   "slot": "Morning",
-  "main_artist": "Lalgudi G.J.R. Krishnan & Lalgudi Vijayalakshmi",
+  "main_artist": "A. Kanyakumari",
   "main_instrument": "Violin",
-  "concert_type": "Instrumental duet",
+  "concert_type": "Instrumental",
   "performers": [
    {
-    "name": "Lalgudi G.J.R. Krishnan & Lalgudi Vijayalakshmi",
-    "instrument": "Violin Duet",
+    "name": "A. Kanyakumari",
+    "instrument": "Violin",
     "role": "main"
    }
   ],
@@ -1635,6 +394,42 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-04-1645-ramanabala",
+  "date": "2026-12-04",
+  "start": "16:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramana Balachandhran",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Ramana Balachandhran",
+    "instrument": "Veena",
+    "role": "main"
+   },
+   {
+    "name": "S. Hariharan",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "S. Sunil Kumar",
+    "instrument": "Kanjira",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam",
+  "venue": "Indira Nagar Youth Hostel, Adyar",
+  "area": "Adyar",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
+  "source_label": "Artist's poster",
+  "note": "Listed as \"Margazhi Maha Utsavam\" (Hamsadhwani's season festival); venue as printed for the festival's other concerts (Sandeep Narayan's site, K.S. Vishnudev's poster). From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Entry not stated.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bvb-2026-12-04-1845",
   "date": "2026-12-04",
   "start": "18:45",
@@ -1685,6 +480,32 @@
   "source_label": "MDnD listing",
   "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "bvb-2026-12-05-1030",
+  "date": "2026-12-05",
+  "start": "10:30",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Lalgudi G.J.R. Krishnan & Lalgudi Vijayalakshmi",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Lalgudi G.J.R. Krishnan & Lalgudi Vijayalakshmi",
+    "instrument": "Violin Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
+  "festival": "Bhavan's Margazhi Mahotsav 2026",
+  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "\"All are welcome\" (free). Accompanists not printed.",
+  "fetched": "2026-11-18"
  },
  {
   "id": "kfa-2026-12-05-1600",
@@ -2211,32 +1032,6 @@
   "fetched": "2026-11-12"
  },
  {
-  "id": "bvb-2026-12-10-1030",
-  "date": "2026-12-10",
-  "start": "10:30",
-  "end": "",
-  "slot": "Morning",
-  "main_artist": "Akshay Ganesh",
-  "main_instrument": "Violin",
-  "concert_type": "Instrumental",
-  "performers": [
-   {
-    "name": "Akshay Ganesh",
-    "instrument": "Violin",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
-  "festival": "Bhavan's Margazhi Mahotsav 2026",
-  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
-  "source_label": "Organiser's schedule (PDF)",
-  "note": "Printed \"Master Akshay Ganesh\". \"All are welcome\" (free). Accompanists not printed.",
-  "fetched": "2026-11-18"
- },
- {
   "id": "bvb-2026-12-10-1630",
   "date": "2026-12-10",
   "start": "16:30",
@@ -2387,13 +1182,13 @@
   "start": "10:30",
   "end": "",
   "slot": "Morning",
-  "main_artist": "Prasanna",
-  "main_instrument": "Guitar",
+  "main_artist": "Akshay Ganesh",
+  "main_instrument": "Violin",
   "concert_type": "Instrumental",
   "performers": [
    {
-    "name": "Prasanna",
-    "instrument": "Guitar",
+    "name": "Akshay Ganesh",
+    "instrument": "Violin",
     "role": "main"
    }
   ],
@@ -2404,7 +1199,7 @@
   "area": "Mylapore",
   "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
   "source_label": "Organiser's schedule (PDF)",
-  "note": "Printed \"Sri Prasanna\" (guitar); the line sits just before the 12 Dec heading, read as 11 Dec's last (morning) item. \"All are welcome\" (free). Accompanists not printed.",
+  "note": "Printed \"Master Akshay Ganesh\". \"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
  },
  {
@@ -2456,7 +1251,7 @@
   "area": "Thiruvanmiyur",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "note": "Accompanists per the artist's season poster: Anirudh Raj (mridangam), Prasanna Hariharan (ghatam). Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
   "fetched": "2026-11-17"
  },
  {
@@ -2510,6 +1305,32 @@
   "source_label": "MDnD listing",
   "note": "Listed as \"Saraswati Veena by Nirmala Rajasekar\". Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
   "fetched": "2026-11-17"
+ },
+ {
+  "id": "bvb-2026-12-12-1030",
+  "date": "2026-12-12",
+  "start": "10:30",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Prasanna",
+  "main_instrument": "Guitar",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Prasanna",
+    "instrument": "Guitar",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Bharatiya Vidya Bhavan, Chennai Kendra",
+  "festival": "Bhavan's Margazhi Mahotsav 2026",
+  "venue": "Bharatiya Vidya Bhavan – Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Sri Prasanna\" (guitar). \"All are welcome\" (free). Accompanists not printed.",
+  "fetched": "2026-11-18"
  },
  {
   "id": "bvb-2026-12-12-1630",
@@ -2835,6 +1656,47 @@
   "source_url": "https://sanjaysub.com/",
   "source_label": "Artist's website",
   "note": "Artist's site marks details as awaited.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-13-1800-ranjanigay",
+  "date": "2026-12-13",
+  "start": "18:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ranjani & Gayatri",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Ranjani & Gayatri",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   },
+   {
+    "name": "Vittal Rangan",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "N. Manoj Siva",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "Vazhapally Krishnakumar",
+    "instrument": "Ghatam",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Vani Mahal, 103 G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://www.ranjanigayatri.com/concerts",
+  "source_label": "Artist's website",
+  "note": "Listed on the artists' site as \"Vani Mahal, T Nagar, Chennai\", Sun, Dec 13th 2026, 6 pm, with co-artists Vittal Rangan, N. Manoj Siva and Vazhapally Krishnakumar (instruments: their usual violin, mridangam, ghatam). Organiser not named (the venue's own sabha is not assumed); no ticket link.",
   "fetched": "2026-10-12"
  },
  {
@@ -4919,6 +3781,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "mfac-2026-12-18-1600",
+  "date": "2026-12-18",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. B. Vijayagopal",
+  "main_instrument": "Flute",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Dr. B. Vijayagopal",
+    "instrument": "Flute",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
   "id": "skgs-2026-12-18-1600",
   "date": "2026-12-18",
   "start": "16:00",
@@ -5053,6 +3941,42 @@
   "fetched": "2026-11-17"
  },
  {
+  "id": "as-2026-12-18-1800-charumathi",
+  "date": "2026-12-18",
+  "start": "18:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Charumathi Raghuraman",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Charumathi Raghuraman",
+    "instrument": "Violin",
+    "role": "main"
+   },
+   {
+    "name": "Anantha R. Krishnan",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "Giridhar Udupa",
+    "instrument": "Ghatam",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "Soulfest 2026",
+  "venue": "M.S. Subbulakshmi Arangam, Asian College of Journalism, Taramani",
+  "area": "Taramani",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/charumathi-raghuraman-2026-27.png",
+  "source_label": "Artist's poster",
+  "note": "Listed as \"Soulfest 2026\"; organiser not named. From the artist's season poster \"Margazhi Concert Schedule 2026-27 – Charumathi Raghuraman\" (Instagram, sent in by the site owner 19 Nov 2026; copy kept with the site's sources; tickets info at charuraghu.com). Details updated 20 Nov 2026 from charuraghu.com/events: ticketed (tickets link to theticket9.com); organiser still not named.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "abst-2026-12-18-1830",
   "date": "2026-12-18",
   "start": "18:30",
@@ -5129,6 +4053,32 @@
   "source_label": "MDnD listing",
   "note": "Violin solo.",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "mfac-2026-12-18-1830",
+  "date": "2026-12-18",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Gayathri Venkataraghavan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Gayathri Venkataraghavan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
  },
  {
   "id": "ngs-2026-12-18-1830",
@@ -5564,6 +4514,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "mfac-2026-12-19-1600",
+  "date": "2026-12-19",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Mambalam Sisters",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Mambalam Sisters",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
   "id": "skgs-2026-12-19-1600",
   "date": "2026-12-19",
   "start": "16:00",
@@ -5748,6 +4724,68 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "mfac-2026-12-19-1830",
+  "date": "2026-12-19",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sikkil C. Gurucharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sikkil C. Gurucharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
+  "id": "as-2026-12-19-1830-ramanabala",
+  "date": "2026-12-19",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramana Balachandhran",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Ramana Balachandhran",
+    "instrument": "Veena",
+    "role": "main"
+   },
+   {
+    "name": "K. Sai Giridhar",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "V. Anirudh Athreya",
+    "instrument": "Kanjira",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Vani Mahal, G.N. Road",
+  "area": "T. Nagar",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
+  "source_label": "Artist's poster",
+  "note": "Listed only as \"Vani Mahal\"; organiser not named (the venue's own sabha is not assumed). From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Entry not stated.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "spss-2026-12-19-1830",
@@ -6153,6 +5191,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "mfac-2026-12-20-1600",
+  "date": "2026-12-20",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramnath Venkat Bagavath",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ramnath Venkat Bagavath",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
   "id": "skgs-2026-12-20-1600",
   "date": "2026-12-20",
   "start": "16:00",
@@ -6350,7 +5414,7 @@
   "area": "Thiruvanmiyur",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
+  "note": "Accompanists per the artist's season poster: Sumesh Narayanan (mridangam), G. Guruprasanna (kanjira). Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
   "fetched": "2026-11-17"
  },
  {
@@ -6380,6 +5444,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "mfac-2026-12-20-1830",
+  "date": "2026-12-20",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Jayanthi Kumaresh",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Dr. Jayanthi Kumaresh",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
   "id": "as-2026-12-20-1830-shashanksu",
   "date": "2026-12-20",
   "start": "18:30",
@@ -6403,6 +5493,42 @@
   "source_url": "https://www.shashank.org/tours",
   "source_label": "Artist's website",
   "note": "Listed as a flute solo; no end time.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-20-1830-charumathi",
+  "date": "2026-12-20",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Charumathi Raghuraman",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Charumathi Raghuraman",
+    "instrument": "Violin",
+    "role": "main"
+   },
+   {
+    "name": "K. Vishnuvardhana",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "Sumukh Karanth",
+    "instrument": "Kanjira",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Arkay Convention Centre, Royapettah High Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/charumathi-raghuraman-2026-27.png",
+  "source_label": "Artist's poster",
+  "note": "Listed as \"Arkay Convention Centre\"; organiser not named (probably the ACC December Season, 7 Dec – 13 Jan, run by Madhuradhwani – not assumed). From the artist's season poster \"Margazhi Concert Schedule 2026-27 – Charumathi Raghuraman\" (Instagram, sent in by the site owner 19 Nov 2026; copy kept with the site's sources; tickets info at charuraghu.com). Details updated 20 Nov 2026 from charuraghu.com/events: \"Free Admission\"; organiser still not named.",
   "fetched": "2026-10-12"
  },
  {
@@ -6777,6 +5903,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "mfac-2026-12-21-1600",
+  "date": "2026-12-21",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Brinda Manickavasagan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Brinda Manickavasagan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
   "id": "spss-2026-12-21-1600",
   "date": "2026-12-21",
   "start": "16:00",
@@ -6948,6 +6100,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "mfac-2026-12-21-1830",
+  "date": "2026-12-21",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Nagai R. Muralidharan & Dr. Badrinarayanan",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Nagai R. Muralidharan & Dr. Badrinarayanan",
+    "instrument": "Violin Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Nagai Muralidharan & Dr. Badrinarayanan – Violin\". Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
   "id": "ngs-2026-12-21-1830",
   "date": "2026-12-21",
   "start": "18:30",
@@ -6974,6 +6152,42 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-21-1830-ramanabala",
+  "date": "2026-12-21",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramana Balachandhran",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Ramana Balachandhran",
+    "instrument": "Veena",
+    "role": "main"
+   },
+   {
+    "name": "Praveen Sparsh",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "V. Anirudh Athreya",
+    "instrument": "Kanjira",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "SASTRA Satsangh",
+  "festival": "Margazhi Mela",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
+  "source_label": "Artist's poster",
+  "note": "Listed as \"Sastra Satsangh\"; venue not printed. From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Entry not stated.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "spss-2026-12-21-1830",
   "date": "2026-12-21",
   "start": "18:30",
@@ -6998,6 +6212,42 @@
   "source_label": "MDnD listing",
   "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2026-12-21-1830-charumathi",
+  "date": "2026-12-21",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Charumathi Raghuraman",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Charumathi Raghuraman",
+    "instrument": "Violin",
+    "role": "main"
+   },
+   {
+    "name": "K. Sai Giridhar",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "Prasanna Hariharan",
+    "instrument": "Ghatam",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "126th Year Isai Vizha (December Music Festival)",
+  "venue": "Madras Sanskrit College, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/charumathi-raghuraman-2026-27.png",
+  "source_label": "Artist's poster",
+  "note": "Listed as \"Sri Parthasarathi Swami Sabha\" at Madras Sanskrit College, Mylapore (a different hall from the sabha's MDnD list, which has Trichur Brothers at 6.30 pm that day at Vidya Bharathi). From the artist's season poster \"Margazhi Concert Schedule 2026-27 – Charumathi Raghuraman\" (Instagram, sent in by the site owner 19 Nov 2026; copy kept with the site's sources; tickets info at charuraghu.com). Entry not stated.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "ma-2026-12-21-1845",
@@ -7309,6 +6559,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "mfac-2026-12-22-1600",
+  "date": "2026-12-22",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Carnatica Brothers\". Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
   "id": "skgs-2026-12-22-1600",
   "date": "2026-12-22",
   "start": "16:00",
@@ -7543,7 +6819,7 @@
   "area": "Mylapore",
   "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304",
   "source_label": "MDnD listing",
-  "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
+  "note": "Accompanists per the artist's season poster: Patri Satishkumar (mridangam), Chandrasekara Sharma (ghatam). Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
  },
  {
@@ -7990,7 +7266,7 @@
     "role": "main"
    },
    {
-    "name": "H.N.Bhaskar",
+    "name": "H.M.Smitha",
     "instrument": "Violin",
     "role": "accompanist"
    },
@@ -8146,6 +7422,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "mfac-2026-12-23-1830",
+  "date": "2026-12-23",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Malladi Brothers",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Malladi Brothers",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
   "id": "ngs-2026-12-23-1830",
   "date": "2026-12-23",
   "start": "18:30",
@@ -8232,6 +7534,42 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-23-1900-ramanabala",
+  "date": "2026-12-23",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramana Balachandhran",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Ramana Balachandhran",
+    "instrument": "Veena",
+    "role": "main"
+   },
+   {
+    "name": "Patri Satishkumar",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "Ghatam Karthick",
+    "instrument": "Ghatam",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "—",
+  "venue": "Ethiraja Kalyana Mandapam, TTK Road",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
+  "source_label": "Artist's poster",
+  "note": "Listed as \"Indian Fine Arts Society\"; venue as printed for the society's 18 Dec concert on Sandeep Narayan's site. From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Entry not stated.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-23-1915-sudharagun",
@@ -8503,7 +7841,7 @@
   "area": "Alwarpet / TTK Road",
   "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2400",
   "source_label": "MDnD listing",
-  "note": "",
+  "note": "Accompanists per the artist's season poster: Anantha R. Krishnan (mridangam), Giridhar Udupa (ghatam).",
   "fetched": "2026-11-12"
  },
  {
@@ -8557,6 +7895,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "mfac-2026-12-24-1600",
+  "date": "2026-12-24",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vignesh Ishwar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vignesh Ishwar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
  },
  {
   "id": "skgs-2026-12-24-1600",
@@ -8719,6 +8083,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "mfac-2026-12-24-1830",
+  "date": "2026-12-24",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Nisha Rajagopalan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Nisha Rajagopalan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
   "id": "ngs-2026-12-24-1830",
   "date": "2026-12-24",
   "start": "18:30",
@@ -8874,7 +8264,7 @@
     "role": "main"
    },
    {
-    "name": "H.N.Bhaskar",
+    "name": "Dr.R.Hemalatha",
     "instrument": "Violin",
     "role": "accompanist"
    },
@@ -9205,6 +8595,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "mfac-2026-12-25-1600",
+  "date": "2026-12-25",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S.M. Vilasini",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S.M. Vilasini",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
   "id": "skgs-2026-12-25-1600",
   "date": "2026-12-25",
   "start": "16:00",
@@ -9415,6 +8831,68 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "mfac-2026-12-25-1830",
+  "date": "2026-12-25",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K. Bharat Sundar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K. Bharat Sundar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
+  "id": "as-2026-12-25-1830-ramanabala",
+  "date": "2026-12-25",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramana Balachandhran",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Ramana Balachandhran",
+    "instrument": "Veena",
+    "role": "main"
+   },
+   {
+    "name": "Kishore Ramesh",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "K.V. Gopalakrishnan",
+    "instrument": "Kanjira",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "—",
+  "venue": "Sri Ganapathy Sachchidananda Ashram, Velachery",
+  "area": "Velachery",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
+  "source_label": "Artist's poster",
+  "note": "Listed as \"Nadasudha\"; venue as printed for Nada Sudha's 9 Jan concert on Sandeep Narayan's site. From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Entry not stated.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-25-1830-pantularam",
@@ -9665,7 +9143,7 @@
     "role": "main"
    },
    {
-    "name": "H.N. Bhaskar",
+    "name": "Trivandrum Sampath",
     "instrument": "Violin",
     "role": "accompanist"
    },
@@ -9682,7 +9160,7 @@
   "area": "Mylapore",
   "source_url": "https://www.shashank.org/tours",
   "source_label": "Artist's website",
-  "note": "",
+  "note": "\"For Sruthi Laya Kendra – Flute solo presentation\"; violinist now Trivandrum Sampath on the artist's site (20 Nov 2026; earlier H.N. Bhaskar).",
   "fetched": "2026-10-12"
  },
  {
@@ -9872,6 +9350,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "mfac-2026-12-26-1600",
+  "date": "2026-12-26",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Rithvik Raja",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Rithvik Raja",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
   "id": "skgs-2026-12-26-1600",
   "date": "2026-12-26",
   "start": "16:00",
@@ -10053,6 +9557,42 @@
   "fetched": "2026-11-18"
  },
  {
+  "id": "as-2026-12-26-1830-ramanabala",
+  "date": "2026-12-26",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramana Balachandhran",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Ramana Balachandhran",
+    "instrument": "Veena",
+    "role": "main"
+   },
+   {
+    "name": "Patri Satishkumar",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "Chandrasekara Sharma",
+    "instrument": "Ghatam",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Brahma Gana Sabha",
+  "festival": "Brahma Gana Sabha December festival",
+  "venue": "Rasika Ranjani Sabha, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
+  "source_label": "Artist's poster",
+  "note": "Listed as \"BGS at RR Sabha\". From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Entry not stated.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ch-2026-12-26-1830",
   "date": "2026-12-26",
   "start": "18:30",
@@ -10077,6 +9617,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "mfac-2026-12-26-1830",
+  "date": "2026-12-26",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Pantula Rama",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Pantula Rama",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
  },
  {
   "id": "ngs-2026-12-26-1830",
@@ -10467,6 +10033,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "mfac-2026-12-27-1600",
+  "date": "2026-12-27",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Jayashree Vaidyanathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Jayashree Vaidyanathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
+ },
+ {
   "id": "skgs-2026-12-27-1600",
   "date": "2026-12-27",
   "start": "16:00",
@@ -10640,6 +10232,21 @@
     "name": "Ranjani & Gayatri",
     "instrument": "Vocal Duet",
     "role": "main"
+   },
+   {
+    "name": "L. Ramakrishnan",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "K. Sai Giridhar",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "Giridhar Udupa",
+    "instrument": "Ghatam",
+    "role": "accompanist"
    }
   ],
   "entry": "Ticketed",
@@ -10649,7 +10256,7 @@
   "area": "Thiruvanmiyur",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Part of Kalakshetra's 73rd Annual Art Festival (18–27 Dec); the listing names no hall — the festival is held on the Kalakshetra campus.",
+  "note": "Part of Kalakshetra's 73rd Annual Art Festival (18–27 Dec); the listing names no hall — the festival is held on the Kalakshetra campus. Accompanists from the artists' website (ranjanigayatri.com/concerts, 20 Nov 2026).",
   "fetched": "2026-10-12"
  },
  {
@@ -10780,6 +10387,32 @@
   "source_label": "Festival poster",
   "note": "\"Eswara Gana Manjari\" concert of compositions by Dr. Thamarasseri Eswaran Bhattathiri, part of Eswara Ganothsavam 2026 (4th year). Poster says \"All are cordially invited\" (no ticket mentioned); organiser not named on the poster, so listed under the festival name. Copy of the poster kept with the site's sources (sent in by the site owner, 12 Nov 2026).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "mfac-2026-12-27-1830",
+  "date": "2026-12-27",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Palghat R. Ramprasad",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Palghat R. Ramprasad",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Palakkad Dr R Ramaprasad\". Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
+  "fetched": "2026-11-20"
  },
  {
   "id": "as-2026-12-27-1830-unnikrishn",
@@ -11310,7 +10943,7 @@
   "area": "Teynampet",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "",
+  "note": "Accompanists per the artist's season poster: Patri Satishkumar (mridangam).",
   "fetched": "2026-10-18"
  },
  {
@@ -12075,7 +11708,7 @@
   "area": "Alwarpet / TTK Road",
   "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2400",
   "source_label": "MDnD listing",
-  "note": "",
+  "note": "Accompanists per the artist's season poster: Anantha R. Krishnan (mridangam), G. Guruprasanna (kanjira).",
   "fetched": "2026-11-12"
  },
  {
@@ -13898,7 +13531,7 @@
   "area": "Egmore",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Presented by Live4You (MDnD listing). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore.",
+  "note": "Presented by Live4You (MDnD listing). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore. The artists' website lists this concert at 6.45 pm (20 Nov 2026); MDnD's 6.30 pm kept – check before going.",
   "fetched": "2026-10-12"
  },
  {
@@ -14111,6 +13744,47 @@
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
   "note": "Presented by Live4You (MDnD listing). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore. Accompanists from the artist's website (listed there as \"Jyothirgamaya 2026\", Museum Theatre, Egmore).",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2027-01-03-1830-ranjanigay",
+  "date": "2027-01-03",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ranjani & Gayatri",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Ranjani & Gayatri",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   },
+   {
+    "name": "Alangode V.S. Gokul",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "Delhi S. Sairam",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "Chandrasekara Sharma",
+    "instrument": "Ghatam",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "—",
+  "venue": "Sri Ganapathy Sachchidananda Ashram, Velachery",
+  "area": "Velachery",
+  "source_url": "https://www.ranjanigayatri.com/concerts",
+  "source_label": "Artist's website",
+  "note": "Listed on the artists' site as \"Nadasudha, Velachery\", Jan 3rd 2027, 6.30 pm (the site prints the weekday as Saturday; 3 Jan 2027 is a Sunday – check before going), with co-artists Alangode Gokul, Delhi Sairam and Chandrasekhara Sharma. Venue as printed for Nada Sudha's other concerts (Sandeep Narayan's site, Charumathi Raghuraman's site). Tickets not stated.",
   "fetched": "2026-10-12"
  },
  {
@@ -14443,6 +14117,42 @@
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
   "source_label": "Artist's poster (Facebook)",
   "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2027-01-12-1815-charumathi",
+  "date": "2027-01-12",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Charumathi Raghuraman",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Charumathi Raghuraman",
+    "instrument": "Violin",
+    "role": "main"
+   },
+   {
+    "name": "K. Sai Giridhar",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "Krishna Sriram",
+    "instrument": "Ghatam",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Nada Sudha",
+  "festival": "—",
+  "venue": "Sri Ganapathy Sachchidananda Ashram Hall, Velachery",
+  "area": "Velachery",
+  "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/charumathi-raghuraman-2026-27.png",
+  "source_label": "Artist's poster",
+  "note": "From the artist's season poster \"Margazhi Concert Schedule 2026-27 – Charumathi Raghuraman\" (Instagram, sent in by the site owner 19 Nov 2026; copy kept with the site's sources; tickets info at charuraghu.com). Details updated 20 Nov 2026 from charuraghu.com/events: tickets via ragarasa.in (ragarasa.in/events/charumathi-raghuraman-carnatic-violin).",
   "fetched": "2026-10-12"
  },
  {

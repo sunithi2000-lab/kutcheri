@@ -10,7 +10,7 @@
 # Already listed (raw_artist_sites_2026.txt): 17 Dec 4.30 pm K.S. Vishnudev (artist's poster, "Carnatica Global").
 # Names normalised to the spellings used elsewhere in the dataset; weekdays checked (11 Dec = Fri, 22 Dec = Tue).
 # date|start|entry|artist|form|note   (form "A & B" = duet of two instruments, first named first)
-2026-12-11|16:30|Ticketed|Charumathi Raghuraman|Violin|
+2026-12-11|16:30|Ticketed|Charumathi Raghuraman|Violin|Accompanists per the artist's season poster: Anirudh Raj (mridangam), Prasanna Hariharan (ghatam).
 2026-12-11|18:45|Ticketed|Nirmala Rajasekar|Veena|Listed as "Saraswati Veena by Nirmala Rajasekar".
 2026-12-12|16:30|Ticketed|J.A. Jayant & Mylai Karthikeyan|Flute & Nagaswaram|Listed as "Carnatic Flute and Nadaswaram Concert by J.A. Jayanth and Mylai Karthikeyan".
 2026-12-12|18:45|Ticketed|Abhishek Raghuram & J.B. Sruti Sagar|Vocal & Flute|Listed as "Carnatic Vocal and Flute Concert by Abhishek Raghuram and Sruti Sagar".
@@ -26,7 +26,7 @@
 2026-12-18|16:30|Ticketed|S. Saketharaman|Vocal|
 2026-12-19|18:45|Ticketed|Kunnakudi M. Balamuralikrishna|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (Carnatica, 6.45 pm, ticketed).
 2026-12-20|16:00|Ticketed|Rahul Vellal|Vocal|
-2026-12-20|18:30|Ticketed|Ramana Balachandhran|Veena|
+2026-12-20|18:30|Ticketed|Ramana Balachandhran|Veena|Accompanists per the artist's season poster: Sumesh Narayanan (mridangam), G. Guruprasanna (kanjira).
 2026-12-21|16:30|Ticketed|Amrutha Venkatesh|Vocal|
 2026-12-22|16:30|Ticketed|Ashok Ramani|Vocal|Listed as "Papanasam Ashok Ramani".
 2026-12-22|18:45|Ticketed|K. Bharat Sundar|Vocal|

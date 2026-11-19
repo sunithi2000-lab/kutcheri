@@ -25,7 +25,7 @@
 2026-12-22|18:30|Ticketed|Palghat R. Ramprasad|Vocal|
 2026-12-23|15:30|Ticketed|Gayathri Venkataraghavan|Vocal|
 2026-12-23|18:30|Ticketed|Sikkil C. Gurucharan|Vocal|
-2026-12-24|15:30|Ticketed|Charumathi Raghuraman|Violin|
+2026-12-24|15:30|Ticketed|Charumathi Raghuraman|Violin|Accompanists per the artist's season poster: Anantha R. Krishnan (mridangam), Giridhar Udupa (ghatam).
 2026-12-24|18:30|Ticketed|Ramakrishnan Murthy|Vocal|
 2026-12-25|18:00|Ticketed|Ranjani & Gayatri|Vocal Duet|
 2026-12-26|15:30|Ticketed|Akkarai Sisters|Violin Duet|
@@ -34,7 +34,7 @@
 2026-12-28|15:30|Ticketed|Ashwath Narayanan|Vocal|
 2026-12-28|18:30|Ticketed|K. Bharat Sundar|Vocal|
 2026-12-29|15:30|Ticketed|Malladi Trio|Vocal|Listed as "Carnatic Vocal by Malladi Trio"; the three singers are not named.
-2026-12-29|18:30|Ticketed|Ramana Balachandhran|Veena|
+2026-12-29|18:30|Ticketed|Ramana Balachandhran|Veena|Accompanists per the artist's season poster: Anantha R. Krishnan (mridangam), G. Guruprasanna (kanjira).
 2026-12-30|15:30|Ticketed|Rithvik Raja|Vocal|
 2026-12-30|18:30|Ticketed|Sudha Ragunathan|Vocal|
 2026-12-31|18:30|Ticketed|Sriranjani Santhanagopalan|Vocal|

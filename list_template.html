@@ -263,7 +263,7 @@ select { font: inherit; font-size: 16px; padding: 10px 12px; border-radius: 10px
       <p class="hp"><label>Leave empty <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
       <label class="fl">Main artist <input name="artist" required maxlength="120" autocomplete="off"></label>
       <div class="row2">
-        <label class="fl">Date <input name="date" type="date" required min="2026-11-01" max="2027-01-31"></label>
+        <label class="fl">Date <input name="date" type="date" required min="2026-12-01" max="2027-01-31"></label>
         <label class="fl">Start time <input name="start" type="time"></label>
       </div>
       <label class="fl">Venue <input name="venue" required maxlength="160"></label>
@@ -388,8 +388,12 @@ const q = $("#q"); q.value = F.q; q.addEventListener("input", () => { F.q = q.va
 q.addEventListener("keydown", e => { if (e.key === "Enter") q.blur(); });
 
 // ---- dates
-const allDays = []; { const ds = CONCERTS.map(c => c.date);
-  for (let d = pd(ds[0]); d <= pd(ds[ds.length - 1]); d.setUTCDate(d.getUTCDate() + 1)) allDays.push(d.toISOString().slice(0, 10)); }
+// date picker: December and January only
+const DAY_MIN = "2026-12-01", DAY_MAX = "2027-01-31";
+const allDays = []; { const ds = CONCERTS.map(c => c.date).filter(d => d >= DAY_MIN && d <= DAY_MAX);
+  const first = ds.length ? ds[0] : DAY_MIN, last = ds.length ? ds[ds.length - 1] : DAY_MAX;
+  for (let d = pd(first); d <= pd(last); d.setUTCDate(d.getUTCDate() + 1)) allDays.push(d.toISOString().slice(0, 10)); }
+selDates = new Set([...selDates].filter(d => d >= DAY_MIN && d <= DAY_MAX));
 const months = [...new Set(allDays.map(d => d.slice(0, 7)))];
 const toggleDate = d => { selDates.has(d) ? selDates.delete(d) : selDates.add(d); render(); };
 $("#strip").addEventListener("click", e => { const b = e.target.closest(".dy"); if (b && !b.disabled) toggleDate(b.dataset.d); });

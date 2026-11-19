@@ -31,8 +31,8 @@ ORGS = [
      "https://krishnaganasabha.com/assets/images/nkc/margazhimela2026/MM_schedule(2026).pdf"),
     ("Sri Thyaga Brahma Gana Sabha", MAJOR, AW, "T. Nagar", "Vani Mahal, G.N. Road", "", "", "https://www.vanimahal.com/"),
     ("Brahma Gana Sabha", MAJOR, AW, "Mylapore", "Sivagami Pethachi Auditorium", "", "", ""),
-    ("Mylapore Fine Arts Club", MAJOR, ANN, "Mylapore", "45 Musiri Subramaniam Road", "December festival · 18–27 Dec 2026",
-     "Programme now on NatyaNetwork (listed as \"Mylapore Fine Arts Club (Regd)\", ticketed, tickets on MDnD), but every item is shown at 4 pm, so the real slot times are not yet known; concerts will be added once times are published. Listed: 18 Dec Gayathri Venkataraghavan; 19 Dec Mambalam Sisters, Sikkil C. Gurucharan; 20 Dec Ramnath Venkat Bagavath, Jayanthi Kumaresh (veena); 21 Dec Brinda Manickavasagan, Nagai Muralidharan & Badrinarayanan (violin); 22 Dec Carnatica Brothers; 23 Dec Malladi Brothers; 24 Dec Vignesh Ishwar, Nisha Rajagopalan; 25 Dec S.M. Vilasini, K. Bharat Sundar; 26 Dec Rithvik Raja, Pantula Rama; 27 Dec Jayashree Vaidyanathan, Palghat R. Ramprasad.",
+    ("Mylapore Fine Arts Club", MAJOR, PUB, "Mylapore", "45 Musiri Subramaniam Road", "75th Year Art Festival · 17 Dec 2026 – 16 Jan 2027",
+     "Two ticketed concerts a day, 4 pm and 6.30 pm, at the club, on its MDnD page (individual tickets and a season pass; no prices printed). Programme listed so far for 18–27 Dec; a 22 Dec upanyasam and a 23 Dec classical-meets-film programme are not listed here.",
      "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293"),
     ("Sri Parthasarathy Swami Sabha", MAJOR, PUB, "Mylapore", "Vidya Bharathi Kalyana Mandapam, Bheemasena Garden Road", "126th Year Isai Vizha · 17 Dec 2026 – 3 Jan 2027",
      "Two ticketed concerts daily, 4 pm and 6.30 pm, 17 Dec – 2 Jan, on the sabha's MDnD festival page (venue Vidya Bharathi Kalyana Mandapam); Shashank & Abhishek Raghuram 3 Jan, 6.30 pm, at Narada Gana Sabha (artist's site; now on MDnD). Dance and drama on 3, 4 and 6 Jan at Narada Gana Sabha are not listed here.",
@@ -40,7 +40,7 @@ ORGS = [
     ("The Indian Fine Arts Society", MAJOR, AW, "Alwarpet / TTK Road", "Ethiraja Kalyana Nilayam, TTK Road", "", "", ""),
     ("Rasika Ranjani Sabha", MAJOR, AW, "Mylapore", "Dakshinamoorthy Auditorium", "", "", "https://rrsabha.org/"),
     ("Bharatiya Vidya Bhavan, Chennai Kendra", MAJOR, PUB, "Mylapore", "Pottipati Gnanamba Obul Reddy Auditorium, East Mada Street", "Bhavan's Margazhi Mahotsav 2026 (first edition) · 20 Nov – 12 Dec 2026",
-     "With South Zone Cultural Centre. Free (all are welcome): 4.30 pm and 6.45 pm daily, some 10.30 am slots, from the Kendra's programme schedule PDF. Bhajans, discourses, harikatha, dance and film-based items are not listed here.",
+     "With South Zone Cultural Centre. Free (all are welcome): 4.30 pm and 6.45 pm daily, some 10.30 am slots, from the Kendra's programme schedule PDF. Bhajans, discourses, harikatha, dance and film-based items are not listed here. November concerts are not listed (this list covers December and January).",
      "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf"),
     ("Tamil Isai Sangam", MAJOR, AW, "George Town", "Rajah Annamalai Mandram, Esplanade Road", "", "", ""),
     ("Hamsadhwani", MAJOR, AW, "Adyar", "Indira Nagar", "Margazhi Maha Utsavam", "Sandeep Narayan's website lists a 9 Dec 2026 \"Margazhi Maha Utsavam\" concert at Hamsadhwani, Indira Nagar (organiser not named there).", ""),
@@ -54,7 +54,7 @@ ORGS = [
     ("Sampoornam Foundation for Music and Arts", FEST, AW, "Mylapore", "Arkay Convention Centre", "", "Margazhi Music Festival.", ""),
     ("Naadhabrahmam", FEST, AW, "Mylapore", "Srinivasa Sastri Hall, Luz", "", "Sangeetha Raga Mahothsavam.", ""),
     ("Trinity Arts", FEST, ANN, "Mylapore", "Rasika Ranjani Sabha", "Trinity Arts Festival 2026 · from Nov 2026",
-     "Festival at R.R. Sabha; S. J. Jananiy's 21 Nov concert comes from the artist's website. Full programme not yet found.",
+     "November concert(s) only, so none are listed here (this list covers December and January). Festival at R.R. Sabha; S. J. Jananiy's 21 Nov concert comes from the artist's website. Full programme not yet found.",
      ""),
     ("Parampara", FEST, AW, "", "", "", "Ragasudharasa Music Festival series.", ""),
     ("Parivadini", FEST, AW, "", "", "", "Concert series, also recorded online.", ""),
@@ -78,7 +78,7 @@ ORGS = [
      "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
     ("Chennai Fine Arts", FEST, AW, "", "", "", "", ""),
     ("Madhuradhwani", FEST, ANN, "Mylapore", "Arkay Convention Centre, Luz", "ACC 16th Anniversary Music Festival · 21 Nov – 6 Dec 2026; December Season 7 Dec 2026 – 13 Jan 2027",
-     "Runs the Arkay Convention Center (ACC). 16-day anniversary festival opens 21 Nov with mangala isai (3.30 pm), inauguration (5.15 pm) and Neyveli R. Santhanagopalan (6.30 pm); a December Season of over 200 concerts follows, 7 Dec – 13 Jan (Mylapore Times, 18 Nov 2026). Full programme not yet published; K.S. Vishnudev's 23 Nov and 10 Dec concerts come from the artist's poster.",
+     "Runs the Arkay Convention Center (ACC). 16-day anniversary festival opens 21 Nov with mangala isai (3.30 pm), inauguration (5.15 pm) and Neyveli R. Santhanagopalan (6.30 pm); a December Season of over 200 concerts follows, 7 Dec – 13 Jan (Mylapore Times, 18 Nov 2026). Full programme not yet published; K.S. Vishnudev's 23 Nov and 10 Dec concerts come from the artist's poster. November concerts are not listed (this list covers December and January).",
      "https://www.mylaporetimes.com/2026/11/music-festival-over-16-days-to-mark-16th-anniversary-of-arkay-center-luz/"),
     ("Sunaadalahari", FEST, AW, "Abhiramapuram", "Indira Ranganathan Trust, 52 C.P. Ramaswamy Road", "", "Garden-setting concerts.", ""),
     ("Carnatica", FEST, PUB, "Thiruvanmiyur", "Sri Sankara Vidhyashramam School Auditorium, Thiruvanmiyur", "Global Heritage Music & Arts Fest 2026 · 11–22 Dec 2026",
@@ -94,7 +94,7 @@ ORGS = [
     ("VVS Foundation & SaMaa Arts", FEST, AW, "Mylapore", "Raghavendra Swami Mutt, Salai Street; Sri Srikara Anjaneya Raghavendra Swamy Sannidhanam, near R.R. Sabha", "Ekaantha Sangeetha Seva (early-morning concerts)", "Swagatham and Ekaantha Sangeetha Seva festivals.", ""),
     ("Kauvery Margazhi Maha Utsavam", FEST, AW, "", "", "", "Organiser name not found; listed under the festival name.", ""),
     ("Lalitha Jewellery", FEST, AW, "Valasaravakkam", "Jyothi Indira Thirumana Mandapam", "", "Runs the Jyothi Indira Margazhi Yuvautsav.", ""),
-    ("Lakshman Sruthi", FEST, AW, "", "", "", "Runs the Chennaiyil Thiruvaiyaru festival.", ""),
+    ("Lakshman Sruthi", FEST, AW, "Teynampet", "Kamarajar Arangam, Anna Salai", "Chennaiyil Thiruvaiyaru Season 16 · 21–27 Dec 2026", "Runs the Chennaiyil Thiruvaiyaru festival.", ""),
     ("Chennaiyil Sangeeth Utsav", FEST, PUB, "Neelankarai", "R.K Convention Centre", "Chennaiyil Sangeeth Utsav Season 5 · 9–14 Jan 2027",
      "Four ticketed 6.30 pm concerts listed on MDnD (9, 10, 12, 13 Jan 2027); venue R.K Convention Centre, Neelankarai (indian-heritage.org). Organiser name not found; listed under the festival name.",
      "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
@@ -115,13 +115,13 @@ ORGS = [
      "Presents Sanjay Subrahmanyan's all-Tamil concert \"Thamizhum Naanum\" (6.30 pm; gates open 6 pm); tickets via the event website.",
      "https://www.thamizhumnaanum.com/"),
     ("Amazon Music", FEST, PUB, "", "Not stated", "Margazhi Experience · 19 Nov 2026",
-     "Presents a free 6.30 pm \"Margazhi Experience\" concert by Sudha Ragunathan (MDnD listing); venue not printed.",
+     "November concert(s) only, so none are listed here (this list covers December and January). Presents a free 6.30 pm \"Margazhi Experience\" concert by Sudha Ragunathan (MDnD listing); venue not printed.",
      "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
     ("Anujan Broadcast & Sreedaya Trust", OTHER, PUB, "Mylapore", "Sri Ramanujar Millennium Hall", "December season concerts · 15–31 Dec 2026",
      "Also listed as \"Anujan Broadcasts and Sri Dayaa Trust\". Ticketed concerts at 4 pm and 6.30 pm, 15–31 Dec, from NatyaNetwork's Margazhi 2026 listing (tickets on MDnD). An abhang (devotional) programme on 20 Dec is not listed here.",
      "https://natyanetwork.com/margazhi"),
     ("Pranavakaram Fine Arts Trust", FEST, PUB, "Mylapore", "Bharatiya Vidya Bhavan Chennai Kendra", "Fundraiser concert · 16 Nov 2026",
-     "Presents a ticketed fundraiser concert by Chitravina N. Ravikiran with Aditya Mohan (Hawaiian guitar), 6 pm at Bharatiya Vidya Bhavan Chennai Kendra (ragarasa.in listing).",
+     "November concert(s) only, so none are listed here (this list covers December and January). Presents a ticketed fundraiser concert by Chitravina N. Ravikiran with Aditya Mohan (Hawaiian guitar), 6 pm at Bharatiya Vidya Bhavan Chennai Kendra (ragarasa.in listing).",
      "https://ragarasa.in/events/100th-annual-concerts-2026"),
     ("Eswara Ganothsavam", FEST, PUB, "Mylapore", "Durgabai Deshmukh Centenary Auditorium, Andhra Mahila Sabha", "Eswara Ganothsavam 2026 (4th year) · 27 Dec 2026",
      "Festival of the compositions of Dr. Thamarasseri Eswaran Bhattathiri; 27 Dec 6.30 pm concert by Neyveli R. Santhanagopalan (from the festival poster). The poster names no organiser, so it is listed under the festival name.",
@@ -136,15 +136,15 @@ ORGS = [
      "Spoorthi Rao's \"Tribute to the Female Trinity\" on 19 Dec (NatyaNetwork listing); its Mega Isai Vizha and film-hits shows are not listed here.",
      "https://natyanetwork.com/margazhi"),
     ("Minnaminni", FEST, PUB, "Alwarpet / TTK Road", "Medai – The Stage, Alwarpet", "Mélange Fest · 15 Nov 2026",
-     "J.B. Sruthi Sagar flute concert on 15 Nov (NatyaNetwork listing); a storytelling item is not listed here.",
+     "November concert(s) only, so none are listed here (this list covers December and January). J.B. Sruthi Sagar flute concert on 15 Nov (NatyaNetwork listing); a storytelling item is not listed here.",
      "https://natyanetwork.com/margazhi"),
 ]
 
 PART = "Some dates via artists' websites"
 ORGS += [
     ("Mudhra", OTHER, ANN, "T. Nagar", "Vani Mahal (Obul Reddy Hall), G.N. Road", "32nd Fine Arts Festival · 1–27 Dec 2026",
-     "Inauguration and awards on 1 Dec at Obul Reddy Hall (Vani Mahal Mini Hall); programmes 2–27 Dec streamed on Paalam TV (indian-heritage.org). Programme not yet published; Shashank's 1 Dec concert comes from the artist's website.",
-     "https://www.mudhra.org/fine-art-festival"),
+     "Inauguration and awards on 1 Dec, 5.30 pm, at Obul Reddy Hall (Vani Mahal Mini Hall), followed by Shashank's flute concert (listed here). The 2–27 Dec programme (one concert a day at 6.15 pm) is published (livechennai.com, 9 Nov 2026) but is streamed online on Paalam TV and the Mudhrabhaskar YouTube channel with no hall printed, so those concerts are not listed here.",
+     "https://www.livechennai.com/detailnews.asp?newsid=84566"),
     ("Sanjay Subrahmanyan", FEST, PART, "", "Muthamizh Peravai; Asian College of Journalism", "", "Presents his own Sanjay Sabha Live concert series.", "https://sanjaysub.com/"),
 ]
 # organisers whose individual dates appear on artists' websites, before their own schedule is out
@@ -154,7 +154,7 @@ for i, row in enumerate(ORGS):
                   "The Indian Fine Arts Society", "Hamsadhwani", "Tamil Isai Sangam",
                   "Nada Sudha", "VVS Foundation & SaMaa Arts",
                   "TTVV Trust & Cleveland Thyagaraja Festival", "Lakshman Sruthi",
-                  "SciArtsRUs", "Sri Rama Bhaktha Jana Samaj", "Gayatri Fine Arts Global", "Asthika Samajam"}:
+                  "SciArtsRUs", "SASTRA Satsangh", "Sri Rama Bhaktha Jana Samaj", "Gayatri Fine Arts Global", "Asthika Samajam"}:
         ORGS[i] = row[:2] + (PART,) + row[3:6] + ("Own schedule not yet published; dates found on artists' websites.",) + row[7:]
 out = [dict(name=n, group=g, status=s, area=a, venue=v, festival_2026=f, note=note, url=u)
        for n, g, s, a, v, f, note, u in ORGS]
