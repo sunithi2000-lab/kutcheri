@@ -1,5 +1,5 @@
 # https://www.indian-heritage.org/musicseason/sch.html
-# fetched 2026-11-19T19:31Z
+# fetched 2026-11-19T23:42Z
 Music Season
 Schedule
 Awards
@@ -75,7 +75,7 @@ Schedule
 Venue: Bharatiya Vidya Bhavan, Mylapore, Chennai
 shreyanagarajansingh.com
 Kartik Fine Arts
-52nd year At Festival
+52nd year Art Festival
 Tickets
 Venue: Narada Gana Sabha, Chennai
 Natya Darshan 2026 (24 Dec 2026)
@@ -192,10 +192,9 @@ The Bangalore Gayana Samaja
 Bangalore Gayana Samaja, Krishna Rajendra Road, Basavanagudi, Bangalore 560004, Bengaluru
 Schedule
 Related sites
-karnatikbuzz.com
-chennaievent.com
 MDnD Entertainment Private Limited - Book your Season tickets
 mdnd.in/seasontickets
+karnatikbuzz.com
 kalaverse.com (Bengaluru events)
 ===== PDF: https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf =====
 Artist Name
