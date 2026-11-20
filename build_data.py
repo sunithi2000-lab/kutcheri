@@ -49,6 +49,7 @@ ORG = {
         name="Charsur Arts Foundation", festival="DVAYAM – Sounds of Duality (December Season Music Festival 2026)",
         venue="My Bungalow, 40 Eldams Road, Teynampet, Chennai 600018", area="Teynampet",
         url="https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
+    # 2026-10-27: the sabha's own MDnD festival page now lists the programme and prints the venue
     "sri-parthasarathy-swami-sabha": dict(
         name="Sri Parthasarathy Swami Sabha", festival="126th Year Isai Vizha (December Music Festival)",
         venue="Vidya Bharathi Kalyana Mandapam, Bheemasena Garden Road, Mylapore", area="Mylapore",
@@ -83,6 +84,11 @@ ORG = {
         name="Mylapore Fine Arts Club", festival="75th Year Art Festival",
         venue="The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore", area="Mylapore",
         url="https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293"),
+    # 2026-11-21: Nada Sudha's 28th Annual Music Festival (24 Dec – 13 Jan so far) at the Ashram hall, from chennaievent.com's season listing
+    "nada-sudha": dict(
+        name="Nada Sudha", festival="28th Annual Music Festival",
+        venue="Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery", area="Velachery",
+        url="https://chennaievent.com/index_search.php?q=Kamarajar"),
 }
 
 concerts = []
@@ -173,7 +179,7 @@ for line in (ROOT / "raw_charsur_2026.txt").read_text().splitlines():
         entry=entry, organisation=o["name"], festival=o["festival"], venue=o["venue"], area=o["area"],
         source_url=o["url"], source_label="MDnD listing", note=note, fetched="2026-10-18"))
 
-# Sri Parthasarathy Swami Sabha: main artist only, from the MDnD listing (same pattern as Charsur)
+# Sri Parthasarathy Swami Sabha: main artist only, from the sabha's MDnD festival page (same pattern as Charsur)
 VENUE_NOTE = "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website."
 for line in (ROOT / "raw_sri_parthasarathy_swami_sabha_2026.txt").read_text().splitlines():
     if not line or line.startswith("#"):
@@ -264,6 +270,30 @@ main_only("raw_bharatiya_vidya_bhavan_2026.txt", "bharatiya-vidya-bhavan", "bvb"
           "\"All are welcome\" (free). Accompanists not printed.")
 main_only("raw_anujan_2026.txt", "anujan", "abst", "2026-11-18", "NatyaNetwork listing",
           "Organiser listed as \"Anujan Broadcasts and Sri Dayaa Trust\"; tickets on MDnD. Accompanists not listed.")
+
+# Nada Sudha (2026-11-21): main artist only (Charsur pattern), from chennaievent.com's listing. form "Not stated" = not printed;
+# form "A & B" with two different instruments = a duet of two instruments (Carnatica pattern).
+for line in (ROOT / "raw_nada_sudha_2026.txt").read_text().splitlines():
+    if not line or line.startswith("#"):
+        continue
+    date, start, entry, artist, form, note = line.split("|")
+    parts = [x.strip() for x in form.split("&")]
+    if form == "Not stated":
+        ctype, instrument = "Not stated", "Not stated"
+    elif len(parts) == 2 and parts[0].lower() != parts[1].lower():
+        ctype, instrument = "Duet", classify(parts[0])[1]
+    else:
+        ctype, instrument = classify(form)
+    o = ORG["nada-sudha"]
+    concerts.append(dict(
+        id=f"nsu-{date}-{start.replace(':','')}",
+        date=date, start=start, end="", slot=slot(start),
+        main_artist=artist, main_instrument=instrument, concert_type=ctype,
+        performers=[dict(name=artist, instrument=form, role="main")],
+        entry=entry, organisation=o["name"], festival=o["festival"], venue=o["venue"], area=o["area"],
+        source_url=o["url"], source_label="chennaievent.com listing",
+        note=" ".join(x for x in (note, "Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts)." ) if x),
+        fetched="2026-11-21"))
 
 # Artists' own websites / listings: concerts not in any organiser schedule
 for line in (ROOT / "raw_artist_sites_2026.txt").read_text().splitlines():

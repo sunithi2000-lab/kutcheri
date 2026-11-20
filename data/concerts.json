@@ -1,5 +1,31 @@
 [
  {
+  "id": "as-2026-12-01-1615-shruthisbh",
+  "date": "2026-12-01",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shruthi S. Bhat",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shruthi S. Bhat",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Madhuradhwani",
+  "festival": "ACC 16th Anniversary Music Festival",
+  "venue": "Arkay Convention Centre, Luz, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with Madurai M. Vijayaganesh, Kaushik Sridhar, N. Rajaraman (instruments not printed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bvb-2026-12-01-1630",
   "date": "2026-12-01",
   "start": "16:30",
@@ -54,6 +80,32 @@
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
   "source_label": "Artist's poster (Facebook)",
   "note": "Listed as \"Margazhi Maha Utsavam\" (Hamsadhwani's season festival), in collaboration with Mylai Karthikeyan (nagaswaram). From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-01-1830-kunnakudim",
+  "date": "2026-12-01",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Kunnakudi M. Balamuralikrishna",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kunnakudi M. Balamuralikrishna",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Madhuradhwani",
+  "festival": "ACC 16th Anniversary Music Festival",
+  "venue": "Arkay Convention Centre, Luz, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with H.N. Bhaskar, Mannargudi M.R. Vasudevan, B. Shree Sundarkumar (instruments not printed).",
   "fetched": "2026-10-12"
  },
  {
@@ -124,6 +176,32 @@
   "fetched": "2026-11-18"
  },
  {
+  "id": "as-2026-12-02-1615-santhoshsu",
+  "date": "2026-12-02",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Santhosh Subramanian",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Santhosh Subramanian",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Madhuradhwani",
+  "festival": "ACC 16th Anniversary Music Festival",
+  "venue": "Arkay Convention Centre, Luz, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with Pappu Gyandev, R. Akshay Ram, Nerkunam Dr. S. Sankar (instruments not printed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bvb-2026-12-02-1630",
   "date": "2026-12-02",
   "start": "16:30",
@@ -176,6 +254,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-02-1830-mylaimkart",
+  "date": "2026-12-02",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Mylai M. Karthikeyan",
+  "main_instrument": "Nagaswaram",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Mylai M. Karthikeyan",
+    "instrument": "Nagaswaram",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Madhuradhwani",
+  "festival": "ACC 16th Anniversary Music Festival",
+  "venue": "Arkay Convention Centre, Luz, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with B. Ananthakrishnan, Vijay Ganesh (mridangam), S. Sunil Kumar (instruments not printed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bvb-2026-12-02-1845",
   "date": "2026-12-02",
   "start": "18:45",
@@ -226,6 +330,32 @@
   "source_label": "MDnD listing",
   "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-03-1615-bhavyahari",
+  "date": "2026-12-03",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Bhavya Hari",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Bhavya Hari",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Madhuradhwani",
+  "festival": "ACC 16th Anniversary Music Festival",
+  "venue": "Arkay Convention Centre, Luz, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with Haritha Narayanan, A. Rohith (instruments not printed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-03-1630-shashanksu",
@@ -290,6 +420,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-03-1830-carnaticab",
+  "date": "2026-12-03",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Madhuradhwani",
+  "festival": "ACC 16th Anniversary Music Festival",
+  "venue": "Arkay Convention Centre, Luz, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with R. Madhavan, Trivandrum V. Balaji, K.V. Gopalakrishnan (instruments not printed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bvb-2026-12-03-1845",
   "date": "2026-12-03",
   "start": "18:45",
@@ -340,6 +496,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "\"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "as-2026-12-04-1615-drrlakshmi",
+  "date": "2026-12-04",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. R. Lakshmipriya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. R. Lakshmipriya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Madhuradhwani",
+  "festival": "ACC 16th Anniversary Music Festival",
+  "venue": "Arkay Convention Centre, Luz, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with Mantha Sriramya, Ambur Padmanabhan (instruments not printed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bvb-2026-12-04-1630",
@@ -427,6 +609,32 @@
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
   "source_label": "Artist's poster",
   "note": "Listed as \"Margazhi Maha Utsavam\" (Hamsadhwani's season festival); venue as printed for the festival's other concerts (Sandeep Narayan's site, K.S. Vishnudev's poster). From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Entry not stated.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-04-1830-palghatrra",
+  "date": "2026-12-04",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Palghat R. Ramprasad",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Palghat R. Ramprasad",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Madhuradhwani",
+  "festival": "ACC 16th Anniversary Music Festival",
+  "venue": "Arkay Convention Centre, Luz, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with S. Varadarajan, Neyveli R. Narayanan, Dr. Suresh Vaidyanathan (instruments not printed).",
   "fetched": "2026-10-12"
  },
  {
@@ -534,6 +742,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-05-1615-abhiramgbo",
+  "date": "2026-12-05",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Abhiram G. Bode",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Abhiram G. Bode",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Madhuradhwani",
+  "festival": "ACC 16th Anniversary Music Festival",
+  "venue": "Arkay Convention Centre, Luz, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with C.S. Chinmayi, Adharsh Devarajan, S. Hari Kishore (instruments not printed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bvb-2026-12-05-1630",
   "date": "2026-12-05",
   "start": "16:30",
@@ -558,6 +792,58 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Violin solo. \"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "as-2026-12-05-1830-sudharagun",
+  "date": "2026-12-05",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sudha Ragunathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sudha Ragunathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam",
+  "venue": "Not stated",
+  "area": "Adyar",
+  "source_url": "https://sudharagunathan.com/in-concert/",
+  "source_label": "Artist's website",
+  "note": "Listed on the artist's site as \"Marghazhi Maha Utsavam\", Chennai, Sat 5 Dec 2026, 6.30 pm (Hamsadhwani's season festival; its other concerts are at the Indira Nagar Youth Hostel, Adyar – hall not printed here). Accompanists and tickets not stated.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-05-1830-drkgayatri",
+  "date": "2026-12-05",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. K. Gayatri",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. K. Gayatri",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Madhuradhwani",
+  "festival": "ACC 16th Anniversary Music Festival",
+  "venue": "Arkay Convention Centre, Luz, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with B.U. Ganesh Prasad, N. Manoj Siva, B.S. Purushotham (instruments not printed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bvb-2026-12-05-1845",
@@ -651,6 +937,58 @@
   "source_label": "MDnD listing",
   "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-06-1615-sadithyana",
+  "date": "2026-12-06",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Adithyanarayanan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Adithyanarayanan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Madhuradhwani",
+  "festival": "ACC 16th Anniversary Music Festival",
+  "venue": "Arkay Convention Centre, Luz, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with Shreelakshmi S. Bhat, Anirudh Raj, K.R. Sivaramakrishna (instruments not printed).",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-06-1830-drrsuryapr",
+  "date": "2026-12-06",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. R. Suryaprakash",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. R. Suryaprakash",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Madhuradhwani",
+  "festival": "ACC 16th Anniversary Music Festival",
+  "venue": "Arkay Convention Centre, Luz, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with Nagai R. Muralidharan, Thanjavur K. Murugaboopathy, Dr. S. Karthick (instruments not printed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-06-1830-sanjaysubr",
@@ -6906,13 +7244,13 @@
    }
   ],
   "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
+  "organisation": "Lakshman Sruthi",
+  "festival": "Chennaiyil Thiruvaiyaru Season 16",
+  "venue": "Kamarajar Arangam, Anna Salai, Teynampet",
+  "area": "Teynampet",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Sid Sriram\" (7.15 pm, free, offline); organiser, venue and accompanists not printed in the listing.",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Sid Sriram\" (7.15 pm, free, offline); organiser, venue and accompanists not printed in the listing. Organiser and venue found 21 Nov 2026: chennaievent.com's season listing (read 21 Nov 2026) lists it at 7.15 pm, Kamarajar Arangam, under \"Chennaiyil Thiruvaiyaru – 2026 – Season 16\" (Lakshman Sruthi's festival).",
   "fetched": "2026-10-12"
  },
  {
@@ -7292,32 +7630,6 @@
   "note": ""
  },
  {
-  "id": "as-2026-12-23-1630-vishakahar",
-  "date": "2026-12-23",
-  "start": "16:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Vishaka Hari",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Vishaka Hari",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Vishaka Hari\" (4.30 pm, free, offline) — a vocal concert, not a discourse, per the listing; organiser, venue and accompanists not printed.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "as-2026-12-23-1715-ksvishnude",
   "date": "2026-12-23",
   "start": "17:15",
@@ -7588,13 +7900,13 @@
    }
   ],
   "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
+  "organisation": "Lakshman Sruthi",
+  "festival": "Chennaiyil Thiruvaiyaru Season 16",
+  "venue": "Kamarajar Arangam, Anna Salai, Teynampet",
+  "area": "Teynampet",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Sudha Ragunathan\" (7.15 pm, free, offline); organiser, venue and accompanists not printed in the listing.",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Sudha Ragunathan\" (7.15 pm, free, offline); organiser, venue and accompanists not printed in the listing. Organiser and venue found 21 Nov 2026: chennaievent.com's season listing (read 21 Nov 2026) lists it at 7.15 pm, Kamarajar Arangam, under \"Chennaiyil Thiruvaiyaru – 2026 – Season 16\" (Lakshman Sruthi's festival).",
   "fetched": "2026-10-12"
  },
  {
@@ -8109,6 +8421,32 @@
   "fetched": "2026-11-20"
  },
  {
+  "id": "nsu-2026-12-24-1830",
+  "date": "2026-12-24",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Prince Rama Varma",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Prince Rama Varma",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Avaneeswaram S.R. Vinu, B. Harikumar, Dr. S. Karthick (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "ngs-2026-12-24-1830",
   "date": "2026-12-24",
   "start": "18:30",
@@ -8543,6 +8881,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "nsu-2026-12-25-1430",
+  "date": "2026-12-25",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Dhulipala Sai Deekshith",
+  "main_instrument": "Not stated",
+  "concert_type": "Not stated",
+  "performers": [
+   {
+    "name": "Dhulipala Sai Deekshith",
+    "instrument": "Not stated",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Parur M.K. Ananthabalasubramanian, Malladi Sree Aravind (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "abst-2026-12-25-1600",
   "date": "2026-12-25",
   "start": "16:00",
@@ -8619,6 +8983,32 @@
   "source_label": "MDnD listing",
   "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
   "fetched": "2026-11-20"
+ },
+ {
+  "id": "nsu-2026-12-25-1600",
+  "date": "2026-12-25",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sruthhi Ravali",
+  "main_instrument": "Not stated",
+  "concert_type": "Not stated",
+  "performers": [
+   {
+    "name": "Sruthhi Ravali",
+    "instrument": "Not stated",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Chittoor V. Bhargava Vignesh, Madhav Manikandan (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "skgs-2026-12-25-1600",
@@ -8884,14 +9274,14 @@
     "role": "accompanist"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Ticketed (season donor pass)",
   "organisation": "Nada Sudha",
-  "festival": "—",
-  "venue": "Sri Ganapathy Sachchidananda Ashram, Velachery",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathy Sachchidananda Ashram Hall, Velachery",
   "area": "Velachery",
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
   "source_label": "Artist's poster",
-  "note": "Listed as \"Nadasudha\"; venue as printed for Nada Sudha's 9 Jan concert on Sandeep Narayan's site. From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Entry not stated.",
+  "note": "Listed as \"Nadasudha\"; venue as printed for Nada Sudha's 9 Jan concert on Sandeep Narayan's site. From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Entry not stated. Details updated 21 Nov 2026 from chennaievent.com's season listing (read 21 Nov 2026): in Nada Sudha's 28th Annual Music Festival at the Sri Ganapathi Sachchidananda Ashram Hall, Velachery, with Kishore Ramesh and K.V. Gopalakrishnan, \"Season Donor pass\" (by phone); the listing prints 6.15 pm (poster: 6.30 pm) – check the time.",
   "fetched": "2026-10-12"
  },
  {
@@ -9643,6 +10033,32 @@
   "source_label": "MDnD listing",
   "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
   "fetched": "2026-11-20"
+ },
+ {
+  "id": "nsu-2026-12-26-1830",
+  "date": "2026-12-26",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "N. Ravikiran",
+  "main_instrument": "Chitravina",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "N. Ravikiran",
+    "instrument": "Chitravina",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With V.S.P. Gayatri Sivani, Umayalpuram Mali, Akshaya Venkatesh (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "ngs-2026-12-26-1830",
@@ -10657,6 +11073,32 @@
   "note": ""
  },
  {
+  "id": "nsu-2026-12-28-1430",
+  "date": "2026-12-28",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Charanyamani Aditya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Charanyamani Aditya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Pappu Gyandev, Ajeet Sridhar (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "ngs-2026-12-28-1530",
   "date": "2026-12-28",
   "start": "15:30",
@@ -10733,6 +11175,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "nsu-2026-12-28-1600",
+  "date": "2026-12-28",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vanitha Suresh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vanitha Suresh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "skgs-2026-12-28-1600",
@@ -10919,6 +11387,32 @@
   "source_label": "Artist's poster (Facebook)",
   "note": "Listed as \"K.K. Nagar Rama Bhakta Jana Samajam\". From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "nsu-2026-12-28-1815",
+  "date": "2026-12-28",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shankar Ramani",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shankar Ramani",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Shraddha Ravindran, Mumbai Rohit Prasad, Sarvesh Shankar (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "ch-2026-12-28-1830",
@@ -11360,6 +11854,32 @@
   "note": ""
  },
  {
+  "id": "nsu-2026-12-29-1430",
+  "date": "2026-12-29",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Nachikethan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Nachikethan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"Nachikethan Vivek Srinivasan Sahana Sreeram Aashrith Aravind\" (names run together; main artist taken as the first name). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "as-2026-12-29-1530-mylaikarth",
   "date": "2026-12-29",
   "start": "15:30",
@@ -11446,6 +11966,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "nsu-2026-12-29-1600",
+  "date": "2026-12-29",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Aditya Madhavan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aditya Madhavan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Pappu Gyandev, Akshay Anantapadmanabhan (instruments not printed). Time read as 4 pm (the 6.15 pm slot is the Hyderabad Brothers) – check before going. Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "skgs-2026-12-29-1600",
@@ -11606,6 +12152,32 @@
   "source_label": "MDnD listing",
   "note": "Listed on MDnD as \"Carnatic Vocal Concert by Shruthi shankar kumar\" (5 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "nsu-2026-12-29-1815",
+  "date": "2026-12-29",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "D. Raghavachari (Hyderabad Brothers)",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "D. Raghavachari (Hyderabad Brothers)",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"D. Ragavachary (Hyd. Bros.)\", with V.L. Kumar, Mudhra Bhaskar (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "abst-2026-12-29-1830",
@@ -12120,6 +12692,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "nsu-2026-12-30-1600",
+  "date": "2026-12-30",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "N.S. Kamakshi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "N.S. Kamakshi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With M. Vijay, B. Ganapathyraman, Nerkunam S. Manikandan (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "skgs-2026-12-30-1600",
   "date": "2026-12-30",
   "start": "16:00",
@@ -12247,6 +12845,32 @@
   "source_label": "MDnD listing",
   "note": "Listed on MDnD as \"Carnatic Mandolin Concert by Saigovind Vijayaraghavan\" (5 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "nsu-2026-12-30-1815",
+  "date": "2026-12-30",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. N.J. Nandini",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. N.J. Nandini",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Alankode S. Gokul, K.V. Prasad, Nerkunam Dr. S. Sankar (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "ch-2026-12-30-1830",
@@ -12667,6 +13291,32 @@
   "note": ""
  },
  {
+  "id": "nsu-2026-12-31-1430",
+  "date": "2026-12-31",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Sanjay Suresh & Arjun Suresh",
+  "main_instrument": "Violin",
+  "concert_type": "Duet",
+  "performers": [
+   {
+    "name": "Sanjay Suresh & Arjun Suresh",
+    "instrument": "Violin & Chitravina",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Listed as \"Strings Concert – Violin & Chitravina\". Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "as-2026-12-31-1530-spoorthira",
   "date": "2026-12-31",
   "start": "15:30",
@@ -12717,6 +13367,32 @@
   "source_label": "NatyaNetwork listing",
   "note": "Organiser listed as \"Anujan Broadcasts and Sri Dayaa Trust\"; tickets on MDnD. Accompanists not listed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "nsu-2026-12-31-1600",
+  "date": "2026-12-31",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Kalpalathika Ravishankar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kalpalathika Ravishankar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With M. Vijay, Anirudh Raj (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "skgs-2026-12-31-1600",
@@ -13189,6 +13865,32 @@
   "note": ""
  },
  {
+  "id": "nsu-2027-01-01-1430",
+  "date": "2027-01-01",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "C. Ramakrishna",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "C. Ramakrishna",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Chetana Shekar, Prahalad Varahaswamy (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "ma-2027-01-01-1545",
   "date": "2027-01-01",
   "start": "15:45",
@@ -13228,6 +13930,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "nsu-2027-01-01-1600",
+  "date": "2027-01-01",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Krishna Ramarathinam",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Krishna Ramarathinam",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With V.V. Srinivasarao, Nellai A. Balaji, Madipakkam A. Murali (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "skgs-2027-01-01-1600",
@@ -13323,6 +14051,32 @@
   "note": ""
  },
  {
+  "id": "nsu-2027-01-01-1815",
+  "date": "2027-01-01",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sikkil C. Gurucharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sikkil C. Gurucharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Listed as a \"Double Mridangam Concert\", with Rishabh Ranganathan, Sherthalai Ananthakrishnan, Akshay Anantapadmanabhan. Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "spss-2027-01-01-1830",
   "date": "2027-01-01",
   "start": "18:30",
@@ -13416,6 +14170,32 @@
   "note": ""
  },
  {
+  "id": "nsu-2027-01-02-1430",
+  "date": "2027-01-02",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Charulatha Chandrasekar",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Charulatha Chandrasekar",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With A.P. Mahizhan, Kottayam Rohit Prasad (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "as-2027-01-02-1530-anahitaapo",
   "date": "2027-01-02",
   "start": "15:30",
@@ -13440,6 +14220,32 @@
   "source_label": "MDnD listing",
   "note": "Presented by Live4You (MDnD listing: \"Carnatic Vocal Concert by Anahita and Apoorva – Live4You\", 3.30 pm). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore. Accompanists not listed.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "nsu-2027-01-02-1600",
+  "date": "2027-01-02",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Pathangi Brothers",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Pathangi Brothers",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"Pathangi-Brothers-Dathre-Dhruv\", with Sivateja Mallajosyula, Aduthurai G. Guruprasadh. Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "skgs-2027-01-02-1600",
@@ -13509,6 +14315,32 @@
   "note": ""
  },
  {
+  "id": "nsu-2027-01-02-1815",
+  "date": "2027-01-02",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K. Bharat Sundar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K. Bharat Sundar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Kamalakiran Vinjumuri, Tiruvarur Vaidyanathan, G. Chandrasekara Sharma (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "as-2027-01-02-1830-ranjanigay",
   "date": "2027-01-02",
   "start": "18:30",
@@ -13561,6 +14393,32 @@
   "fetched": "2026-10-25"
  },
  {
+  "id": "as-2027-01-02-1845-paramakudi",
+  "date": "2027-01-02",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Paramakudi S. Ravindran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Paramakudi S. Ravindran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sat Sangam Sabha",
+  "festival": "37th Year Annual Music/Dance Festival 2027",
+  "venue": "Sri Sath Sangam (Ramanujar Hall), Madipakkam",
+  "area": "Madipakkam",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Inaugural concert of Sri Sath Sangam's 37th Year Annual Music/Dance Festival 2027 (chennaievent.com, read 21 Nov 2026), with V.V. Srinivasarao, Thiruvidaimarudur S. Sankaran and A.S. Krishnan (instruments not printed). \"Daily tickets Rs 100, available from 15 Dec at the hall.\"",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bk-2027-01-03-1030-shishirkum",
   "date": "2027-01-03",
   "start": "10:30",
@@ -13611,6 +14469,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "nsu-2027-01-03-1430",
+  "date": "2027-01-03",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Smitha Sisters",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Smitha Sisters",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Arunachala Karthik S. (instrument not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "as-2027-01-03-1530-anirudhsub",
@@ -13777,14 +14661,14 @@
     "role": "accompanist"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Ticketed (season donor pass)",
   "organisation": "Nada Sudha",
-  "festival": "—",
+  "festival": "28th Annual Music Festival",
   "venue": "Sri Ganapathy Sachchidananda Ashram, Velachery",
   "area": "Velachery",
   "source_url": "https://www.ranjanigayatri.com/concerts",
   "source_label": "Artist's website",
-  "note": "Listed on the artists' site as \"Nadasudha, Velachery\", Jan 3rd 2027, 6.30 pm (the site prints the weekday as Saturday; 3 Jan 2027 is a Sunday – check before going), with co-artists Alangode Gokul, Delhi Sairam and Chandrasekhara Sharma. Venue as printed for Nada Sudha's other concerts (Sandeep Narayan's site, Charumathi Raghuraman's site). Tickets not stated.",
+  "note": "Listed on the artists' site as \"Nadasudha, Velachery\", Jan 3rd 2027, 6.30 pm (the site prints the weekday as Saturday; 3 Jan 2027 is a Sunday – check before going), with co-artists Alangode Gokul, Delhi Sairam and Chandrasekhara Sharma. Venue as printed for Nada Sudha's other concerts (Sandeep Narayan's site, Charumathi Raghuraman's site). Tickets not stated. Also in chennaievent.com's season listing (read 21 Nov 2026) (Nada Sudha's 28th Annual Music Festival, same accompanists, \"Season Donor pass\"), which prints 6.15 pm on Sun 3 Jan 2027 – check the time.",
   "fetched": "2026-10-12"
  },
  {
@@ -13845,6 +14729,344 @@
   "note": ""
  },
  {
+  "id": "nsu-2027-01-04-1600",
+  "date": "2027-01-04",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shruthi S. Bhat",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shruthi S. Bhat",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Shreelakshmi S. Bhat, Nikshith Puttur, Kottayam Rohit Prasad (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-04-1815",
+  "date": "2027-01-04",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "T.V.S. Mahadevan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "T.V.S. Mahadevan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Mysore V. Srikanth, B. Sivaraman, H. Prasanna (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-05-1430",
+  "date": "2027-01-05",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Lavanya Rupakula",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Lavanya Rupakula",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-05-1600",
+  "date": "2027-01-05",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. R. Lakshmipriya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. R. Lakshmipriya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Mantha Sriramya, Sriram Srinivasan, G. Ganapathy (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-05-1815",
+  "date": "2027-01-05",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With V.V.S. Murari, Vijay B. Natesan, S. Sunil Kumar (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-06-1430",
+  "date": "2027-01-06",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Ranjani Radha",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ranjani Radha",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Niveditha Doraiswamy, A.P. Mahizhan (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-06-1600",
+  "date": "2027-01-06",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Mohan Santhanam",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Mohan Santhanam",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With M. Vijay, Melakaveri K. Balaji, H. Prasanna (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-06-1815",
+  "date": "2027-01-06",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Akkarai Sisters",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Akkarai Sisters",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Listed as \"Vocal Event Duo\", with B. Vittal Rangan, Delhi Sairam, Dr. S. Karthick. Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-07-1430",
+  "date": "2027-01-07",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Shreya Ravikumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shreya Ravikumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Mridula V., Sooraj Radhakrishnan (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-07-1815",
+  "date": "2027-01-07",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sriranjani Tapasya Santhanagopalan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sriranjani Tapasya Santhanagopalan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With V.S.P. Gayatri Sivani, Delhi Sairam (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-08-1430",
+  "date": "2027-01-08",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Kanchana Rajesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kanchana Rajesh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Thanjai Sri Balakrishnan (instrument not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-08-1600",
+  "date": "2027-01-08",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Swarathmika Srikanth",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Swarathmika Srikanth",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Karthick Iyer, Ramsmaran Krishnakumar (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-08-1815",
+  "date": "2027-01-08",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramakrishnan Murthy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ramakrishnan Murthy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With L. Ramakrishnan, Vijay B. Natesan (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "bk-2027-01-09-1030-cotahsiste",
   "date": "2027-01-09",
   "start": "10:30",
@@ -13897,6 +15119,58 @@
   "note": ""
  },
  {
+  "id": "nsu-2027-01-09-1430",
+  "date": "2027-01-09",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Aditya Sridhar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aditya Sridhar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Chittoor V. Bhargava Vignesh, Anirudh Raj (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-09-1600",
+  "date": "2027-01-09",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Kruthi Vittal",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kruthi Vittal",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Kamalakiran Vinjumuri, Vijay B. Natesan, S. Krishna (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "as-2027-01-09-1830-spoorthira",
   "date": "2027-01-09",
   "start": "18:30",
@@ -13910,6 +15184,16 @@
     "name": "Spoorthi Rao",
     "instrument": "Vocal",
     "role": "main"
+   },
+   {
+    "name": "Sivateja Mallajosyula",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "Praveen Sparsh",
+    "instrument": "Mridangam",
+    "role": "accompanist"
    }
   ],
   "entry": "Ticketed",
@@ -13919,7 +15203,7 @@
   "area": "Neelankarai",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue R.K Convention Centre, Neelankarai, from indian-heritage.org's 2026–27 season page (\"Chennaiyil Sangeeth Utsav Season 5, 9–14 Jan 2027, 6:30 PM\"). Accompanists not listed.",
+  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue R.K Convention Centre, Neelankarai, from indian-heritage.org's 2026–27 season page (\"Chennaiyil Sangeeth Utsav Season 5, 9–14 Jan 2027, 6:30 PM\"). Accompanists not listed. Accompanists from chennaievent.com's artist page (21 Nov 2026).",
   "fetched": "2026-10-12"
  },
  {
@@ -13953,14 +15237,14 @@
     "role": "accompanist"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Ticketed (season donor pass)",
   "organisation": "Nada Sudha",
-  "festival": "—",
+  "festival": "28th Annual Music Festival",
   "venue": "Sri Ganapathy Sachchidananda Ashram, Velachery",
   "area": "Velachery",
   "source_url": "https://sandeepnarayan.in/concerts",
   "source_label": "Artist's website",
-  "note": "Listed under \"Nada Sudha\" at Ganapathy Sachidananda Ashram, Velachery on the artist's site; tickets \"TBA\".",
+  "note": "Listed under \"Nada Sudha\" at Ganapathy Sachidananda Ashram, Velachery on the artist's site; tickets \"TBA\". Also in chennaievent.com's season listing (read 21 Nov 2026) (Nada Sudha's 28th Annual Music Festival, same accompanists, \"Season Donor pass\"), which prints 6.15 pm – check the time.",
   "fetched": "2026-10-12"
  },
  {
@@ -14042,6 +15326,32 @@
   "note": ""
  },
  {
+  "id": "nsu-2027-01-10-1430",
+  "date": "2027-01-10",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "S. Mahanya Shree",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Mahanya Shree",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With R. Srikriti, Ajeet Sridhar (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "bk-2027-01-10-1630-carnaticab",
   "date": "2027-01-10",
   "start": "16:30",
@@ -14068,6 +15378,32 @@
   "note": ""
  },
  {
+  "id": "nsu-2027-01-10-1815",
+  "date": "2027-01-10",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sid Sriram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sid Sriram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Rajeev Mukundan, Patri Satishkumar, S. Krishna (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "as-2027-01-10-1830-sikkilguru",
   "date": "2027-01-10",
   "start": "18:30",
@@ -14090,8 +15426,86 @@
   "area": "Neelankarai",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue R.K Convention Centre, Neelankarai, from indian-heritage.org's 2026–27 season page (\"Chennaiyil Sangeeth Utsav Season 5, 9–14 Jan 2027, 6:30 PM\"). Accompanists not listed.",
+  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue R.K Convention Centre, Neelankarai, from indian-heritage.org's 2026–27 season page (\"Chennaiyil Sangeeth Utsav Season 5, 9–14 Jan 2027, 6:30 PM\"). Accompanists not listed. chennaievent.com (21 Nov 2026) lists L. Ramakrishnan, Thiruvarur Bakthavathsalam and Dr. S. Karthick with him (instruments not printed).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "nsu-2027-01-11-1430",
+  "date": "2027-01-11",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Srijith Poosaria",
+  "main_instrument": "Mandolin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Srijith Poosaria",
+    "instrument": "Mandolin",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With N.A. Amogh, Anghiras Mahadevan (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-11-1600",
+  "date": "2027-01-11",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S.M. Vilasini",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S.M. Vilasini",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Gayatri Vibhavari V., Ajeet Sridhar (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-11-1815",
+  "date": "2027-01-11",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Mudikondan S.N. Ramesh & R. Sowmya",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Mudikondan S.N. Ramesh & R. Sowmya",
+    "instrument": "Veena Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Listed as \"Veena Duo\", with Neyveli R. Narayanan, G. Chandrasekara Sharma. Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "as-2027-01-11-1830-ksvishnude",
@@ -14118,6 +15532,58 @@
   "source_label": "Artist's poster (Facebook)",
   "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "nsu-2027-01-12-1430",
+  "date": "2027-01-12",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Nikhil Shankar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Nikhil Shankar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-12-1600",
+  "date": "2027-01-12",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shakthi Muralidaran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shakthi Muralidaran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Niveditha Doraiswamy, Pazhani Balaji (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
  },
  {
   "id": "as-2027-01-12-1815-charumathi",
@@ -14147,12 +15613,12 @@
   ],
   "entry": "Ticketed",
   "organisation": "Nada Sudha",
-  "festival": "—",
+  "festival": "28th Annual Music Festival",
   "venue": "Sri Ganapathy Sachchidananda Ashram Hall, Velachery",
   "area": "Velachery",
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/charumathi-raghuraman-2026-27.png",
   "source_label": "Artist's poster",
-  "note": "From the artist's season poster \"Margazhi Concert Schedule 2026-27 – Charumathi Raghuraman\" (Instagram, sent in by the site owner 19 Nov 2026; copy kept with the site's sources; tickets info at charuraghu.com). Details updated 20 Nov 2026 from charuraghu.com/events: tickets via ragarasa.in (ragarasa.in/events/charumathi-raghuraman-carnatic-violin).",
+  "note": "From the artist's season poster \"Margazhi Concert Schedule 2026-27 – Charumathi Raghuraman\" (Instagram, sent in by the site owner 19 Nov 2026; copy kept with the site's sources; tickets info at charuraghu.com). Details updated 20 Nov 2026 from charuraghu.com/events: tickets via ragarasa.in (ragarasa.in/events/charumathi-raghuraman-carnatic-violin). Details updated 21 Nov 2026 from chennaievent.com's season listing (read 21 Nov 2026): same date, time and accompanists in Nada Sudha's 28th Annual Music Festival (\"Season Donor pass\").",
   "fetched": "2026-10-12"
  },
  {
@@ -14182,6 +15648,84 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "nsu-2027-01-13-1430",
+  "date": "2027-01-13",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "V.U.M. Ayshwarya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "V.U.M. Ayshwarya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Indhalur Shyam Raghav (instrument not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-13-1600",
+  "date": "2027-01-13",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Thirumanur Brothers",
+  "main_instrument": "Nagaswaram",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Thirumanur Brothers",
+    "instrument": "Nagaswaram",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Listed as \"Nadasvaram Concert\", with Sholavaram S. Loganathan. Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
+  "id": "nsu-2027-01-13-1815",
+  "date": "2027-01-13",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Gayathri Venkataraghavan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Gayathri Venkataraghavan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed (season donor pass)",
+  "organisation": "Nada Sudha",
+  "festival": "28th Annual Music Festival",
+  "venue": "Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery",
+  "area": "Velachery",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "With Mysore V. Srikanth, B. Sivaraman, S. Sunil Kumar (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
+  "fetched": "2026-11-21"
+ },
+ {
   "id": "as-2027-01-13-1830-sudharagun",
   "date": "2027-01-13",
   "start": "18:30",
@@ -14195,6 +15739,21 @@
     "name": "Sudha Ragunathan",
     "instrument": "Vocal",
     "role": "main"
+   },
+   {
+    "name": "Embar S. Kannan",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "Patri Satishkumar",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "R. Raman",
+    "instrument": "Morsing",
+    "role": "accompanist"
    }
   ],
   "entry": "Ticketed",
@@ -14204,7 +15763,7 @@
   "area": "Neelankarai",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue R.K Convention Centre, Neelankarai, from indian-heritage.org's 2026–27 season page (\"Chennaiyil Sangeeth Utsav Season 5, 9–14 Jan 2027, 6:30 PM\"). Accompanists not listed.",
+  "note": "Listed on MDnD as a Chennaiyil Sangeeth Utsav concert (6.30 pm, ticketed); venue R.K Convention Centre, Neelankarai, from indian-heritage.org's 2026–27 season page (\"Chennaiyil Sangeeth Utsav Season 5, 9–14 Jan 2027, 6:30 PM\"). Accompanists not listed. Accompanists from chennaievent.com's artist page (21 Nov 2026).",
   "fetched": "2026-10-12"
  },
  {

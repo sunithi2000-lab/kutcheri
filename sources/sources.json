@@ -449,6 +449,24 @@
    "kind": "aggregator",
    "url": "https://casualwalker.com/complete-guide-to-music-festivals-in-chennai-2025-all-sabha-schedules-season-schedules-kutcheri-schedule-events-carnatic-concerts-classical-performances-margazhi-festival-highlights-chennai-a/",
    "follow_pdfs": false
+  },
+  {
+   "slug": "chennaievent-listing",
+   "kind": "aggregator",
+   "url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+   "follow_pdfs": false
+  },
+  {
+   "slug": "mudhra",
+   "kind": "sabha",
+   "url": "https://www.mudhra.org/",
+   "follow_pdfs": false
+  },
+  {
+   "slug": "ifas-annual-music-festival-2026",
+   "kind": "sabha",
+   "url": "https://theindianfineartssociety1932.com/events/music-competition-2026/",
+   "follow_pdfs": true
   }
  ],
  "_blocked_note": "BookMyShow, District, Bandsintown and chennaidecemberseason.com refuse automated visits (403/429); the research job checks them by web search instead."

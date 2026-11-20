@@ -1,0 +1,56 @@
+# Nada Sudha – 28th Annual Music Festival 2026–27, Sri Ganapathi Sachchidananda Ashram Hall (A/c), Seshadripuram, Baby Nagar, Velachery (Carnatic music only).
+# Source: chennaievent.com's season listing https://chennaievent.com/index_search.php?q=Kamarajar (read 21 Nov 2026 via WebFetch; the page runs 20 Nov 2026 – 13 Jan 2027).
+#   Series printed "28th Annual Music Festival - 2026 - 2027"; most evening items (and some others) print "For Season Donor pass 9884949597 / 9176309996".
+#   The listing names no organiser: the festival is Nada Sudha's – artists' own sources name "Nada Sudha"/"Nadasudha" at this hall for four of its slots
+#   (Ramana Balachandhran 25 Dec, Ranjani & Gayatri 3 Jan, Sandeep Narayan 9 Jan, Charumathi Raghuraman 12 Jan; those four rows stay in raw_artist_sites_2026.txt).
+#   Performers are printed run together without instruments: the first name is taken as the main artist; the others are given in the note.
+# Not included: 26 Dec 2.30 pm Akshara Samskriti (no genre printed); 27 Dec 4 pm "Nadapallava Awardees Concert" (several young artists, format unclear);
+#   27 Dec 6.15 pm Subhashree Thanikachalam "Thematic Concert" (film-based); 31 Dec 6.15 pm Rajhesh Vaidhya & J.A. Jayant "Winds & Strings" with tabla (fusion-style).
+# Dates after 13 Jan not yet visible on the listing. Weekdays checked (24 Dec 2026 = Thu, 13 Jan 2027 = Wed).
+# date|start|entry|artist|form|note
+2026-12-24|18:30|Not stated|Prince Rama Varma|Vocal|With Avaneeswaram S.R. Vinu, B. Harikumar, Dr. S. Karthick (instruments not printed).
+2026-12-25|14:30|Ticketed (season donor pass)|Dhulipala Sai Deekshith|Not stated|With Parur M.K. Ananthabalasubramanian, Malladi Sree Aravind (instruments not printed).
+2026-12-25|16:00|Ticketed (season donor pass)|Sruthhi Ravali|Not stated|With Chittoor V. Bhargava Vignesh, Madhav Manikandan (instruments not printed).
+2026-12-26|18:30|Ticketed (season donor pass)|N. Ravikiran|Chitravina|With V.S.P. Gayatri Sivani, Umayalpuram Mali, Akshaya Venkatesh (instruments not printed).
+2026-12-28|14:30|Not stated|Charanyamani Aditya|Vocal|With Pappu Gyandev, Ajeet Sridhar (instruments not printed).
+2026-12-28|16:00|Not stated|Vanitha Suresh|Vocal|
+2026-12-28|18:15|Ticketed (season donor pass)|Shankar Ramani|Vocal|With Shraddha Ravindran, Mumbai Rohit Prasad, Sarvesh Shankar (instruments not printed).
+2026-12-29|14:30|Not stated|Nachikethan|Vocal|Printed "Nachikethan Vivek Srinivasan Sahana Sreeram Aashrith Aravind" (names run together; main artist taken as the first name).
+2026-12-29|16:00|Not stated|Aditya Madhavan|Vocal|With Pappu Gyandev, Akshay Anantapadmanabhan (instruments not printed). Time read as 4 pm (the 6.15 pm slot is the Hyderabad Brothers) – check before going.
+2026-12-29|18:15|Ticketed (season donor pass)|D. Raghavachari (Hyderabad Brothers)|Vocal|Printed "D. Ragavachary (Hyd. Bros.)", with V.L. Kumar, Mudhra Bhaskar (instruments not printed).
+2026-12-30|16:00|Not stated|N.S. Kamakshi|Vocal|With M. Vijay, B. Ganapathyraman, Nerkunam S. Manikandan (instruments not printed).
+2026-12-30|18:15|Ticketed (season donor pass)|Dr. N.J. Nandini|Vocal|With Alankode S. Gokul, K.V. Prasad, Nerkunam Dr. S. Sankar (instruments not printed).
+2026-12-31|14:30|Not stated|Sanjay Suresh & Arjun Suresh|Violin & Chitravina|Listed as "Strings Concert – Violin & Chitravina".
+2026-12-31|16:00|Not stated|Kalpalathika Ravishankar|Vocal|With M. Vijay, Anirudh Raj (instruments not printed).
+2027-01-01|14:30|Not stated|C. Ramakrishna|Vocal|With Chetana Shekar, Prahalad Varahaswamy (instruments not printed).
+2027-01-01|16:00|Not stated|Krishna Ramarathinam|Vocal|With V.V. Srinivasarao, Nellai A. Balaji, Madipakkam A. Murali (instruments not printed).
+2027-01-01|18:15|Ticketed (season donor pass)|Sikkil C. Gurucharan|Vocal|Listed as a "Double Mridangam Concert", with Rishabh Ranganathan, Sherthalai Ananthakrishnan, Akshay Anantapadmanabhan.
+2027-01-02|14:30|Not stated|Charulatha Chandrasekar|Veena|With A.P. Mahizhan, Kottayam Rohit Prasad (instruments not printed).
+2027-01-02|16:00|Not stated|Pathangi Brothers|Vocal Duet|Printed "Pathangi-Brothers-Dathre-Dhruv", with Sivateja Mallajosyula, Aduthurai G. Guruprasadh.
+2027-01-02|18:15|Ticketed (season donor pass)|K. Bharat Sundar|Vocal|With Kamalakiran Vinjumuri, Tiruvarur Vaidyanathan, G. Chandrasekara Sharma (instruments not printed).
+2027-01-03|14:30|Not stated|Smitha Sisters|Vocal Duet|With Arunachala Karthik S. (instrument not printed).
+2027-01-04|16:00|Ticketed (season donor pass)|Shruthi S. Bhat|Vocal|With Shreelakshmi S. Bhat, Nikshith Puttur, Kottayam Rohit Prasad (instruments not printed).
+2027-01-04|18:15|Ticketed (season donor pass)|T.V.S. Mahadevan|Vocal|With Mysore V. Srikanth, B. Sivaraman, H. Prasanna (instruments not printed).
+2027-01-05|14:30|Not stated|Lavanya Rupakula|Vocal|
+2027-01-05|16:00|Not stated|Dr. R. Lakshmipriya|Vocal|With Mantha Sriramya, Sriram Srinivasan, G. Ganapathy (instruments not printed).
+2027-01-05|18:15|Ticketed (season donor pass)|Carnatica Brothers - K.N. Shashikiran & P. Ganesh|Vocal Duet|With V.V.S. Murari, Vijay B. Natesan, S. Sunil Kumar (instruments not printed).
+2027-01-06|14:30|Not stated|Ranjani Radha|Vocal|With Niveditha Doraiswamy, A.P. Mahizhan (instruments not printed).
+2027-01-06|16:00|Not stated|Mohan Santhanam|Vocal|With M. Vijay, Melakaveri K. Balaji, H. Prasanna (instruments not printed).
+2027-01-06|18:15|Ticketed (season donor pass)|Akkarai Sisters|Vocal Duet|Listed as "Vocal Event Duo", with B. Vittal Rangan, Delhi Sairam, Dr. S. Karthick.
+2027-01-07|14:30|Not stated|Shreya Ravikumar|Vocal|With Mridula V., Sooraj Radhakrishnan (instruments not printed).
+2027-01-07|18:15|Ticketed (season donor pass)|Sriranjani Tapasya Santhanagopalan|Vocal|With V.S.P. Gayatri Sivani, Delhi Sairam (instruments not printed).
+2027-01-08|14:30|Not stated|Kanchana Rajesh|Vocal|With Thanjai Sri Balakrishnan (instrument not printed).
+2027-01-08|16:00|Not stated|Swarathmika Srikanth|Vocal|With Karthick Iyer, Ramsmaran Krishnakumar (instruments not printed).
+2027-01-08|18:15|Ticketed (season donor pass)|Ramakrishnan Murthy|Vocal|With L. Ramakrishnan, Vijay B. Natesan (instruments not printed).
+2027-01-09|14:30|Not stated|Aditya Sridhar|Vocal|With Chittoor V. Bhargava Vignesh, Anirudh Raj (instruments not printed).
+2027-01-09|16:00|Not stated|Kruthi Vittal|Vocal|With Kamalakiran Vinjumuri, Vijay B. Natesan, S. Krishna (instruments not printed).
+2027-01-10|14:30|Not stated|S. Mahanya Shree|Vocal|With R. Srikriti, Ajeet Sridhar (instruments not printed).
+2027-01-10|18:15|Ticketed (season donor pass)|Sid Sriram|Vocal|With Rajeev Mukundan, Patri Satishkumar, S. Krishna (instruments not printed).
+2027-01-11|14:30|Not stated|Srijith Poosaria|Mandolin|With N.A. Amogh, Anghiras Mahadevan (instruments not printed).
+2027-01-11|16:00|Not stated|S.M. Vilasini|Vocal|With Gayatri Vibhavari V., Ajeet Sridhar (instruments not printed).
+2027-01-11|18:15|Ticketed (season donor pass)|Mudikondan S.N. Ramesh & R. Sowmya|Veena Duet|Listed as "Veena Duo", with Neyveli R. Narayanan, G. Chandrasekara Sharma.
+2027-01-12|14:30|Not stated|Nikhil Shankar|Vocal|
+2027-01-12|16:00|Not stated|Shakthi Muralidaran|Vocal|With Niveditha Doraiswamy, Pazhani Balaji (instruments not printed).
+2027-01-13|14:30|Not stated|V.U.M. Ayshwarya|Vocal|With Indhalur Shyam Raghav (instrument not printed).
+2027-01-13|16:00|Not stated|Thirumanur Brothers|Nagaswaram|Listed as "Nadasvaram Concert", with Sholavaram S. Loganathan.
+2027-01-13|18:15|Ticketed (season donor pass)|Gayathri Venkataraghavan|Vocal|With Mysore V. Srikanth, B. Sivaraman, S. Sunil Kumar (instruments not printed).
