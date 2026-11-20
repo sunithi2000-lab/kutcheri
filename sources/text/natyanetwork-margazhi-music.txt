@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi?day=all&type=music
-# fetched 2026-11-19T23:42Z
+# fetched 2026-11-20T19:32Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -51,13 +51,13 @@ Create Your Profile
 Search the December Season
 THE SPIRIT OF DECEMBER
 December Season Schedule 2026
-Every concert from Chennai’s sabhas — 681 concerts from 19 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
+Every concert from Chennai’s sabhas — 687 concerts from 19 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
 Dance
 156
 Music
-476
+480
 Everything
-681
+687
 Sabhas
 Artists
 Add your programme
@@ -139,7 +139,7 @@ Anusham Arts Academy
 Neighbourhood
 All areas
 Alwarpet (55)
-Chennai (104)
+Chennai (110)
 ECR (6)
 Egmore (10)
 Mandaveli-R.A. Puram (2)
@@ -681,7 +681,7 @@ Search
 Next up
 Free entry only
 6:00 pm
-in 8 days
+in 7 days
 Saindhavi & Sai Vignesh
 Gems of Margazhi - From the House of Meenu Subbiah · Tharamani
 Sun
@@ -788,8 +788,8 @@ Sat
 Jan 16
 Sun
 Jan 17
-All music 476
-Vocal 258
+All music 480
+Vocal 260
 Instrumental 72
 Harikatha & Namasankeerthanam 31
 Lec-dems & talks 2
@@ -798,7 +798,7 @@ Concert (type not listed) 61
 Students' music performance 2
 Devotional music 2
 The whole season
-476 CONCERTS FOUND
+480 CONCERTS FOUND
 Free
 Ticketed
 SUN 15 NOV
@@ -4408,6 +4408,29 @@ Sri Parthasarathy Swami Sabha
 Vidya Bharathi Kalyana Mandapam, Mylapore
 Ticketed
 FRI 1 JAN
+4:00 pm
+Music
+R. Ashwathnarayanan - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+FRI 1 JAN
+4:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+FRI 1 JAN
+4:00 pm
+Music
+Akkarai Sisters - Vocal
+VOCAL
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
+FRI 1 JAN
 5:30 pm
 Music
 Giridharan
@@ -4482,6 +4505,13 @@ R Suryaprakash
 VOCAL
 Bharat Kalachar
 Sri YGP Auditorium, T. NagarFree
+SAT 2 JAN
+5:00 pm
+Music
+4 :00 PM
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
 SAT 2 JAN
 6:30 pm
 Music

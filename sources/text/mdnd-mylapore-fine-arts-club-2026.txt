@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293
-# fetched 2026-11-19T23:42Z
+# fetched 2026-11-20T19:32Z
 Select Language
 English
 Tamil
@@ -23,8 +23,6 @@ Individual Tickets
 Events are grouped by date.
 FILTER BY DATE
 All dates
-1 December 2026 · Tuesday
-2 December 2026 · Wednesday
 18 December 2026 · Friday
 19 December 2026 · Saturday
 20 December 2026 · Sunday
@@ -39,22 +37,11 @@ All dates
 29 December 2026 · Tuesday
 30 December 2026 · Wednesday
 31 December 2026 · Thursday
-14 January 2027 · Thursday
-15 January 2027 · Friday
-16 January 2027 · Saturday
+1 January 2027 · Friday
+2 January 2027 · Saturday
 SEARCH EVENTS
 Clear
-19 days shown
-1 December 2026
-Tuesday
-R. ASHWATHNARAYANAN - Vocal | 4 :00 PM | AKKARAI SISTERS - Vocal | 6:30 PM | Mylapore Fine Arts Club
-The Mylapore Fine Arts Club, Chennai
-4:00 PM
-2 December 2026
-Wednesday
-Stage Creations Presents Kathadi Ramamurthy in YAATHIRAI - Drama | 4 :00 PM | Mother Creations Presents JAGATHGURU - Drama | 6:30 PM | Mylapore Fine Arts Club
-The Mylapore Fine Arts Club, Chennai
-5:00 PM
+16 days shown
 18 December 2026
 Friday
 Dr. B. VIJAYAGOPAL - Flute | 4 :00 PM | GAYATHRI VENKATARAGHAVAN - Vocal | 6:30 PM | Mylapore Fine Arts Club
@@ -125,18 +112,13 @@ Thursday
 KRUTHI VITTAL - Vocal | 4 :00 PM | Papanasam ASHOK RAMANI - Vocal | 6:30 PM | Mylapore Fine Arts Club
 The Mylapore Fine Arts Club, Chennai
 4:00 PM
-14 January 2027
-Thursday
-Kum. ANAGA GANESH | 5 :45 PM | GANAPATHYAM – Tales of Ganesa - Bharatanatyam | 7:15 PM | Mylapore Fine Arts Club
-The Mylapore Fine Arts Club, Chennai
-5:45 PM
-15 January 2027
+1 January 2027
 Friday
-Kum. MEERA RAJARAMAN | 5 :45 PM | JANANI JAGATH KARANI by Dr. Sheela Unnikrishnan - Bharatanatyam | 7:15 PM | Mylapore Fine Arts Club
+R. ASHWATHNARAYANAN - Vocal | 4 :00 PM | AKKARAI SISTERS - Vocal | 6:30 PM | Mylapore Fine Arts Club
 The Mylapore Fine Arts Club, Chennai
-5:45 PM
-16 January 2027
+4:00 PM
+2 January 2027
 Saturday
-Kum. VIDYALAKSHMI VIDYANATH | 5 :45 PM | AGRE PASHYAMI by Smt. ANITHA GUHA | 7:15 PM | Mylapore Fine Arts Club
+Stage Creations Presents Kathadi Ramamurthy in YAATHIRAI - Drama | 4 :00 PM | Mother Creations Presents JAGATHGURU - Drama | 6:30 PM | Mylapore Fine Arts Club
 The Mylapore Fine Arts Club, Chennai
-5:45 PM
+5:00 PM

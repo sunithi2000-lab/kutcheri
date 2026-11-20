@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-19T23:42Z
+# fetched 2026-11-20T19:32Z
 Select Language
 English
 Tamil
@@ -10,9 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic LecDem by Dr. Premeela Gurumurthy
-Thu, 19th Nov 2026 | 6:15 PM
-Free | Offline
 Carnatic Vocal by Ritvik Rao Vaddi, Carnatic Guitar by Vignesh Shankar, Bharatanatyam by Dr. Shahana Kasi, Dance Drama by Lakshmi Parthasarathy, Carnatic Violin by Shreya Devnath, Veena Ensemble by Kannan Balakrishnan
 Fri, 20th Nov 2026 | 12:00 PM
 Free | Offline
@@ -22,11 +19,17 @@ Free | Offline
 Carnatic Nadaswaram Concert by Adyar S Padmanabhan & Thirukalukundram M.R. Hemaraj
 Fri, 20th Nov 2026 | 6:15 PM
 Free | Offline
+Carnatic Ghatam by Sri Karthick & Troupe | Carnatic Veena by B. Kannan | Carnatic Vocal by Dr Sudha Ragunathan
+Sat, 21st Nov 2026 | 10:30 AM
+Free | Offline
 Carnatic Veena Concert by Veena Venkatramani
 Sat, 21st Nov 2026 | 6:00 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Dr Brindha Manickavasakan
 Sat, 21st Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Nithyasree Mahadevan, Prince Rama Varma, N Vijay Siva
+Sun, 22nd Nov 2026 | 10:30 AM
 Free | Offline
 Carnatic Vocal Concert by Aishwarya Shankar
 Sun, 22nd Nov 2026 | 6:15 PM
@@ -34,8 +37,14 @@ Free | Offline
 Carnatic Vocal Concert by Vignesh Krishnamurthy
 Mon, 23rd Nov 2026 | 6:15 PM
 Free | Offline
+Carnatic Vocal Concert by Kruthi Vittal, Papanasam Sri Ashok Ramani
+Tue, 24th Nov 2026 | 4:30 PM
+Free | Offline
 Carnatic Vocal Concert by G K Baanu Priya
 Tue, 24th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Dr Sundar, Trichur Brothers
+Wed, 25th Nov 2026 | 4:30 PM
 Free | Offline
 Nadaswaram Concert by Mylai Karthikeyan
 Wed, 25th Nov 2026 | 6:15 PM
@@ -58,9 +67,6 @@ Free | Offline
 Carnatic Vocal Concert by Shreyas Gowrishankar
 Mon, 30th Nov 2026 | 6:15 PM
 Free | Offline
-R. ASHWATHNARAYANAN - Vocal | 4 :00 PM | AKKARAI SISTERS - Vocal | 6:30 PM | Mylapore Fine Arts Club
-Tue, 1st Dec 2026 | 4:00 PM
-Ticketed | Offline
 4.30 PM Carnatic Vocal by R. Ashwath Narayanan | 6.45 PM Carnatic Vocal by N Vijay Siva | Kartik Fine Arts
 Wed, 2nd Dec 2026 | 4:30 PM
 Ticketed | Offline
@@ -505,9 +511,6 @@ Ticketed | Offline
 Carnatic Vocal by Sandeep Narayan | Narada Gana Sabha
 Sun, 27th Dec 2026 | 6:00 PM
 Ticketed | Offline
-Carnatic Vocal Concert by Unnikrishnan & Uthara Unnikrishnan
-Sun, 27th Dec 2026 | 6:30 PM
-Free | Offline
 Carnatic Vocal by Vivek Sadasivam | Anujan Broadcasts and Sri Dayaa Trust
 Sun, 27th Dec 2026 | 6:30 PM
 Ticketed | Offline
@@ -653,6 +656,9 @@ Carnatic Vocal Concert by Palghat Dr R Ramprasad
 Fri, 1st Jan 2027 | 4:00 PM
 Ticketed | Offline
 4.00 PM Dr. GAYATHRI GIRISH (Vocal) | 6.30 PM Dr. NITHYASREE MAHADEVAN (Vocal) | SRI PARTHASARATHY SWAMI SABHA
+Fri, 1st Jan 2027 | 4:00 PM
+Ticketed | Offline
+R. ASHWATHNARAYANAN - Vocal | 4 :00 PM | AKKARAI SISTERS - Vocal | 6:30 PM | Mylapore Fine Arts Club
 Fri, 1st Jan 2027 | 4:00 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Giridharan
