@@ -164,7 +164,7 @@
   {
    "slug": "artist-jayanthi-kumaresh",
    "kind": "artist",
-   "url": "https://jayanthikumaresh.com/schedule"
+   "url": "https://www.jayanthikumaresh.com/schedule/"
   },
   {
    "slug": "artist-aruna-sairam",
@@ -214,7 +214,7 @@
   {
    "slug": "artist-gayathri-venkataraghavan",
    "kind": "artist",
-   "url": "https://www.gayathrivenkataraghavan.com/"
+   "url": "https://www.gayathrivenkataraghavan.com/schedule"
   },
   {
    "slug": "artist-mysore-manjunath",
@@ -467,6 +467,18 @@
    "kind": "sabha",
    "url": "https://theindianfineartssociety1932.com/events/music-competition-2026/",
    "follow_pdfs": true
+  },
+  {
+   "slug": "ramana-balachandhran-margazhi-2026",
+   "kind": "artist",
+   "url": "https://ramanabalachandhran.com/events/margazhi-2026/",
+   "follow_pdfs": false
+  },
+  {
+   "slug": "natyanetwork-margazhi-full",
+   "kind": "aggregator",
+   "url": "https://natyanetwork.com/margazhi",
+   "follow_pdfs": false
   }
  ],
  "_blocked_note": "BookMyShow, District, Bandsintown and chennaidecemberseason.com refuse automated visits (403/429); the research job checks them by web search instead."

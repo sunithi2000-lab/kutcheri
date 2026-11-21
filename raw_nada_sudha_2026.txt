@@ -8,7 +8,7 @@
 #   27 Dec 6.15 pm Subhashree Thanikachalam "Thematic Concert" (film-based); 31 Dec 6.15 pm Rajhesh Vaidhya & J.A. Jayant "Winds & Strings" with tabla (fusion-style).
 # Dates after 13 Jan not yet visible on the listing. Weekdays checked (24 Dec 2026 = Thu, 13 Jan 2027 = Wed).
 # date|start|entry|artist|form|note
-2026-12-24|18:30|Not stated|Prince Rama Varma|Vocal|With Avaneeswaram S.R. Vinu, B. Harikumar, Dr. S. Karthick (instruments not printed).
+2026-12-24|18:30|Ticketed (season donor pass)|Prince Rama Varma|Vocal|Listing (re-read 22 Nov 2026) prints "Season Donor pass". With Avaneeswaram S.R. Vinu, B. Harikumar, Dr. S. Karthick (instruments not printed).
 2026-12-25|14:30|Ticketed (season donor pass)|Dhulipala Sai Deekshith|Not stated|With Parur M.K. Ananthabalasubramanian, Malladi Sree Aravind (instruments not printed).
 2026-12-25|16:00|Ticketed (season donor pass)|Sruthhi Ravali|Not stated|With Chittoor V. Bhargava Vignesh, Madhav Manikandan (instruments not printed).
 2026-12-26|18:30|Ticketed (season donor pass)|N. Ravikiran|Chitravina|With V.S.P. Gayatri Sivani, Umayalpuram Mali, Akshaya Venkatesh (instruments not printed).
@@ -16,7 +16,7 @@
 2026-12-28|16:00|Not stated|Vanitha Suresh|Vocal|
 2026-12-28|18:15|Ticketed (season donor pass)|Shankar Ramani|Vocal|With Shraddha Ravindran, Mumbai Rohit Prasad, Sarvesh Shankar (instruments not printed).
 2026-12-29|14:30|Not stated|Nachikethan|Vocal|Printed "Nachikethan Vivek Srinivasan Sahana Sreeram Aashrith Aravind" (names run together; main artist taken as the first name).
-2026-12-29|16:00|Not stated|Aditya Madhavan|Vocal|With Pappu Gyandev, Akshay Anantapadmanabhan (instruments not printed). Time read as 4 pm (the 6.15 pm slot is the Hyderabad Brothers) – check before going.
+2026-12-29|16:00|Not stated|Aditya Madhavan|Vocal|With Pappu Gyandev, Akshay Anantapadmanabhan (instruments not printed). 4 pm confirmed on a re-read of the listing (22 Nov 2026).
 2026-12-29|18:15|Ticketed (season donor pass)|D. Raghavachari (Hyderabad Brothers)|Vocal|Printed "D. Ragavachary (Hyd. Bros.)", with V.L. Kumar, Mudhra Bhaskar (instruments not printed).
 2026-12-30|16:00|Not stated|N.S. Kamakshi|Vocal|With M. Vijay, B. Ganapathyraman, Nerkunam S. Manikandan (instruments not printed).
 2026-12-30|18:15|Ticketed (season donor pass)|Dr. N.J. Nandini|Vocal|With Alankode S. Gokul, K.V. Prasad, Nerkunam Dr. S. Sankar (instruments not printed).

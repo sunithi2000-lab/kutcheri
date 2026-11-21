@@ -4,12 +4,14 @@
 #   My Bungalow, 40 Eldams Road, Teynampet (venue from the Charsur listing on indian-heritage.org).
 # Each MDnD entry lists two concerts: "4.00 PM | artist | 6.30 PM | artist". No accompanists or end times printed.
 # Excluded: lecture-demonstrations (R.K. Shriramkumar 20 Dec 10 am, Madhusudhanan Kalaichelvan 27 Dec 10 am). 31 Dec not yet listed.
+# 2026-11-18: 31 Dec 6.30 pm A.S. Murali added from NatyaNetwork's listing for Charsur (natyanetwork.com/margazhi). Its 31 Dec 4 pm "Sriram V" item is not added
+#   (V. Sriram is a historian and speaker; listed as "Concert" — unclear whether it is a concert).
 # Instrument "Not stated" where the listing does not say and it is not certain from the artist's other 2026-27 listings.
 # Weekdays checked: 15 Dec 2026 = Tue, 30 Dec 2026 = Wed.
 # date|start|entry|artist|instrument|note
-2026-12-15|16:00|Ticketed|Mambalam S. Santhanam|Not stated|
+2026-12-15|16:00|Ticketed|Mambalam S. Santhanam|Nagaswaram|Listed on chennaievent.com (22 Nov 2026) as "Mangala Isai" with Koleri G. Vinodkumar, Triplicane K. Shekar and Kodungaiyur G.K. Narasimhan (nagaswaram–thavil ensemble; instruments not printed).
 2026-12-15|18:30|Ticketed|Malladi Suribabu|Vocal|
-2026-12-16|16:00|Ticketed|K.P. Nandini|Not stated|
+2026-12-16|16:00|Ticketed|K.P. Nandini|Vocal|Vocal concert with B. Ananthakrishnan, K. Sai Giridhar, S. Sunil Kumar (chennaievent.com, 22 Nov 2026; instruments not printed).
 2026-12-16|18:30|Ticketed|Sikkil Gurucharan|Vocal|
 2026-12-17|16:00|Ticketed|Vidya Kalyanaraman|Vocal|
 2026-12-17|18:30|Ticketed|Rithvik Raja|Vocal|
@@ -19,7 +21,7 @@
 2026-12-19|18:30|Ticketed|K. Bharat Sundar|Vocal|
 2026-12-20|16:00|Ticketed|Dr. Baby Sreeram|Vocal|
 2026-12-20|18:30|Ticketed|J.B. Sruthi Sagar|Flute|
-2026-12-21|16:00|Ticketed|Aravind Soundararajan|Not stated|
+2026-12-21|16:00|Ticketed|Aravind Soundararajan|Vocal|Vocal concert; printed "Kalyanapuram Aravind Soundararajan" with Vittal Rangan, N.C. Bharadwaj, S. Krishna on chennaievent.com (22 Nov 2026).
 2026-12-21|18:30|Ticketed|K.S. Vishnudev|Vocal|
 2026-12-22|16:00|Ticketed|S. Adithyanarayanan|Vocal|
 2026-12-22|18:30|Ticketed|Sriranjani Tapasya Santhanagopalan|Vocal|
@@ -39,6 +41,6 @@
 2026-12-28|18:30|Ticketed|Ramana Balachandhran|Veena|Accompanists per the artist's season poster: Patri Satishkumar (mridangam).
 2026-12-29|16:00|Ticketed|Ashwath Narayanan|Vocal|
 2026-12-29|18:30|Ticketed|Dr. Jayanthi Kumaresh|Veena|
-2026-12-30|16:00|Ticketed|Akkarai Sisters|Not stated|
+2026-12-30|16:00|Ticketed|Akkarai Sisters|Vocal Duet|Listed as a vocal duo with Kamalakiran Vinjumuri, Delhi Sairam, N. Guruprasad on chennaievent.com (22 Nov 2026).
 2026-12-30|18:30|Ticketed|Ramakrishnan Murthy|Vocal|
-2026-12-31|18:30|Ticketed|A.S. Murali|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (Charsur Arts Foundation, My Bungalow, 6.30 pm); not yet on MDnD.
+2026-12-31|18:30|Ticketed|A.S. Murali|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (Charsur Arts Foundation, My Bungalow, 6.30 pm); not yet on MDnD. chennaievent.com (22 Nov 2026) lists him with B.U. Ganesh Prasad, M.S. Varadhan, A.S. Krishnan (instruments not printed).

@@ -76,7 +76,7 @@
   "area": "Mylapore",
   "venue": "45 Musiri Subramaniam Road",
   "festival_2026": "75th Year Art Festival · 17 Dec 2026 – 16 Jan 2027",
-  "note": "Two ticketed concerts a day, 4 pm and 6.30 pm, at the club, on its MDnD page (individual tickets and a season pass; no prices printed). Programme listed so far for 18–27 Dec; a 22 Dec upanyasam and a 23 Dec classical-meets-film programme are not listed here.",
+  "note": "Two ticketed concerts a day, 4 pm and 6.30 pm, at the club, on its MDnD page (individual tickets and a season pass; no prices printed). Programme listed so far for 18–27 Dec on MDnD; 28 Dec – 1 Jan from NatyaNetwork's listing (22 Nov 2026), which prints 4 pm for both of a day's concerts (6.30 pm assumed for the second, as on MDnD). A 22 Dec upanyasam and a 23 Dec classical-meets-film programme are not listed here.",
   "url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293"
  },
  {
@@ -386,7 +386,7 @@
   "area": "Madipakkam",
   "venue": "Sri Sath Sangam (Ramanujar Hall), Madipakkam",
   "festival_2026": "37th Year Annual Music/Dance Festival · from 2 Jan 2027",
-  "note": "Festival opens 2 Jan 2027 (inauguration and award 5.30 pm, inaugural concert by Paramakudi S. Ravindran 6.45 pm); daily tickets Rs 100 at the hall from 15 Dec (chennaievent.com listing). Rest of the programme not yet seen.",
+  "note": "Festival opens 2 Jan 2027 (inauguration and award 5.30 pm, inaugural concert by Paramakudi S. Ravindran 6.45 pm); daily tickets Rs 100 at the hall from 15 Dec (chennaievent.com listing). Evening concerts 3–5 Jan (6.45 pm) also on that listing; rest of the programme not yet seen.",
   "url": "https://chennaievent.com/index_search.php?q=Kamarajar"
  },
  {
@@ -513,8 +513,8 @@
   "name": "SASTRA Satsangh",
   "group": "Festival / arts organisation",
   "status": "Some dates via artists' websites",
-  "area": "",
-  "venue": "",
+  "area": "Vadapalani",
+  "venue": "SASTRA Chennai Campus, AVM Road, Vadapalani",
   "festival_2026": "",
   "note": "Own schedule not yet published; dates found on artists' websites.",
   "url": ""
@@ -698,6 +698,16 @@
   "festival_2026": "A Carnatic Shot (2nd edition) · 21–26 Dec 2026",
   "note": "Six short themed Carnatic sets in the café, 2.30 pm daily, ticketed (artists and times on MDnD). The 2025 edition was curated by Aalaap.",
   "url": "https://www.indian-heritage.org/musicseason/sch.html"
+ },
+ {
+  "name": "World Brahmins Welfare Association",
+  "group": "Other sabha",
+  "status": "Schedule published",
+  "area": "",
+  "venue": "Panigraha",
+  "festival_2026": "WBWA 13th anniversary celebrations · 3 Jan 2027",
+  "note": "Anniversary celebration with an award ceremony and a Carnatic vocal concert by S. J. Jananiy, 5 pm (artist's website).",
+  "url": "https://sjjananiy.com/shows"
  },
  {
   "name": "Psiog",
