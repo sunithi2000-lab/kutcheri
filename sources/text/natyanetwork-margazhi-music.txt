@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi?day=all&type=music
-# fetched 2026-11-20T23:16Z
+# fetched 2026-11-21T19:32Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -51,13 +51,13 @@ Create Your Profile
 Search the December Season
 THE SPIRIT OF DECEMBER
 December Season Schedule 2026
-Every concert from Chennai’s sabhas — 687 concerts from 19 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
+Every concert from Chennai’s sabhas — 718 concerts from 21 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
 Dance
-156
+158
 Music
-480
+507
 Everything
-687
+718
 Sabhas
 Artists
 Add your programme
@@ -125,6 +125,7 @@ Charsur Arts Foundation
 Narada Gana Sabha
 Sri Parthasarathy Swami Sabha
 Anujan Broadcasts and Sri Dayaa Trust
+Swaminathan
 Carnatica
 Kartik Fine Arts
 Kalakshetra
@@ -136,14 +137,15 @@ Gems of Margazhi - From the House of Meenu Subbiah
 Minnaminni (Mélange Fest)
 Tamil Cultural Academy
 Anusham Arts Academy
+Brahma Gana Sabha
 Neighbourhood
 All areas
 Alwarpet (55)
-Chennai (110)
+Chennai (140)
 ECR (6)
 Egmore (10)
 Mandaveli-R.A. Puram (2)
-Mylapore (216)
+Mylapore (217)
 T. Nagar (227)
 Teynampet (40)
 Tharamani (3)
@@ -276,6 +278,7 @@ Dr. Brinda Manickavasagan - Vocal
 Dr. Gayathri Girish
 Dr. Jayanthi Kumaresh
 Dr. Jayanthi Kumaresh - Veena
+Dr. Jayanthi Kumaresh & R. Kumaresh
 Dr. K. Gayatri
 Dr. K.Gayatri
 DR. N.J. Nandini
@@ -300,6 +303,7 @@ Flute J A Jayant
 G Narendra
 G Ravikiran
 G. Narendra
+G. Ravikiran
 Ganapathyam – Tales of Ganesa - Bharatanatyam
 Ganesh Kumaresh
 Gayathri Venkataraghavan
@@ -340,6 +344,7 @@ K. Bharat Sundar
 K. R. Manasvini
 K.Bharat Sundar
 K.S. Vishnudev
+K.S.Vishnudev
 Kalakshetra Foundation
 Kalakshetra Foundation presents ‘Rukmini Kalyanam’
 Kalyanapuram S Aravind
@@ -351,6 +356,7 @@ Kanjira Quartet
 Kanyakumari
 Karthik Raju - USA
 Kasi Ayşola
+Kathadi Ramamurthy
 Kiranmayee Madupu
 Kolkata Padmavathi Saranathan
 Krithika Bharadhwaj
@@ -360,6 +366,7 @@ Kruthi Vittal - Vocal
 Kum. Anaga Ganesh
 Kum. Meera Rajaraman
 Kum. Vidyalakshmi Vidyanath
+Kunnakkudi M Balamuralikrishna
 Kunnakudi Balamurali Krishna
 Kunnakudi Balamuralikrishna
 Kunnakudi M Balamuralikrishna
@@ -424,6 +431,7 @@ Narthaki Nataraj
 Natya Kala Conference
 Neyveli R. Santhanagopalan
 Nirmala Rajasekar
+Nirmala Rajasekhar
 Nirmala Rajashekar
 Nirupama Rajendra
 Nisha Rajagopal
@@ -431,6 +439,7 @@ Nisha Rajagopalan
 Nisha Rajagopalan - Vocal
 Nivrithi Mahesh
 NJ Nandini
+Nritya - Namasankeerthanam a dance ballet in Bhajan Sampradaya
 Nrityagram
 O.S.Arun
 Open House
@@ -443,6 +452,7 @@ Padmashree Srinivasan
 Padmini Krishnamurthy
 Palakkad Dr. R. Ramaprasad - Vocal
 Palghat Dr R Ramprasad
+Palghat R Ramprasad
 Palghat Ramaprasad
 Palghat Ramprasad
 Pandit Jayateerth Mevundi
@@ -482,6 +492,7 @@ R.Sai Vignesh
 Raga & Rhythm
 Rajesh Vaidya Veenai and Flute Jayanth
 Rajhesh Vaidhya
+Rajhesh Vaidhya & U Rajesh
 Rajhesh Vaidya
 Rakshita Ramesh
 Rama Vaidyanathan
@@ -519,6 +530,7 @@ S. Saketharaman - Vocal
 S. Srivathsan
 S.Adithyanarayanan
 S.M. Vilasini - Vocal
+S.Mahathi
 Sai Vignesh & Kavya Muralidharan
 Saikripa Prasanna & Jayanthi Subramaniam
 Saketharaman
@@ -537,6 +549,7 @@ Sangita Kalanidhi Sudha Ragunathan
 Sangita Kalanidhi T.M. Krishna
 Sanjana Chandrasekaran
 Sanjana Harikumar
+Sanjay Subrahmanyan
 Sanji Piranthapan
 Sankari Krishnan
 Savita Sreeram
@@ -568,6 +581,7 @@ Shweta Prachande and Harinie Jeevitha
 Sid Sriram
 Sidharth Prakash
 Sidhdharth Kaushik
+Sikkil C Gurucharan
 Sikkil C. Gurucharan
 Sikkil C. Gurucharan - Vocal
 Sikkil C.Gurucharan
@@ -592,7 +606,9 @@ Srikanth & Aswathy Srikanth
 Sriram V
 Sriranjani Santhanagopalan
 Sriranjani Tapasya Santhanagopalan
+Sruthy Thampuratty
 Stage Creations (Kathadi Ramamurthy)
+Students of Kala Darsana
 Subhashree Thanikachalam
 Subhasree Thanikachalam
 Sudha Raghunathan
@@ -666,6 +682,7 @@ Vivek Sadasivam
 Vrindha Parthasarathy
 Weslyan B Balasubramanian and Tiruvarur Girish
 Winners in Devotional Music Competition
+Y Gee Mahendra
 Y.Gee. Mahendra – United Amateur Artists
 Yuva Kala Vaibhavam
 Time
@@ -681,7 +698,7 @@ Search
 Next up
 Free entry only
 6:00 pm
-in 7 days
+in 6 days
 Saindhavi & Sai Vignesh
 Gems of Margazhi - From the House of Meenu Subbiah · Tharamani
 Sun
@@ -788,9 +805,9 @@ Sat
 Jan 16
 Sun
 Jan 17
-All music 480
-Vocal 260
-Instrumental 72
+All music 507
+Vocal 281
+Instrumental 74
 Harikatha & Namasankeerthanam 31
 Lec-dems & talks 2
 Light & Fusion 8
@@ -798,7 +815,7 @@ Concert (type not listed) 61
 Students' music performance 2
 Devotional music 2
 The whole season
-480 CONCERTS FOUND
+507 CONCERTS FOUND
 Free
 Ticketed
 SUN 15 NOV
@@ -983,6 +1000,14 @@ Kartik Fine Arts
 Narada Gana Sabha, Chennai
 Ticketed
 THU 10 DEC
+6:30 pm
+Music
+G. Ravikiran
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
+THU 10 DEC
 6:45 pm
 Music
 Shashank Subrahmanyam
@@ -1005,6 +1030,14 @@ Charumathi Raghuraman
 INSTRUMENTAL
 Carnatica
 SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM, Thiruvanmiyur
+Ticketed
+FRI 11 DEC
+6:30 pm
+Music
+Sikkil C Gurucharan
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 FRI 11 DEC
 6:45 pm
@@ -1031,6 +1064,14 @@ Carnatica
 SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM Thiruvanmiyur, Chennai
 Ticketed
 CF
+SAT 12 DEC
+6:30 pm
+Music
+Sandeep Narayan
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
 SAT 12 DEC
 6:45 pm
 Music
@@ -1080,7 +1121,6 @@ VIOLIN
 Narada Gana Sabha
 Narada Gana Sabha, TTK Road, Alwarpet
 Ticketed
-IT
 SUN 13 DEC
 4:00 pm
 Music
@@ -1089,7 +1129,6 @@ HARIKATHA & NAMASANKEERTHANAM
 Sri Krishna Gana Sabha
 Dr. Nalli Gana Vihar, T. Nagar
 Ticketed
-MD
 SUN 13 DEC
 4:30 pm
 Music
@@ -1106,6 +1145,14 @@ A. Kanyakumari
 INSTRUMENTAL
 Narada Gana Sabha
 Chennai
+Ticketed
+SUN 13 DEC
+6:30 pm
+Music
+Ranjani & Gayatri
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 SUN 13 DEC
 6:45 pm
@@ -1194,6 +1241,14 @@ Carnatica
 SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM Thiruvanmiyur, Chennai
 Ticketed
 RV
+MON 14 DEC
+6:30 pm
+Music
+Sanjay Subrahmanyan
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
 TUE 15 DEC
 7:00 am
 Music
@@ -1295,6 +1350,14 @@ Bharat Sundar
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+TUE 15 DEC
+6:30 pm
+Music
+Gayathri Venkataraghavan
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 TUE 15 DEC
 6:45 pm
@@ -1448,6 +1511,14 @@ K S Vishnudev
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+WED 16 DEC
+6:30 pm
+Music
+Kunnakkudi M Balamuralikrishna
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 WED 16 DEC
 6:45 pm
@@ -1626,6 +1697,14 @@ Amrutha Venkatesh
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+THU 17 DEC
+6:30 pm
+Music
+K. Bharat Sundar
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 THU 17 DEC
 6:45 pm
@@ -1817,6 +1896,14 @@ Aravind Soundararajan
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+FRI 18 DEC
+6:30 pm
+Music
+Trichur Brothers
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 FRI 18 DEC
 6:45 pm
@@ -2019,6 +2106,14 @@ Akkarai Sisters
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+SAT 19 DEC
+6:30 pm
+Music
+Ramana Balachandhran
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 SAT 19 DEC
 6:45 pm
@@ -2234,6 +2329,14 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 SUN 20 DEC
+6:30 pm
+Music
+Palghat R Ramprasad
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
+SUN 20 DEC
 6:45 pm
 Music
 K.Bharat Sundar
@@ -2432,6 +2535,14 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 MON 21 DEC
+6:30 pm
+Music
+S. Saketharaman
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
+MON 21 DEC
 6:45 pm
 Music
 Sikkil C.Gurucharan
@@ -2610,6 +2721,14 @@ Bangalore Brothers
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+TUE 22 DEC
+6:30 pm
+Music
+N. Vijay Siva
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 TUE 22 DEC
 6:45 pm
@@ -2980,6 +3099,14 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 THU 24 DEC
+6:30 pm
+Music
+K.S.Vishnudev
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
+THU 24 DEC
 6:45 pm
 Music
 Ramana Balachandhran
@@ -3171,6 +3298,14 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 FRI 25 DEC
+6:30 pm
+Music
+Carnatic Veena and Mandolin
+INSTRUMENTAL
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
+FRI 25 DEC
 6:45 pm
 Music
 Sandeep Narayan
@@ -3343,6 +3478,14 @@ Saketharaman
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+SAT 26 DEC
+6:30 pm
+Music
+S.Mahathi
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 SAT 26 DEC
 6:45 pm
@@ -3528,6 +3671,14 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 SUN 27 DEC
+6:30 pm
+Music
+Ramakrishnan Murthy
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
+SUN 27 DEC
 6:45 pm
 Music
 Sangita Kalanidhi Sanjay Subrahmanyan
@@ -3685,6 +3836,14 @@ S. Saketharaman
 VOCAL
 Sri Parthasarathy Swami Sabha
 Vidya Bharathi Kalyana Mandapam, Mylapore
+Ticketed
+MON 28 DEC
+6:30 pm
+Music
+Malladi Brothers
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 MON 28 DEC
 6:45 pm
@@ -3879,6 +4038,14 @@ Prasanna Venkataraman
 VOCAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+TUE 29 DEC
+6:30 pm
+Music
+Akkarai Sisters
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 TUE 29 DEC
 6:45 pm
@@ -4297,6 +4464,14 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 THU 31 DEC
+6:30 pm
+Music
+Abhishek Raghuram
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
+THU 31 DEC
 6:45 pm
 Music
 Kalyanapuram S.Aravind
@@ -4456,6 +4631,14 @@ Indian carnatic vocalist
 Sri Parthasarathy Swami Sabha
 Vidya Bharathi Kalyana Mandapam, Mylapore
 Ticketed
+FRI 1 JAN
+6:30 pm
+Music
+Carnatic Flute by J A Jayanth and Veena by
+INSTRUMENTAL
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
 SAT 2 JAN
 10:30 am
 Music
@@ -4528,6 +4711,13 @@ VOCAL
 Sri Parthasarathy Swami Sabha
 Vidya Bharathi Kalyana Mandapam, Mylapore
 Ticketed
+SAT 2 JAN
+6:30 pm
+Music
+Strings Attached
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
 SUN 3 JAN
 10:30 am
 Music
@@ -4586,6 +4776,14 @@ Sri Parthasarathy Swami Sabha
 Narada Gana Sabha, Chennai
 Ticketed
 SUN 3 JAN
+6:30 pm
+Music
+Sid Sriram
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
+SUN 3 JAN
 7:00 pm
 Music
 Ramana Balachandran
@@ -4632,6 +4830,14 @@ VOCAL
 Chennaiyil Sangeeth Utsav
 RK Convention Centre, ECR
 Ticketed
+SAT 9 JAN
+6:30 pm
+Music
+Sudha Ragunathan
+VOCAL
+Swaminathan
+Vani Mahal, Chennai
+Ticketed
 SUN 10 JAN
 10:30 am
 Music
@@ -4660,6 +4866,13 @@ Sikkil Gurucharan
 VOCAL
 Chennaiyil Sangeeth Utsav
 RK Convention Centre, ECR
+Ticketed
+MON 11 JAN
+6:30 pm
+Music
+Narayana Teertha Krishna Leela Tarangam
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 TUE 12 JAN
 6:30 pm
@@ -4697,6 +4910,13 @@ Music
 Swara Raga Cinema
 Chennaiyil Sangeeth Utsav
 RK Convention Centre, ECR
+Ticketed
+THU 14 JAN
+6:30 pm
+Music
+Stage creations present Pillayar Pidikka
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 FRI 15 JAN
 5:45 pm
@@ -4756,6 +4976,13 @@ Music
 AGRE PASHYAMI
 Mylapore Fine Arts Club (Regd)
 Chennai
+Ticketed
+SAT 16 JAN
+6:30 pm
+Music
+VARADU KUTTY - PARITCHAIKKU NERAMACHU 2
+Swaminathan
+Vani Mahal, Chennai
 Ticketed
 SUN 17 JAN
 10:30 am

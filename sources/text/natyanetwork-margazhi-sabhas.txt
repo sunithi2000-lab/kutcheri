@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi/sabhas
-# fetched 2026-11-20T23:16Z
+# fetched 2026-11-21T19:32Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -61,7 +61,7 @@ T. Nagar
 Teynampet
 Tharamani
 Thiruvanmiyur
-19 venues with schedules
+21 venues with schedules
 Search venues
 TM
 The Music Academy
@@ -86,6 +86,9 @@ Mylapore · 38 programmes
 AB
 Anujan Broadcasts and Sri Dayaa Trust
 Mylapore · 32 programmes
+S
+Swaminathan
+Chennai · 30 programmes
 C
 Carnatica
 Thiruvanmiyur · 27 programmes
@@ -117,6 +120,9 @@ Mandaveli-R.A. Puram · 2 programmes
 AA
 Anusham Arts Academy
 T. Nagar · 1 programmes
+BG
+Brahma Gana Sabha
+Mylapore · 1 programmes
 SCHEDULES NOT OUT YET
 Mudhra
 Festival 1–27 Dec announced; programme not out yet
