@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-21T22:17Z
+# fetched 2026-11-22T19:31Z
 Select Language
 English
 Tamil
@@ -10,15 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Ghatam by Sri Karthick & Troupe | Carnatic Veena by B. Kannan | Carnatic Vocal by Dr Sudha Ragunathan
-Sat, 21st Nov 2026 | 10:30 AM
-Free | Offline
-Carnatic Veena Concert by Veena Venkatramani
-Sat, 21st Nov 2026 | 6:00 PM
-Ticketed | Offline
-Carnatic Vocal Concert by Dr Brindha Manickavasakan
-Sat, 21st Nov 2026 | 6:15 PM
-Free | Offline
 Carnatic Vocal Concert by Nithyasree Mahadevan, Prince Rama Varma, N Vijay Siva
 Sun, 22nd Nov 2026 | 10:30 AM
 Free | Offline
@@ -250,7 +241,7 @@ Ticketed | Offline
 Carnatic Vocal by Akkarai Sisters | Anujan Broadcasts and Sri Dayaa Trust
 Sat, 19th Dec 2026 | 6:30 PM
 Ticketed | Offline
-Carnatic Vocal by Ramana Balachandhran | Sri Thyaga Brahma Gana Sabha
+Carnatic Veena by Ramana Balachander | Sri Thyaga Brahma Gana Sabha
 Sat, 19th Dec 2026 | 6:30 PM
 Ticketed | Offline
 31st Year Celebrations - Mega Isai Vizha - Perumalin Perumai

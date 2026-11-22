@@ -1,5 +1,5 @@
 # https://www.indian-heritage.org/musicseason/sch.html
-# fetched 2026-11-21T22:17Z
+# fetched 2026-11-22T19:31Z
 Music Season
 Schedule
 Awards
@@ -23,9 +23,6 @@ THE DIASPORA DANCE FESTIVAL 4th edition (29 Dec 2026)
 Venue: Medai The Stage, Alwarpet
 Tickets
 Info: aalaap.concepts@gmail.com
-Anandha Margazhi (12 - 26 Dec 2026)
-Info
-Venue: MDnD Performance Centre, Luz Church Road, Mylapore
 Anujan Broadcasts and Sri Dayaa Trust (15-31 Dec 2026)
 Schedule & Tickets
 Venue: Sri Ramanujar Millenium Hall, Mylapore, Chennai
@@ -47,7 +44,7 @@ Ticketed Programmes Advance Booking at bookmyshow.com
 Advance Booking for all Ticketed Shows at the Venue from 10AM, 7th December 2026 onwards. Contact No: 8248871089, 9941907993
 Carnatica in association with Sri Parthasarathy Swami Sabha
 Bharat Sangeet Utsav 2026 (31 Oct - 7 Nov 2026)
-Schedule ; fb
+fb
 Venue: Narada Gana Sabha Main Hall, 314, T.T.K. Road, Alwarpet, Chennai 600018
 Global Heritage Music & Arts Fest 2026 - Music and Arts Fest (11 - 22 Dec 2026)
 Schedule & Tickets
@@ -58,11 +55,13 @@ Charsur Arts Foundation
 December Season Music Festival 2026 - DVAYAM - Sounds of Duality (15 - 31 Dec 2026, 4pm-8.30pm)
 Schedule
 Venue: My Bungalow, 40 Eldams Road, Teynampet, Chennai 600018
-Chennaiyil Sangeeth Utsav Season 5 (9 - 14 Jan 2027, 6.30pm)
+Chennaiyil Sangeeth Utsav Season (9 - 14 Jan 2027, 6.30pm)
 Schedule & Tickets
-Venue: R.K Convention Centre, Neelankarai, Chennai
+Venue: AMRK Banquet Hall (RK Convention Centre), Neelankarai, ECR, Chennai
 Indian Stage - an MDnD Initiative
 Anandha Margazhi (12 - 26 Dec 2026)
+Info
+Venue: MDnD Performance Centre, Luz Church Road, Mylapore
 Kalakshetra
 73rd Annual Art Festival (18 - 27 Dec 2026)
 Schedule
@@ -70,10 +69,8 @@ Tickets
 kalakshetra.in
 Kalavaahini Trust
 Dance for Dance 2026 (18, 19, 20 Dec 2026)
-Presented by Kalavaahini and curated by Malavika Sarukkai, in association with Kartik Fine Arts
-Schedule
+Schedule ; Info
 Venue: Bharatiya Vidya Bhavan, Mylapore, Chennai
-shreyanagarajansingh.com
 Kartik Fine Arts
 52nd year Art Festival
 Tickets
@@ -88,9 +85,8 @@ Venue: Museum Theatre, Pantheon Road, Egmore
 Mudhra
 32nd Fine Arts Festival (1 - 27 Dec 2026)
 Schedule
-Programmes from 2 - 27 Dec will be streamed online through Paalam TV
+Programmes from 2 - 27 Dec will be streamed online through Paalam TV ; YouTube
 Venue: Inauguration and Award Function on Dec 1 at Obul Reddy Hall (Vani Mahal - Mini Hall), GN Road, T.Nagar, Chennai 17
-Info: livechennai.com
 Mylapore Arts Academy
 29th Music Festival (23 - 29th Oct 2026) (CONCLUDED)
 Schedule
@@ -101,11 +97,11 @@ Schedule & Tickets
 Psiog
 Srothovaham Music Festival 2026 (5 - 13 Dec 2026)
 Edition 3: Rooted. Rising. Resonance: Celebrating Legacy and its Continuum
-Info
+Schedule ; Info
 Venue: Srinivasa Sastri Hall, Luz Church Road, Mylapore, Chennai
 RASOHAM
 Kutty Kutchery Festival 2026 (12 - 21 Dec 2026)
-Schedule
+Schedule ; Info
 SciArtsRUs
 7th edition of Margazhi Matram 2026
 Theme: SYNESTHESIA
@@ -194,6 +190,7 @@ Schedule
 Related sites
 MDnD Entertainment Private Limited - Book your Season tickets
 mdnd.in/seasontickets
+chennaidecemberseason.com
 karnatikbuzz.com
 kalaverse.com (Bengaluru events)
 ===== PDF: https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf =====
