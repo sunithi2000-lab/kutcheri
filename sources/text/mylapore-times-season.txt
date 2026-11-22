@@ -1,5 +1,5 @@
 # https://season.mylaporetimes.com/
-# fetched 2026-11-22T19:31Z
+# fetched 2026-11-22T22:42Z
 Reels
 View All
 Video Player
@@ -17,17 +17,17 @@ November 23, 2026
 DANCE
 Urmila Sathyanarayanan: New Convenor Of Natya Kala Conference
 December 31, 2025
-MUSIC
-Carnatic Music Quiz On Nov.29; Hosted By Jayanthi Kumaresh
-November 23, 2026
+SIDELIGHTS
+Dancer Invites Hawkers Too
+November 21, 2026
 The Buzz
 View All
-Music
+Sidelights
 Carnatic Music Quiz On Nov.29; Hosted By Jayanthi Kumaresh
 November 23, 2026
 Music
-Music Academy Concerts From Dec.15
-November 21, 2026
+Carnatic Music Quiz On Nov.29; Hosted By Jayanthi Kumaresh
+November 23, 2026
 Music
 View All
 Carnatic Music Quiz On Nov.29; Hosted By Jayanthi Kumaresh
@@ -61,7 +61,6 @@ View All
 Home
 News
 Music
-Videos
 Dance
 Sidelights
 Reels
