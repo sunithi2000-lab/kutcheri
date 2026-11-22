@@ -601,14 +601,14 @@
     "role": "accompanist"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Free",
   "organisation": "Hamsadhwani",
   "festival": "Margazhi Maha Utsavam",
-  "venue": "Indira Nagar Youth Hostel, Adyar",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
   "area": "Adyar",
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
   "source_label": "Artist's poster",
-  "note": "Listed as \"Margazhi Maha Utsavam\" (Hamsadhwani's season festival); venue as printed for the festival's other concerts (Sandeep Narayan's site, K.S. Vishnudev's poster). From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Entry not stated.",
+  "note": "Listed as \"Margazhi Maha Utsavam\" (Hamsadhwani's season festival); venue as printed for the festival's other concerts (Sandeep Narayan's site, K.S. Vishnudev's poster). From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Details updated 23 Nov 2026 from the artist's website (ramanabalachandhran.com/events/margazhi-2026): Youth Hostel Auditorium, Indira Nagar, Adyar, 4.45 pm, \"Free entry\".",
   "fetched": "2026-10-12"
  },
  {
@@ -1479,6 +1479,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-10-1830-gravikiran",
+  "date": "2026-12-10",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "G. Ravikiran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "G. Ravikiran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://natyanetwork.com/margazhi",
+  "source_label": "NatyaNetwork listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bvb-2026-12-10-1845",
   "date": "2026-12-10",
   "start": "18:45",
@@ -1642,6 +1668,32 @@
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
   "source_label": "Artist's poster (Facebook)",
   "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-11-1830-sikkilguru",
+  "date": "2026-12-11",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sikkil Gurucharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sikkil Gurucharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://natyanetwork.com/margazhi",
+  "source_label": "NatyaNetwork listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
   "fetched": "2026-10-12"
  },
  {
@@ -1831,14 +1883,14 @@
     "role": "accompanist"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Ticketed",
   "organisation": "Sri Thyaga Brahma Gana Sabha",
   "festival": "—",
   "venue": "Vani Mahal Main Hall, T. Nagar",
   "area": "T. Nagar",
   "source_url": "https://sandeepnarayan.in/concerts",
   "source_label": "Artist's website",
-  "note": "Listed under \"Thyaga Brahma Gana Sabha\" on the artist's site; tickets \"TBA\".",
+  "note": "Listed under \"Thyaga Brahma Gana Sabha\" on the artist's site; tickets \"TBA\". Also on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026): Swaminathan Vani Mahal, 6.30 pm, ticketed (no organiser printed there).",
   "fetched": "2026-10-12"
  },
  {
@@ -2079,14 +2131,14 @@
     "role": "accompanist"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Ticketed",
   "organisation": "Organiser not stated",
   "festival": "—",
   "venue": "Vani Mahal, 103 G.N. Road, T. Nagar",
   "area": "T. Nagar",
   "source_url": "https://www.ranjanigayatri.com/concerts",
   "source_label": "Artist's website",
-  "note": "Listed on the artists' site as \"Vani Mahal, T Nagar, Chennai\", Sun, Dec 13th 2026, 6 pm, with co-artists Vittal Rangan, N. Manoj Siva and Vazhapally Krishnakumar (instruments: their usual violin, mridangam, ghatam). Organiser not named (the venue's own sabha is not assumed); no ticket link.",
+  "note": "Listed on the artists' site as \"Vani Mahal, T Nagar, Chennai\", Sun, Dec 13th 2026, 6 pm, with co-artists Vittal Rangan, N. Manoj Siva and Vazhapally Krishnakumar (instruments: their usual violin, mridangam, ghatam). Organiser not named (the venue's own sabha is not assumed); no ticket link. Also on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026): Swaminathan Vani Mahal, ticketed, at 6.30 pm (artists' site: 6 pm, kept) – check the time.",
   "fetched": "2026-10-12"
  },
  {
@@ -2400,14 +2452,14 @@
     "role": "main"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Ticketed",
   "organisation": "Organiser not stated",
   "festival": "—",
   "venue": "Vani Mahal, G.N. Road",
   "area": "T. Nagar",
   "source_url": "https://sanjaysub.com/",
   "source_label": "Artist's website",
-  "note": "Artist's site marks details as awaited.",
+  "note": "Artist's site marks details as awaited. Also on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026): Swaminathan Vani Mahal, 6.30 pm, ticketed (no organiser printed).",
   "fetched": "2026-10-12"
  },
  {
@@ -2745,6 +2797,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-15-1830-gayathrive",
+  "date": "2026-12-15",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Gayathri Venkataraghavan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Gayathri Venkataraghavan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://natyanetwork.com/margazhi",
+  "source_label": "NatyaNetwork listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", Tue 15 Dec, 6.30 pm, ticketed, vocal (no organiser printed there). Organiser from the artist's website (gayathrivenkataraghavan.com/schedule): \"Sri Thyaga Gana Brahma Sabha, Vani Mahal\", 15 Dec 2026 (no time printed). Accompanists not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "cg-2026-12-15-1845",
@@ -3268,6 +3346,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-16-1830-kunnakudim",
+  "date": "2026-12-16",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Kunnakudi M. Balamuralikrishna",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kunnakudi M. Balamuralikrishna",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://natyanetwork.com/margazhi",
+  "source_label": "NatyaNetwork listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "cg-2026-12-16-1845",
   "date": "2026-12-16",
   "start": "18:45",
@@ -3782,6 +3886,32 @@
   "source_label": "MDnD listing",
   "note": "Listed on MDnD as \"Nisha Rajagopal\".",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-17-1830-kbharatsun",
+  "date": "2026-12-17",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K. Bharat Sundar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K. Bharat Sundar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://natyanetwork.com/margazhi",
+  "source_label": "NatyaNetwork listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "spss-2026-12-17-1830",
@@ -4497,6 +4627,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-18-1830-trichurbro",
+  "date": "2026-12-18",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Trichur Brothers",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Trichur Brothers",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://natyanetwork.com/margazhi",
+  "source_label": "NatyaNetwork listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "spss-2026-12-18-1830",
   "date": "2026-12-18",
   "start": "18:30",
@@ -5167,14 +5323,14 @@
     "role": "accompanist"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Ticketed",
   "organisation": "Organiser not stated",
   "festival": "—",
   "venue": "Vani Mahal, G.N. Road",
   "area": "T. Nagar",
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
   "source_label": "Artist's poster",
-  "note": "Listed only as \"Vani Mahal\"; organiser not named (the venue's own sabha is not assumed). From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Entry not stated.",
+  "note": "Listed only as \"Vani Mahal\"; organiser not named (the venue's own sabha is not assumed). From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Details updated 23 Nov 2026 from the artist's website (ramanabalachandhran.com/events/margazhi-2026): \"Tickets on vanimahal.com and mdnd.in\"; also on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) (6.30 pm, ticketed, no organiser printed).",
   "fetched": "2026-10-12"
  },
  {
@@ -5860,32 +6016,6 @@
   "fetched": "2026-11-20"
  },
  {
-  "id": "as-2026-12-20-1830-shashanksu",
-  "date": "2026-12-20",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Shashank Subramanyam",
-  "main_instrument": "Flute",
-  "concert_type": "Instrumental",
-  "performers": [
-   {
-    "name": "Shashank Subramanyam",
-    "instrument": "Flute",
-    "role": "main"
-   }
-  ],
-  "entry": "Not stated",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Sri Ganapathy Sachchidananda Ashram",
-  "area": "Velachery",
-  "source_url": "https://www.shashank.org/tours",
-  "source_label": "Artist's website",
-  "note": "Listed as a flute solo; no end time.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "as-2026-12-20-1830-charumathi",
   "date": "2026-12-20",
   "start": "18:30",
@@ -5919,6 +6049,58 @@
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/charumathi-raghuraman-2026-27.png",
   "source_label": "Artist's poster",
   "note": "Listed as \"Arkay Convention Centre\"; organiser not named (probably the ACC December Season, 7 Dec – 13 Jan, run by Madhuradhwani – not assumed). From the artist's season poster \"Margazhi Concert Schedule 2026-27 – Charumathi Raghuraman\" (Instagram, sent in by the site owner 19 Nov 2026; copy kept with the site's sources; tickets info at charuraghu.com). Details updated 20 Nov 2026 from charuraghu.com/events: \"Free Admission\"; organiser still not named.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-20-1830-shashanksu",
+  "date": "2026-12-20",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shashank Subramanyam",
+  "main_instrument": "Flute",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Shashank Subramanyam",
+    "instrument": "Flute",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Sri Ganapathy Sachchidananda Ashram",
+  "area": "Velachery",
+  "source_url": "https://www.shashank.org/tours",
+  "source_label": "Artist's website",
+  "note": "Listed as a flute solo; no end time.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-20-1830-palghatrra",
+  "date": "2026-12-20",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Palghat R. Ramprasad",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Palghat R. Ramprasad",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://natyanetwork.com/margazhi",
+  "source_label": "NatyaNetwork listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
   "fetched": "2026-10-12"
  },
  {
@@ -6540,6 +6722,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-21-1830-ssakethara",
+  "date": "2026-12-21",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Saketharaman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Saketharaman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://natyanetwork.com/margazhi",
+  "source_label": "NatyaNetwork listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-21-1830-ramanabala",
@@ -7185,6 +7393,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-22-1830-nvijaysiva",
+  "date": "2026-12-22",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "N. Vijay Siva",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "N. Vijay Siva",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://natyanetwork.com/margazhi",
+  "source_label": "NatyaNetwork listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "spss-2026-12-22-1830",
@@ -7925,14 +8159,14 @@
     "role": "accompanist"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Ticketed",
   "organisation": "The Indian Fine Arts Society",
   "festival": "—",
-  "venue": "Ethiraja Kalyana Mandapam, TTK Road",
+  "venue": "Ethiraja Kalyana Nilayam, Alwarpet",
   "area": "Alwarpet / TTK Road",
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
   "source_label": "Artist's poster",
-  "note": "Listed as \"Indian Fine Arts Society\"; venue as printed for the society's 18 Dec concert on Sandeep Narayan's site. From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Entry not stated.",
+  "note": "Listed as \"Indian Fine Arts Society\"; venue as printed for the society's 18 Dec concert on Sandeep Narayan's site. From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Details updated 23 Nov 2026 from the artist's website (ramanabalachandhran.com/events/margazhi-2026): Ethiraja Kalyana Nilayam, Alwarpet, 7 pm, \"Tickets on mdnd.in\".",
   "fetched": "2026-10-12"
  },
  {
@@ -8592,14 +8826,14 @@
     "role": "main"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Ticketed",
   "organisation": "Sri Thyaga Brahma Gana Sabha",
   "festival": "—",
   "venue": "Vani Mahal, T. Nagar",
   "area": "T. Nagar",
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
   "source_label": "Artist's poster (Facebook)",
-  "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed. Details updated 23 Nov 2026 from NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026): Swaminathan Vani Mahal, 6.30 pm, ticketed.",
   "fetched": "2026-10-12"
  },
  {
@@ -10165,6 +10399,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-26-1830-smahathi",
+  "date": "2026-12-26",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Mahathi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Mahathi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://natyanetwork.com/margazhi",
+  "source_label": "NatyaNetwork listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "spss-2026-12-26-1830",
   "date": "2026-12-26",
   "start": "18:30",
@@ -10906,6 +11166,32 @@
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
   "note": "Listed on MDnD as \"Carnatic Vocal Concert by Unnikrishnan & Uthara Unnikrishnan\" (6.30 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-27-1830-ramakrishn",
+  "date": "2026-12-27",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramakrishnan Murthy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ramakrishnan Murthy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://natyanetwork.com/margazhi",
+  "source_label": "NatyaNetwork listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
   "fetched": "2026-10-12"
  },
  {
