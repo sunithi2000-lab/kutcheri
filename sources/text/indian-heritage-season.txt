@@ -1,5 +1,5 @@
 # https://www.indian-heritage.org/musicseason/sch.html
-# fetched 2026-11-22T22:42Z
+# fetched 2026-11-23T19:31Z
 Music Season
 Schedule
 Awards
@@ -118,7 +118,7 @@ Schedule ; fb
 krishnaganasabha.org
 Sri Parthasarathy Swami Sabha
 126th Year Isai Vizha December Music Festival (17 Dec 2026 - 2 Jan 2027)
-Schedule & Tickets
+Schedule ; Tickets
 Tamil Cultural Academy
 31st year Chennaiyil Mega Isai Vizha (18 - 20 Dec 2026)
 Schedule ; Tickets

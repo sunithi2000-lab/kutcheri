@@ -1,5 +1,5 @@
 # https://in.bookmyshow.com/explore/music-shows-chennai
-# fetched 2026-11-03T18:15Z
+# fetched 2026-11-23T19:31Z
 Skip to main content
 Pick A Region
 Detect my location
@@ -136,7 +136,6 @@ Azamgarh
 B. Kothakota
 Babra
 Badami
-Badaun
 Baddi
 Badhra
 Badnagar
@@ -394,11 +393,11 @@ Chevella
 Cheyyar
 Cheyyur
 Chhabra
-Chhatarpur
+Chhatarpur (JH)
+Chhatarpur (MP)
 Chhatrapati Sambhajinagar (Aurangabad)
 Chhibramau
 Chhindwara
-Chickmagaluru
 Chidambaram
 Chikhli
 Chikkaballapur
@@ -447,6 +446,7 @@ Dalsinghsarai
 Daltonganj
 Daman
 Damarcherla
+Dambuk
 Dammapeta
 Damoh
 Danapur
@@ -472,10 +472,10 @@ Dehri
 Deogadh
 Deoghar
 Deoli
-Deoli (Rajasthan)
 Deoli(Rajasthan)
 Deoria
 Deralakatte
+Dergaon
 Devadurga
 Devakottai
 Devarakadra
@@ -493,7 +493,6 @@ Dhanera
 Dhar
 Dharamjaigarh
 Dharampur
-Dharamsala
 Dharamshala
 Dharapuram
 Dharashiv (Osmanabad)
@@ -522,7 +521,6 @@ Dhuri
 Diamond Harbour
 Dibrugarh
 Digras
-Dildar Nagar
 Dildarnagar
 Dima Hasao
 Dimapur
@@ -550,6 +548,7 @@ Dungarpur
 Durg
 Durgapur
 Dwarka
+East Garo Hills
 East Godavari
 Edappal
 Edlapadu
@@ -753,7 +752,6 @@ Jafrabad
 Jagalur
 Jagatdal
 Jagatsinghpur
-Jagatsingpur
 Jagdalpur
 Jaggampeta
 Jaggayyapeta
@@ -820,9 +818,9 @@ Jorhat
 Joynagar Majilpur
 Junagadh
 Junagarh
-K.D Peta
 Kadakkal
 Kadalundi
+Kadampazhipuram
 Kadapa
 Kadayam
 Kadi
@@ -886,7 +884,6 @@ Kanniyakumari
 Kannur
 Kanpur
 Kantabanji
-Kanyakumari
 Kapadvanj
 Kapurthala
 Karad
@@ -990,7 +987,6 @@ Kodaikanal
 Kodakara
 Kodaly
 Koderma
-Kodumur
 Kodumuru
 Kodungallur
 Kohima
@@ -1263,6 +1259,7 @@ Mulkanoor
 Mullaitivu
 Mullanpur
 Mulleria
+Multai
 Mulugu
 Mulugu Ghanpur
 Mummidivaram
@@ -1273,6 +1270,7 @@ Munger
 Mungra Badshahpur
 Muniguda
 Muradnagar
+Murgud
 Murshidabad
 Murtizapur
 Musiri
@@ -1283,7 +1281,6 @@ Muzaffarpur
 Mydukur
 Mylavaram
 Mysuru (Mysore)
-NIRA
 Nabadwip
 Nabarangpur
 Nabha
@@ -1333,7 +1330,6 @@ Narasaraopeta
 Narayangaon
 Narayankhed
 Narayanpet
-Narayanpur
 Narayanpur (Assam)
 Narayanpur (CH)
 Nargund
@@ -1367,7 +1363,6 @@ Nellimarla
 Nellimoodu
 Nellore
 Nemmara
-Nenmara
 Nepalgunj
 Ner Parsopant
 Neral
@@ -1588,6 +1583,7 @@ Radhamoni
 Raebareli
 Raghopur
 Raghunathganj
+Raghunathpur
 Rahata
 Rahimatpur
 Rahuri
@@ -1690,6 +1686,7 @@ Saharsa
 Sahibganj
 Sahjanwa
 Sakleshpur
+Sakoli
 Sakti
 Salem
 Saligrama
@@ -1769,6 +1766,7 @@ Shankarampet
 Shankarpally
 Shankarpur
 Shegaon
+Sheikhpura
 Shela
 Sheopur
 Sheoraphuli
@@ -1826,6 +1824,7 @@ Sivaganga
 Sivakasi
 Sivasagar
 Siwan
+Sodepur
 Solan
 Solapur
 Solasiramani
@@ -1842,6 +1841,7 @@ Sri Ganganagar
 Sri Sathya Sai
 Srikakulam
 Srinagar
+Sriramnagar
 Srirangapatna
 Srivaikuntam
 Srivilliputhur
@@ -1849,7 +1849,6 @@ Station Ghanpur
 Sugauli
 Sujangarh
 Sukma
-Sulia
 Sullia
 Sultanabad
 Sultanpur
@@ -1868,11 +1867,11 @@ Suri
 Suriya
 Suryapet
 T.Narasapuram
-TIHU
 Tadepalligudem
 Tadikalapudi
 Tadipatri
 Tajpur
+Talala
 Talcher
 Taliparamba
 Tallapudi
@@ -1887,7 +1886,6 @@ Tanuku
 Tarakeswar
 Tarapur
 Tarikere
-Tarkeshwar
 Tasgaon
 Tatipaka
 Tawang
@@ -1941,7 +1939,6 @@ Tirunelveli
 Tirupati
 Tirupattur
 Tiruppur
-Tirupur
 Tirur
 Tiruvallur
 Tiruvannamalai
@@ -1956,7 +1953,6 @@ Tonk
 Toopran
 Trichy
 Trincomalee
-Trivandrum
 Tumakuru (Tumkur)
 Tumsar
 Tuni
@@ -1969,7 +1965,6 @@ Udaynarayanpur
 Udgir
 Udhampur
 Udumalaipettai
-Udumalpet
 Udupi
 Ujhani
 Ujjain

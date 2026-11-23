@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-22T22:42Z
+# fetched 2026-11-23T19:31Z
 Select Language
 English
 Tamil
@@ -10,12 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Vocal Concert by Nithyasree Mahadevan, Prince Rama Varma, N Vijay Siva
-Sun, 22nd Nov 2026 | 10:30 AM
-Free | Offline
-Carnatic Vocal Concert by Aishwarya Shankar
-Sun, 22nd Nov 2026 | 6:15 PM
-Free | Offline
 Carnatic Vocal Concert by Vignesh Krishnamurthy
 Mon, 23rd Nov 2026 | 6:15 PM
 Free | Offline
@@ -31,8 +25,14 @@ Free | Offline
 Nadaswaram Concert by Mylai Karthikeyan
 Wed, 25th Nov 2026 | 6:15 PM
 Free | Offline
+Carnatic Vocal Concert by Sai Vignesh, Gayathri Venkatraghavan
+Thu, 26th Nov 2026 | 4:30 PM
+Free | Offline
 Carnatic Vocal Concert by Dr Gayathri Girish
 Thu, 26th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Jayashree Jayaramakrishnan, Ashwath Narayanan, Sri Ramakrishnan Murthy
+Fri, 27th Nov 2026 | 10:30 AM
 Free | Offline
 Carnatic Mandolin Concert by Vishwas Hari
 Fri, 27th Nov 2026 | 6:15 PM
@@ -48,6 +48,9 @@ Sun, 29th Nov 2026 | 6:15 PM
 Free | Offline
 Carnatic Vocal Concert by Shreyas Gowrishankar
 Mon, 30th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal Concert by Amritha Murali
+Tue, 1st Dec 2026 | 6:45 PM
 Free | Offline
 4.30 PM Carnatic Vocal by R. Ashwath Narayanan | 6.45 PM Carnatic Vocal by N Vijay Siva | Kartik Fine Arts
 Wed, 2nd Dec 2026 | 4:30 PM
@@ -73,6 +76,9 @@ Ticketed | Offline
 4.30 PM Carnatic Vocal by Dr.K. Gayatri | 6.45 PM Carnatic Vocal by Kunnakudi M. Balamuralikrishna | Kartik Fine Arts
 Wed, 9th Dec 2026 | 4:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Amritha Murali
+Wed, 9th Dec 2026 | 6:30 PM
+Free | Offline
 4.30 PM Carnatic Vocal by Vignesh Ishwar | 6.45 PM Carnatic Flute by Shashank Subrahmanyam | Kartik Fine Arts
 Thu, 10th Dec 2026 | 4:30 PM
 Ticketed | Offline
@@ -87,6 +93,9 @@ Fri, 11th Dec 2026 | 4:30 PM
 Ticketed | Offline
 Carnatic Vocal by Sikkil C Gurucharan | Sri Thyaga Brahma Gana Sabha
 Fri, 11th Dec 2026 | 6:30 PM
+Ticketed | Offline
+Carnatic Vocal Concert by Amritha Murali
+Fri, 11th Dec 2026 | 7:00 PM
 Ticketed | Offline
 4.30 PM Carnatic Vocal by Dr.N.J. Nandini | 6.45 PM Carnatic Vocal by Dr. Sudha Ragunathan | Kartik Fine Arts
 Sat, 12th Dec 2026 | 4:30 PM
@@ -190,6 +199,9 @@ Ticketed | Offline
 Carnatic Vocal by K. Bharat Sundar | Sri Thyaga Brahma Gana Sabha
 Thu, 17th Dec 2026 | 6:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Amritha Murali
+Thu, 17th Dec 2026 | 6:45 PM
+Ticketed | Offline
 3.30 PM Carnatic Vocal by S Mahathi | 6.30 PM Carnatic Vocal by S Sowmya | Narada Gana Sabha
 Fri, 18th Dec 2026 | 3:30 PM
 Ticketed | Offline
@@ -209,6 +221,9 @@ Dr. B. VIJAYAGOPAL - Flute | 4 :00 PM | GAYATHRI VENKATARAGHAVAN - Vocal | 6:30 
 Fri, 18th Dec 2026 | 4:00 PM
 Ticketed | Offline
 4.30 PM Carnatic Vocal Concert by S. Saketharaman | 6.45 PM Concert by Anil Srinivasan & Sikkil C. Gurucharan with Madhan Karky| CARNATICA AND SRI PARTHASARATHY SWAMI SABHA
+Fri, 18th Dec 2026 | 4:30 PM
+Ticketed | Offline
+4.30pm Jayashree Vaidyanathan - Vocal | 7.00pm Sandeep Narayan - Vocal | The Indian Fine Arts Society
 Fri, 18th Dec 2026 | 4:30 PM
 Ticketed | Offline
 Carnatic Vocal by Aravind Soundararajan | Anujan Broadcasts and Sri Dayaa Trust
@@ -235,6 +250,9 @@ Ticketed | Offline
 Mambalam Sisters - Vocal | 4 :00 PM | Sikkil C. GURUCHARAN - Vocal | 6:30 PM | Mylapore Fine Arts Club
 Sat, 19th Dec 2026 | 4:00 PM
 Ticketed | Offline
+4.30pm SM Vilasini - Vocal | 7.00pm Ramakrishnan Murthy - Vocal | The Indian Fine Arts Society
+Sat, 19th Dec 2026 | 4:30 PM
+Ticketed | Offline
 Unnikrishnan & Uthara | Carnatic Vocal Concert | Bharat Kalchar
 Sat, 19th Dec 2026 | 6:30 PM
 Ticketed | Offline
@@ -250,6 +268,9 @@ Ticketed | Offline
 R K Shriramkumar - Lec Dem | Charsur Arts Foundation
 Sun, 20th Dec 2026 | 10:00 AM
 Ticketed | Offline
+Carnatic Vocal Concert by Anahita & Apoorva
+Sun, 20th Dec 2026 | 10:00 AM
+Free | Offline
 Carnatic Vocal Concert by Ritvik Vaddi Rao
 Sun, 20th Dec 2026 | 10:30 AM
 Free | Offline
@@ -276,6 +297,9 @@ Sun, 20th Dec 2026 | 4:00 PM
 Ticketed | Offline
 RAMNATH VENKAT BAGAVATH - Vocal | 4 :00 PM | Dr. JAYANTHI KUMARESH - Veena | 6:30 PM | Mylapore Fine Arts Club
 Sun, 20th Dec 2026 | 4:00 PM
+Ticketed | Offline
+4.30pm V Venkatanagarajan - Vocal | 7.00pm Sivasri Tejasvi Surya - Namasankeerthanam | The Indian Fine Arts Society
+Sun, 20th Dec 2026 | 4:30 PM
 Ticketed | Offline
 Carnatic Vocal | Sandeep Narayan | Kalakshetra Foundation
 Sun, 20th Dec 2026 | 6:00 PM
@@ -319,6 +343,9 @@ Ticketed | Offline
 Carnatic Vocal by S. Saketharaman | Sri Thyaga Brahma Gana Sabha
 Mon, 21st Dec 2026 | 6:30 PM
 Ticketed | Offline
+LecDem by Amritha Murali
+Mon, 21st Dec 2026 | 8:05 AM
+Free | Offline
 A Carnatic Shot - Soundscapes by Sayee Rakshith and Chandrasekara Sharma
 Tue, 22nd Dec 2026 | 2:30 PM
 Ticketed | Offline
@@ -338,6 +365,9 @@ CARNATICA BROTHERS - Vocal | 4 :00 PM | Smt. VISAKA HARI - Upanyasam | 6:30 PM |
 Tue, 22nd Dec 2026 | 4:00 PM
 Ticketed | Offline
 4.30 PM Carnatic Vocal Concert by Papanasam Ashok Ramani | 6.45 PM Carnatic Vocal Concert by K. Bharat Sundar | CARNATICA AND SRI PARTHASARATHY SWAMI SABHA
+Tue, 22nd Dec 2026 | 4:30 PM
+Ticketed | Offline
+4.30pm Palakkad R Sriram - Vocal | 7.00pm Prince Rama Varma - Vocal | The Indian Fine Arts Society
 Tue, 22nd Dec 2026 | 4:30 PM
 Ticketed | Offline
 Carnatic Vocal by Palghat Ramprasad | Narada Gana Sabha
@@ -373,6 +403,9 @@ Ticketed | Offline
 Carnatic Vocal Concert by Vishaka Hari
 Wed, 23rd Dec 2026 | 4:30 PM
 Free | Offline
+4.30pm Sangeetha Swaminathan - Vocal | 7.00pm Ramana Balachandhran -Veena | The Indian Fine Arts Society
+Wed, 23rd Dec 2026 | 4:30 PM
+Ticketed | Offline
 Carnatic Vocal by R Lakshmipriya | Anujan Broadcasts and Sri Dayaa Trust
 Wed, 23rd Dec 2026 | 6:00 PM
 Ticketed | Offline
@@ -405,6 +438,9 @@ Thu, 24th Dec 2026 | 4:00 PM
 Ticketed | Offline
 VIGNESH ISHWAR - Vocal | 4 :00 PM | NISHA RAJAGOPALAN - Vocal | 6:30 PM | Mylapore Fine Arts Club
 Thu, 24th Dec 2026 | 4:00 PM
+Ticketed | Offline
+4.30pm Dr. A Sabari - Vocal | 7.00pm Trichur Brothers - Vocal | The Indian Fine Arts Society
+Thu, 24th Dec 2026 | 4:30 PM
 Ticketed | Offline
 Carnatic Vocal by Ramakrishnan Murthy | Narada Gana Sabha
 Thu, 24th Dec 2026 | 6:30 PM
@@ -444,6 +480,9 @@ Fri, 25th Dec 2026 | 4:00 PM
 Ticketed | Offline
 S.M. VILASINI - Vocal | 4 :00 PM | BHARAT SUNDAR - Vocal | 6:30 PM | Mylapore Fine Arts Club
 Fri, 25th Dec 2026 | 4:00 PM
+Ticketed | Offline
+4.30pm Shenkottai Harihara Subramaniam - Vocal | 7.00pm Soorya Gayathri - Vocal | The Indian Fine Arts Society
+Fri, 25th Dec 2026 | 4:30 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Bhargav Hariharan & Krupalakshmi
 Fri, 25th Dec 2026 | 5:00 PM
@@ -486,6 +525,9 @@ Sat, 26th Dec 2026 | 4:00 PM
 Ticketed | Offline
 RITHVIK RAJA - Vocal | 4 :00 PM | Dr. PANTULA RAMA - Vocal | 6:30 PM | Mylapore Fine Arts Club
 Sat, 26th Dec 2026 | 4:00 PM
+Ticketed | Offline
+4.30pm Vasudha Ravi - Vocal | 7.00pm Sid Sriram - Vocal | The Indian Fine Arts Society
+Sat, 26th Dec 2026 | 4:30 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Dharini Kalyanaraman
 Sat, 26th Dec 2026 | 5:00 PM
@@ -532,6 +574,9 @@ Ticketed | Offline
 Malladi Brothers | Carnatic Vocal | Bharat Kalachar
 Sun, 27th Dec 2026 | 4:30 PM
 Ticketed | Offline
+4.30pm Gayathri Girish - Vocal | 7pm K Gayathri - Vocal | The Indian Fine Arts Society
+Sun, 27th Dec 2026 | 4:30 PM
+Ticketed | Offline
 Carnatic Vocal Concert by Rithuu Rajendran
 Sun, 27th Dec 2026 | 5:00 PM
 Free | Offline
@@ -541,6 +586,9 @@ Ticketed | Offline
 Carnatic Vocal by Sandeep Narayan | Narada Gana Sabha
 Sun, 27th Dec 2026 | 6:00 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Unnikrishnan & Uthara Unnikrishnan
+Sun, 27th Dec 2026 | 6:30 PM
+Free | Offline
 Carnatic Vocal by Vivek Sadasivam | Anujan Broadcasts and Sri Dayaa Trust
 Sun, 27th Dec 2026 | 6:30 PM
 Ticketed | Offline
@@ -564,6 +612,9 @@ Mon, 28th Dec 2026 | 4:00 PM
 Ticketed | Offline
 R. SURYAPRAKASH - Vocal | 4 :00 PM | AMRITHA MURALI - Vocal | 6:30 PM | Mylapore Fine Arts Club
 Mon, 28th Dec 2026 | 4:00 PM
+Ticketed | Offline
+4.30pm Dr.M Narmadha - Violin | 7.00pm Sikkil Gurucharan - Vocal | The Indian Fine Arts Society
+Mon, 28th Dec 2026 | 4:30 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Suriya & Sathya
 Mon, 28th Dec 2026 | 5:00 PM
@@ -600,6 +651,9 @@ Tue, 29th Dec 2026 | 4:00 PM
 Ticketed | Offline
 Chinmaya Sisters - Vocal | 4 :00 PM | S. SAKETHARAMAN - Vocal | 6:30 PM | Mylapore Fine Arts Club
 Tue, 29th Dec 2026 | 4:00 PM
+Ticketed | Offline
+4.30pm Dr. Subha Ganesan - Vocal | 7.00pm Abhishek Raghuram - Vocal | The Indian Fine Arts Society
+Tue, 29th Dec 2026 | 4:30 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Shruthi shankar kumar
 Tue, 29th Dec 2026 | 5:00 PM
@@ -646,6 +700,9 @@ Ticketed | Offline
 Carnatic Mandolin Concert by Saigovind Vijayaraghavan
 Wed, 30th Dec 2026 | 5:00 PM
 Free | Offline
+Carnatic Vocal Concert by Amritha Murali
+Wed, 30th Dec 2026 | 6:15 PM
+Free | Offline
 Trichur Brothers | Carnatic Vocal | Live4You
 Wed, 30th Dec 2026 | 6:30 PM
 Ticketed | Offline
@@ -674,6 +731,9 @@ Carnatic Vocal by Abhirama Bode | Anujan Broadcasts and Sri Dayaa Trust
 Thu, 31st Dec 2026 | 4:00 PM
 Ticketed | Offline
 KRUTHI VITTAL - Vocal | 4 :00 PM | Papanasam ASHOK RAMANI - Vocal | 6:30 PM | Mylapore Fine Arts Club
+Thu, 31st Dec 2026 | 4:00 PM
+Ticketed | Offline
+Carnatic Violin Concert by Akkarai Sisters
 Thu, 31st Dec 2026 | 4:00 PM
 Ticketed | Offline
 Kunnakudi M.Balamurali Krishna | Carnatic Vocal | Bharat Kalachar

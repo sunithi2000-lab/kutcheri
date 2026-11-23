@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi/sabhas
-# fetched 2026-11-22T22:42Z
+# fetched 2026-11-23T19:31Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -61,7 +61,7 @@ T. Nagar
 Teynampet
 Tharamani
 Thiruvanmiyur
-21 venues with schedules
+22 venues with schedules
 Search venues
 TM
 The Music Academy
@@ -80,18 +80,21 @@ Teynampet · 40 programmes
 NG
 Narada Gana Sabha
 Alwarpet · 39 programmes
+S
+Swaminathan
+Chennai · 38 programmes
 PS
 Sri Parthasarathy Swami Sabha
 Mylapore · 38 programmes
 AB
 Anujan Broadcasts and Sri Dayaa Trust
 Mylapore · 32 programmes
-S
-Swaminathan
-Chennai · 30 programmes
 C
 Carnatica
 Thiruvanmiyur · 27 programmes
+TI
+The Indian Fine Arts Society
+Chennai · 24 programmes
 KF
 Kartik Fine Arts
 Chennai · 22 programmes
