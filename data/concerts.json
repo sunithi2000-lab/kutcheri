@@ -176,6 +176,58 @@
   "fetched": "2026-11-18"
  },
  {
+  "id": "as-2026-12-02-1430-snigdhades",
+  "date": "2026-12-02",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Snigdha Desiraju",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Snigdha Desiraju",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Wed 2 Dec, themed concert 'Rare Thyagaraja Kritis in Popular Ragas' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Snigdha Desiraju Shreelakshmi S. Bhat Ayshmaan Sairam\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-02-1600-cotahsiste",
+  "date": "2026-12-02",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Cotah Sisters",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Cotah Sisters",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Wed 2 Dec, themed concert 'Rare Thyagaraaja Kritis in Popular Ragas' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Cotah Sisters Krithik Koushik M. P Aduthurai G. Guruprasadh\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-02-1615-santhoshsu",
   "date": "2026-12-02",
   "start": "16:15",
@@ -254,6 +306,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-02-1730-shruthisbh",
+  "date": "2026-12-02",
+  "start": "17:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shruthi S. Bhat",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shruthi S. Bhat",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Wed 2 Dec, themed concert 'Partha Sakha Panduranga' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Shruthi S. Bhat Kailasapathy. G J. P. Suriya Nambisan\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-02-1830-mylaimkart",
   "date": "2026-12-02",
   "start": "18:30",
@@ -330,6 +408,58 @@
   "source_label": "MDnD listing",
   "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-02-1915-drrganesh",
+  "date": "2026-12-02",
+  "start": "19:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. R. Ganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. R. Ganesh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Wed 2 Dec, themed concert 'Nadamum Namamum' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Dr. R. Ganesh V.V. Srinivasarao Nellai A. Balaji A. S. Krishnan\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-03-1430-yadushreev",
+  "date": "2026-12-03",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Yadushree Venkatesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Yadushree Venkatesh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Thu 3 Dec, themed concert 'Subramanya Vaibhavam' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Yadushree Venkatesh ChittoorV. Bhargava Vignesh M. Sarvajit Krishna\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-03-1615-bhavyahari",
@@ -420,6 +550,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-03-1730-niranjandi",
+  "date": "2026-12-03",
+  "start": "17:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Niranjan Dindodi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Niranjan Dindodi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Thu 3 Dec, themed concert 'Lord Ram – Across Languages & Composers' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Niranjan Dindodi Sivateja Mallajosyula Akshay Ram. R\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-03-1830-carnaticab",
   "date": "2026-12-03",
   "start": "18:30",
@@ -472,6 +628,32 @@
   "fetched": "2026-11-18"
  },
  {
+  "id": "as-2026-12-03-1915-radhikakan",
+  "date": "2026-12-03",
+  "start": "19:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Radhika Kannan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Radhika Kannan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Thu 3 Dec, themed concert 'Kerala Composers' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Radhika Kannan C. S. Chinmayi Sarvesh Karthick\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bvb-2026-12-04-1030",
   "date": "2026-12-04",
   "start": "10:30",
@@ -496,6 +678,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "\"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "as-2026-12-04-1430-archanamur",
+  "date": "2026-12-04",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Archana Murali",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Archana Murali",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Fri 4 Dec, themed concert 'Nadarchanai' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Archana Murali Parur M. K. Ananthalakshmi Nandan Kashyap\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-04-1615-drrlakshmi",
@@ -612,6 +820,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-04-1730-krithikana",
+  "date": "2026-12-04",
+  "start": "17:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Krithika Natarajan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Krithika Natarajan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Fri 4 Dec, themed concert 'Shivoham' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Krithika Natarajan M. Vijay B. Guru Raghavendra K. R. Sivaramakrishna\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-04-1830-palghatrra",
   "date": "2026-12-04",
   "start": "18:30",
@@ -690,6 +924,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-04-1915-madurainsi",
+  "date": "2026-12-04",
+  "start": "19:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Madurai N. Sivaganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Madurai N. Sivaganesh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Fri 4 Dec, themed concert 'Compositions in Lesser Known Ragas' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Madurai N Sivaganesh Raghul Ravichandran Akshay Ram. R Ram Siva\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bvb-2026-12-05-1030",
   "date": "2026-12-05",
   "start": "10:30",
@@ -716,6 +976,32 @@
   "fetched": "2026-11-18"
  },
  {
+  "id": "as-2026-12-05-1430-bharadwajs",
+  "date": "2026-12-05",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Bharadwaj Subramaniam",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Bharadwaj Subramaniam",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Sat 5 Dec, themed concert 'Tamizh Maalai' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Bharadwaj Subramaniam Akshanan Mayuran\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "kfa-2026-12-05-1600",
   "date": "2026-12-05",
   "start": "16:00",
@@ -740,6 +1026,32 @@
   "source_label": "MDnD listing",
   "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-05-1600-vishruthig",
+  "date": "2026-12-05",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vishruthi Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vishruthi Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Sat 5 Dec, themed concert 'Kamalam – The Splendour of Lotus' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Smt. Vishruthi Girish R. Srikriti Ajeet sridhar\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-05-1615-abhiramgbo",
@@ -792,6 +1104,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Violin solo. \"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "as-2026-12-05-1730-ranjanisiv",
+  "date": "2026-12-05",
+  "start": "17:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ranjani Sivakumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ranjani Sivakumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Sat 5 Dec, themed concert 'Dial 9 for Devi' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Ranjani Sivakumar Shraddha Ravindran Akshay Ram. R\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-05-1830-sudharagun",
@@ -913,6 +1251,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-05-1915-mohansanth",
+  "date": "2026-12-05",
+  "start": "19:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Mohan Santhanam",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Mohan Santhanam",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Sat 5 Dec, themed concert 'Tamil Kadavul Murugan' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Mohan Santhanam M. Vijay Sherthalai Ananthakrishnan A. S. Krishnan\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "kfa-2026-12-06-1600",
   "date": "2026-12-06",
   "start": "16:00",
@@ -937,6 +1301,32 @@
   "source_label": "MDnD listing",
   "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-06-1600-pathangibr",
+  "date": "2026-12-06",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Pathangi Brothers",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Pathangi Brothers",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Sun 6 Dec, themed concert 'Bhakthi Through the Ages' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Pathangi-Brothers-Dathre-Dhruv Saketha Panthula Adharsh Devarajan\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-06-1615-sadithyana",
@@ -988,6 +1378,32 @@
   "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
   "source_label": "chennaievent.com listing",
   "note": "Listed on chennaievent.com (read 22 Nov 2026) under \"Bhavan's Margazhi Mahotsav 2026 – 1st Edition – In Assn. with South Zone Culture Centre\" at the Bhavan main auditorium, \"Vocal Duo\"; this 4.30 pm slot had no artist printed in the Kendra's programme schedule PDF. Free (\"All are welcome\" for the festival). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-06-1730-vdeepikavn",
+  "date": "2026-12-06",
+  "start": "17:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "V. Deepika & V. Nandhika",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "V. Deepika & V. Nandhika",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Sun 6 Dec, themed concert 'Priya Pravaham – Vocal Duo' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"V. Deepika and V. Nandika R. Srikriti L. Sudarsan Srinivas\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
   "fetched": "2026-10-12"
  },
  {
@@ -1067,6 +1483,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "\"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "as-2026-12-06-1915-srirangamv",
+  "date": "2026-12-06",
+  "start": "19:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Srirangam Venkatanagarajan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Srirangam Venkatanagarajan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Sun 6 Dec, themed concert 'Krishnarpanam' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Srirangam Venkatanagarajan VSP Gayatri Sivani Vijay Ganesh\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-07-1630-sjjananiy",
@@ -4461,6 +4903,32 @@
   "fetched": "2026-11-17"
  },
  {
+  "id": "ifas-2026-12-18-1630",
+  "date": "2026-12-18",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Jayashree Vaidyanathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Jayashree Vaidyanathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
+ },
+ {
   "id": "as-2026-12-18-1800-charumathi",
   "date": "2026-12-18",
   "start": "18:00",
@@ -4750,14 +5218,14 @@
     "role": "accompanist"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Ticketed",
   "organisation": "The Indian Fine Arts Society",
-  "festival": "—",
-  "venue": "Ethiraja Kalyana Mandapam, TTK Road",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
   "source_url": "https://sandeepnarayan.in/concerts",
   "source_label": "Artist's website",
-  "note": "Listed under \"Indian Fine Arts\" on the artist's site; tickets \"TBA\".",
+  "note": "Listed under \"Indian Fine Arts\" on the artist's site; tickets \"TBA\". Confirmed 24 Nov 2026 in the society's programme on NatyaNetwork's Margazhi 2026 listing (Fri 18 Dec, 7 pm, ticketed, Ethiraja Kalyana Nilayam).",
   "fetched": "2026-10-12"
  },
  {
@@ -5220,6 +5688,32 @@
   "note": ""
  },
  {
+  "id": "ifas-2026-12-19-1630",
+  "date": "2026-12-19",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S.M. Vilasini",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S.M. Vilasini",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
+ },
+ {
   "id": "abst-2026-12-19-1830",
   "date": "2026-12-19",
   "start": "18:30",
@@ -5425,6 +5919,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ifas-2026-12-19-1900",
+  "date": "2026-12-19",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramakrishnan Murthy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ramakrishnan Murthy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
  },
  {
   "id": "ma-2026-12-20-0900",
@@ -5869,6 +6389,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ifas-2026-12-20-1630",
+  "date": "2026-12-20",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "V. Venkatanagarajan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "V. Venkatanagarajan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
  },
  {
   "id": "as-2026-12-20-1800-sandeepnar",
@@ -6889,6 +7435,32 @@
   "note": ""
  },
  {
+  "id": "ifas-2026-12-21-1900",
+  "date": "2026-12-21",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Sriram Parasuram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Sriram Parasuram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
+ },
+ {
   "id": "ma-2026-12-22-0900",
   "date": "2026-12-22",
   "start": "09:00",
@@ -7317,6 +7889,32 @@
   "fetched": "2026-11-17"
  },
  {
+  "id": "ifas-2026-12-22-1630",
+  "date": "2026-12-22",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Palakkad R. Sriram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Palakkad R. Sriram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
+ },
+ {
   "id": "abst-2026-12-22-1830",
   "date": "2026-12-22",
   "start": "18:30",
@@ -7512,6 +8110,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ifas-2026-12-22-1900",
+  "date": "2026-12-22",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Prince Rama Varma",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Prince Rama Varma",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
  },
  {
   "id": "as-2026-12-22-1915-sidsriram",
@@ -7916,6 +8540,32 @@
   "note": ""
  },
  {
+  "id": "ifas-2026-12-23-1630",
+  "date": "2026-12-23",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sangeetha Swaminathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sangeetha Swaminathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
+ },
+ {
   "id": "as-2026-12-23-1715-ksvishnude",
   "date": "2026-12-23",
   "start": "17:15",
@@ -8161,12 +8811,12 @@
   ],
   "entry": "Ticketed",
   "organisation": "The Indian Fine Arts Society",
-  "festival": "—",
+  "festival": "Annual Music Festival 2026–27",
   "venue": "Ethiraja Kalyana Nilayam, Alwarpet",
   "area": "Alwarpet / TTK Road",
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
   "source_label": "Artist's poster",
-  "note": "Listed as \"Indian Fine Arts Society\"; venue as printed for the society's 18 Dec concert on Sandeep Narayan's site. From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Details updated 23 Nov 2026 from the artist's website (ramanabalachandhran.com/events/margazhi-2026): Ethiraja Kalyana Nilayam, Alwarpet, 7 pm, \"Tickets on mdnd.in\".",
+  "note": "Listed as \"Indian Fine Arts Society\"; venue as printed for the society's 18 Dec concert on Sandeep Narayan's site. From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Details updated 23 Nov 2026 from the artist's website (ramanabalachandhran.com/events/margazhi-2026): Ethiraja Kalyana Nilayam, Alwarpet, 7 pm, \"Tickets on mdnd.in\". Details updated 24 Nov 2026 from NatyaNetwork's Margazhi 2026 listing: in The Indian Fine Arts Society's programme (Wed 23 Dec, 7 pm, veena, ticketed, Ethiraja Kalyana Nilayam) – kept here for the accompanists.",
   "fetched": "2026-10-12"
  },
  {
@@ -8629,6 +9279,32 @@
   "note": ""
  },
  {
+  "id": "ifas-2026-12-24-1630",
+  "date": "2026-12-24",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. A. Sabari",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. A. Sabari",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
+ },
+ {
   "id": "abst-2026-12-24-1830",
   "date": "2026-12-24",
   "start": "18:30",
@@ -8871,6 +9547,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ifas-2026-12-24-1900",
+  "date": "2026-12-24",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Trichur Brothers",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Trichur Brothers",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
  },
  {
   "id": "ma-2026-12-25-0900",
@@ -9405,6 +10107,32 @@
   "note": ""
  },
  {
+  "id": "ifas-2026-12-25-1630",
+  "date": "2026-12-25",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shenkottai Harihara Subramaniam",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shenkottai Harihara Subramaniam",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
+ },
+ {
   "id": "as-2026-12-25-1700-bhargavhar",
   "date": "2026-12-25",
   "start": "17:00",
@@ -9688,6 +10416,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ifas-2026-12-25-1900",
+  "date": "2026-12-25",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Soorya Gayathri",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Soorya Gayathri",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Printed \"Soorya Gayathri\". Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
  },
  {
   "id": "ma-2026-12-26-0900",
@@ -10181,6 +10935,32 @@
   "note": ""
  },
  {
+  "id": "ifas-2026-12-26-1630",
+  "date": "2026-12-26",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vasudha Ravi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vasudha Ravi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
+ },
+ {
   "id": "as-2026-12-26-1700-dharinikal",
   "date": "2026-12-26",
   "start": "17:00",
@@ -10542,6 +11322,32 @@
   "source_label": "Bandsintown artist listing",
   "note": "Venue taken from the listing link.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ifas-2026-12-26-1900",
+  "date": "2026-12-26",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sid Sriram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sid Sriram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
  },
  {
   "id": "ma-2026-12-27-0900",
@@ -10921,6 +11727,32 @@
   "note": ""
  },
  {
+  "id": "ifas-2026-12-27-1630",
+  "date": "2026-12-27",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Gayathri Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Gayathri Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Printed \"Gayathri Girish\". Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
+ },
+ {
   "id": "as-2026-12-27-1700-rithuuraje",
   "date": "2026-12-27",
   "start": "17:00",
@@ -11260,6 +12092,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ifas-2026-12-27-1900",
+  "date": "2026-12-27",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. K. Gayatri",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. K. Gayatri",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Printed \"K Gayathri\". Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
  },
  {
   "id": "ma-2026-12-28-0900",
@@ -11701,6 +12559,32 @@
   "note": ""
  },
  {
+  "id": "ifas-2026-12-28-1630",
+  "date": "2026-12-28",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. M. Narmadha",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Dr. M. Narmadha",
+    "instrument": "Violin",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Violin solo. Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
+ },
+ {
   "id": "as-2026-12-28-1700-suriyasath",
   "date": "2026-12-28",
   "start": "17:00",
@@ -12000,6 +12884,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ifas-2026-12-28-1900",
+  "date": "2026-12-28",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sikkil C. Gurucharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sikkil C. Gurucharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Printed \"Sikkil Gurucharan\". Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
  },
  {
   "id": "ma-2026-12-29-0900",
@@ -12544,6 +13454,32 @@
   "note": ""
  },
  {
+  "id": "ifas-2026-12-29-1630",
+  "date": "2026-12-29",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Subha Ganesan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Subha Ganesan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
+ },
+ {
   "id": "as-2026-12-29-1700-ksvishnude",
   "date": "2026-12-29",
   "start": "17:00",
@@ -12869,6 +13805,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ifas-2026-12-29-1900",
+  "date": "2026-12-29",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Abhishek Raghuram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Abhishek Raghuram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "The Indian Fine Arts Society",
+  "festival": "Annual Music Festival 2026–27",
+  "venue": "Ethiraja Kalyana Nilayam, TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://natyanetwork.com/margazhi?day=all&type=music",
+  "source_label": "NatyaNetwork listing",
+  "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
+  "fetched": "2026-11-24"
  },
  {
   "id": "ma-2026-12-30-0900",

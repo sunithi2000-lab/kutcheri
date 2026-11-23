@@ -89,6 +89,11 @@ ORG = {
         name="Nada Sudha", festival="28th Annual Music Festival",
         venue="Sri Ganapathi Sachchidananda Ashram Hall, Seshadripuram, Baby Nagar, Velachery", area="Velachery",
         url="https://chennaievent.com/index_search.php?q=Kamarajar"),
+    # 2026-11-24: The Indian Fine Arts Society's Annual Music Festival programme (18–29 Dec so far) on NatyaNetwork's Margazhi 2026 listing
+    "indian-fine-arts-society": dict(
+        name="The Indian Fine Arts Society", festival="Annual Music Festival 2026–27",
+        venue="Ethiraja Kalyana Nilayam, TTK Road, Alwarpet", area="Alwarpet / TTK Road",
+        url="https://natyanetwork.com/margazhi?day=all&type=music"),
 }
 
 concerts = []
@@ -270,6 +275,8 @@ main_only("raw_bharatiya_vidya_bhavan_2026.txt", "bharatiya-vidya-bhavan", "bvb"
           "\"All are welcome\" (free). Accompanists not printed.")
 main_only("raw_anujan_2026.txt", "anujan", "abst", "2026-11-18", "NatyaNetwork listing",
           "Organiser listed as \"Anujan Broadcasts and Sri Dayaa Trust\"; tickets on MDnD. Accompanists not listed.")
+main_only("raw_indian_fine_arts_society_2026.txt", "indian-fine-arts-society", "ifas", "2026-11-24", "NatyaNetwork listing",
+          "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.")
 
 # Nada Sudha (2026-11-21): main artist only (Charsur pattern), from chennaievent.com's listing. form "Not stated" = not printed;
 # form "A & B" with two different instruments = a duet of two instruments (Carnatica pattern).

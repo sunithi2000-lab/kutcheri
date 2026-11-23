@@ -485,6 +485,12 @@
    "kind": "aggregator",
    "url": "https://www.chennaidecemberseason.com/p/season-2026-sabha-schedules-of-concerts.html",
    "follow_pdfs": false
+  },
+  {
+   "slug": "indian-heritage-srothovaham-2026",
+   "kind": "aggregator",
+   "url": "https://www.indian-heritage.org/musicseason/2627/srothovaham.html",
+   "follow_pdfs": false
   }
  ],
  "_blocked_note": "BookMyShow, District, Bandsintown and chennaidecemberseason.com refuse automated visits (403/429); the research job checks them by web search instead."

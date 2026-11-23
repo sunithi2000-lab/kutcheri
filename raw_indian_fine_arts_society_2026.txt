@@ -1,0 +1,28 @@
+# The Indian Fine Arts Society – Annual Music Festival 2026–27, 18–29 Dec 2026 (so far), Ethiraja Kalyana Nilayam, Alwarpet (Carnatic music only).
+# Source: NatyaNetwork's Margazhi 2026 music listing https://natyanetwork.com/margazhi?day=all&type=music (read 24 Nov 2026, verbatim text):
+#   organiser printed "The Indian Fine Arts Society", venue "Ethiraja Kalyana Nilayam, Chennai" (misprinted "Vilayam" on 19 Dec), two concerts a day at 4.30 pm and 7 pm, all ticketed.
+#   No accompanists or end times printed. The society's own festival page (theindianfineartssociety1932.com) gives 17 Dec start; its brochure is an image not yet read.
+# Not included: 20 Dec 7 pm Sivasri Tejasvi Surya – Namasankeerthanam; 21 Dec 4.30 pm Savita Sreeram – Abhang (devotional).
+# Already listed (raw_artist_sites_2026.txt, kept there because they carry accompanists from the artists' own sites): 18 Dec 7 pm Sandeep Narayan; 23 Dec 7 pm Ramana Balachandhran (veena).
+# Names as printed, normalised to the dataset's spellings where the same artist appears elsewhere (printed form in the note); weekdays checked (18 Dec 2026 = Fri, 29 Dec 2026 = Tue).
+# date|start|entry|artist|form|note
+2026-12-18|16:30|Ticketed|Jayashree Vaidyanathan|Vocal|
+2026-12-19|16:30|Ticketed|S.M. Vilasini|Vocal|
+2026-12-19|19:00|Ticketed|Ramakrishnan Murthy|Vocal|
+2026-12-20|16:30|Ticketed|V. Venkatanagarajan|Vocal|
+2026-12-21|19:00|Ticketed|Dr. Sriram Parasuram|Vocal|
+2026-12-22|16:30|Ticketed|Palakkad R. Sriram|Vocal|
+2026-12-22|19:00|Ticketed|Prince Rama Varma|Vocal|
+2026-12-23|16:30|Ticketed|Sangeetha Swaminathan|Vocal|
+2026-12-24|16:30|Ticketed|Dr. A. Sabari|Vocal|
+2026-12-24|19:00|Ticketed|Trichur Brothers|Vocal Duet|
+2026-12-25|16:30|Ticketed|Shenkottai Harihara Subramaniam|Vocal|
+2026-12-25|19:00|Ticketed|Soorya Gayathri|Vocal|Printed "Soorya Gayathri".
+2026-12-26|16:30|Ticketed|Vasudha Ravi|Vocal|
+2026-12-26|19:00|Ticketed|Sid Sriram|Vocal|
+2026-12-27|16:30|Ticketed|Dr. Gayathri Girish|Vocal|Printed "Gayathri Girish".
+2026-12-27|19:00|Ticketed|Dr. K. Gayatri|Vocal|Printed "K Gayathri".
+2026-12-28|16:30|Ticketed|Dr. M. Narmadha|Violin|Violin solo.
+2026-12-28|19:00|Ticketed|Sikkil C. Gurucharan|Vocal|Printed "Sikkil Gurucharan".
+2026-12-29|16:30|Ticketed|Dr. Subha Ganesan|Vocal|
+2026-12-29|19:00|Ticketed|Abhishek Raghuram|Vocal|
