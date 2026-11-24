@@ -1,5 +1,5 @@
 # https://www.mylaporetimes.com/2026/11/music-festival-over-16-days-to-mark-16th-anniversary-of-arkay-center-luz/
-# fetched 2026-11-23T19:31Z
+# fetched 2026-11-24T03:32Z
 Skip to content
 TOP MENU
 Tuesday, November 24, 2026
@@ -41,9 +41,6 @@ COMMENT *
 NAME *
 EMAIL *
 WEBSITE
-Video Player
-00:00
-01:28
 Discover more
 Local newspaper delivery
 Community news updates
@@ -51,6 +48,9 @@ Digital newspaper access
 Explore Churches
 Book Local Tours
 Read Travel Guides
+Video Player
+00:00
+01:28
 PAGES
 About Us
 Advertising: Rates, Sample Ads

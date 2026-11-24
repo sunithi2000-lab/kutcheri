@@ -1,5 +1,5 @@
 # https://season.mylaporetimes.com/sabha-schedule/
-# fetched 2026-11-23T19:31Z
+# fetched 2026-11-24T03:32Z
 Sabha Schedule
 Sl.No Sabha
 1. Bharatiya Vidya Bhavan
@@ -7,6 +7,7 @@ Sl.No Sabha
 3. The Music Academy – concerts
 4. The Music Academy – Academic sessions
 5. The Music Academy – Dance
+6. Kalakshetra
 Home
 News
 Music
