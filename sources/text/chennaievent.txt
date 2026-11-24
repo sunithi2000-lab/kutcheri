@@ -1,5 +1,5 @@
 # https://www.chennaievent.com/
-# fetched 2026-11-24T03:32Z
+# fetched 2026-11-24T19:31Z
 LOGIN
 Subscribe
 List View
@@ -12,51 +12,7 @@ By Artiste
 03 : 00 PM - 07 : 00 PM
 07 : 00 PM - 11 : 00 PM
 Tuesday, November 24, 2026
-Time Programme Artist Venue Ticket Type
-4:15 PM 16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
-Niranjan Dindodi
-Thirucherai Karthik
-Aduthurai G. Guruprasadh
-P. Giridhara Prasad
-Madhuradhwani
-Arkay Convention Center
-@ No 146/3 OMS Lakshana, Royapettah High Road, Corner Landmark:Near Luz, Mylapore .
-Phone : 9381007317
-4:30 PM Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Vocal Event
-Kruthi (Bhat) Vittal
-Vittal Rangan. B
-Bharadwaj. N. C
-K. V. Gopalakrishnan
-Bharatiya Vidya Bhavan, Chennai Kendra
-Bharatiya Vidya Bhavan (Main Auditorium)
-@ East Mada Street, Near Radha Silk Emporium Mylapore .
-Phone : 2464 0811
-6:15 PM Monthly Concert - Vocal Event
-G. K. Baanupriya
-Chetana Shekar
-G. N. Bhuvan
-Naada Inbam
-Ragasudha Hall
-@ 85/ Near Nageshwararao Park, 3/2, Luz Ave, Bhaskarapuram Mylapore .
-Phone : 044 2499 2672
-6:30 PM 16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
-Amrutha Venkatesh
-R. Madhavan
-Arjun Ganesh S. J
-G. Chandrasekar Sharma
-Madhuradhwani
-Arkay Convention Center
-@ No 146/3 OMS Lakshana, Royapettah High Road, Corner Landmark:Near Luz, Mylapore .
-Phone : 9381007317
-6:45 PM Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Vocal Event
-Papanasam Ashok Ramani
-Ganesh Prasad B. U
-Tiruvarur Vaidyanathan
-K. V. Gopalakrishnan
-Bharatiya Vidya Bhavan, Chennai Kendra
-Bharatiya Vidya Bhavan (Main Auditorium)
-@ East Mada Street, Near Radha Silk Emporium Mylapore .
-Phone : 2464 0811
+Database connection temporarily unavailable. Please refresh the page.
 ABOUT US FEEDBACK DISCLAIMER
 Thank you all for your wishes & support. We will not be sending emails regarding the daily events. We now have a WhatsApp group where we share the daily event list.
 Click on the number ðŸ‘‰ 7418711554 to send a request to join our WhatsApp group.

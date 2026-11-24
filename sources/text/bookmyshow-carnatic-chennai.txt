@@ -1,5 +1,5 @@
 # https://in.bookmyshow.com/explore/music-shows-chennai
-# fetched 2026-11-23T19:31Z
+# fetched 2026-11-24T19:31Z
 Skip to main content
 Pick A Region
 Detect my location
@@ -93,7 +93,6 @@ Ankola
 Annavaram
 Annigeri
 Anthiyur
-Anuppur
 Anuradhapura
 Apra
 Arakkonam
@@ -125,7 +124,6 @@ Attibele
 Attili
 Attingal
 Attur
-Auraiya
 Aurangabad (Bihar)
 Aurangabad (West Bengal)
 Auroville
@@ -136,6 +134,7 @@ Azamgarh
 B. Kothakota
 Babra
 Badami
+Badaun
 Baddi
 Badhra
 Badnagar
@@ -239,7 +238,6 @@ Berhampur (Odisha)
 Bestavaripeta
 Betalbatim
 Betberia
-Bethamangala
 Bethamcherla
 Bettiah
 Betul
@@ -332,7 +330,6 @@ Budhlada
 Buhari
 Bulandshahr
 Buldana
-Bundi
 Bundu
 Burdwan
 Burhanpur
@@ -393,11 +390,11 @@ Chevella
 Cheyyar
 Cheyyur
 Chhabra
-Chhatarpur (JH)
-Chhatarpur (MP)
+Chhatarpur
 Chhatrapati Sambhajinagar (Aurangabad)
 Chhibramau
 Chhindwara
+Chickmagaluru
 Chidambaram
 Chikhli
 Chikkaballapur
@@ -446,7 +443,6 @@ Dalsinghsarai
 Daltonganj
 Daman
 Damarcherla
-Dambuk
 Dammapeta
 Damoh
 Danapur
@@ -472,10 +468,10 @@ Dehri
 Deogadh
 Deoghar
 Deoli
+Deoli (Rajasthan)
 Deoli(Rajasthan)
 Deoria
 Deralakatte
-Dergaon
 Devadurga
 Devakottai
 Devarakadra
@@ -493,6 +489,7 @@ Dhanera
 Dhar
 Dharamjaigarh
 Dharampur
+Dharamsala
 Dharamshala
 Dharapuram
 Dharashiv (Osmanabad)
@@ -521,6 +518,7 @@ Dhuri
 Diamond Harbour
 Dibrugarh
 Digras
+Dildar Nagar
 Dildarnagar
 Dima Hasao
 Dimapur
@@ -548,7 +546,6 @@ Dungarpur
 Durg
 Durgapur
 Dwarka
-East Garo Hills
 East Godavari
 Edappal
 Edlapadu
@@ -649,7 +646,6 @@ Goramadagu
 Gorantla
 Gotegaon
 Gownipalli
-Gudalur
 Gudivada
 Gudiyatham
 Gudlavalleru
@@ -657,7 +653,6 @@ Gudur
 Guhagar
 Gulaothi
 Guledgudda
-Gumla
 Gummadidala
 Guna
 Gundlupet
@@ -682,7 +677,6 @@ Halol
 Hambantota
 Hamirpur (HP)
 Hampi
-Hanamkonda
 Handwara
 Hansi
 Hanuman Junction
@@ -706,6 +700,7 @@ Hazaribagh
 Himmatnagar
 Hindaun City
 Hindupur
+Hindupuram
 Hinganghat
 Hingoli
 Hiramandalam
@@ -752,6 +747,7 @@ Jafrabad
 Jagalur
 Jagatdal
 Jagatsinghpur
+Jagatsingpur
 Jagdalpur
 Jaggampeta
 Jaggayyapeta
@@ -771,7 +767,6 @@ Jalna
 Jalore
 Jalpaiguri
 Jami
-Jamkhambhaliya
 Jamkhandi
 Jamkhed
 Jammalamadugu
@@ -818,9 +813,9 @@ Jorhat
 Joynagar Majilpur
 Junagadh
 Junagarh
+K.D Peta
 Kadakkal
 Kadalundi
-Kadampazhipuram
 Kadapa
 Kadayam
 Kadi
@@ -844,7 +839,6 @@ Kallakurichi
 Kallara
 Kallur
 Kalluru
-Kalluvathukkal
 Kalna
 Kalol (Gandhinagar)
 Kalol (Panchmahal)
@@ -884,6 +878,7 @@ Kanniyakumari
 Kannur
 Kanpur
 Kantabanji
+Kanyakumari
 Kapadvanj
 Kapurthala
 Karad
@@ -987,6 +982,7 @@ Kodaikanal
 Kodakara
 Kodaly
 Koderma
+Kodumur
 Kodumuru
 Kodungallur
 Kohima
@@ -1118,7 +1114,6 @@ Madhavaram
 Madhepura
 Madhira
 Madhubani
-Madhugiri
 Madikeri
 Madugula
 Madurai
@@ -1232,6 +1227,7 @@ Mirganj
 Miryalaguda
 Mirzapur
 Moga
+Mohali
 Mokama
 Molakalmuru
 Mominpet
@@ -1259,18 +1255,15 @@ Mulkanoor
 Mullaitivu
 Mullanpur
 Mulleria
-Multai
 Mulugu
 Mulugu Ghanpur
 Mummidivaram
 Mundakayam
 Mundargi
 Mundra
-Munger
 Mungra Badshahpur
 Muniguda
 Muradnagar
-Murgud
 Murshidabad
 Murtizapur
 Musiri
@@ -1281,6 +1274,7 @@ Muzaffarpur
 Mydukur
 Mylavaram
 Mysuru (Mysore)
+NIRA
 Nabadwip
 Nabarangpur
 Nabha
@@ -1330,6 +1324,7 @@ Narasaraopeta
 Narayangaon
 Narayankhed
 Narayanpet
+Narayanpur
 Narayanpur (Assam)
 Narayanpur (CH)
 Nargund
@@ -1363,6 +1358,7 @@ Nellimarla
 Nellimoodu
 Nellore
 Nemmara
+Nenmara
 Nepalgunj
 Ner Parsopant
 Neral
@@ -1467,7 +1463,6 @@ Parli
 Parvathipuram
 Parwanoo
 Pasara
-Paschim Medinipur
 Pasighat
 Patan
 Patan (CG)
@@ -1583,7 +1578,6 @@ Radhamoni
 Raebareli
 Raghopur
 Raghunathganj
-Raghunathpur
 Rahata
 Rahimatpur
 Rahuri
@@ -1636,7 +1630,6 @@ Randheja
 Ranebennur
 Rangia
 Rani
-Rani Pokhari
 Raniganj
 Ranipet
 Ranni
@@ -1686,7 +1679,6 @@ Saharsa
 Sahibganj
 Sahjanwa
 Sakleshpur
-Sakoli
 Sakti
 Salem
 Saligrama
@@ -1766,7 +1758,6 @@ Shankarampet
 Shankarpally
 Shankarpur
 Shegaon
-Sheikhpura
 Shela
 Sheopur
 Sheoraphuli
@@ -1803,7 +1794,6 @@ Sikar
 Silchar
 Siliguri
 Silvassa
-Simdega
 Sindhanur
 Sindhudurg
 Singapore
@@ -1824,7 +1814,6 @@ Sivaganga
 Sivakasi
 Sivasagar
 Siwan
-Sodepur
 Solan
 Solapur
 Solasiramani
@@ -1841,7 +1830,6 @@ Sri Ganganagar
 Sri Sathya Sai
 Srikakulam
 Srinagar
-Sriramnagar
 Srirangapatna
 Srivaikuntam
 Srivilliputhur
@@ -1849,6 +1837,7 @@ Station Ghanpur
 Sugauli
 Sujangarh
 Sukma
+Sulia
 Sullia
 Sultanabad
 Sultanpur
@@ -1867,11 +1856,11 @@ Suri
 Suriya
 Suryapet
 T.Narasapuram
+TIHU
 Tadepalligudem
 Tadikalapudi
 Tadipatri
 Tajpur
-Talala
 Talcher
 Taliparamba
 Tallapudi
@@ -1886,6 +1875,7 @@ Tanuku
 Tarakeswar
 Tarapur
 Tarikere
+Tarkeshwar
 Tasgaon
 Tatipaka
 Tawang
@@ -1925,7 +1915,6 @@ Thrissur
 Thullur
 Thuraiyur
 Tihu
-Tikamgarh
 Tilda Neora
 Tindivanam
 Tinsukia
@@ -1939,6 +1928,7 @@ Tirunelveli
 Tirupati
 Tirupattur
 Tiruppur
+Tirupur
 Tirur
 Tiruvallur
 Tiruvannamalai
@@ -1953,6 +1943,7 @@ Tonk
 Toopran
 Trichy
 Trincomalee
+Trivandrum
 Tumakuru (Tumkur)
 Tumsar
 Tuni
@@ -1965,6 +1956,7 @@ Udaynarayanpur
 Udgir
 Udhampur
 Udumalaipettai
+Udumalpet
 Udupi
 Ujhani
 Ujjain
@@ -1979,7 +1971,6 @@ Umred
 Una
 Una (Gujarat)
 Undavalli
-Undi
 Unnao
 Uppada
 Uthamapalayam
@@ -1990,7 +1981,6 @@ Utraula
 Uttar Dinajpur
 Uttara Kannada
 Uttarkashi
-V Kota
 Vadakara
 Vadakkencherry
 Vadalur
@@ -2033,7 +2023,6 @@ Vettaikaranpudur
 Vettavalam
 Vidisha
 Vijapur
-Vijayamangalam
 Vijayapura (Bengaluru Rural)
 Vijayapura (Bijapur)
 Vijayarai
@@ -2065,7 +2054,6 @@ Warangal
 Wardha
 Wardhannapet
 Warora
-Warud
 Washim
 Wayanad
 Wele

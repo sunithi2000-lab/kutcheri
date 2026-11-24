@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293
-# fetched 2026-11-24T03:32Z
+# fetched 2026-11-24T19:31Z
 Select Language
 English
 Tamil
@@ -18,6 +18,9 @@ More
 Season Tickets
 75th Year Art Festival | Season Pass | The Mylapore Fine Arts Club
 Dec 17, 2026 – Jan 14, 2027
+Multiple Passes
+Multiple Tickets | Mylapore Fine Arts Club
+Dec 17, 2026 – Jan 16, 2027
 ❖
 Individual Tickets
 Events are grouped by date.
@@ -39,9 +42,12 @@ All dates
 31 December 2026 · Thursday
 1 January 2027 · Friday
 2 January 2027 · Saturday
+14 January 2027 · Thursday
+15 January 2027 · Friday
+16 January 2027 · Saturday
 SEARCH EVENTS
 Clear
-16 days shown
+19 days shown
 18 December 2026
 Friday
 Dr. B. VIJAYAGOPAL - Flute | 4 :00 PM | GAYATHRI VENKATARAGHAVAN - Vocal | 6:30 PM | Mylapore Fine Arts Club
@@ -122,3 +128,18 @@ Saturday
 Stage Creations Presents Kathadi Ramamurthy in YAATHIRAI - Drama | 4 :00 PM | Mother Creations Presents JAGATHGURU - Drama | 6:30 PM | Mylapore Fine Arts Club
 The Mylapore Fine Arts Club, Chennai
 5:00 PM
+14 January 2027
+Thursday
+GANAPATHYAM – Tales of Ganesa | Divyanjali School Of Dance | Bharatanatyam | 7:15 PM | Mylapore Fine Arts Club
+The Mylapore Fine Arts Club, Chennai
+7:15 PM
+15 January 2027
+Friday
+JANANI JAGATH KARANI by Dr. Sheela Unnikrishnan - Bharatanatyam | 7:15 PM | Mylapore Fine Arts Club
+The Mylapore Fine Arts Club, Chennai
+7:15 PM
+16 January 2027
+Saturday
+AGRE PASHYAMI by Smt. ANITHA GUHA | 7:15 PM | Mylapore Fine Arts Club
+The Mylapore Fine Arts Club, Chennai
+7:15 PM

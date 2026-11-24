@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi?day=all&type=music
-# fetched 2026-11-24T03:32Z
+# fetched 2026-11-24T19:31Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -51,13 +51,13 @@ Create Your Profile
 Search the December Season
 THE SPIRIT OF DECEMBER
 December Season Schedule 2026
-Every concert from Chennai’s sabhas — 750 concerts from 22 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
+Every concert from Chennai’s sabhas — 762 concerts from 22 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
 Dance
-161
+164
 Music
-535
+539
 Everything
-750
+762
 Sabhas
 Artists
 Add your programme
@@ -122,12 +122,12 @@ Sri Krishna Gana Sabha
 Bharat Kalachar
 Mylapore Fine Arts Club (Regd)
 Charsur Arts Foundation
+Sri Parthasarathy Swami Sabha
 Narada Gana Sabha
 Swaminathan
-Sri Parthasarathy Swami Sabha
 Anujan Broadcasts and Sri Dayaa Trust
-Carnatica
 The Indian Fine Arts Society
+Carnatica
 Kartik Fine Arts
 Kalakshetra
 Aalaap
@@ -141,10 +141,12 @@ Anusham Arts Academy
 Brahma Gana Sabha
 Neighbourhood
 All areas
-Alwarpet (55)
-Chennai (172)
+Alwarpet (60)
+Chennai (177)
 ECR (6)
 Egmore (10)
+Luz (1)
+Main Hall (1)
 Mandaveli-R.A. Puram (2)
 Mylapore (217)
 T. Nagar (227)
@@ -226,6 +228,7 @@ Bhajan Clubbing
 Bharadwaj Subramaniam
 Bharat Sundar
 Bharat Sundar - Vocal
+Bharatanatyam
 Bharathi Tirumagan and Yuva Kala Bharathi
 Bhargavi Venkatram
 Bhavajan Kumar
@@ -253,6 +256,7 @@ Deepthi Suresh
 Delhi P.Sunderrajan
 Delhi V. Muthukumar
 Dhanya Dinesh Rudrapatnam
+Divyanjali School Of Dance
 Dr B Balasubrahmaniyan
 Dr Janaki Rangarajan
 Dr Jayanthi Kumaresh
@@ -312,6 +316,7 @@ G Narendra
 G Ravikiran
 G. Narendra
 G. Ravikiran
+Ganapathyam – Tales of Ganesa
 Ganapathyam – Tales of Ganesa - Bharatanatyam
 Ganesh Kumaresh
 Gayathri Girish - Vocal
@@ -392,6 +397,7 @@ Leela Samson’s Spanda Dance Company
 Lekha Prasad
 M Oviya
 Madhusudhanan Kalaichelvan
+Madhuvanthi Badri
 Madurai T.N.S.Krishna
 Maharajapuram Ganesh Viswanathan - Vocal
 Maharajapuram S.Ganesh Viswanathan
@@ -456,6 +462,7 @@ Nritya - Namasankeerthanam a dance ballet in Bhajan Sampradaya
 Nrityagram
 O.S.Arun
 Open House
+P S Aravamudhan
 P. Unnikrishnan
 P.S.V. Natyasangham
 P.V. Adithya
@@ -580,6 +587,7 @@ Senkottai Harihara Bhagavatar
 Shabin Bright
 Shankar Kandasamy
 Shanmuga Sundaram
+Shanthala Subramaniam
 Sharmatha Viswanath
 Shashank Subrahmanyam
 Shashank Subramanyam
@@ -644,6 +652,7 @@ Sudha Raghunathan
 Sudha Ragunathan
 Sudha Ragunathan and Party
 Sumesh Narayanan
+Supraja & Pooja
 Surya Gayatri and Party
 Swarathmika Srikanth
 T.V. Varadarajen & Team
@@ -674,6 +683,7 @@ V.Deepika & V. Nandhika
 V.Venkatanagarajan
 Vaibhav Arekar
 Vaibhav Mahesh (Shree Rama Nama Vaibhavam)
+Vaishnavi Ramadas
 Vaishnavi Ramdos
 Vaishnavi Vitthal Dhore
 VAK Ranga Rao, Dushyanth Sridhar and G Srikanth
@@ -840,8 +850,8 @@ Sat
 Jan 16
 Sun
 Jan 17
-All music 535
-Vocal 301
+All music 539
+Vocal 303
 Instrumental 76
 Harikatha & Namasankeerthanam 31
 Lec-dems & talks 2
@@ -850,7 +860,7 @@ Concert (type not listed) 61
 Students' music performance 2
 Devotional music 2
 The whole season
-535 CONCERTS FOUND
+539 CONCERTS FOUND
 Free
 Ticketed
 SUN 15 NOV
@@ -907,6 +917,14 @@ VOCAL
 Mylapore Fine Arts Club (Regd)
 Chennai
 Ticketed
+TUE 1 DEC
+6:45 pm
+Music
+Amritha Murali
+VOCAL
+Kartik Fine Arts
+Narada Gana Sabha, Main HallFree
+AM
 WED 2 DEC
 4:30 pm
 Music
@@ -954,6 +972,14 @@ VOCAL
 Kartik Fine Arts
 Narada Gana Sabha, Chennai
 Ticketed
+SAT 5 DEC
+3:30 pm
+Music
+Vishruthi Girish
+VOCAL
+Sri Parthasarathy Swami Sabha
+Srinivasa Sastri Hall, LuzFree
+VG
 SAT 5 DEC
 4:00 pm
 Music
@@ -5167,6 +5193,13 @@ Stage creations present Pillayar Pidikka
 Swaminathan
 Vani Mahal, Chennai
 Ticketed
+THU 14 JAN
+7:15 pm
+Music
+Ganapathyam – Tales of Ganesa
+Mylapore Fine Arts Club (Regd)
+Chennai
+Ticketed
 FRI 15 JAN
 5:45 pm
 Music
@@ -5240,6 +5273,13 @@ Music
 VARADU KUTTY - PARITCHAIKKU NERAMACHU 2
 Swaminathan
 Vani Mahal, Chennai
+Ticketed
+SAT 16 JAN
+7:15 pm
+Music
+AGRE PASHYAMI
+Mylapore Fine Arts Club (Regd)
+Chennai
 Ticketed
 SUN 17 JAN
 10:30 am

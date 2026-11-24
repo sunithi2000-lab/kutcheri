@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi/sabhas
-# fetched 2026-11-24T03:32Z
+# fetched 2026-11-24T19:31Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -55,6 +55,8 @@ Alwarpet
 Chennai
 ECR
 Egmore
+Luz
+Main Hall
 Mandaveli-R.A. Puram
 Mylapore
 T. Nagar
@@ -73,31 +75,31 @@ Bharat Kalachar
 T. Nagar · 91 programmes
 MF
 Mylapore Fine Arts Club (Regd)
-Chennai · 62 programmes
+Chennai · 67 programmes
 CA
 Charsur Arts Foundation
 Teynampet · 40 programmes
+PS
+Sri Parthasarathy Swami Sabha
+Luz · 39 programmes
 NG
 Narada Gana Sabha
 Alwarpet · 39 programmes
 S
 Swaminathan
 Chennai · 38 programmes
-PS
-Sri Parthasarathy Swami Sabha
-Mylapore · 38 programmes
 AB
 Anujan Broadcasts and Sri Dayaa Trust
 Mylapore · 32 programmes
+TI
+The Indian Fine Arts Society
+Alwarpet · 29 programmes
 C
 Carnatica
 Thiruvanmiyur · 27 programmes
-TI
-The Indian Fine Arts Society
-Chennai · 24 programmes
 KF
 Kartik Fine Arts
-Chennai · 22 programmes
+Main Hall · 23 programmes
 Kalakshetra
 Thiruvanmiyur · 11 programmes
 A

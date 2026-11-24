@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=44564
-# fetched 2026-11-24T03:32Z
+# fetched 2026-11-24T19:31Z
 Select Language
 English
 Tamil
@@ -68,7 +68,7 @@ Friday
 Carnatic Vocal by Veena Venkatramani | Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore, Chennai
 4:00 PM
-Carnatic Vocal by Aravind Soundararajan | Anujan Broadcasts and Sri Dayaa Trust
+Carnatic Vocal by Kalyanapuram S Aravind | Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore, Chennai
 6:30 PM
 19 December 2026
