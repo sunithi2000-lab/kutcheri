@@ -491,6 +491,12 @@
    "kind": "aggregator",
    "url": "https://www.indian-heritage.org/musicseason/2627/srothovaham.html",
    "follow_pdfs": false
+  },
+  {
+   "slug": "artist-jayalakshmi-sekhar-yathra-2026",
+   "kind": "news",
+   "url": "https://www.yathraemagazine.com/jayalakshmi-sekhar-veena-concerts-margazhi-2026-six-chennai-december-season-performances/",
+   "follow_pdfs": false
   }
  ],
  "_blocked_note": "BookMyShow, District, Bandsintown and chennaidecemberseason.com refuse automated visits (403/429); the research job checks them by web search instead."

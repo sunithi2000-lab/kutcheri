@@ -1511,6 +1511,58 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-07-1430-shalinimut",
+  "date": "2026-12-07",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Shalini Muthukumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shalini Muthukumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Mon 7 Dec, themed concert 'Compositions on Chidambara Kshetram' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Shalini Muthukumar / Purva Dhanashree Cotah / A. P. Mahizhan\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-07-1600-samanvitha",
+  "date": "2026-12-07",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Samanvitha G. Sasidharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Samanvitha G. Sasidharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Mon 7 Dec, themed concert 'Compositions of Pre Trinity Composers' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Samanvitha G. Sasidharan / Karthick Iyer / Jeyendra Kumar\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-07-1630-sjjananiy",
   "date": "2026-12-07",
   "start": "16:30",
@@ -1563,6 +1615,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-07-1730-drnjayakri",
+  "date": "2026-12-07",
+  "start": "17:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. N. Jayakrishnan Unni",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. N. Jayakrishnan Unni",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Mon 7 Dec, themed concert 'Composition with an Innate Rhythmic Structure' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Dr. N. Jayakrishnan Unni / M. Vijay / J. P. Suriya Nambisan\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "kfa-2026-12-07-1845",
   "date": "2026-12-07",
   "start": "18:45",
@@ -1587,6 +1665,84 @@
   "source_label": "MDnD listing",
   "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-07-1915-drbabysree",
+  "date": "2026-12-07",
+  "start": "19:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Baby Sreeram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Baby Sreeram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Mon 7 Dec, themed concert 'Compositions of Shyama Sastri Family' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Dr. Baby Sreeram / R. Madhavan / B. Sivaraman\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-08-1430-aryanagara",
+  "date": "2026-12-08",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Arya Nagarajan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Arya Nagarajan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Tue 8 Dec, themed concert 'Papanasam Sivan Compositions' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Arya Nagarajan / Prahalad Varahaswamy\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-08-1600-eranirudh",
+  "date": "2026-12-08",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "E.R. Anirudh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "E.R. Anirudh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Tue 8 Dec, themed concert 'Andal Thiruppavai' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Anirudh. E.R. / Shrihari Vittal / A. Rohith\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bvb-2026-12-08-1630",
@@ -1641,6 +1797,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-08-1730-varalakshm",
+  "date": "2026-12-08",
+  "start": "17:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Varalakshmi Anandakumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Varalakshmi Anandakumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Tue 8 Dec, themed concert 'Tribute to D.K. Jeyaraman' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Varalakshmi Anandakumar / Shraddha Ravindran\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bvb-2026-12-08-1845",
   "date": "2026-12-08",
   "start": "18:45",
@@ -1691,6 +1873,84 @@
   "source_label": "MDnD listing",
   "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-08-1915-iyersister",
+  "date": "2026-12-08",
+  "start": "19:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Iyer Sisters - Srividhya & Sudha",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Iyer Sisters - Srividhya & Sudha",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Tue 8 Dec, themed concert 'Mahakavi Songs tuned by Calcutta K.S. Krishnamurthy' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Srividhya & Sudha (IYER SISTERS) / V. V. Ravi / Nellai A. Balaji / Sai Bharath\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed). The Iyer Sisters are also known as violinists; here a violinist (V.V. Ravi) is listed with them, so a vocal duet is assumed – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-09-1430-sreyasunda",
+  "date": "2026-12-09",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Sreya Sundararaman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sreya Sundararaman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Wed 9 Dec, themed concert 'Gems of Swathi Tirunal' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Sreya Sundararaman / Indhalur Shyam Raghav / K. Krishna Sravan\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-09-1600-adithiprah",
+  "date": "2026-12-09",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Adithi Prahlad Banavadi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Adithi Prahlad Banavadi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Wed 9 Dec, themed concert 'Dasar Kritis' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Adithi Prahlad Banavadi / Chetana Shekar / Prajwal Bharadwaj\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-09-1630-ksvishnude",
@@ -1836,6 +2096,32 @@
   "source_label": "MDnD listing",
   "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "as-2026-12-09-1915-abhiramgbo",
+  "date": "2026-12-09",
+  "start": "19:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Abhiram G. Bode",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Abhiram G. Bode",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Partha Parampara Music Series 2026",
+  "venue": "Nalli Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Wed 9 Dec, themed concert 'The Grace of Five' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Abhiram G. Bode / Gayatri Vibhavari. V / Malladi Sree Aravind\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bvb-2026-12-10-1630",
@@ -2414,6 +2700,32 @@
   "fetched": "2026-11-12"
  },
  {
+  "id": "as-2026-12-12-1900-jayalakshm",
+  "date": "2026-12-12",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Jayalakshmi Sekhar",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Jayalakshmi Sekhar",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Narada Gana Sabha, TTK Road",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://www.yathraemagazine.com/jayalakshmi-sekhar-veena-concerts-margazhi-2026-six-chennai-december-season-performances/",
+  "source_label": "Yathra e-magazine article",
+  "note": "Printed \"12 Dec, 7:00 pm – Narada Gana Sabha\"; organiser not named (the venue's own sabha is not assumed; its festival opens 13 Dec, and Kartik Fine Arts' 12 Dec 6.45 pm concert is also at Narada Gana Sabha). From Yathra e-magazine's article \"Jayalakshmi Sekhar veena concerts Margazhi 2026: six Chennai December season performances\" (24 Nov 2026), which prints date, time and venue only (no weekday, accompanists or tickets) – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "skgs-2026-12-13-1100",
   "date": "2026-12-13",
   "start": "11:00",
@@ -2448,6 +2760,32 @@
   "note": "",
   "fetched": "2026-10-16",
   "source_label": "Organiser's schedule"
+ },
+ {
+  "id": "as-2026-12-13-1130-jayalakshm",
+  "date": "2026-12-13",
+  "start": "11:30",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Jayalakshmi Sekhar",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Jayalakshmi Sekhar",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Arkay Convention Centre, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://www.yathraemagazine.com/jayalakshmi-sekhar-veena-concerts-margazhi-2026-six-chennai-december-season-performances/",
+  "source_label": "Yathra e-magazine article",
+  "note": "Printed \"13 Dec, 11:30 am – Arkay Convention Centre\"; organiser not named (probably the ACC December Season run by Madhuradhwani – not assumed). From Yathra e-magazine's article \"Jayalakshmi Sekhar veena concerts Margazhi 2026: six Chennai December season performances\" (24 Nov 2026), which prints date, time and venue only (no weekday, accompanists or tickets) – check before going.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "skgs-2026-12-13-1300",
@@ -3058,6 +3396,32 @@
   "source_label": "MDnD listing",
   "note": "Listed on chennaievent.com (22 Nov 2026) as \"Mangala Isai\" with Koleri G. Vinodkumar, Triplicane K. Shekar and Kodungaiyur G.K. Narasimhan (nagaswaram–thavil ensemble; instruments not printed).",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "as-2026-12-15-1600-jayalakshm",
+  "date": "2026-12-15",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Jayalakshmi Sekhar",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Jayalakshmi Sekhar",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "—",
+  "venue": "Bharatiya Vidya Bhavan, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://www.yathraemagazine.com/jayalakshmi-sekhar-veena-concerts-margazhi-2026-six-chennai-december-season-performances/",
+  "source_label": "Yathra e-magazine article",
+  "note": "Printed \"15 Dec, 4:00 pm – Kartik Fine Arts, BVB\" (outside Kartik Fine Arts' 2–12 Dec festival at Narada Gana Sabha). From Yathra e-magazine's article \"Jayalakshmi Sekhar veena concerts Margazhi 2026: six Chennai December season performances\" (24 Nov 2026), which prints date, time and venue only (no weekday, accompanists or tickets) – check before going.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "skgs-2026-12-15-1600",
@@ -4449,6 +4813,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-18-0900-nachiketha",
+  "date": "2026-12-18",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Nachikethan Srinivasan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Nachikethan Srinivasan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Laya Raghav, Myan Sudarshanan (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-18-0900",
   "date": "2026-12-18",
   "start": "09:00",
@@ -4508,6 +4898,32 @@
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
   "source_label": "Artist's poster (Facebook)",
   "note": "Morning slot (not in the sabha's MDnD list of 4 pm and 6.30 pm concerts). From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-18-1015-sowmyaacha",
+  "date": "2026-12-18",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Sowmya Acharya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sowmya Acharya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Prahlad Saravanapriya, Santhosh Ravindrabharathy (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
   "fetched": "2026-10-12"
  },
  {
@@ -5229,6 +5645,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-19-0900-srinithyap",
+  "date": "2026-12-19",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Srinithya Parthasarathy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Srinithya Parthasarathy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Tejas Murali, Abinav Arvind (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-19-0900",
   "date": "2026-12-19",
   "start": "09:00",
@@ -5268,6 +5710,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-19-1015-prithinara",
+  "date": "2026-12-19",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Prithi Narasimhan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Prithi Narasimhan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Saketh Pantula, Gopal Ravindran (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "skgs-2026-12-19-1100",
@@ -5947,6 +6415,32 @@
   "fetched": "2026-11-24"
  },
  {
+  "id": "as-2026-12-20-0900-manasasubr",
+  "date": "2026-12-20",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Manasa Subramaniam",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Manasa Subramaniam",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Sanjith Narayanan, Rishabh Kalyan (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-20-0900",
   "date": "2026-12-20",
   "start": "09:00",
@@ -5986,6 +6480,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-20-1015-vigneshthy",
+  "date": "2026-12-20",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Vignesh Thyagarajan & Aparna Thyagarajan",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Vignesh Thyagarajan & Aparna Thyagarajan",
+    "instrument": "Violin Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Srikar Chittari, Vivek Chellappa (instruments not printed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bk-2026-12-20-1030-ritvikvadd",
@@ -6717,6 +7237,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-21-0900-vishweshka",
+  "date": "2026-12-21",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Vishwesh Kasi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vishwesh Kasi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Karthik Subramanian, Sanjeev Subramanian (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-21-0900",
   "date": "2026-12-21",
   "start": "09:00",
@@ -6756,6 +7302,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-21-1015-vaibhavpra",
+  "date": "2026-12-21",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Vaibhav Prakash",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vaibhav Prakash",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Sudarshan Prasanna, Srivatsan Srinivasan (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "skgs-2026-12-21-1100",
@@ -7461,6 +8033,32 @@
   "fetched": "2026-11-24"
  },
  {
+  "id": "as-2026-12-22-0900-madhurashr",
+  "date": "2026-12-22",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Madhura Shriram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Madhura Shriram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Sriya Venkat, Umesh Gopi (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-22-0900",
   "date": "2026-12-22",
   "start": "09:00",
@@ -7495,6 +8093,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-22-1015-pranavkikk",
+  "date": "2026-12-22",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Pranav Kikkeri",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Pranav Kikkeri",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Vishal Sowmyan, Praseed Balaji (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "skgs-2026-12-22-1100",
@@ -8164,6 +8788,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-23-0900-shruthigan",
+  "date": "2026-12-23",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Shruthi Ganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shruthi Ganesh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Visesh Uppoor, Tarun Balasubramanian (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-23-0900",
   "date": "2026-12-23",
   "start": "09:00",
@@ -8203,6 +8853,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-23-1015-saradakart",
+  "date": "2026-12-23",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Sarada Karthik",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sarada Karthik",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Karthik Subramaniam, Santhosh Subramaniam (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "skgs-2026-12-23-1100",
@@ -8846,6 +9522,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-24-0900-suryaganes",
+  "date": "2026-12-24",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Surya Ganesan & Sathya Ganesan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Surya Ganesan & Sathya Ganesan",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Sameth Sitaraman, Anirudh Ganesan (instruments not printed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-24-0900",
   "date": "2026-12-24",
   "start": "09:00",
@@ -8885,6 +9587,37 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-24-1015-sanjaysure",
+  "date": "2026-12-24",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Sanjay Suresh & Akhilandeswari",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Sanjay Suresh",
+    "instrument": "Violin",
+    "role": "main"
+   },
+   {
+    "name": "Akhilandeswari",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Ajay Gopi, Srikrishna Prasannan (instruments not printed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "skgs-2026-12-24-1100",
@@ -9305,6 +10038,32 @@
   "fetched": "2026-11-24"
  },
  {
+  "id": "as-2026-12-24-1730-jayalakshm",
+  "date": "2026-12-24",
+  "start": "17:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Jayalakshmi Sekhar",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Jayalakshmi Sekhar",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Ramapriya & Sundara Sangeetham, Mandaveli",
+  "area": "Mandaveli",
+  "source_url": "https://www.yathraemagazine.com/jayalakshmi-sekhar-veena-concerts-margazhi-2026-six-chennai-december-season-performances/",
+  "source_label": "Yathra e-magazine article",
+  "note": "Printed \"24 Dec, 5:30 pm – Ramapriya & Sundara Sangeetham, Mandaveli\" (venue or organiser – not clear). From Yathra e-magazine's article \"Jayalakshmi Sekhar veena concerts Margazhi 2026: six Chennai December season performances\" (24 Nov 2026), which prints date, time and venue only (no weekday, accompanists or tickets) – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "abst-2026-12-24-1830",
   "date": "2026-12-24",
   "start": "18:30",
@@ -9575,6 +10334,32 @@
   "fetched": "2026-11-24"
  },
  {
+  "id": "as-2026-12-25-0900-vidarshana",
+  "date": "2026-12-25",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Vidarshana Anand",
+  "main_instrument": "Flute",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Vidarshana Anand",
+    "instrument": "Flute",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Padmini Gopi, Saketh Pantula (instruments not printed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-25-0900",
   "date": "2026-12-25",
   "start": "09:00",
@@ -9681,6 +10466,32 @@
   "note": "",
   "fetched": "2026-10-16",
   "source_label": "Organiser's schedule"
+ },
+ {
+  "id": "as-2026-12-25-1015-akshaysrid",
+  "date": "2026-12-25",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Akshay Sridhar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Akshay Sridhar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Somanath Dandibhotla, Vageesh Nanduri (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bk-2026-12-25-1030-bkannanand",
@@ -10444,6 +11255,32 @@
   "fetched": "2026-11-24"
  },
  {
+  "id": "as-2026-12-26-0900-saarangaru",
+  "date": "2026-12-26",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Saarang Arun",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Saarang Arun",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Karthik Subramaniam, Krish Mohan (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-26-0900",
   "date": "2026-12-26",
   "start": "09:00",
@@ -10529,6 +11366,32 @@
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
   "source_label": "Artist's poster (Facebook)",
   "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-26-1015-villianurg",
+  "date": "2026-12-26",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Villianur G. Lalitha",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Villianur G. Lalitha",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Gopi Lakshminarayanan (instruments not printed).",
   "fetched": "2026-10-12"
  },
  {
@@ -11350,6 +12213,32 @@
   "fetched": "2026-11-24"
  },
  {
+  "id": "as-2026-12-27-0900-ameyakarth",
+  "date": "2026-12-27",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Ameya Karthikeyan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ameya Karthikeyan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Shyam Ragav, Adarsh Devarajan (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-27-0900",
   "date": "2026-12-27",
   "start": "09:00",
@@ -11389,6 +12278,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-27-1015-snithyashr",
+  "date": "2026-12-27",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "S. Nithyashree",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "S. Nithyashree",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Varun Rao (instruments not printed).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bk-2026-12-27-1030-hsooryanar",
@@ -12120,6 +13035,32 @@
   "fetched": "2026-11-24"
  },
  {
+  "id": "as-2026-12-28-0900-snigdhades",
+  "date": "2026-12-28",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Snigdha Desiraju",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Snigdha Desiraju",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Prithvi Bhaskar, Syamakrishna Mallajosyula (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-28-0900",
   "date": "2026-12-28",
   "start": "09:00",
@@ -12159,6 +13100,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-28-1015-sindhurage",
+  "date": "2026-12-28",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Sindhu Rageswari",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sindhu Rageswari",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Shree Lakshmi Bhat, Malladi Sivanand Yasasvi (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "ma-2026-12-28-1145",
@@ -12393,9 +13360,9 @@
   "festival": "75th Year Art Festival",
   "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
   "area": "Mylapore",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) as \"R. Suryaprakash - Vocal\" for the Mylapore Fine Arts Club (ticketed); not yet on the club's MDnD page. NatyaNetwork prints 4 pm for both of the day's concerts; the club's MDnD page gives 4 pm and 6.30 pm for 18–27 Dec, so the first-listed concert is shown at 4 pm – check the time before going. Accompanists not listed.",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "In the club's own 75th Year Art Festival schedule (PDF on season.mylaporetimes.com, read 25 Nov 2026) at 4 pm, ticketed (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD). Listed with Balu Raghuram, R. Sankaranarayanan (instruments not printed). First found on NatyaNetwork's Margazhi 2026 listing (22 Nov 2026) as \"R. Suryaprakash - Vocal\".",
   "fetched": "2026-10-12"
  },
  {
@@ -12709,9 +13676,9 @@
   "festival": "75th Year Art Festival",
   "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
   "area": "Mylapore",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) as \"Amritha Murali - Vocal\" for the Mylapore Fine Arts Club (ticketed); not yet on the club's MDnD page. NatyaNetwork prints 4 pm for both of the day's concerts; the club's MDnD page gives 4 pm and 6.30 pm for 18–27 Dec, so the second-listed concert is shown at 6.30 pm – check the time before going. Accompanists not listed.",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "In the club's own 75th Year Art Festival schedule (PDF on season.mylaporetimes.com, read 25 Nov 2026) at 6.30 pm, ticketed (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD). Listed with R.K. Shriramkumar, K. Arunprakash, N. Guruprasad (instruments not printed). First found on NatyaNetwork's Margazhi 2026 listing (22 Nov 2026) as \"Amritha Murali - Vocal\".",
   "fetched": "2026-10-12"
  },
  {
@@ -12912,6 +13879,32 @@
   "fetched": "2026-11-24"
  },
  {
+  "id": "as-2026-12-29-0900-smahanyash",
+  "date": "2026-12-29",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "S. Mahanya Shree",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Mahanya Shree",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Bargava Vignesh, Abhinav Kailasam (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-29-0900",
   "date": "2026-12-29",
   "start": "09:00",
@@ -12951,6 +13944,58 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-29-1000-jayalakshm",
+  "date": "2026-12-29",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Jayalakshmi Sekhar",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Jayalakshmi Sekhar",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Padhathi, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://www.yathraemagazine.com/jayalakshmi-sekhar-veena-concerts-margazhi-2026-six-chennai-december-season-performances/",
+  "source_label": "Yathra e-magazine article",
+  "note": "Printed \"29 Dec, 10:00 am – Padhathi, Mylapore\" (Paddhathi is Carnatica's music fest – not assumed). From Yathra e-magazine's article \"Jayalakshmi Sekhar veena concerts Margazhi 2026: six Chennai December season performances\" (24 Nov 2026), which prints date, time and venue only (no weekday, accompanists or tickets) – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-29-1015-thillaisth",
+  "date": "2026-12-29",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Thillaisthanam Varshini",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Thillaisthanam Varshini",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with H. Medha, Ajeet Sridhar (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bk-2026-12-29-1030-madisonsan",
@@ -13314,9 +14359,9 @@
   "festival": "75th Year Art Festival",
   "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
   "area": "Mylapore",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) as \"Chinmaya Sisters - Vocal\" for the Mylapore Fine Arts Club (ticketed); not yet on the club's MDnD page. NatyaNetwork prints 4 pm for both of the day's concerts; the club's MDnD page gives 4 pm and 6.30 pm for 18–27 Dec, so the first-listed concert is shown at 4 pm – check the time before going. Accompanists not listed.",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "In the club's own 75th Year Art Festival schedule (PDF on season.mylaporetimes.com, read 25 Nov 2026) at 4 pm, ticketed (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD). Listed with Shraddha Ravindran, J.P. Suriya Nambisan, N. Sundar (instruments not printed). First found on NatyaNetwork's Margazhi 2026 listing (22 Nov 2026) as \"Chinmaya Sisters - Vocal\".",
   "fetched": "2026-10-12"
  },
  {
@@ -13656,9 +14701,9 @@
   "festival": "75th Year Art Festival",
   "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
   "area": "Mylapore",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) as \"S. Saketharaman - Vocal\" for the Mylapore Fine Arts Club (ticketed); not yet on the club's MDnD page. NatyaNetwork prints 4 pm for both of the day's concerts; the club's MDnD page gives 4 pm and 6.30 pm for 18–27 Dec, so the second-listed concert is shown at 6.30 pm – check the time before going. Accompanists not listed.",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "In the club's own 75th Year Art Festival schedule (PDF on season.mylaporetimes.com, read 25 Nov 2026) at 6.30 pm, ticketed (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD). Listed with H.K. Venkatram, S.J. Arjun Ganesh, Sowmyanarayanan (instruments not printed). First found on NatyaNetwork's Margazhi 2026 listing (22 Nov 2026) as \"S. Saketharaman - Vocal\".",
   "fetched": "2026-10-12"
  },
  {
@@ -13833,6 +14878,32 @@
   "fetched": "2026-11-24"
  },
  {
+  "id": "as-2026-12-30-0900-vigneshsha",
+  "date": "2026-12-30",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Vignesh Shankar",
+  "main_instrument": "Guitar",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Vignesh Shankar",
+    "instrument": "Guitar",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Krishna Srikanth, Suresh Shankar (instruments not printed). Printed \"Carnatic Guitar\".",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-30-0900",
   "date": "2026-12-30",
   "start": "09:00",
@@ -13872,6 +14943,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-30-1015-prajnaadig",
+  "date": "2026-12-30",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Prajna Adiga",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Prajna Adiga",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Prithvi Bhaskar, Malladi Aravind (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bk-2026-12-30-1030-kalyanapur",
@@ -14168,9 +15265,9 @@
   "festival": "75th Year Art Festival",
   "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
   "area": "Mylapore",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) as \"Maharajapuram Ganesh Viswanathan - Vocal\" for the Mylapore Fine Arts Club (ticketed); not yet on the club's MDnD page. NatyaNetwork prints 4 pm for both of the day's concerts; the club's MDnD page gives 4 pm and 6.30 pm for 18–27 Dec, so the first-listed concert is shown at 4 pm – check the time before going. Accompanists not listed.",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "In the club's own 75th Year Art Festival schedule (PDF on season.mylaporetimes.com, read 25 Nov 2026) at 4 pm, ticketed (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD). Listed with V.L. Kumar, Sherthalai R. Ananthakrishnan (instruments not printed). First found on NatyaNetwork's Margazhi 2026 listing (22 Nov 2026) as \"Maharajapuram Ganesh Viswanathan - Vocal\".",
   "fetched": "2026-10-12"
  },
  {
@@ -14329,6 +15426,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-30-1800-jayalakshm",
+  "date": "2026-12-30",
+  "start": "18:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Jayalakshmi Sekhar",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Jayalakshmi Sekhar",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Bharatiya Vidya Bhavan, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://www.yathraemagazine.com/jayalakshmi-sekhar-veena-concerts-margazhi-2026-six-chennai-december-season-performances/",
+  "source_label": "Yathra e-magazine article",
+  "note": "Printed \"30 Dec, 6:00 pm – BVB Mylapore\"; organiser not named. From Yathra e-magazine's article \"Jayalakshmi Sekhar veena concerts Margazhi 2026: six Chennai December season performances\" (24 Nov 2026), which prints date, time and venue only (no weekday, accompanists or tickets) – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "nsu-2026-12-30-1815",
   "date": "2026-12-30",
   "start": "18:15",
@@ -14427,9 +15550,9 @@
   "festival": "75th Year Art Festival",
   "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
   "area": "Mylapore",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) as \"Dr. Nithyashree Mahadevan - Vocal\" for the Mylapore Fine Arts Club (ticketed); not yet on the club's MDnD page. NatyaNetwork prints 4 pm for both of the day's concerts; the club's MDnD page gives 4 pm and 6.30 pm for 18–27 Dec, so the second-listed concert is shown at 6.30 pm – check the time before going. Accompanists not listed.",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "In the club's own 75th Year Art Festival schedule (PDF on season.mylaporetimes.com, read 25 Nov 2026) at 6.30 pm, ticketed (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD). Listed with M.A. Krishnaswamy, Neyveli Skandasubramanian, Trichy S. Krishnaswamy (instruments not printed). First found on NatyaNetwork's Margazhi 2026 listing (22 Nov 2026) as \"Dr. Nithyashree Mahadevan - Vocal\".",
   "fetched": "2026-10-12"
  },
  {
@@ -14578,6 +15701,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-31-0900-sanikapand",
+  "date": "2026-12-31",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Sanika Pande",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sanika Pande",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Visesh Uppoor, Krish Mohan (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "ma-2026-12-31-0900",
   "date": "2026-12-31",
   "start": "09:00",
@@ -14617,6 +15766,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-31-1015-vaibhavram",
+  "date": "2026-12-31",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Vaibhav Ramu",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vaibhav Ramu",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Karthik Iyer, Krish (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
  },
  {
   "id": "skgs-2026-12-31-1100",
@@ -14897,9 +16072,9 @@
   "festival": "75th Year Art Festival",
   "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
   "area": "Mylapore",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) as \"Kruthi Vittal - Vocal\" for the Mylapore Fine Arts Club (ticketed); not yet on the club's MDnD page. NatyaNetwork prints 4 pm for both of the day's concerts; the club's MDnD page gives 4 pm and 6.30 pm for 18–27 Dec, so the first-listed concert is shown at 4 pm – check the time before going. Accompanists not listed.",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "In the club's own 75th Year Art Festival schedule (PDF on season.mylaporetimes.com, read 25 Nov 2026) at 4 pm, ticketed (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD). Listed with H.M. Smitha, Praveen Sparsh (instruments not printed). First found on NatyaNetwork's Margazhi 2026 listing (22 Nov 2026) as \"Kruthi Vittal - Vocal\".",
   "fetched": "2026-10-12"
  },
  {
@@ -15171,9 +16346,9 @@
   "festival": "75th Year Art Festival",
   "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
   "area": "Mylapore",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) as \"Papanasam Ashok Ramani - Vocal\" for the Mylapore Fine Arts Club (ticketed); not yet on the club's MDnD page. NatyaNetwork prints 4 pm for both of the day's concerts; the club's MDnD page gives 4 pm and 6.30 pm for 18–27 Dec, so the second-listed concert is shown at 6.30 pm – check the time before going. Accompanists not listed.",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "In the club's own 75th Year Art Festival schedule (PDF on season.mylaporetimes.com, read 25 Nov 2026) at 6.30 pm, ticketed (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD). Listed with R.K. Shriramkumar, S.J. Arjun Ganesh, Trichy S. Krishnaswamy (instruments not printed). First found on NatyaNetwork's Margazhi 2026 listing (22 Nov 2026) as \"Papanasam Ashok Ramani - Vocal\".",
   "fetched": "2026-10-12"
  },
  {
@@ -15358,6 +16533,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2027-01-01-0930-lalgudigjr",
+  "date": "2027-01-01",
+  "start": "09:30",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Lalgudi G.J.R. Krishnan & Lalgudi Vijayalakshmi",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Lalgudi G.J.R. Krishnan & Lalgudi Vijayalakshmi",
+    "instrument": "Violin Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Mylapore Fine Arts Club",
+  "festival": "75th Year Art Festival",
+  "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Entry not stated: the PDF's free-entry line names only the 9 am and 10.15 am concerts. Printed under \"01.12.2026 Friday\" after 31 Dec – read as 1 Jan 2027 (a Friday). Listed with Trichy S. Sankaran, V. Suresh (instruments not printed).",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bk-2027-01-01-1030-ganeshkuma",
   "date": "2027-01-01",
   "start": "10:30",
@@ -15538,9 +16739,9 @@
   "festival": "75th Year Art Festival",
   "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
   "area": "Mylapore",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) as \"R. Ashwathnarayanan - Vocal\" for the Mylapore Fine Arts Club (ticketed); not yet on the club's MDnD page. NatyaNetwork prints 4 pm for both of the day's concerts; the club's MDnD page gives 4 pm and 6.30 pm for 18–27 Dec, so the first-listed concert is shown at 4 pm – check the time before going. Accompanists not listed.",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "In the club's own 75th Year Art Festival schedule (PDF on season.mylaporetimes.com, read 25 Nov 2026) at 4 pm, ticketed (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD). Listed with Sruthi Sarathy, Adarsh Devarajan (instruments not printed). First found on NatyaNetwork's Margazhi 2026 listing (22 Nov 2026) as \"R. Ashwathnarayanan - Vocal\".",
   "fetched": "2026-10-12"
  },
  {
@@ -15709,9 +16910,9 @@
   "festival": "75th Year Art Festival",
   "venue": "The Mylapore Fine Arts Club, 45 Musiri Subramaniam Road, Mylapore",
   "area": "Mylapore",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) as \"Akkarai Sisters - Vocal\" for the Mylapore Fine Arts Club (ticketed); not yet on the club's MDnD page. NatyaNetwork prints 4 pm for both of the day's concerts; the club's MDnD page gives 4 pm and 6.30 pm for 18–27 Dec, so the second-listed concert is shown at 6.30 pm – check the time before going. Accompanists not listed.",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "In the club's own 75th Year Art Festival schedule (PDF on season.mylaporetimes.com, read 25 Nov 2026) at 6.30 pm, ticketed (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD). Listed with Shruthi Sarathi, Delhi Sairam, Sai Subramaniam (instruments not printed). First found on NatyaNetwork's Margazhi 2026 listing (22 Nov 2026) as \"Akkarai Sisters - Vocal\".",
   "fetched": "2026-10-12"
  },
  {
@@ -16161,6 +17362,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2027-01-03-1600-shashankga",
+  "date": "2027-01-03",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shashank Ganeshan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shashank Ganeshan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sat Sangam Sabha",
+  "festival": "37th Year Annual Music/Dance Festival 2027",
+  "venue": "Sri Sath Sangam (Ramanujar Hall), Madipakkam",
+  "area": "Madipakkam",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Sri Sath Sangam's 37th Year Annual Music/Dance Festival 2027 (chennaievent.com, watcher snapshot 24 Nov 2026), Sun 3 Jan, 4 pm, with ChittoorV. Bhargava Vignesh (instrument not printed). No category printed (vocal assumed). \"Daily tickets Rs 100, available from 15 Dec at the hall.\"",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "skgs-2027-01-03-1600",
   "date": "2027-01-03",
   "start": "16:00",
@@ -16443,6 +17670,32 @@
   "source_label": "chennaievent.com listing",
   "note": "With Shreelakshmi S. Bhat, Nikshith Puttur, Kottayam Rohit Prasad (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
+ },
+ {
+  "id": "as-2027-01-04-1600-ksivaraman",
+  "date": "2027-01-04",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K. Sivaraman",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "K. Sivaraman",
+    "instrument": "Violin",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sat Sangam Sabha",
+  "festival": "37th Year Annual Music/Dance Festival 2027",
+  "venue": "Sri Sath Sangam (Ramanujar Hall), Madipakkam",
+  "area": "Madipakkam",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Sri Sath Sangam's 37th Year Annual Music/Dance Festival 2027 (chennaievent.com, watcher snapshot 24 Nov 2026), Mon 4 Jan, 4 pm, printed as \"Violin Duo (Anushree Iyer is another violin support)\" with K. Sivaraman, N. Ramakrishnan and N. Rajaraman (instruments not printed). \"Daily tickets Rs 100, available from 15 Dec at the hall.\"",
+  "fetched": "2026-10-12"
  },
  {
   "id": "nsu-2027-01-04-1815",
