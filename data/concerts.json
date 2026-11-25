@@ -176,6 +176,32 @@
   "fetched": "2026-11-18"
  },
  {
+  "id": "kfa-2026-12-01-1900",
+  "date": "2026-12-01",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Amritha Murali",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Amritha Murali",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
+  "area": "Alwarpet / TTK Road",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Chudar' title. Opening concert after the 6 pm inauguration (1 Dec, Tue). Listed with R.K. Shriram Kumar (violin), N. Manoj Siva (mridangam), S. Krishna (ghatam). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-02-1430-snigdhades",
   "date": "2026-12-02",
   "start": "14:30",
@@ -297,13 +323,39 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Kamalakiran Vinjamuri (violin), Praveen Sparsh (mridangam), K.V. Gopalakrishnan (kanjira). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-02-1730",
+  "date": "2026-12-02",
+  "start": "17:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shreya Kolathaya & Anuvratha Narasimhan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Shreya Kolathaya & Anuvratha Narasimhan",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "5.30 pm: release of the book 'Sundara Suswara Ganam' (songs of Sundaravalli Ammal), then this concert of those songs – start time approximate. Listed with Charulatha Chandrasekhar (veena), Shree Lakshmi Bhat (violin), Kaushik Sridhar (mridangam), Shamith Gowda (ghatam). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-02-1730-shruthisbh",
@@ -401,13 +453,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with B. Vittal Rangan, N.C. Bharadwaj, S. Krishna (ghatam); vocal support Pramod Gokhale (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-02-1915-drrganesh",
@@ -541,13 +593,39 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with L. Ramakrishnan, Neyveli S. Skandasubramanian, Alathur T. Rajaganesh (kanjira) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-03-1700",
+  "date": "2026-12-03",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Padmaja Parameswaran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Padmaja Parameswaran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Padmanabha Shoure' – Swati Tirunal special. Listed with Dr Vrinda Varma, K. Krishnasravan (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-03-1730-niranjandi",
@@ -600,6 +678,32 @@
   "source_label": "chennaievent.com listing",
   "note": "16th ACC's Anniversary festival (Arkay Convention Center's 16th anniversary music festival, 21 Nov – 6 Dec 2026), listed on chennaievent.com (read 21 Nov 2026); \"Free admission. Rasikas welcome\" (chennaidecemberseason.com, 17 Nov 2026); contributions to Madhuradhwani's account welcome. Listed with R. Madhavan, Trivandrum V. Balaji, K.V. Gopalakrishnan (instruments not printed).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-03-1830",
+  "date": "2026-12-03",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Premeela Gurumurthy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Premeela Gurumurthy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Pakkala Ramdas, K.R. Ganesh (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "bvb-2026-12-03-1845",
@@ -775,13 +879,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Kamalakiran Vinjamuri, N.C. Bharadwaj, Dr S. Karthick (ghatam) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-04-1645-ramanabala",
@@ -844,6 +948,32 @@
   "source_label": "chennaievent.com listing",
   "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Fri 4 Dec, themed concert 'Shivoham' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Krithika Natarajan M. Vijay B. Guru Raghavendra K. R. Sivaramakrishna\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-04-1800",
+  "date": "2026-12-04",
+  "start": "18:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Sumithra Vasudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Sumithra Vasudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Part of \"Guruguhaamrta's A Weekend with Dikshitar – 2026\" (4–6 Dec). Follows the 5.30 pm inauguration. Listed with L. Ramakrishnan, B. Ganapathyraman, Trivandrum D. Rajagopal (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-04-1830-palghatrra",
@@ -915,13 +1045,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Alankode V.S. Gokul, Sumesh Narayanan, S. Krishna (ghatam) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-04-1915-madurainsi",
@@ -1019,13 +1149,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed 4.00–6.30 pm. Listed with S. Sayee Rakshith, N.C. Bharadwaj, G. Chandrasekara Sharma (ghatam) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-05-1600-vishruthig",
@@ -1106,6 +1236,32 @@
   "fetched": "2026-11-18"
  },
  {
+  "id": "ni-2026-12-05-1700",
+  "date": "2026-12-05",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "R. Anirudh Subramanian",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "R. Anirudh Subramanian",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed as \"R Anirudh Subramanian and party\" (category not printed; vocal assumed). Part of \"Guruguhaamrta's A Weekend with Dikshitar – 2026\" (4–6 Dec). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-05-1730-ranjanisiv",
   "date": "2026-12-05",
   "start": "17:30",
@@ -1130,6 +1286,32 @@
   "source_label": "chennaievent.com listing",
   "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Sat 5 Dec, themed concert 'Dial 9 for Devi' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Ranjani Sivakumar Shraddha Ravindran Akshay Ram. R\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-05-1800",
+  "date": "2026-12-05",
+  "start": "18:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sikkil C. Gurucharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sikkil C. Gurucharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Part of \"Guruguhaamrta's A Weekend with Dikshitar – 2026\" (4–6 Dec). Listed with V. Sanjeev, Tiruvarur Bakthavatsalam, Anirudh Athreya (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-05-1830-sudharagun",
@@ -1277,6 +1459,84 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-06-0900",
+  "date": "2026-12-06",
+  "start": "09:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "A.S. Murali and disciples",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "A.S. Murali and disciples",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Dikshitar kirtanams (group). Part of \"Guruguhaamrta's A Weekend with Dikshitar – 2026\" (4–6 Dec). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-06-1130",
+  "date": "2026-12-06",
+  "start": "11:30",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "R.S. Jayalakshmi & Charulatha Chandrasekar",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "R.S. Jayalakshmi & Charulatha Chandrasekar",
+    "instrument": "Veena Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Part of \"Guruguhaamrta's A Weekend with Dikshitar – 2026\" (4–6 Dec). Listed with Manoj Siva (mridangam), N. Guruprasad (ghatam). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-06-1400",
+  "date": "2026-12-06",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Mahati Tirupathi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Mahati Tirupathi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed as \"Mahati Tirupathi and party\" (category not printed; vocal assumed). Part of \"Guruguhaamrta's A Weekend with Dikshitar – 2026\" (4–6 Dec). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "kfa-2026-12-06-1600",
   "date": "2026-12-06",
   "start": "16:00",
@@ -1294,13 +1554,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed 4.00–6.30 pm. Listed with L. Ramakrishnan, N.C. Bharadwaj, Anirudh Athreya (kanjira) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-06-1600-pathangibr",
@@ -1379,6 +1639,32 @@
   "source_label": "chennaievent.com listing",
   "note": "Listed on chennaievent.com (read 22 Nov 2026) under \"Bhavan's Margazhi Mahotsav 2026 – 1st Edition – In Assn. with South Zone Culture Centre\" at the Bhavan main auditorium, \"Vocal Duo\"; this 4.30 pm slot had no artist printed in the Kendra's programme schedule PDF. Free (\"All are welcome\" for the festival). Accompanists not listed.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-06-1630",
+  "date": "2026-12-06",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Anmol Shankar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Anmol Shankar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed as \"Anmol Shankar and party\", prize winner of the 2025 Dikshitar kirtanams competition (category not printed; vocal assumed). Part of \"Guruguhaamrta's A Weekend with Dikshitar – 2026\" (4–6 Dec). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-06-1730-vdeepikavn",
@@ -1485,6 +1771,32 @@
   "fetched": "2026-11-18"
  },
  {
+  "id": "ni-2026-12-06-1900",
+  "date": "2026-12-06",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vignesh Ishwar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vignesh Ishwar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Part of \"Guruguhaamrta's A Weekend with Dikshitar – 2026\" (4–6 Dec). Follows the 6.15 pm prize distribution. Listed with Dr R. Hemalatha, K. Arunprakash, K.V. Gopalakrishnan (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-06-1915-srirangamv",
   "date": "2026-12-06",
   "start": "19:15",
@@ -1509,6 +1821,32 @@
   "source_label": "chennaievent.com listing",
   "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Sun 6 Dec, themed concert 'Krishnarpanam' (chennaievent.com, read 24 Nov 2026). Performers printed run together without instruments: \"Srirangam Venkatanagarajan VSP Gayatri Sivani Vijay Ganesh\" (main artist taken as the first name). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-07-1000",
+  "date": "2026-12-07",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "K. Giridharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K. Giridharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with B. Ananthakrishnan, J. Vaidhyanathan, Dr S. Karthick (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-07-1430-shalinimut",
@@ -1537,6 +1875,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-07-1500",
+  "date": "2026-12-07",
+  "start": "15:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Haritha Narayanan",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Haritha Narayanan",
+    "instrument": "Violin",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Violin solo. Mathangi Chamber Music series (7–10 Dec). Listed with A. Rohith, Hari Kishore (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-07-1600-samanvitha",
   "date": "2026-12-07",
   "start": "16:00",
@@ -1561,6 +1925,32 @@
   "source_label": "chennaievent.com listing",
   "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Mon 7 Dec, themed concert 'Compositions of Pre Trinity Composers' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Samanvitha G. Sasidharan / Karthick Iyer / Jeyendra Kumar\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-07-1615",
+  "date": "2026-12-07",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Aditi B. Prahalad",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aditi B. Prahalad",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with Shreelakshmi Bhat, Trichy G. Aravind (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-07-1630-sjjananiy",
@@ -1606,13 +1996,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with S. Sayee Rakshith, Sumesh Narayanan, K.V. Gopalakrishnan (kanjira) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-07-1730-drnjayakri",
@@ -1641,6 +2031,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-07-1815",
+  "date": "2026-12-07",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Srivathsan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Srivathsan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with L. Ramakrishnan, Trivandrum V. Balaji, Sunil Kumar (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "kfa-2026-12-07-1845",
   "date": "2026-12-07",
   "start": "18:45",
@@ -1658,13 +2074,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Delhi R. Sridhar, Akshay Ram, D.V. Venkatasubramaniam (ghatam) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-07-1915-drbabysree",
@@ -1693,6 +2109,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-08-1000",
+  "date": "2026-12-08",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Sathur Krishna Ramarathinam",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sathur Krishna Ramarathinam",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with Raghul, Kallidaikurichi Sivakumar, Madipakkam Murali (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-08-1430-aryanagara",
   "date": "2026-12-08",
   "start": "14:30",
@@ -1719,6 +2161,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-08-1500",
+  "date": "2026-12-08",
+  "start": "15:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Ranjani Radha",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ranjani Radha",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with Charulatha Chandrasekar (veena), Pazhani Balaji. Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-08-1600-eranirudh",
   "date": "2026-12-08",
   "start": "16:00",
@@ -1743,6 +2211,32 @@
   "source_label": "chennaievent.com listing",
   "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Tue 8 Dec, themed concert 'Andal Thiruppavai' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Anirudh. E.R. / Shrihari Vittal / A. Rohith\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-08-1615",
+  "date": "2026-12-08",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dhanush Anantharaman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dhanush Anantharaman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with Shreelakshmi Bhat, Puttur Nikshith, Rohith Prasad (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "bvb-2026-12-08-1630",
@@ -1788,13 +2282,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with L. Ramakrishnan, Neyveli R. Narayanan, V. Anirudh Athreya (kanjira) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-08-1730-varalakshm",
@@ -1821,6 +2315,32 @@
   "source_label": "chennaievent.com listing",
   "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Tue 8 Dec, themed concert 'Tribute to D.K. Jeyaraman' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Varalakshmi Anandakumar / Shraddha Ravindran\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-08-1815",
+  "date": "2026-12-08",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Swarathmika Srikanth",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Swarathmika Srikanth",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with Bombay Madhavan, B. Sivaraman, Shri Sainath (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "bvb-2026-12-08-1845",
@@ -1866,13 +2386,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with H.N. Bhaskar, Trichur C. Narendran, S. Krishna (ghatam) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-08-1915-iyersister",
@@ -1901,6 +2421,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-09-1000",
+  "date": "2026-12-09",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Abhinaya Ananthanarayanan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Abhinaya Ananthanarayanan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with Gayathri Vibhavari, Puttur Nikshith, Sai Bharath (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-09-1430-sreyasunda",
   "date": "2026-12-09",
   "start": "14:30",
@@ -1927,6 +2473,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-09-1500",
+  "date": "2026-12-09",
+  "start": "15:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "S. Kirthana",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Kirthana",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with Bargava Vignesh, Abhinav Kailasam (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-09-1600-adithiprah",
   "date": "2026-12-09",
   "start": "16:00",
@@ -1951,6 +2523,32 @@
   "source_label": "chennaievent.com listing",
   "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Wed 9 Dec, themed concert 'Dasar Kritis' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Adithi Prahlad Banavadi / Chetana Shekar / Prajwal Bharadwaj\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-09-1615",
+  "date": "2026-12-09",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vignesh Krishnamurthy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vignesh Krishnamurthy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with N. Madan Mohan, S. Kavichelvan (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-09-1630-ksvishnude",
@@ -1996,13 +2594,39 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R.K. Shriram Kumar, K. Arunprakash, N. Guruprasad (ghatam) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-09-1815",
+  "date": "2026-12-09",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Kruthi Vittal",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kruthi Vittal",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with Kamalakiran Vinjamuri, B. Sivaraman, Sunil Kumar (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "bvb-2026-12-09-1845",
@@ -2089,13 +2713,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Mysore V. Srikanth, Srimushnam V. Raja Rao, N. Guruprasad (ghatam) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-09-1915-abhiramgbo",
@@ -2122,6 +2746,84 @@
   "source_label": "chennaievent.com listing",
   "note": "\"Partha Parampara Music Series – 2026 – Programs Powered by Nalli\", Wed 9 Dec, themed concert 'The Grace of Five' (chennaievent.com, watcher snapshot 24 Nov 2026). Performers printed without instruments: \"Abhiram G. Bode / Gayatri Vibhavari. V / Malladi Sree Aravind\" (main artist taken as the first name; vocal assumed). No organiser or ticket line printed (the 2025 edition was hosted by Sri Parthasarathy Swami Sabha and free, per chennaidecemberseason.com – not assumed).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-10-1000",
+  "date": "2026-12-10",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Kolkata S. Aishwarya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kolkata S. Aishwarya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with R. Srikriti, Ajeet Sridhar, G. Ganapathy (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-10-1500",
+  "date": "2026-12-10",
+  "start": "15:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Aathreyee Krishna",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aathreyee Krishna",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with Shreelakshmi Bhat, Anirudh Raj (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-10-1615",
+  "date": "2026-12-10",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Veena Venkatramani",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Veena Venkatramani",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with B.S. Prashanth, Papanasam Dr S. Sethuraman (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "bvb-2026-12-10-1630",
@@ -2167,13 +2869,39 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with B. Vittal Rangan, Delhi Sairam, S. Sunil Kumar (kanjira) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-10-1815",
+  "date": "2026-12-10",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Pranathi Ganapuram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Pranathi Ganapuram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Naada Inbam",
+  "festival": "Pre-music festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mathangi Chamber Music series (7–10 Dec). Listed with Haritha Narayanan, B. Sivaraman, Shri Sainath (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-10-1830-ksvishnude",
@@ -2338,13 +3066,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Violin by Mysore brothers\". Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mysore M. Nagaraj & Dr M. Manjunath, printed 4.00–6.00 pm; no hall header printed on that page (main hall assumed, as for the rest of 1–12 Dec). Listed with Patri Satish Kumar, Dr Suresh Vaidyanathan (ghatam) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "cg-2026-12-11-1630",
@@ -2572,13 +3300,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Mysore V. Srikanth, Praveen Sparsh, G. Guru Prasanna (kanjira) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-12-1830-sandeepnar",
@@ -2691,13 +3419,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Kartik Fine Arts",
-  "festival": "52nd Art Festival",
-  "venue": "Narada Gana Sabha, 314 TTK Road, Alwarpet",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet",
   "area": "Alwarpet / TTK Road",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.",
-  "fetched": "2026-11-12"
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with H.M. Smitha, K.V. Prasad, R. Raman (morsing) (instruments not printed except where shown). Season and daily tickets on MDnD.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-12-1900-jayalakshm",
@@ -2724,6 +3452,32 @@
   "source_label": "Yathra e-magazine article",
   "note": "Printed \"12 Dec, 7:00 pm – Narada Gana Sabha\"; organiser not named (the venue's own sabha is not assumed; its festival opens 13 Dec, and Kartik Fine Arts' 12 Dec 6.45 pm concert is also at Narada Gana Sabha). From Yathra e-magazine's article \"Jayalakshmi Sekhar veena concerts Margazhi 2026: six Chennai December season performances\" (24 Nov 2026), which prints date, time and venue only (no weekday, accompanists or tickets) – check before going.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "kfa-2026-12-13-1000",
+  "date": "2026-12-13",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Madhuri Kaushik",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Madhuri Kaushik",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Shreelakshmi S. Bhat, Kaushik Sridhar (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "skgs-2026-12-13-1100",
@@ -2788,6 +3542,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "kfa-2026-12-13-1215",
+  "date": "2026-12-13",
+  "start": "12:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Snigdha Desiraju",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Snigdha Desiraju",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R. Naveen, Pazhani V. Balaji (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "skgs-2026-12-13-1300",
   "date": "2026-12-13",
   "start": "13:00",
@@ -2829,6 +3609,58 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "kfa-2026-12-13-1400",
+  "date": "2026-12-13",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Purva Dhanashree Cotah & Pavani Cotah",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Purva Dhanashree Cotah & Pavani Cotah",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Sanjay Sharma, Anirudh Raj N (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "kfa-2026-12-13-1600",
+  "date": "2026-12-13",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Kruthi Vittal",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kruthi Vittal",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Chudar' title. Listed with Sayee Rakshith, Akshay Ananthapadmanabhan, S. Venkataramanan (kanjira) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "cg-2026-12-13-1630",
   "date": "2026-12-13",
   "start": "16:30",
@@ -2853,6 +3685,32 @@
   "source_label": "MDnD listing",
   "note": "Listed as \"Carnatic Violin and Viola Concert\". Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
   "fetched": "2026-11-17"
+ },
+ {
+  "id": "kfa-2026-12-13-1700",
+  "date": "2026-12-13",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sriranjani Tapasya Santhanagopalan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sriranjani Tapasya Santhanagopalan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Main Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Peroli' title. Listed with V.S.P. Gayatri Shivani, Praveen Sparsh, Dr S. Karthick (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Main Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-13-1800-sanjaysubr",
@@ -2922,6 +3780,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "kfa-2026-12-13-1815",
+  "date": "2026-12-13",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Jayashree Aravind",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Jayashree Aravind",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with B. Sivaraman, Madipakkam A. Murali (ghatam) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "ngs-2026-12-13-1830",
   "date": "2026-12-13",
   "start": "18:30",
@@ -2972,6 +3856,32 @@
   "source_label": "MDnD listing",
   "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
   "fetched": "2026-11-17"
+ },
+ {
+  "id": "kfa-2026-12-13-1900",
+  "date": "2026-12-13",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Madurai T.N.S. Krishna",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Madurai T.N.S. Krishna",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Main Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with B.U. Ganesh Prasad, Sherthalai R. Ananthakrishnan, Prasanna Hariharan (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Main Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "skgs-2026-12-14-1100",
@@ -3051,6 +3961,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "kfa-2026-12-14-1400",
+  "date": "2026-12-14",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Aathreyee Krishna",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aathreyee Krishna",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R. Srikriti, Sarvesh Karthick (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "ngs-2026-12-14-1530",
   "date": "2026-12-14",
   "start": "15:30",
@@ -3103,6 +4039,32 @@
   "fetched": "2026-11-17"
  },
  {
+  "id": "kfa-2026-12-14-1600",
+  "date": "2026-12-14",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "V. Deepika & V. Nandika",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "V. Deepika & V. Nandika",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Chudar' title. Listed with Alankode V.S. Gokul, Guru Raghavendra, K.R. Sivaramakrishna (kanjira) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "skgs-2026-12-14-1600",
   "date": "2026-12-14",
   "start": "16:00",
@@ -3137,6 +4099,58 @@
   "note": "",
   "fetched": "2026-10-16",
   "source_label": "Organiser's schedule"
+ },
+ {
+  "id": "kfa-2026-12-14-1700",
+  "date": "2026-12-14",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vasudha Ravi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vasudha Ravi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Main Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Peroli' title. Listed with Bombay R. Madhavan, J. Vaidyanathan, Bhagyalakshmi M. Krishna (morsing) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Main Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "kfa-2026-12-14-1815",
+  "date": "2026-12-14",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Savita Sreeram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Savita Sreeram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Karaikal S. Venkatasubramanian, M.S. Venkatasubramanian, D.V. Venkatasubramaniam (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "bk-2026-12-14-1830-trichurbro",
@@ -3243,6 +4257,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "kfa-2026-12-14-1900",
+  "date": "2026-12-14",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "J.A. Jayant",
+  "main_instrument": "Flute",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "J.A. Jayant",
+    "instrument": "Flute",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Main Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Peroli' title. Listed with Kamalakiran Vinjamuri, Parupalli Phalgun, G. Chandrasekara Sharma (ghatam) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Main Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "skgs-2026-12-15-1100",
   "date": "2026-12-15",
   "start": "11:00",
@@ -3318,6 +4358,32 @@
   "note": "",
   "fetched": "2026-10-16",
   "source_label": "Organiser's schedule"
+ },
+ {
+  "id": "kfa-2026-12-15-1400",
+  "date": "2026-12-15",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Niranjan Dindodi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Niranjan Dindodi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R.D. Shyam Raghav, Pazhani V. Balaji (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "ngs-2026-12-15-1530",
@@ -3527,6 +4593,58 @@
   "fetched": "2026-11-17"
  },
  {
+  "id": "kfa-2026-12-15-1700",
+  "date": "2026-12-15",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Spoorthi Rao",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Spoorthi Rao",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Main Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Chudar' title. Listed with Keshav Mohankumar, K. Sai Giridhar, S. Krishna (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Main Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "kfa-2026-12-15-1815",
+  "date": "2026-12-15",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "T.V. Ramprasadh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "T.V. Ramprasadh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with T.K.V. Ramanujacharyulu, T.R. Sundaresan, Trichy Dr K. Murali (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "abst-2026-12-15-1830",
   "date": "2026-12-15",
   "start": "18:30",
@@ -3655,6 +4773,32 @@
   "source_label": "MDnD listing",
   "note": "Listed as \"Palghat Ramprasad\". Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
   "fetched": "2026-11-17"
+ },
+ {
+  "id": "kfa-2026-12-15-1900",
+  "date": "2026-12-15",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Papanasam Ashok Ramani",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Papanasam Ashok Ramani",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Main Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Peroli' title. Listed with B. Ananthakrishnan, Neyveli R. Narayanan, K.V. Gopalakrishnan (kanjira) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Main Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "ma-2026-12-15-1900",
@@ -3893,6 +5037,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-16-1400",
+  "date": "2026-12-16",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Arya Nagarajan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Arya Nagarajan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R. Swadisri, Sannath Parameswaran (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "ngs-2026-12-16-1530",
   "date": "2026-12-16",
   "start": "15:30",
@@ -3969,6 +5139,32 @@
   "source_label": "MDnD listing",
   "note": "Vocal concert with B. Ananthakrishnan, K. Sai Giridhar, S. Sunil Kumar (chennaievent.com, 22 Nov 2026; instruments not printed).",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-16-1600",
+  "date": "2026-12-16",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Jayashree Vaidyanathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Jayashree Vaidyanathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Durai Srinivasan, Thillaisthanam R. Suriyanarayanan, Giridhara Prasad (kanjira) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "skgs-2026-12-16-1600",
@@ -4072,6 +5268,58 @@
   "source_label": "MDnD listing",
   "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
   "fetched": "2026-11-17"
+ },
+ {
+  "id": "kfa-2026-12-16-1700",
+  "date": "2026-12-16",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Nisha Rajagopalan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Nisha Rajagopalan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Main Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Peroli' title. Listed with V.V.S. Murari, S.J. Arjun Ganesh, G. Chandrasekara Sharma (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Main Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "kfa-2026-12-16-1815",
+  "date": "2026-12-16",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Thiruvarur S. Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Thiruvarur S. Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Delhi R. Sridhar, Dr S. Balashankar, Chittor S. Venkataramanan (kanjira) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-16-1830-ksvishnude",
@@ -4245,6 +5493,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-17-1000",
+  "date": "2026-12-17",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Harikishan P",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Harikishan P",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Srikrishnan Subramanian, Punnur Arvind Kaushik (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "skgs-2026-12-17-1100",
   "date": "2026-12-17",
   "start": "11:00",
@@ -4315,6 +5589,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2026-12-17-1215",
+  "date": "2026-12-17",
+  "start": "12:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Shreya Ravikumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shreya Ravikumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with B. Navaneethakrishnan, Abhinav Kailasam (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "skgs-2026-12-17-1300",
@@ -4399,6 +5699,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-17-1400",
+  "date": "2026-12-17",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Ranjani Radha",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ranjani Radha",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with V. Bargava Vignesh, A. Rohith (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "ngs-2026-12-17-1530",
   "date": "2026-12-17",
   "start": "15:30",
@@ -4475,6 +5801,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-17-1600",
+  "date": "2026-12-17",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sreeranjane Kaushik",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sreeranjane Kaushik",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Karaikal S. Venkatasubramanian, Thirucherai B. Kaushik, Nerkunam S. Manikandan (morsing) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "skgs-2026-12-17-1600",
@@ -4614,6 +5966,32 @@
   "source_label": "Artist's poster (Facebook)",
   "note": "Listed under \"Carnatica Global\" at \"Sri Sankara Matriculation School, Thiruvanmiyur\" on the artist's poster; also on MDnD (4.30 pm, ticketed) in the Global Heritage Music & Arts Fest 2026 presented by Carnatica and Sri Parthasarathy Swami Sabha (venue per indian-heritage.org). From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "kfa-2026-12-17-1815",
+  "date": "2026-12-17",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K.H. Mangala",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K.H. Mangala",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with M. Vijay, M.S. Varadhan, Shamith Gowda (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "abst-2026-12-17-1830",
@@ -4813,6 +6191,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-17-1900",
+  "date": "2026-12-17",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Gayathri Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Gayathri Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Main Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Peroli' title. Listed with B. Ananthakrishnan, Poongulam Subramaniam, N. Rajaraman (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Main Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-18-0900-nachiketha",
   "date": "2026-12-18",
   "start": "09:00",
@@ -4873,6 +6277,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2026-12-18-1000",
+  "date": "2026-12-18",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Preeti Sethuraman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Preeti Sethuraman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Chudar' title. Listed with Shreelakshmi S. Bhat, Suriya Nambisan (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-18-1000-ksvishnude",
@@ -4999,6 +6429,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-18-1215",
+  "date": "2026-12-18",
+  "start": "12:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Thillaisthanam Sisters (S. Vardhini & S. Varshini)",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Thillaisthanam Sisters (S. Vardhini & S. Varshini)",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "No category printed (vocal duet assumed). Listed with Madurai T. Kishore, S. Viknesh (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "skgs-2026-12-18-1300",
   "date": "2026-12-18",
   "start": "13:00",
@@ -5081,6 +6537,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-18-1400",
+  "date": "2026-12-18",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Sanjana Harikumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sanjana Harikumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Gayathri Vibhavari, Mumbai Rohit Prasad (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "ngs-2026-12-18-1530",
   "date": "2026-12-18",
   "start": "15:30",
@@ -5157,6 +6639,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-18-1600",
+  "date": "2026-12-18",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Abhishek Ravishankar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Abhishek Ravishankar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Sivateja Mallajosyula, Chidambaram B. Saishankar, Kumbakonam S. Balaji Sairam (morsing) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "mfac-2026-12-18-1600",
@@ -5379,6 +6887,32 @@
   "source_label": "Artist's poster",
   "note": "Listed as \"Soulfest 2026\"; organiser not named. From the artist's season poster \"Margazhi Concert Schedule 2026-27 – Charumathi Raghuraman\" (Instagram, sent in by the site owner 19 Nov 2026; copy kept with the site's sources; tickets info at charuraghu.com). Details updated 20 Nov 2026 from charuraghu.com/events: ticketed (tickets link to theticket9.com); organiser still not named.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "kfa-2026-12-18-1815",
+  "date": "2026-12-18",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Balu Masti",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Balu Masti",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Tumkur B. Ravishankar, Trichy Dr K. Murali (ghatam) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "abst-2026-12-18-1830",
@@ -5712,6 +7246,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-19-1000",
+  "date": "2026-12-19",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Kamalakiran Vinjamuri",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Kamalakiran Vinjamuri",
+    "instrument": "Violin",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed as a violin solo. Listed with Kishore Ramesh, K.V. Gopalakrishnan (kanjira) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-19-1015-prithinara",
   "date": "2026-12-19",
   "start": "10:15",
@@ -5810,6 +7370,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-19-1215",
+  "date": "2026-12-19",
+  "start": "12:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Ritvik Y.V.",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ritvik Y.V.",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R. Naveen, Sarvajit Krishna Mohan (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "skgs-2026-12-19-1300",
   "date": "2026-12-19",
   "start": "13:00",
@@ -5890,6 +7476,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2026-12-19-1400",
+  "date": "2026-12-19",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Malladi Sivanand Yasasvi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Malladi Sivanand Yasasvi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Sindhu Rageswari, Anirudh Raj N (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-19-1400-spoorthira",
@@ -5994,6 +7606,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-19-1600",
+  "date": "2026-12-19",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shreya Devnath",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Shreya Devnath",
+    "instrument": "Violin",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed as a violin solo. 'Isai Peroli' title. Listed with Vijay B. Natesan, Trichy S. Krishnaswamy (ghatam) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "mfac-2026-12-19-1600",
@@ -6180,6 +7818,32 @@
   "source_label": "NatyaNetwork listing",
   "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
   "fetched": "2026-11-24"
+ },
+ {
+  "id": "kfa-2026-12-19-1815",
+  "date": "2026-12-19",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Aruna Prabha Ranganathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aruna Prabha Ranganathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Tanjavur Ramaakrishnan, B. Ganapathiraman, H. Sivaramakrishnan (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "abst-2026-12-19-1830",
@@ -6482,6 +8146,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-20-1000",
+  "date": "2026-12-20",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Supriya Raja",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Supriya Raja",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Subhashree Sivaramakrishna, S. Kavichelvan (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-20-1015-vigneshthy",
   "date": "2026-12-20",
   "start": "10:15",
@@ -6606,6 +8296,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-20-1215",
+  "date": "2026-12-20",
+  "start": "12:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Vijayanti Pappu",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Vijayanti Pappu",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Siddhanth Girish, R. Sai Bharath (kanjira) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "ma-2026-12-20-1330",
   "date": "2026-12-20",
   "start": "13:30",
@@ -6645,6 +8361,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2026-12-20-1400",
+  "date": "2026-12-20",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "S. Mahanyashree",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Mahanyashree",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Parur M.K. Ananthabalasubramaniam, Mumbai Rohit Prasad (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "ngs-2026-12-20-1530",
@@ -6775,6 +8517,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-20-1600",
+  "date": "2026-12-20",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sunil R. Gargyan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sunil R. Gargyan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Chudar' title. Listed with Dr Jyotsna Srikanth, Melakaveri K. Balaji, Nerkunam Dr S. Sankar (kanjira) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "mfac-2026-12-20-1600",
@@ -7002,6 +8770,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "kfa-2026-12-20-1815",
+  "date": "2026-12-20",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Jayaprada Ramamurthy",
+  "main_instrument": "Flute",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Dr. Jayaprada Ramamurthy",
+    "instrument": "Flute",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Pappu Gyandev, Anirudha S. Bhat (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "cg-2026-12-20-1830",
@@ -7489,6 +9283,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-21-1400",
+  "date": "2026-12-21",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Navaneethakrishnan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Navaneethakrishnan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with V. Bargava Vignesh, Pazhani V. Balaji (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-21-1430-ashwathnar",
   "date": "2026-12-21",
   "start": "14:30",
@@ -7591,6 +9411,32 @@
   "source_label": "MDnD listing",
   "note": "Vocal concert; printed \"Kalyanapuram Aravind Soundararajan\" with Vittal Rangan, N.C. Bharadwaj, S. Krishna on chennaievent.com (22 Nov 2026).",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-21-1600",
+  "date": "2026-12-21",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Hamzini Vytheeshwaran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Hamzini Vytheeshwaran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with M. Shrikanth, Chidambaram B. Saishankar, K.R. Sivaramakrishna (kanjira) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "mfac-2026-12-21-1600",
@@ -7710,6 +9556,32 @@
   "source_label": "MDnD listing",
   "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
   "fetched": "2026-11-17"
+ },
+ {
+  "id": "kfa-2026-12-21-1815",
+  "date": "2026-12-21",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shankar Ramani",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shankar Ramani",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Dr Usha Rajagopalan, Kumbakonam K. Ramakrishnan, N. Rajaraman (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "abst-2026-12-21-1830",
@@ -8275,6 +10147,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-22-1400",
+  "date": "2026-12-22",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Sanjana Raman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sanjana Raman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Medha H, Sooraj Radhakrishnan (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-22-1430-sayeeraksh",
   "date": "2026-12-22",
   "start": "14:30",
@@ -8351,6 +10249,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-22-1600",
+  "date": "2026-12-22",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Deepika Janakiraman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Deepika Janakiraman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Madurai M. Vijayaganesh, S. Govindarajan, N. Phanindra (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "mfac-2026-12-22-1600",
@@ -8537,6 +10461,32 @@
   "source_label": "NatyaNetwork listing",
   "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
   "fetched": "2026-11-24"
+ },
+ {
+  "id": "kfa-2026-12-22-1815",
+  "date": "2026-12-22",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Mumbai Shilpa",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Mumbai Shilpa",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Villivakkam S. Raghuraman, Jayamangala Krishnamani, N. Phanindra (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "abst-2026-12-22-1830",
@@ -9035,6 +10985,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-23-1400",
+  "date": "2026-12-23",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Madhavi Prakash",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Madhavi Prakash",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R.D. Shyam Raghav, A. Rohith (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-23-1430-sumeshnara",
   "date": "2026-12-23",
   "start": "14:30",
@@ -9111,6 +11087,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-23-1600",
+  "date": "2026-12-23",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Akshay Sridhar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Akshay Sridhar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Parur M.K. Ananthalakshmi, Uzhavur P.K. Babu, H. Sivaramakrishnan (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "skgs-2026-12-23-1600",
@@ -9292,6 +11294,32 @@
   "source_label": "NatyaNetwork listing",
   "note": "Listed at 6 pm (the next concert is listed at 6.30 pm) – check the time before going. Organiser listed as \"Anujan Broadcasts and Sri Dayaa Trust\"; tickets on MDnD. Accompanists not listed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "kfa-2026-12-23-1815",
+  "date": "2026-12-23",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Jayashri Jayaramakrishnan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Jayashri Jayaramakrishnan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Neela Jayakumar, V.R. Jayakumar, Papanasam Dr S. Sethuraman (kanjira) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "abst-2026-12-23-1830",
@@ -9589,6 +11617,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-24-1000",
+  "date": "2026-12-24",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Pooja & Supraja",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Pooja & Supraja",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Thirumarugal Dinesh Kumar, T. Karthik (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-24-1015-sanjaysure",
   "date": "2026-12-24",
   "start": "10:15",
@@ -9692,6 +11746,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-24-1215",
+  "date": "2026-12-24",
+  "start": "12:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Raksha Mahalingam",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Raksha Mahalingam",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Srihari Vittal, Suriya Nambisan (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "skgs-2026-12-24-1300",
   "date": "2026-12-24",
   "start": "13:00",
@@ -9772,6 +11852,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2026-12-24-1400",
+  "date": "2026-12-24",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Shakthi Muralidaran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shakthi Muralidaran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R. Srikriti, Anirudh Raj N (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-24-1430-gravikiran",
@@ -9876,6 +11982,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-24-1600",
+  "date": "2026-12-24",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Sharanya Sriram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Sharanya Sriram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Sanjith Narayanan, Ranjani Venkatesh, J. Ramadas (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "mfac-2026-12-24-1600",
@@ -10062,6 +12194,32 @@
   "source_label": "Yathra e-magazine article",
   "note": "Printed \"24 Dec, 5:30 pm – Ramapriya & Sundara Sangeetham, Mandaveli\" (venue or organiser – not clear). From Yathra e-magazine's article \"Jayalakshmi Sekhar veena concerts Margazhi 2026: six Chennai December season performances\" (24 Nov 2026), which prints date, time and venue only (no weekday, accompanists or tickets) – check before going.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "kfa-2026-12-24-1815",
+  "date": "2026-12-24",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Delhi R. Sridhar, Nirmal Narayanan, Balaji Chandran (ghatam) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "abst-2026-12-24-1830",
@@ -10427,6 +12585,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "kfa-2026-12-25-1000",
+  "date": "2026-12-25",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Anuvratha Narasimhan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Anuvratha Narasimhan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Sivateja Mallajosyula, Ajeet Sridhar (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "skgs-2026-12-25-1000",
   "date": "2026-12-25",
   "start": "10:00",
@@ -10582,6 +12766,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-25-1215",
+  "date": "2026-12-25",
+  "start": "12:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Vikram Nitin",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vikram Nitin",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Madurai T. Kishore, Gopal Ravindran (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "ma-2026-12-25-1330",
   "date": "2026-12-25",
   "start": "13:30",
@@ -10647,6 +12857,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2026-12-25-1400",
+  "date": "2026-12-25",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Vaishnavi Ravinutala",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vaishnavi Ravinutala",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Srinidhi Pennathur, Malladi Sreearavind (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-25-1430-sadityanar",
@@ -10756,6 +12992,32 @@
   "source_label": "MDnD listing",
   "note": "Flute solo.",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-25-1600",
+  "date": "2026-12-25",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Bhairavi Vaitheeswaran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Bhairavi Vaitheeswaran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Karaikal S. Venkatasubramanian, Kallidaikurichi S. Sivakumar, Sai Subramaniam V (morsing) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "mfac-2026-12-25-1600",
@@ -10994,6 +13256,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-11-12"
+ },
+ {
+  "id": "kfa-2026-12-25-1815",
+  "date": "2026-12-25",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. R. Ganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. R. Ganesh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Peroli' title. Listed with V.V. Srinivasa Rao, Dr S. Balashankar, Nanganallur S. Swaminathan (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "abst-2026-12-25-1830",
@@ -11343,6 +13631,32 @@
   "fetched": "2026-10-18"
  },
  {
+  "id": "kfa-2026-12-26-1000",
+  "date": "2026-12-26",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Nanditha Kannan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Nanditha Kannan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Subhashree Sivaramakrishna, Jayendra Kumar (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-26-1000-ksvishnude",
   "date": "2026-12-26",
   "start": "10:00",
@@ -11534,6 +13848,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-26-1400",
+  "date": "2026-12-26",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Madhumitha Doraiswamy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Madhumitha Doraiswamy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Chetana Shekar, Anirudh S (Mumbai) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-26-1430-aishwaryav",
   "date": "2026-12-26",
   "start": "14:30",
@@ -11641,6 +13981,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-26-1600",
+  "date": "2026-12-26",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. S. Nithyasree",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Dr. S. Nithyasree",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with B. Sivaraman, S. Venkataramanan (kanjira) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "mfac-2026-12-26-1600",
@@ -11848,6 +14214,32 @@
   "source_label": "MDnD listing",
   "note": "Listed on MDnD as \"Carnatic Vocal Concert by Dharini Kalyanaraman\" (5 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "kfa-2026-12-26-1815",
+  "date": "2026-12-26",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Iyer Brothers (Ramnath & Gopinath)",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Iyer Brothers (Ramnath & Gopinath)",
+    "instrument": "Veena Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Dr S. Balashankar, Adambakkam K. Shankar (ghatam) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "abst-2026-12-26-1830",
@@ -12280,6 +14672,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-27-1000",
+  "date": "2026-12-27",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "S. Swarathmika",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Swarathmika",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with C.S. Chinmayi, B.N. Kasinadh (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-27-1015-snithyashr",
   "date": "2026-12-27",
   "start": "10:15",
@@ -12368,6 +14786,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-27-1215",
+  "date": "2026-12-27",
+  "start": "12:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Shreeya & Shrutika",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Shreeya & Shrutika",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R. Swadisri, Aditya Rajkumar (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "ma-2026-12-27-1330",
   "date": "2026-12-27",
   "start": "13:30",
@@ -12428,6 +14872,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2026-12-27-1400",
+  "date": "2026-12-27",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "V.U.M. Ayshwarya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "V.U.M. Ayshwarya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Srinidhi Pennathur, Anghiras Mahadevan (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "ngs-2026-12-27-1530",
@@ -12614,6 +15084,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2026-12-27-1615",
+  "date": "2026-12-27",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Bhargavi Balasubramanian",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Bhargavi Balasubramanian",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "29th Tamil Isai Vizha (inaugurated 26 Dec, 5.30 pm). Listed with Thirucherai Karthik, Kallidaikurichi S. Sivakumar, Samyuktha Sreeram (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "bk-2026-12-27-1630-malladibro",
@@ -12864,6 +15360,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "kfa-2026-12-27-1830",
+  "date": "2026-12-27",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Aishwarya Shankar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aishwarya Shankar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Peroli' title. 29th Tamil Isai Vizha (inaugurated 26 Dec, 5.30 pm). Listed with Sruti Sarathy, Kallidaikurichi S. Sivakumar, Samyuktha Sreeram (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "mfac-2026-12-27-1830",
   "date": "2026-12-27",
   "start": "18:30",
@@ -13102,6 +15624,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-28-1000",
+  "date": "2026-12-28",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Anugrah Lakshmanan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Anugrah Lakshmanan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Srikrishnan Subramanian, Punnur Arvind Kaushik (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-28-1015-sindhurage",
   "date": "2026-12-28",
   "start": "10:15",
@@ -13169,6 +15717,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-28-1215",
+  "date": "2026-12-28",
+  "start": "12:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Mridula Krishna",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Mridula Krishna",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with V. Bargava Vignesh, G.N. Bhuvan (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "ma-2026-12-28-1330",
   "date": "2026-12-28",
   "start": "13:30",
@@ -13234,6 +15808,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2026-12-28-1400",
+  "date": "2026-12-28",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Prajna Adiga",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Prajna Adiga",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Arya Nagarajan, Puttur T. Nikshith (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "nsu-2026-12-28-1430",
@@ -13500,6 +16100,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-28-1615",
+  "date": "2026-12-28",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Abilash Giriprasad",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Abilash Giriprasad",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Isai Chudar' title. 29th Tamil Isai Vizha (inaugurated 26 Dec, 5.30 pm). Listed with V.V.S. Murari, Sherthalai R. Ananthakrishnan, S. Harihara Subramaniam (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "bk-2026-12-28-1630-vaishnavir",
   "date": "2026-12-28",
   "start": "16:30",
@@ -13654,6 +16280,32 @@
   "source_label": "MDnD listing",
   "note": "Accompanists per the artist's season poster: Patri Satishkumar (mridangam).",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-28-1830",
+  "date": "2026-12-28",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Sirkazhi G. Sivachidambaram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Sirkazhi G. Sivachidambaram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed as \"'Tamil Isai Vendhar' Dr Sirkazi G. Sivachidambaram & party\". 29th Tamil Isai Vizha (inaugurated 26 Dec, 5.30 pm). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-28-1830-amrithamur",
@@ -13946,6 +16598,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-29-1000",
+  "date": "2026-12-29",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Prithvi Harish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Prithvi Harish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Rishabh Ranganathan, Sarvesh Karthick (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-29-1000-jayalakshm",
   "date": "2026-12-29",
   "start": "10:00",
@@ -14122,6 +16800,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-29-1215",
+  "date": "2026-12-29",
+  "start": "12:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Aditya Sridhar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aditya Sridhar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R.D. Shyam Raghav, Aashrith Aravind (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "skgs-2026-12-29-1300",
   "date": "2026-12-29",
   "start": "13:00",
@@ -14223,6 +16927,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2026-12-29-1400",
+  "date": "2026-12-29",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "E.R. Anirudh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "E.R. Anirudh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Chetana Shekar, Prahalaad Varahaswami (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "nsu-2026-12-29-1430",
@@ -14499,6 +17229,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-29-1615",
+  "date": "2026-12-29",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Akshay Padmanabhan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Akshay Padmanabhan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "29th Tamil Isai Vizha (inaugurated 26 Dec, 5.30 pm). Listed with R. Raghul, Sai Nivethan & Sai Sarangan (double mridangam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "ifas-2026-12-29-1630",
   "date": "2026-12-29",
   "start": "16:30",
@@ -14653,6 +17409,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-29-1830",
+  "date": "2026-12-29",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Mambalam Sisters (R. Vijayalakshmi & R. Chitra)",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Mambalam Sisters (R. Vijayalakshmi & R. Chitra)",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "29th Tamil Isai Vizha (inaugurated 26 Dec, 5.30 pm). Listed with Dr R. Hemalatha, Nellai A. Balaji, N. Rajaraman (ghatam) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-29-1830-ramakrishn",
@@ -14945,6 +17727,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-30-1000",
+  "date": "2026-12-30",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Subhadra Sridharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Subhadra Sridharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with M. Shrikanth, Ajeet Sridhar (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-30-1015-prajnaadig",
   "date": "2026-12-30",
   "start": "10:15",
@@ -15064,6 +17872,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-30-1215",
+  "date": "2026-12-30",
+  "start": "12:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Karthik Raju",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Karthik Raju",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Nikhita Kaushik, D.V. Sivaraman (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "skgs-2026-12-30-1300",
   "date": "2026-12-30",
   "start": "13:00",
@@ -15165,6 +17999,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2026-12-30-1400",
+  "date": "2026-12-30",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Pathangi Brothers",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Pathangi Brothers",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Dathre S. Pathangi & Dhruv S. Pathangi. Listed with Srihari Vittal, Ashwath Karunakaram (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "ngs-2026-12-30-1530",
@@ -15400,6 +18260,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-30-1615",
+  "date": "2026-12-30",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Krithika Natarajan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Krithika Natarajan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "29th Tamil Isai Vizha (inaugurated 26 Dec, 5.30 pm). Listed with Madan Mohan, R. Akshay Ram, Sumukh Karanth (kanjira) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-30-1700-saigovindv",
   "date": "2026-12-30",
   "start": "17:00",
@@ -15502,6 +18388,32 @@
   "source_label": "MDnD listing",
   "note": "",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-30-1830",
+  "date": "2026-12-30",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. R. Suryaprakash",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. R. Suryaprakash",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "29th Tamil Isai Vizha (inaugurated 26 Dec, 5.30 pm). Listed with Sahana Sreeram, Melakaveri K. Balaji, Sowmiya Narayanan (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-30-1830-trichurbro",
@@ -15768,6 +18680,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-31-1000",
+  "date": "2026-12-31",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Students of DAV Girls Sr. Sec. School, Gopalapuram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Students of DAV Girls Sr. Sec. School, Gopalapuram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Students' concert, printed 10–11.30 am. Listed with Aditi Venkat, Aasraya S., Satvika S., Akshaya V. (vocal); Keerthana Viswanathan (violin), Ajeeth Sridhar (mridangam). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2026-12-31-1015-vaibhavram",
   "date": "2026-12-31",
   "start": "10:15",
@@ -15864,6 +18802,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2026-12-31-1300",
+  "date": "2026-12-31",
+  "start": "13:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Samyuktha & Samhitha",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Samyuktha & Samhitha",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Students of P.S. Sr. Sec. School, printed 1–2.30 pm. Listed with B. Naveen (violin), K.K. Varun (mridangam). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "skgs-2026-12-31-1300",
@@ -16207,6 +19171,32 @@
   "note": ""
  },
  {
+  "id": "kfa-2026-12-31-1615",
+  "date": "2026-12-31",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Archana & Aarathi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Archana & Aarathi",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "29th Tamil Isai Vizha (inaugurated 26 Dec, 5.30 pm). Listed with Madan Mohan, Aduthurai Guruprasad, S. Hari Kishore (kanjira). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "bk-2026-12-31-1630-kunnakudim",
   "date": "2026-12-31",
   "start": "16:30",
@@ -16324,6 +19314,32 @@
   "source_label": "MDnD listing",
   "note": "Listed on NatyaNetwork's Margazhi 2026 listing (Charsur Arts Foundation, My Bungalow, 6.30 pm); not yet on MDnD. chennaievent.com (22 Nov 2026) lists him with B.U. Ganesh Prasad, M.S. Varadhan, A.S. Krishnan (instruments not printed).",
   "fetched": "2026-10-18"
+ },
+ {
+  "id": "kfa-2026-12-31-1830",
+  "date": "2026-12-31",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sankari Krishnan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sankari Krishnan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "29th Tamil Isai Vizha (inaugurated 26 Dec, 5.30 pm). Listed with Madurai M. Vijayaganesh, Kumbakonam Swaminathan, D.V. Venkatasubramaniam (ghatam). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2026-12-31-1830-ashokraman",
@@ -16559,6 +19575,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "kfa-2027-01-01-1000",
+  "date": "2027-01-01",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "IIT Madras faculty",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "IIT Madras faculty",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "\"Music by IIT (M) Faculty\", printed 10–11.30 am; roles other than kanjira not printed. Listed with Sudharshan Padmanabhan, Balaji Srinivasan, M. Ramanathan, R. Ravikrishna (kanjira) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "bk-2027-01-01-1030-ganeshkuma",
   "date": "2027-01-01",
   "start": "10:30",
@@ -16583,6 +19625,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2027-01-01-1130",
+  "date": "2027-01-01",
+  "start": "11:30",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Thoppur Dr. B. Sairam",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Thoppur Dr. B. Sairam",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Faculty of the Music College, Chennai; printed 11.30 am – 1 pm. Listed with Pudukottai R. Ambika Prasath (violin), Anumanthapuram R.J. Boovarahan (mridangam), Chennai K. Raghuraman (morsing). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "skgs-2027-01-01-1300",
@@ -16838,6 +19906,32 @@
   "fetched": "2026-10-25"
  },
  {
+  "id": "kfa-2027-01-01-1615",
+  "date": "2027-01-01",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramnath Bhagavath",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ramnath Bhagavath",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "29th Tamil Isai Vizha (inaugurated 26 Dec, 5.30 pm). Listed with Dr Srividya R.S. Iyer, Thirucherai B. Kaushik (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "bk-2027-01-01-1730-giridharan",
   "date": "2027-01-01",
   "start": "17:30",
@@ -16888,6 +19982,32 @@
   "source_label": "chennaievent.com listing",
   "note": "Listed as a \"Double Mridangam Concert\", with Rishabh Ranganathan, Sherthalai Ananthakrishnan, Akshay Anantapadmanabhan. Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
+ },
+ {
+  "id": "kfa-2027-01-01-1830",
+  "date": "2027-01-01",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Delhi P. Sunder Rajan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Delhi P. Sunder Rajan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "29th Tamil Isai Vizha (inaugurated 26 Dec, 5.30 pm). Listed with Vignesh Thyagarajan, S.V. Ramani, B.S. Purushotham (kanjira) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2027-01-01-1830-akkaraisis",
@@ -16983,6 +20103,84 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "kfa-2027-01-02-1000",
+  "date": "2027-01-02",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Rasika Sivakumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Rasika Sivakumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "NRI Music Festival. Listed with Akshara Balaji, Bhargav Kidambi (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "kfa-2027-01-02-1130",
+  "date": "2027-01-02",
+  "start": "11:30",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Taarun Ganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Taarun Ganesh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "NRI Music Festival. Listed with Lavanya Karthikeyan, Srivatsan Srinivasan (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "kfa-2027-01-02-1300",
+  "date": "2027-01-02",
+  "start": "13:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Abishek Iyer",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Abishek Iyer",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "NRI Music Festival. Listed with Ashwin Iyer, Saketh Prabha (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "bk-2027-01-02-1400-rasikasiva",
   "date": "2027-01-02",
   "start": "14:00",
@@ -17007,6 +20205,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2027-01-02-1430",
+  "date": "2027-01-02",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Uma Ranganathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Uma Ranganathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "NRI Music Festival. Listed with Nethra Srinivasan, Sriman Nadamuni (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "nsu-2027-01-02-1430",
@@ -17128,6 +20352,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "kfa-2027-01-02-1615",
+  "date": "2027-01-02",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Priya Krishnamurthy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Priya Krishnamurthy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "NRI Music Festival. Listed with Shraddha Ravindran, Subramanian Krishnamurthy (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "bk-2027-01-02-1630-rsuryaprak",
   "date": "2027-01-02",
   "start": "16:30",
@@ -17178,6 +20428,32 @@
   "source_label": "chennaievent.com listing",
   "note": "With Kamalakiran Vinjumuri, Tiruvarur Vaidyanathan, G. Chandrasekara Sharma (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
+ },
+ {
+  "id": "kfa-2027-01-02-1830",
+  "date": "2027-01-02",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sangeetha Swaminathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sangeetha Swaminathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "NRI Music Festival. Listed with M. Vijay, S.J. Arjun Ganesh, Nanganallur S. Swaminathan (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2027-01-02-1830-ranjanigay",
@@ -17258,6 +20534,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "kfa-2027-01-03-1000",
+  "date": "2027-01-03",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Sahana Aravind",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sahana Aravind",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "NRI Music Festival. Listed with Sudarsan Prasanna, Abhinav Arvind (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "bk-2027-01-03-1030-shishirkum",
   "date": "2027-01-03",
   "start": "10:30",
@@ -17284,6 +20586,58 @@
   "note": ""
  },
  {
+  "id": "kfa-2027-01-03-1130",
+  "date": "2027-01-03",
+  "start": "11:30",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Tejasvi Subramanya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Tejasvi Subramanya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "NRI Music Festival. Listed with Chetana Shekar, Siddhanth Girish (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
+  "id": "kfa-2027-01-03-1300",
+  "date": "2027-01-03",
+  "start": "13:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Sidharth Kaushik",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sidharth Kaushik",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "NRI Music Festival. Listed with Prahlad Saravanapriyan, Varun Rao (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "bk-2027-01-03-1400-vishruthii",
   "date": "2027-01-03",
   "start": "14:00",
@@ -17308,6 +20662,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "kfa-2027-01-03-1430",
+  "date": "2027-01-03",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Sahana Sivakumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sahana Sivakumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "NRI Music Festival. Listed with Laya Raghav, Madhav Sanjeev (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "nsu-2027-01-03-1430",
@@ -17429,6 +20809,32 @@
   "source_label": "Organiser's schedule"
  },
  {
+  "id": "kfa-2027-01-03-1615",
+  "date": "2027-01-03",
+  "start": "16:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Uma Kumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Uma Kumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "NRI Music Festival. Listed with Vignesh Nydhruva, Hari Ramachandran, Swaminath Jayaraman (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
+ },
+ {
   "id": "as-2027-01-03-1700-sjjananiy",
   "date": "2027-01-03",
   "start": "17:00",
@@ -17453,6 +20859,32 @@
   "source_label": "Artist's website",
   "note": "Organiser found 22 Nov 2026: the artist's site lists it under \"World Brahmins Welfare Association (WBWA)\" – 13th anniversary celebrations with an award ceremony and Carnatic vocal concert, 5 pm, Panigraha (accompanists \"& team\"; no ticket price). First found on Bandsintown.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "kfa-2027-01-03-1830",
+  "date": "2027-01-03",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dharini Kalyanaraman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dharini Kalyanaraman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Kartik Fine Arts",
+  "festival": "52nd Year Art Festival 2026",
+  "venue": "Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "NRI Music Festival. Listed with R. Satish Kumar, Guru Raghavendra, A.S. Krishnan (morsing) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
+  "fetched": "2026-11-26"
  },
  {
   "id": "as-2027-01-03-1830-sandeepnar",

@@ -55,10 +55,11 @@ ORG = {
         venue="Vidya Bharathi Kalyana Mandapam, Bheemasena Garden Road, Mylapore", area="Mylapore",
         url="https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304"),
     # 2026-11-12: Kartik Fine Arts' programme (2–12 Dec) on MDnD's Chennai Carnatic listing; held at Narada Gana Sabha
+    # 2026-11-26: replaced by the society's own schedule PDF (1 Dec – 3 Jan; Narada Gana Sabha and Bharatiya Vidya Bhavan halls)
     "kartik-fine-arts": dict(
-        name="Kartik Fine Arts", festival="52nd Art Festival",
+        name="Kartik Fine Arts", festival="52nd Year Art Festival 2026",
         venue="Narada Gana Sabha, 314 TTK Road, Alwarpet", area="Alwarpet / TTK Road",
-        url="https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
+        url="https://season.mylaporetimes.com/schedules-2026/Kartik-Fine-Arts.pdf"),
     # 2026-11-12: Narada Gana Sabha's programme (13 Dec – 1 Jan) on its own MDnD organiser page
     "narada-gana-sabha": dict(
         name="Narada Gana Sabha", festival="Isai Natya Nataka Vizha 2026",
@@ -94,6 +95,11 @@ ORG = {
         name="The Indian Fine Arts Society", festival="Annual Music Festival 2026–27",
         venue="Ethiraja Kalyana Nilayam, TTK Road, Alwarpet", area="Alwarpet / TTK Road",
         url="https://natyanetwork.com/margazhi?day=all&type=music"),
+    # 2026-11-26: Naada Inbam's pre-music-festival programme (1–10 Dec) at Ragasudha Hall, its own schedule PDF on season.mylaporetimes.com
+    "naada-inbam": dict(
+        name="Naada Inbam", festival="Pre-music festival 2026",
+        venue="Ragasudha Hall, 85/2 Luz Avenue, Mylapore", area="Mylapore",
+        url="https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf"),
 }
 
 concerts = []
@@ -222,8 +228,28 @@ def mdnd_main_only(raw, key, prefix, fetched, extra_note=""):
             source_url=o["url"], source_label="MDnD listing",
             note=" ".join(x for x in (note, extra_note) if x), fetched=fetched))
 
-mdnd_main_only("raw_kartik_fine_arts_2026.txt", "kartik-fine-arts", "kfa", "2026-11-12",
-               "Venue: Kartik Fine Arts holds its festival at Narada Gana Sabha (Mylapore Times; artists' websites); the MDnD listing gives artists and times only.")
+# 2026-11-26: Kartik Fine Arts now from the society's own schedule PDF (1 Dec – 3 Jan), with a hall column:
+# raw line date|start|entry|hall|artist|form|note ; hall NGS = Narada Gana Sabha main hall, BVB-M / BVB-m = Bharatiya Vidya Bhavan main / mini hall.
+KFA_HALLS = {
+    "NGS": ("Narada Gana Sabha Main Hall, 314 TTK Road, Alwarpet", "Alwarpet / TTK Road"),
+    "BVB-M": ("Bharatiya Vidya Bhavan Main Hall, East Mada Street, Mylapore", "Mylapore"),
+    "BVB-m": ("Bharatiya Vidya Bhavan Mini Hall, East Mada Street, Mylapore", "Mylapore"),
+}
+for line in (ROOT / "raw_kartik_fine_arts_2026.txt").read_text().splitlines():
+    if not line or line.startswith("#"):
+        continue
+    date, start, entry, hall, artist, form, note = line.split("|")
+    ctype, instrument = classify(form)
+    venue, area = KFA_HALLS[hall]
+    o = ORG["kartik-fine-arts"]
+    concerts.append(dict(
+        id=f"kfa-{date}-{start.replace(':','')}",  # same id format as before, so saved favourites keep working
+        date=date, start=start, end="", slot=slot(start),
+        main_artist=artist, main_instrument=instrument, concert_type=ctype,
+        performers=[dict(name=artist, instrument=form, role="main")],
+        entry=entry, organisation=o["name"], festival=o["festival"], venue=venue, area=area,
+        source_url=o["url"], source_label="Organiser's schedule (PDF)", note=note, fetched="2026-11-26"))
+
 mdnd_main_only("raw_narada_gana_sabha_2026.txt", "narada-gana-sabha", "ngs", "2026-11-12")
 # 2026-11-20: Mylapore Fine Arts Club, 75th Year Art Festival (club's own MDnD page; artists and times only)
 mdnd_main_only("raw_mylapore_fine_arts_club_2026.txt", "mylapore-fine-arts-club", "mfac", "2026-11-20",
@@ -277,6 +303,9 @@ main_only("raw_anujan_2026.txt", "anujan", "abst", "2026-11-18", "NatyaNetwork l
           "Organiser listed as \"Anujan Broadcasts and Sri Dayaa Trust\"; tickets on MDnD. Accompanists not listed.")
 main_only("raw_indian_fine_arts_society_2026.txt", "indian-fine-arts-society", "ifas", "2026-11-24", "NatyaNetwork listing",
           "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.")
+# 2026-11-26: Naada Inbam's pre-music festival, 1–10 Dec (its own schedule PDF on season.mylaporetimes.com)
+main_only("raw_naada_inbam_2026.txt", "naada-inbam", "ni", "2026-11-26", "Organiser's schedule (PDF)",
+          "Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.")
 
 # Nada Sudha (2026-11-21): main artist only (Charsur pattern), from chennaievent.com's listing. form "Not stated" = not printed;
 # form "A & B" with two different instruments = a duet of two instruments (Carnatica pattern).

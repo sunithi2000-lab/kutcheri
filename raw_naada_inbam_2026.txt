@@ -1,0 +1,36 @@
+# Naada Inbam – pre-music festival 2026, 1–10 Dec, Ragasudha Hall, 85/2 Luz Avenue, Mylapore (Carnatic music only).
+# Source: Naada Inbam's own schedule PDF on season.mylaporetimes.com (https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf;
+#   watcher snapshot mylapore-times-sabha-schedules, run 2026-11-25 01:30Z; read 26 Nov 2026). 4–6 Dec is "Guruguhaamrta's A Weekend with Dikshitar – 2026".
+# No ticket or free-entry line printed. Accompanists mostly printed without instruments (kept in the note).
+# Not included: 1 Dec 6.15 pm harikatha (Varsha Bhuvaneshwari); 4 Dec 5.30 pm inauguration; 6 Dec 10 am lecture (Dr T.S. Satyavathi) and 5.15 pm lecture (Naresh Kirti);
+#   6 Dec 3 pm "Akshara Samskriti" item with Sivateja Mallajosyula and S. Hariharan (main artist and format unclear); 6.15 pm prize distribution.
+# The main December festival programme (index entry "Naada Inbam" on the same page) is not yet published as text.
+# Weekdays checked (2 Dec 2026 = Wed, 10 Dec = Thu); the PDF misprints three weekdays (8 Dec "Thursday", 9 Dec "Friday", 10 Dec "Saturday") – dates kept as printed, they match the series header "Monday 7th Dec to Thursday 10th Dec".
+# date|start|entry|artist|form|note
+2026-12-02|17:30|Not stated|Shreya Kolathaya & Anuvratha Narasimhan|Vocal Duet|5.30 pm: release of the book 'Sundara Suswara Ganam' (songs of Sundaravalli Ammal), then this concert of those songs – start time approximate. Listed with Charulatha Chandrasekhar (veena), Shree Lakshmi Bhat (violin), Kaushik Sridhar (mridangam), Shamith Gowda (ghatam).
+2026-12-03|17:00|Not stated|Padmaja Parameswaran|Vocal|'Padmanabha Shoure' – Swati Tirunal special. Listed with Dr Vrinda Varma, K. Krishnasravan (instruments not printed).
+2026-12-03|18:30|Not stated|Dr. Premeela Gurumurthy|Vocal|Listed with Pakkala Ramdas, K.R. Ganesh (instruments not printed).
+2026-12-04|18:00|Not stated|Dr. Sumithra Vasudev|Vocal|Part of "Guruguhaamrta's A Weekend with Dikshitar – 2026" (4–6 Dec). Follows the 5.30 pm inauguration. Listed with L. Ramakrishnan, B. Ganapathyraman, Trivandrum D. Rajagopal (instruments not printed).
+2026-12-05|17:00|Not stated|R. Anirudh Subramanian|Vocal|Printed as "R Anirudh Subramanian and party" (category not printed; vocal assumed). Part of "Guruguhaamrta's A Weekend with Dikshitar – 2026" (4–6 Dec).
+2026-12-05|18:00|Not stated|Sikkil C. Gurucharan|Vocal|Part of "Guruguhaamrta's A Weekend with Dikshitar – 2026" (4–6 Dec). Listed with V. Sanjeev, Tiruvarur Bakthavatsalam, Anirudh Athreya (instruments not printed).
+2026-12-06|09:00|Not stated|A.S. Murali and disciples|Vocal|Dikshitar kirtanams (group). Part of "Guruguhaamrta's A Weekend with Dikshitar – 2026" (4–6 Dec).
+2026-12-06|11:30|Not stated|R.S. Jayalakshmi & Charulatha Chandrasekar|Veena Duet|Part of "Guruguhaamrta's A Weekend with Dikshitar – 2026" (4–6 Dec). Listed with Manoj Siva (mridangam), N. Guruprasad (ghatam).
+2026-12-06|14:00|Not stated|Mahati Tirupathi|Vocal|Printed as "Mahati Tirupathi and party" (category not printed; vocal assumed). Part of "Guruguhaamrta's A Weekend with Dikshitar – 2026" (4–6 Dec).
+2026-12-06|16:30|Not stated|Anmol Shankar|Vocal|Printed as "Anmol Shankar and party", prize winner of the 2025 Dikshitar kirtanams competition (category not printed; vocal assumed). Part of "Guruguhaamrta's A Weekend with Dikshitar – 2026" (4–6 Dec).
+2026-12-06|19:00|Not stated|Vignesh Ishwar|Vocal|Part of "Guruguhaamrta's A Weekend with Dikshitar – 2026" (4–6 Dec). Follows the 6.15 pm prize distribution. Listed with Dr R. Hemalatha, K. Arunprakash, K.V. Gopalakrishnan (instruments not printed).
+2026-12-07|10:00|Not stated|K. Giridharan|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with B. Ananthakrishnan, J. Vaidhyanathan, Dr S. Karthick (instruments not printed).
+2026-12-07|15:00|Not stated|Haritha Narayanan|Violin|Violin solo. Mathangi Chamber Music series (7–10 Dec). Listed with A. Rohith, Hari Kishore (instruments not printed).
+2026-12-07|16:15|Not stated|Aditi B. Prahalad|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with Shreelakshmi Bhat, Trichy G. Aravind (instruments not printed).
+2026-12-07|18:15|Not stated|S. Srivathsan|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with L. Ramakrishnan, Trivandrum V. Balaji, Sunil Kumar (instruments not printed).
+2026-12-08|10:00|Not stated|Sathur Krishna Ramarathinam|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with Raghul, Kallidaikurichi Sivakumar, Madipakkam Murali (instruments not printed).
+2026-12-08|15:00|Not stated|Ranjani Radha|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with Charulatha Chandrasekar (veena), Pazhani Balaji.
+2026-12-08|16:15|Not stated|Dhanush Anantharaman|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with Shreelakshmi Bhat, Puttur Nikshith, Rohith Prasad (instruments not printed).
+2026-12-08|18:15|Not stated|Swarathmika Srikanth|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with Bombay Madhavan, B. Sivaraman, Shri Sainath (instruments not printed).
+2026-12-09|10:00|Not stated|Abhinaya Ananthanarayanan|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with Gayathri Vibhavari, Puttur Nikshith, Sai Bharath (instruments not printed).
+2026-12-09|15:00|Not stated|S. Kirthana|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with Bargava Vignesh, Abhinav Kailasam (instruments not printed).
+2026-12-09|16:15|Not stated|Vignesh Krishnamurthy|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with N. Madan Mohan, S. Kavichelvan (instruments not printed).
+2026-12-09|18:15|Not stated|Kruthi Vittal|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with Kamalakiran Vinjamuri, B. Sivaraman, Sunil Kumar (instruments not printed).
+2026-12-10|10:00|Not stated|Kolkata S. Aishwarya|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with R. Srikriti, Ajeet Sridhar, G. Ganapathy (instruments not printed).
+2026-12-10|15:00|Not stated|Aathreyee Krishna|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with Shreelakshmi Bhat, Anirudh Raj (instruments not printed).
+2026-12-10|16:15|Not stated|Veena Venkatramani|Veena|Mathangi Chamber Music series (7–10 Dec). Listed with B.S. Prashanth, Papanasam Dr S. Sethuraman (instruments not printed).
+2026-12-10|18:15|Not stated|Pranathi Ganapuram|Vocal|Mathangi Chamber Music series (7–10 Dec). Listed with Haritha Narayanan, B. Sivaraman, Shri Sainath (instruments not printed).
