@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-24T19:31Z
+# fetched 2026-11-25T01:30Z
 Select Language
 English
 Tamil
@@ -10,12 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Vocal Concert by Kruthi Vittal, Papanasam Sri Ashok Ramani
-Tue, 24th Nov 2026 | 4:30 PM
-Free | Offline
-Carnatic Vocal Concert by G K Baanu Priya
-Tue, 24th Nov 2026 | 6:15 PM
-Free | Offline
 Carnatic Vocal Concert by Dr Sundar, Trichur Brothers
 Wed, 25th Nov 2026 | 4:30 PM
 Free | Offline
