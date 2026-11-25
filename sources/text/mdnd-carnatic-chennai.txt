@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-25T01:30Z
+# fetched 2026-11-25T19:31Z
 Select Language
 English
 Tamil
@@ -40,6 +40,9 @@ Free | Offline
 Carnatic Vocal Concert by Shreyas Gowrishankar
 Mon, 30th Nov 2026 | 6:15 PM
 Free | Offline
+Carnatic Vocal Concert by Kunnakudi M Balamuralikrishna
+Tue, 1st Dec 2026 | 6:30 PM
+Free | Offline
 Carnatic Vocal Concert by Amritha Murali
 Tue, 1st Dec 2026 | 6:45 PM
 Free | Offline
@@ -52,6 +55,9 @@ Ticketed | Offline
 4.30 PM Carnatic Vocal by S. Saketharaman | 6.45 PM Carnatic Vocal by Abhishek Raghuram | Kartik Fine Arts
 Fri, 4th Dec 2026 | 4:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Kunnakudi M Balamuralikrishna
+Fri, 4th Dec 2026 | 6:45 PM
+Free | Offline
 Carnatic Vocal Concert by Vishruthi Girish
 Sat, 5th Dec 2026 | 3:30 PM
 Free | Offline
@@ -352,6 +358,9 @@ Ticketed | Offline
 LecDem by Amritha Murali
 Mon, 21st Dec 2026 | 8:05 AM
 Free | Offline
+Carnatic Vocal Concert by Vishruthi Girish
+Tue, 22nd Dec 2026 | 2:00 PM
+Free | Offline
 A Carnatic Shot - Soundscapes by Sayee Rakshith and Chandrasekara Sharma
 Tue, 22nd Dec 2026 | 2:30 PM
 Ticketed | Offline
@@ -469,6 +478,9 @@ Free | Offline
 Carnatic Vocal Concert by Malladi Yasashvi Anand
 Fri, 25th Dec 2026 | 2:00 PM
 Free | Offline
+Carnatic Vocal Concert by Vishruthi Girish
+Fri, 25th Dec 2026 | 2:15 PM
+Free | Offline
 A Carnatic Shot - No words by S Adityanarayanan and Sruti Sarathy
 Fri, 25th Dec 2026 | 2:30 PM
 Ticketed | Offline
@@ -538,6 +550,9 @@ Ticketed | Offline
 4.30pm Vasudha Ravi - Vocal | 7.00pm Sid Sriram - Vocal | The Indian Fine Arts Society
 Sat, 26th Dec 2026 | 4:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Vishruthi Girish
+Sat, 26th Dec 2026 | 4:45 PM
+Free | Offline
 Carnatic Vocal Concert by Dharini Kalyanaraman
 Sat, 26th Dec 2026 | 5:00 PM
 Free | Offline
@@ -588,6 +603,9 @@ Sun, 27th Dec 2026 | 4:30 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Rithuu Rajendran
 Sun, 27th Dec 2026 | 5:00 PM
+Free | Offline
+Carnatic Vocal Concert by Vishruthi Girish
+Sun, 27th Dec 2026 | 5:30 PM
 Free | Offline
 Ranjani - Gayatri | Carnatic Vocal | Kalakshetra Foundation
 Sun, 27th Dec 2026 | 6:00 PM
@@ -724,6 +742,9 @@ Free | Offline
 Carnatic Vocal by Malladi Brothers | Anujan Broadcasts and Sri Dayaa Trust
 Wed, 30th Dec 2026 | 6:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Vishruthi Girish
+Thu, 31st Dec 2026 | 2:15 PM
+Free | Offline
 Carnatic Vocal Concert by Spoorthi Rao | Live4You
 Thu, 31st Dec 2026 | 3:30 PM
 Ticketed | Offline
@@ -853,6 +874,12 @@ Free | Offline
 Carnatic Vocal Concert by Sikkil Gurucharan | Chennaiyil Sangeeth Utsav
 Sun, 10th Jan 2027 | 6:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Vishruthi Girish
+Sun, 10th Jan 2027 | 8:00 AM
+Free | Offline
+Carnatic Vocal Concert by Vishruthi Girish
+Tue, 12th Jan 2027 | 4:30 PM
+Free | Offline
 Carnatic Veena Concert by Rajhesh Vaidhya | Chennaiyil Sangeeth Utsav
 Tue, 12th Jan 2027 | 6:30 PM
 Ticketed | Offline

@@ -1,5 +1,5 @@
 # https://chennaievent.com/index_search.php?q=Kamarajar
-# fetched 2026-11-25T01:30Z
+# fetched 2026-11-25T19:31Z
 Programmes by Venue, Organization & Artiste can be done using the SEARCH . Click on RESET to start a new search.
 Venue
 Organization
@@ -7,6 +7,14 @@ Artiste
 Date
 DATE TIME ARTIST / CATEGORY PHOTO PROGRAMME VENUE FREE
 25/11/2026
+06:15 PM
+Mylai M. Karthikeyan
+B. Ananthakrishnan
+Vijay Ganesh
+S. SunilKumar
+Dr. (Smt) Andal Ananthanarayanan & Sri V. Ananthanarayanan Memorial concert - Nadasvaram
+Ragasudha Hall , Mylapore
+25/11/2026
 06:45 PM
 Trichur Brothers
 Kamalakiran Vinjumuri
@@ -148,13 +156,15 @@ Adambakkam K. Shankar
 Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Vocal Event
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
 25/11/2026
-06:15 PM
-Mylai M. Karthikeyan
-B. Ananthakrishnan
-Vijay Ganesh
-S. SunilKumar
-Dr. (Smt) Andal Ananthanarayanan & Sri V. Ananthanarayanan Memorial concert - Nadasvaram
-Ragasudha Hall , Mylapore
+05:00 PM
+Parur Dr. Harini Srivatsa
+66th Year Mandala Pooja - Musical Evening - Vocal Event
+The Kalyan Nagar Association Hall , Mandaveli
+25/11/2026
+05:00 PM
+Parur Dr. Harini Srivatsa
+66th Year Mandala Pooja - Musical Evening - Vocal Event
+The Kalyan Nagar Association Hall , Mandaveli
 26/11/2026
 06:15 PM
 Dr. Gayathri Girish
@@ -256,6 +266,14 @@ Sridhara Sharma
 In memory of our beloved Gurunathar Brahmasri Subramania Deekshidhar Swami18th Srimad Bhagavata Upanyaam
 Brahmashri Subramania Deekshitar Swamy Home , Chromepet,
 27/11/2026
+04:15 PM
+Akshay Padmanabhan
+Arunachala Karthik. S
+Vijay Ganesh - Mridangist
+K. R. Sivaramakrishna
+16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
+Arkay Convention Center , Mylapore
+27/11/2026
 06:30 PM
 Sridhara Sharma
 In memory of our beloved Gurunathar Brahmasri Subramania Deekshidhar Swami - Srimad Bhagavata Upanyasam
@@ -355,14 +373,6 @@ Ajeeth Sridhar
 P. Giridhara Prasad
 17th Year Sangeetha Mahotsavam - 2026 - Mandolin Concert
 Ragasudha Hall , Mylapore
-27/11/2026
-04:15 PM
-Akshay Padmanabhan
-Arunachala Karthik. S
-Vijay Ganesh - Mridangist
-K. R. Sivaramakrishna
-16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
-Arkay Convention Center , Mylapore
 27/11/2026
 04:15 PM
 Akshay Padmanabhan
@@ -504,6 +514,46 @@ Dr. Charulatha Mani
 Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - "Isai Payanam"
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
 29/11/2026
+04:15 PM
+Kum. Spoorthi Rao
+Sivateja Mallajosyula
+S. Hariharan.
+Shri Sainath
+16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
+Arkay Convention Center , Mylapore
+29/11/2026
+06:15 PM
+R. ShyamSundar
+R. Satishkumar
+A. S. Ranganathan
+G. Ganapathy
+17th Year Sangeetha Mahotsavam - 2026 - Vocal Event
+Ragasudha Hall , Mylapore
+29/11/2026
+04:15 PM
+Kum. Spoorthi Rao
+Sivateja Mallajosyula
+S. Hariharan.
+Shri Sainath
+16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
+Arkay Convention Center , Mylapore
+29/11/2026
+06:30 PM
+Pandit Rahul Sharma
+Ojas Adhiya
+U. N. Giridhar Udupa
+Avinash Chandrachud
+Festival of Indian Music - 'Aadi Anant' - Here to Eternity - SANTOOR Event - Online tkts. Bookmyshow.com
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+29/11/2026
+06:30 PM
+Pandit Rahul Sharma
+Ojas Adhiya
+U. N. Giridhar Udupa
+Avinash Chandrachud
+Festival of Indian Music - 'Aadi Anant' - Here to Eternity - SANTOOR Event - Online tkts. Bookmyshow.com
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+29/11/2026
 06:30 PM
 B. V. Balasai
 B. V. Raghavendra Rao
@@ -619,46 +669,6 @@ S. Hariharan.
 Shri Sainath
 16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
 Arkay Convention Center , Mylapore
-29/11/2026
-04:15 PM
-Kum. Spoorthi Rao
-Sivateja Mallajosyula
-S. Hariharan.
-Shri Sainath
-16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
-Arkay Convention Center , Mylapore
-29/11/2026
-06:15 PM
-R. ShyamSundar
-R. Satishkumar
-A. S. Ranganathan
-G. Ganapathy
-17th Year Sangeetha Mahotsavam - 2026 - Vocal Event
-Ragasudha Hall , Mylapore
-29/11/2026
-04:15 PM
-Kum. Spoorthi Rao
-Sivateja Mallajosyula
-S. Hariharan.
-Shri Sainath
-16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
-Arkay Convention Center , Mylapore
-29/11/2026
-06:30 PM
-Pandit Rahul Sharma
-Ojas Adhiya
-U. N. Giridhar Udupa
-Avinash Chandrachud
-Festival of Indian Music - 'Aadi Anant' - Here to Eternity - SANTOOR Event - Online tkts. Bookmyshow.com
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-29/11/2026
-06:30 PM
-Pandit Rahul Sharma
-Ojas Adhiya
-U. N. Giridhar Udupa
-Avinash Chandrachud
-Festival of Indian Music - 'Aadi Anant' - Here to Eternity - SANTOOR Event - Online tkts. Bookmyshow.com
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 30/11/2026
 06:45 PM
 Priya Sisters
@@ -718,14 +728,6 @@ Anirudh Athreya. V.
 16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
 Arkay Convention Center , Mylapore
 30/11/2026
-05:30 PM
-Smt. Sreeranjane Kaushik
-Smt. Subhashree Sivaramakrishnan
-Salem S. Ranganathan
-K. R. Sivaramakrishna
-Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
-Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
-30/11/2026
 04:15 PM
 Shruthi Shankarkumar
 Chidambaram G. Badrinath
@@ -757,30 +759,6 @@ L. Sudarsan Srinivas
 N. Sundar
 17th Year Sangeetha Mahotsavam - 2026 - Vocal Event
 Ragasudha Hall , Mylapore
-30/11/2026
-05:30 PM
-Smt. Sreeranjane Kaushik
-Smt. Subhashree Sivaramakrishnan
-Salem S. Ranganathan
-K. R. Sivaramakrishna
-Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
-Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
-30/11/2026
-05:30 PM
-Smt. Sreeranjane Kaushik
-Smt. Subhashree Sivaramakrishnan
-Salem S. Ranganathan
-K. R. Sivaramakrishna
-Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
-Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
-30/11/2026
-05:30 PM
-Smt. Sreeranjane Kaushik
-Smt. Subhashree Sivaramakrishnan
-Salem S. Ranganathan
-K. R. Sivaramakrishna
-Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
-Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 30/11/2026
 04:15 PM
 Shruthi Shankarkumar
@@ -1190,10 +1168,55 @@ Shamith S. Gowda
 Book Release - Sundaravalli Ammal Penned "Sundara Suswara Ganam" Released... to be recd. - followed by concert
 Ragasudha Hall , Mylapore
 03/12/2026
+05:30 PM
+Niranjan Dindodi
+Sivateja Mallajosyula
+Akshay Ram. R
+Partha Parampara Music Series - 2026 - 'Lord Ram' - Across Languages & Composers - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+03/12/2026
+07:15 PM
+Radhika Kannan
+C. S. Chinmayi
+Sarvesh Karthick
+Partha Parampara Music Series - 2026 - 'Kerala Composers' - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+03/12/2026
+04:00 PM
+Aadithyadev. V. Punnayarkulam
+Krithik Koushik M. P
+Karun Salvady
+Partha Parampara Music Series - 2026 - 'Sankeerthana Kutcheri' - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+03/12/2026
+06:00 PM
+Kanmoni Sasi
+Manali Kumar
+Erode Nagaraj
+Sumana Chandrashekar
+Sterling - Rotary Parallel Music Festival - 2026 - 22nd Edition - Award Function @ 4 PM followed by Navarasa Concert
+Music Academy Mini Hall (Kasthuri Srinivasan Hall) , Royapettah, Mylapore
+03/12/2026
+06:00 PM
+Kanmoni Sasi
+Manali Kumar
+Erode Nagaraj
+Sumana Chandrashekar
+Sterling - Rotary Parallel Music Festival - 2026 - 22nd Edition - Award Function @ 4 PM followed by Navarasa Concert
+Music Academy Mini Hall (Kasthuri Srinivasan Hall) , Royapettah, Mylapore
+03/12/2026
 04:30 PM
 Shashank. Subramanyam
 Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Flute Recital
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
+03/12/2026
+06:00 PM
+Kanmoni Sasi
+Manali Kumar
+Erode Nagaraj
+Sumana Chandrashekar
+Sterling - Rotary Parallel Music Festival - 2026 - 22nd Edition - Award Function @ 4 PM followed by Navarasa Concert
+Music Academy Mini Hall (Kasthuri Srinivasan Hall) , Royapettah, Mylapore
 03/12/2026
 06:30 PM
 Carnatica Brothers
@@ -1274,6 +1297,14 @@ K. V. Gopalakrishnan
 16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
 Arkay Convention Center , Mylapore
 03/12/2026
+06:00 PM
+Kanmoni Sasi
+Manali Kumar
+Erode Nagaraj
+Sumana Chandrashekar
+Sterling - Rotary Parallel Music Festival - 2026 - 22nd Edition - Award Function @ 4 PM followed by Navarasa Concert
+Music Academy Mini Hall (Kasthuri Srinivasan Hall) , Royapettah, Mylapore
+03/12/2026
 04:00 PM
 Aadithyadev. V. Punnayarkulam
 Krithik Koushik M. P
@@ -1315,27 +1346,6 @@ Haritha Narayanan
 A. Rohith
 16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
 Arkay Convention Center , Mylapore
-03/12/2026
-05:30 PM
-Niranjan Dindodi
-Sivateja Mallajosyula
-Akshay Ram. R
-Partha Parampara Music Series - 2026 - 'Lord Ram' - Across Languages & Composers - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-03/12/2026
-07:15 PM
-Radhika Kannan
-C. S. Chinmayi
-Sarvesh Karthick
-Partha Parampara Music Series - 2026 - 'Kerala Composers' - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-03/12/2026
-04:00 PM
-Aadithyadev. V. Punnayarkulam
-Krithik Koushik M. P
-Karun Salvady
-Partha Parampara Music Series - 2026 - 'Sankeerthana Kutcheri' - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
 04/12/2026
 06:45 PM
 Kunnakudi M. Balamuralikrishna
@@ -1521,6 +1531,14 @@ Viji Krishnan Natarajan
 Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Violin "Solo"
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
 05/12/2026
+06:45 PM
+Suchithra Balasubramanian
+N. Chandrasekhar
+A. V. Manikantan
+Dr. Umayalpuram K. Sivaraman
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Inauguration @ 6 PM followed by 'Vatsala Kalyanam' Harikatha
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+05/12/2026
 06:30 PM
 Dr. K. Gayathri
 Ganesh Prasad B. U
@@ -1528,6 +1546,14 @@ N. Manoj Siva
 B. S. Purushotham
 16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
 Arkay Convention Center , Mylapore
+05/12/2026
+06:45 PM
+Suchithra Balasubramanian
+N. Chandrasekhar
+A. V. Manikantan
+Dr. Umayalpuram K. Sivaraman
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Inauguration @ 6 PM followed by 'Vatsala Kalyanam' Harikatha
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 05/12/2026
 07:15 PM
 Mohan Santhanam
@@ -1552,6 +1578,14 @@ N. Manoj Siva
 B. S. Purushotham
 16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
 Arkay Convention Center , Mylapore
+05/12/2026
+06:45 PM
+Suchithra Balasubramanian
+N. Chandrasekhar
+A. V. Manikantan
+Dr. Umayalpuram K. Sivaraman
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Inauguration @ 6 PM followed by 'Vatsala Kalyanam' Harikatha
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 05/12/2026
 07:15 PM
 Mohan Santhanam
@@ -1622,6 +1656,13 @@ S. HariKishore
 16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
 Arkay Convention Center , Mylapore
 05/12/2026
+04:30 PM
+Swarathmika Srikanth
+C. S. Chinmayi
+A. P. Mahizhan
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+05/12/2026
 04:15 PM
 Abhiram G. Bode
 C. S. Chinmayi
@@ -1636,6 +1677,13 @@ R. Srikriti
 Ajeet sridhar
 Partha Parampara Music Series - 2026 - 'Kamalam - The Splendour of Lotus' - Programs Powered by Nalli
 Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+05/12/2026
+04:30 PM
+Swarathmika Srikanth
+C. S. Chinmayi
+A. P. Mahizhan
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 05/12/2026
 05:30 PM
 Ranjani Sivakumar
@@ -1675,128 +1723,21 @@ Bharadwaj Subramaniam
 Akshanan Mayuran
 Partha Parampara Music Series - 2026 - 'Tamizh Maalai' - Programs Powered by Nalli
 Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-06/12/2026
-06:30 PM
-Dr. R. Suryaprakash
-Nagai R. Muralidharan
-Thanjavur K. Murugaboopathy
-Dr. S. Karthick
-16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
-Arkay Convention Center , Mylapore
-06/12/2026
-06:30 PM
-Dr. R. Suryaprakash
-Nagai R. Muralidharan
-Thanjavur K. Murugaboopathy
-Dr. S. Karthick
-16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
-Arkay Convention Center , Mylapore
-06/12/2026
-04:15 PM
-S. Adithya Narayanan
-Shreelakshmi S. Bhat
-Anirudh Raj
-K. R. Sivaramakrishna
-16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
-Arkay Convention Center , Mylapore
-06/12/2026
-06:30 PM
-Dr. R. Suryaprakash
-Nagai R. Muralidharan
-Thanjavur K. Murugaboopathy
-Dr. S. Karthick
-16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
-Arkay Convention Center , Mylapore
-06/12/2026
-05:30 PM
-V. Deepika and V. Nandika
-R. Srikriti
-L. Sudarsan Srinivas
-Partha Parampara Music Series - 2026 - 'Priya Pravaham' - Vocal Duo - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-06/12/2026
-06:30 PM
-Dr. R. Suryaprakash
-Nagai R. Muralidharan
-Thanjavur K. Murugaboopathy
-Dr. S. Karthick
-16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
-Arkay Convention Center , Mylapore
-06/12/2026
-04:15 PM
-S. Adithya Narayanan
-Shreelakshmi S. Bhat
-Anirudh Raj
-K. R. Sivaramakrishna
-16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
-Arkay Convention Center , Mylapore
-06/12/2026
-04:00 PM
-Pathangi-Brothers-Dathre-Dhruv
-Saketha Panthula
-Adharsh Devarajan
-Partha Parampara Music Series - 2026 - ''Bhakthi Through the Ages - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-06/12/2026
-04:00 PM
-Pathangi-Brothers-Dathre-Dhruv
-Saketha Panthula
-Adharsh Devarajan
-Partha Parampara Music Series - 2026 - ''Bhakthi Through the Ages - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-06/12/2026
+05/12/2026
 06:45 PM
-Sid Sriram
-Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Vocal Event
-Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
-06/12/2026
-04:15 PM
-S. Adithya Narayanan
-Shreelakshmi S. Bhat
-Anirudh Raj
-K. R. Sivaramakrishna
-16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
-Arkay Convention Center , Mylapore
-06/12/2026
-05:30 PM
-V. Deepika and V. Nandika
-R. Srikriti
-L. Sudarsan Srinivas
-Partha Parampara Music Series - 2026 - 'Priya Pravaham' - Vocal Duo - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-06/12/2026
-04:00 PM
-Pathangi-Brothers-Dathre-Dhruv
-Saketha Panthula
-Adharsh Devarajan
-Partha Parampara Music Series - 2026 - ''Bhakthi Through the Ages - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-06/12/2026
-07:15 PM
-Srirangam Venkatanagarajan
-VSP Gayatri Sivani
-Vijay Ganesh
-Partha Parampara Music Series - 2026 - 'Krishnarpanam' - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-06/12/2026
-05:30 PM
-V. Deepika and V. Nandika
-R. Srikriti
-L. Sudarsan Srinivas
-Partha Parampara Music Series - 2026 - 'Priya Pravaham' - Vocal Duo - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-06/12/2026
-07:15 PM
-Srirangam Venkatanagarajan
-VSP Gayatri Sivani
-Vijay Ganesh
-Partha Parampara Music Series - 2026 - 'Krishnarpanam' - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-06/12/2026
-10:30 AM
-Smt. Sivasri Skandaprasad
-Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Devotional
-Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
+Suchithra Balasubramanian
+N. Chandrasekhar
+A. V. Manikantan
+Dr. Umayalpuram K. Sivaraman
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Inauguration @ 6 PM followed by 'Vatsala Kalyanam' Harikatha
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+05/12/2026
+04:30 PM
+Swarathmika Srikanth
+C. S. Chinmayi
+A. P. Mahizhan
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 06/12/2026
 04:30 PM
 Dr. K. Krishnakumar & Binny Krishnakumar
@@ -1817,6 +1758,181 @@ Anirudh Raj
 K. R. Sivaramakrishna
 16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
 Arkay Convention Center , Mylapore
+06/12/2026
+05:00 PM
+Cotah Sisters
+Thirucherai Karthik
+Thyagasamudram Siddhanth Girish
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+06/12/2026
+06:30 PM
+Dr. R. Suryaprakash
+Nagai R. Muralidharan
+Thanjavur K. Murugaboopathy
+Dr. S. Karthick
+16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
+Arkay Convention Center , Mylapore
+06/12/2026
+06:45 PM
+S. Srivathsan
+Rajeev Mukundan
+N. Manoj Siva
+B. S. Purushotham
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+06/12/2026
+06:30 PM
+Dr. R. Suryaprakash
+Nagai R. Muralidharan
+Thanjavur K. Murugaboopathy
+Dr. S. Karthick
+16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
+Arkay Convention Center , Mylapore
+06/12/2026
+06:45 PM
+S. Srivathsan
+Rajeev Mukundan
+N. Manoj Siva
+B. S. Purushotham
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+06/12/2026
+04:15 PM
+S. Adithya Narayanan
+Shreelakshmi S. Bhat
+Anirudh Raj
+K. R. Sivaramakrishna
+16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
+Arkay Convention Center , Mylapore
+06/12/2026
+06:30 PM
+Dr. R. Suryaprakash
+Nagai R. Muralidharan
+Thanjavur K. Murugaboopathy
+Dr. S. Karthick
+16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
+Arkay Convention Center , Mylapore
+06/12/2026
+06:45 PM
+S. Srivathsan
+Rajeev Mukundan
+N. Manoj Siva
+B. S. Purushotham
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+06/12/2026
+05:30 PM
+V. Deepika and V. Nandika
+R. Srikriti
+L. Sudarsan Srinivas
+Partha Parampara Music Series - 2026 - 'Priya Pravaham' - Vocal Duo - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+06/12/2026
+06:30 PM
+Dr. R. Suryaprakash
+Nagai R. Muralidharan
+Thanjavur K. Murugaboopathy
+Dr. S. Karthick
+16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
+Arkay Convention Center , Mylapore
+06/12/2026
+04:15 PM
+S. Adithya Narayanan
+Shreelakshmi S. Bhat
+Anirudh Raj
+K. R. Sivaramakrishna
+16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
+Arkay Convention Center , Mylapore
+06/12/2026
+05:00 PM
+Cotah Sisters
+Thirucherai Karthik
+Thyagasamudram Siddhanth Girish
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+06/12/2026
+04:00 PM
+Pathangi-Brothers-Dathre-Dhruv
+Saketha Panthula
+Adharsh Devarajan
+Partha Parampara Music Series - 2026 - ''Bhakthi Through the Ages - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+06/12/2026
+04:00 PM
+Pathangi-Brothers-Dathre-Dhruv
+Saketha Panthula
+Adharsh Devarajan
+Partha Parampara Music Series - 2026 - ''Bhakthi Through the Ages - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+06/12/2026
+06:45 PM
+Sid Sriram
+Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Vocal Event
+Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
+06/12/2026
+06:45 PM
+S. Srivathsan
+Rajeev Mukundan
+N. Manoj Siva
+B. S. Purushotham
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+06/12/2026
+04:15 PM
+S. Adithya Narayanan
+Shreelakshmi S. Bhat
+Anirudh Raj
+K. R. Sivaramakrishna
+16th ACC's Anniversary - Contribution, Welcome:The South Indian Bank Ltd., Mylapore Br. -Madhuradhwani-A/c. 149073000001720
+Arkay Convention Center , Mylapore
+06/12/2026
+05:30 PM
+V. Deepika and V. Nandika
+R. Srikriti
+L. Sudarsan Srinivas
+Partha Parampara Music Series - 2026 - 'Priya Pravaham' - Vocal Duo - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+06/12/2026
+04:00 PM
+Pathangi-Brothers-Dathre-Dhruv
+Saketha Panthula
+Adharsh Devarajan
+Partha Parampara Music Series - 2026 - ''Bhakthi Through the Ages - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+06/12/2026
+07:15 PM
+Srirangam Venkatanagarajan
+VSP Gayatri Sivani
+Vijay Ganesh
+Partha Parampara Music Series - 2026 - 'Krishnarpanam' - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+06/12/2026
+05:00 PM
+Cotah Sisters
+Thirucherai Karthik
+Thyagasamudram Siddhanth Girish
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+06/12/2026
+05:30 PM
+V. Deepika and V. Nandika
+R. Srikriti
+L. Sudarsan Srinivas
+Partha Parampara Music Series - 2026 - 'Priya Pravaham' - Vocal Duo - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+06/12/2026
+07:15 PM
+Srirangam Venkatanagarajan
+VSP Gayatri Sivani
+Vijay Ganesh
+Partha Parampara Music Series - 2026 - 'Krishnarpanam' - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+06/12/2026
+10:30 AM
+Smt. Sivasri Skandaprasad
+Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Devotional
+Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
 07/12/2026
 07:15 PM
 Dr. Baby Sreeram
@@ -1830,12 +1946,28 @@ Cuddalore S. J. Jananiy
 Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Vocal Event
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
 07/12/2026
+06:45 PM
+Abhishek Ravishankar
+B. Ananthakrishnan
+Arjun Ganesh S. J
+S. HariKishore
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+07/12/2026
 07:15 PM
 Dr. Baby Sreeram
 R. Madhavan
 B. Sivaraman
 Partha Parampara Music Series - 2026 - 'Compositions of Shyama Sastri Family' - Programs Powered by Nalli
 Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+07/12/2026
+06:45 PM
+Abhishek Ravishankar
+B. Ananthakrishnan
+Arjun Ganesh S. J
+S. HariKishore
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 07/12/2026
 06:45 PM
 Vishakha Hari
@@ -1856,6 +1988,14 @@ Jeyendra Kumar
 Partha Parampara Music Series - 2026 - 'Compositions of Pre Trinity Composers'- Programs Powered by Nalli
 Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
 07/12/2026
+06:45 PM
+Abhishek Ravishankar
+B. Ananthakrishnan
+Arjun Ganesh S. J
+S. HariKishore
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+07/12/2026
 04:00 PM
 Samanvitha G. Sasidharan
 Karthick Iyer
@@ -1898,6 +2038,14 @@ A. P. Mahizhan
 Partha Parampara Music Series - 2026 - 'Compositions on Chidambara Kshetram - Programs Powered by Nalli
 Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
 07/12/2026
+06:45 PM
+Abhishek Ravishankar
+B. Ananthakrishnan
+Arjun Ganesh S. J
+S. HariKishore
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+07/12/2026
 02:30 PM
 Shalini Muthukumar
 Purva Dhanashree Cotah
@@ -1910,6 +2058,26 @@ Shalini Muthukumar
 Purva Dhanashree Cotah
 A. P. Mahizhan
 Partha Parampara Music Series - 2026 - 'Compositions on Chidambara Kshetram - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+08/12/2026
+07:15 PM
+Srividhya & Sudha (IYER SISTERS)
+V. V. Ravi
+Nellai A. Balaji
+Sai Bharath
+Partha Parampara Music Series - 2026 - 'Mahakavi Songs tuned to Culcutta Vid.K. S.Krishnamurthy - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+08/12/2026
+02:30 PM
+Arya Nagarajan
+Prahalad Varahaswamy
+Partha Parampara Music Series - 2026 - ' Panasam Sivan Compositions - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+08/12/2026
+02:30 PM
+Arya Nagarajan
+Prahalad Varahaswamy
+Partha Parampara Music Series - 2026 - ' Panasam Sivan Compositions - Programs Powered by Nalli
 Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
 08/12/2026
 06:45 PM
@@ -1936,19 +2104,31 @@ Shraddha Ravindran
 Partha Parampara Music Series - 2026 - 'Tribute to D.K.Jeyaraman' - Programs Powered by Nalli
 Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
 08/12/2026
+06:45 PM
+Anahita & Ms. Apoorva Ravindran
+Sruti Sarathy
+S. SunilKumar
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event Duo
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+08/12/2026
 05:30 PM
 Varalakshmi Anandakumar
 Shraddha Ravindran
 Partha Parampara Music Series - 2026 - 'Tribute to D.K.Jeyaraman' - Programs Powered by Nalli
 Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
 08/12/2026
-07:15 PM
-Srividhya & Sudha (IYER SISTERS)
-V. V. Ravi
-Nellai A. Balaji
-Sai Bharath
-Partha Parampara Music Series - 2026 - 'Mahakavi Songs tuned to Culcutta Vid.K. S.Krishnamurthy - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+05:00 PM
+Vishwas Hari
+S. SunilKumar
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Mandolin Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+08/12/2026
+06:45 PM
+Anahita & Ms. Apoorva Ravindran
+Sruti Sarathy
+S. SunilKumar
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event Duo
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 08/12/2026
 07:15 PM
 Srividhya & Sudha (IYER SISTERS)
@@ -1957,6 +2137,27 @@ Nellai A. Balaji
 Sai Bharath
 Partha Parampara Music Series - 2026 - 'Mahakavi Songs tuned to Culcutta Vid.K. S.Krishnamurthy - Programs Powered by Nalli
 Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+08/12/2026
+05:00 PM
+Vishwas Hari
+S. SunilKumar
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Mandolin Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+08/12/2026
+07:15 PM
+Srividhya & Sudha (IYER SISTERS)
+V. V. Ravi
+Nellai A. Balaji
+Sai Bharath
+Partha Parampara Music Series - 2026 - 'Mahakavi Songs tuned to Culcutta Vid.K. S.Krishnamurthy - Programs Powered by Nalli
+Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
+08/12/2026
+06:45 PM
+Anahita & Ms. Apoorva Ravindran
+Sruti Sarathy
+S. SunilKumar
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event Duo
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 08/12/2026
 04:00 PM
 Anirudh. E.R.
@@ -1977,32 +2178,51 @@ Anirudh. E.R.
 Shrihari Vittal
 A. Rohith
 Partha Parampara Music Series - 2026 - 'Andal Thiruppavai' - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-08/12/2026
-07:15 PM
-Srividhya & Sudha (IYER SISTERS)
-V. V. Ravi
-Nellai A. Balaji
-Sai Bharath
-Partha Parampara Music Series - 2026 - 'Mahakavi Songs tuned to Culcutta Vid.K. S.Krishnamurthy - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-08/12/2026
-02:30 PM
-Arya Nagarajan
-Prahalad Varahaswamy
-Partha Parampara Music Series - 2026 - ' Panasam Sivan Compositions - Programs Powered by Nalli
-Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
-08/12/2026
-02:30 PM
-Arya Nagarajan
-Prahalad Varahaswamy
-Partha Parampara Music Series - 2026 - ' Panasam Sivan Compositions - Programs Powered by Nalli
 Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
 09/12/2026
 06:45 PM
 S. Mahathi
 Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Vocal Event
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
+09/12/2026
+06:45 PM
+Ashwath Narayanan
+Sayee Rakshith
+Akshay Ram. R
+Anirudh Athreya. V.
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+09/12/2026
+06:45 PM
+Ashwath Narayanan
+Sayee Rakshith
+Akshay Ram. R
+Anirudh Athreya. V.
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+09/12/2026
+06:45 PM
+Ashwath Narayanan
+Sayee Rakshith
+Akshay Ram. R
+Anirudh Athreya. V.
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+09/12/2026
+05:00 PM
+Ramya Rajagopal
+Haritha Narayanan
+Culcutta Karthik
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+09/12/2026
+06:45 PM
+Ashwath Narayanan
+Sayee Rakshith
+Akshay Ram. R
+Anirudh Athreya. V.
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 09/12/2026
 05:30 PM
 V. Deepika - Vocal
@@ -2086,6 +2306,20 @@ Malladi Sree Aravind
 Partha Parampara Music Series - 2026 - 'The Grace of Five - Programs Powered by Nalli
 Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
 09/12/2026
+05:00 PM
+Ramya Rajagopal
+Haritha Narayanan
+Culcutta Karthik
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+09/12/2026
+05:00 PM
+Ramya Rajagopal
+Haritha Narayanan
+Culcutta Karthik
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Vocal Event
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+09/12/2026
 04:00 PM
 Adithi Prahlad Banavadi
 Chetana Shekar
@@ -2093,10 +2327,54 @@ Prajwal Bharadwaj
 Partha Parampara Music Series - 2026 - 'Dasar Kritis' - Programs Powered by Nalli
 Bharatiya Vidya Bhavan - Mini Hall , Next to Radha Silk Emporium, Mylapore
 10/12/2026
+05:00 PM
+Sriranjani Venkatesan
+Smt. Subhashree Sivaramakrishnan
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+10/12/2026
+05:00 PM
+Sriranjani Venkatesan
+Smt. Subhashree Sivaramakrishnan
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+10/12/2026
 04:30 PM
 J. A. Jayant
 Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Flute Recital
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
+10/12/2026
+06:45 PM
+J. B. Sruthi Sagar
+R. K. Shriramkumar
+B. GanapathyRaman
+N. Guruprasad
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Flute Recital
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+10/12/2026
+06:45 PM
+J. B. Sruthi Sagar
+R. K. Shriramkumar
+B. GanapathyRaman
+N. Guruprasad
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Flute Recital
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+10/12/2026
+06:45 PM
+J. B. Sruthi Sagar
+R. K. Shriramkumar
+B. GanapathyRaman
+N. Guruprasad
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Flute Recital
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+10/12/2026
+06:45 PM
+J. B. Sruthi Sagar
+R. K. Shriramkumar
+B. GanapathyRaman
+N. Guruprasad
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Flute Recital
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 10/12/2026
 06:45 PM
 Dr. R. Ramprasad - Palghat
@@ -2109,10 +2387,42 @@ Uthara Unnikrishnan
 Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Vocal Duo
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
 11/12/2026
+06:45 PM
+S. Adithya Narayanan
+N. Madhan Mohan
+K. Arun Prakash
+K. V. Gopalakrishnan
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+11/12/2026
+06:45 PM
+S. Adithya Narayanan
+N. Madhan Mohan
+K. Arun Prakash
+K. V. Gopalakrishnan
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+11/12/2026
 04:30 PM
 U. Ve. Dushyanth Sridhar
 Bhavan's Margazhi Mahotsav - In Assn. with South Zone Culture Centre - Discourse - Thirukkural Muzhangum Sanathanam
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
+11/12/2026
+06:45 PM
+S. Adithya Narayanan
+N. Madhan Mohan
+K. Arun Prakash
+K. V. Gopalakrishnan
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+11/12/2026
+06:45 PM
+S. Adithya Narayanan
+N. Madhan Mohan
+K. Arun Prakash
+K. V. Gopalakrishnan
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 11/12/2026
 06:45 PM
 P. Unnikrishnan
@@ -2124,26 +2434,74 @@ Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
 Akshay Ganesh
 Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Violin Recital
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
+11/12/2026
+05:00 PM
+Shivani Lakshman
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+12/12/2026
+02:00 PM
+Ashwin Kumar Bhagavathar
+14th Year Bhajan Mela - Ashtapati Bhajan 5 to 20 & Sri Krishna Leela Tharangam
+Dr. Leelavathi Center , Mandaveli
+12/12/2026
+09:00 AM
+Triplican Rajoo Bhagavathar
+14th Year Bhajan Mela - Thodaya Mangalam - Guru Dhyanam & Ashtapathi 1 to 4
+Dr. Leelavathi Center , Mandaveli
 12/12/2026
 06:45 PM
 Dr. Pantula Rama
 Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Vocal Event
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
 12/12/2026
+06:45 PM
+Dr. Umayalpuram K. Sivaraman
+Sikkil. C. Gurucharan
+Special Presentation "Intelligence & Artificial Intelligene" - Moderated by
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+12/12/2026
 04:30 PM
 Dr. Nirmala Rajasekar
 Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Veena Recital
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
+12/12/2026
+06:45 PM
+Dr. Umayalpuram K. Sivaraman
+Sikkil. C. Gurucharan
+Special Presentation "Intelligence & Artificial Intelligene" - Moderated by
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+12/12/2026
+05:00 PM
+M. Shrikanth
+Neyveli R. Narayanan
+N. Guruprasad
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Violin Solo
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 12/12/2026
 10:30 AM
 Prasanna
 Bhavan's Margazhi Mahotsav 2026 - 1st Edition - In Assn. with South Zone Culture Centre - Guitar Event
 Bharatiya Vidya Bhavan (Main Auditorium) , Mylapore
 12/12/2026
+05:00 PM
+M. Shrikanth
+Neyveli R. Narayanan
+N. Guruprasad
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Violin Solo
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+12/12/2026
 06:30 PM
 C. S. Subramanian / Chaithanya Bhajana Mandali
 14th Year Bhajan Mela - Panchapathi & Dhyanam
 Dr. Leelavathi Center , Mandaveli
+12/12/2026
+05:00 PM
+M. Shrikanth
+Neyveli R. Narayanan
+N. Guruprasad
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Violin Solo
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 12/12/2026
 09:00 PM
 Srivanchiyam Murali Bhagavathar
@@ -2166,16 +2524,22 @@ Tiruvarur Vaidyanathan
 Indira Kadambi
 70th Margazhi Mela - 2026 - Inauguration & Conferring "Sangeetha Choodamani" & "Nrithya Choodamani"
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-12/12/2026
-02:00 PM
-Ashwin Kumar Bhagavathar
-14th Year Bhajan Mela - Ashtapati Bhajan 5 to 20 & Sri Krishna Leela Tharangam
-Dr. Leelavathi Center , Mandaveli
-12/12/2026
-09:00 AM
-Triplican Rajoo Bhagavathar
-14th Year Bhajan Mela - Thodaya Mangalam - Guru Dhyanam & Ashtapathi 1 to 4
-Dr. Leelavathi Center , Mandaveli
+13/12/2026
+06:45 PM
+Aditya Madhavan
+L. Ramakrishnan
+Dr. Umayalpuram K. Sivaraman
+B. S. Purushotham
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Valedictory Function by 6 PM
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+13/12/2026
+06:45 PM
+Aditya Madhavan
+L. Ramakrishnan
+Dr. Umayalpuram K. Sivaraman
+B. S. Purushotham
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Valedictory Function by 6 PM
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 13/12/2026
 01:00 PM
 Anahita & Ms. Apoorva Ravindran
@@ -2205,6 +2569,22 @@ B. Sivaraman
 S. SunilKumar
 70th Margazhi Mela - 2026 - Carnatic Vocal Duo
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+13/12/2026
+06:45 PM
+Aditya Madhavan
+L. Ramakrishnan
+Dr. Umayalpuram K. Sivaraman
+B. S. Purushotham
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Valedictory Function by 6 PM
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+13/12/2026
+06:45 PM
+Aditya Madhavan
+L. Ramakrishnan
+Dr. Umayalpuram K. Sivaraman
+B. S. Purushotham
+Srothovaham - Festival - Celebrating Legacy & its Continuum - Valedictory Function by 6 PM
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
 13/12/2026
 09:30 AM
 Thiruvisanallur Ramakrishnan
@@ -2249,6 +2629,18 @@ Nagore R.Aravind Srikanth
 70th Margazhi Mela - 2026 - Carnatic Vocal
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
 13/12/2026
+04:30 PM
+Vikram Prabhu
+Indhalur Shyam Raghav
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+13/12/2026
+04:30 PM
+Vikram Prabhu
+Indhalur Shyam Raghav
+Srothovaham - Festival - Celebrating Legacy & its Continuum
+Sasthri Hall (Srinivasa Sastri Hall - Auditorium) , Mylapore
+13/12/2026
 11:00 AM
 Anirudh. E.R.
 ChittoorV. Bhargava Vignesh
@@ -2260,6 +2652,37 @@ Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
 Leela Samson
 Spanda Dance Company (Chennai)
 70th Margazhi Mela - 2026 - Dance - Ticketing Partner: tikkl
+Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+14/12/2026
+11:00 AM
+Anirudh Subramanian
+Sivateja Mallajosyula
+S. Hariharan.
+70th Margazhi Mela - 2026 - Carnatic Vocal
+Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+14/12/2026
+06:30 PM
+Lalgudi GJR Krishnan & Vijayalakshmi
+Isai - Natya - Nataka Vizha - 2026 - Violin Duo Event - For Tickets/Passes Visit www.mdnd.in
+Narada Gana Sabha - Main Hall , Alwarpet
+14/12/2026
+11:00 AM
+Anirudh Subramanian
+Sivateja Mallajosyula
+S. Hariharan.
+70th Margazhi Mela - 2026 - Carnatic Vocal
+Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+14/12/2026
+01:00 PM
+Archana L. Rao
+Mantha Sriramya
+Tumukuru B. Ravishankar
+70th Margazhi Mela - 2026 - Carnatic Vocal
+Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+14/12/2026
+07:00 PM
+P. Praveen Kumar
+70th Margazhi Mela - 2026 - Bharatham - "Tyagaraja Hruth Sadana" Ensemble - Ticketing Partner: tikkl
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
 14/12/2026
 06:30 PM
@@ -2341,37 +2764,6 @@ Anirudh Subramanian
 Sivateja Mallajosyula
 S. Hariharan.
 70th Margazhi Mela - 2026 - Carnatic Vocal
-Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-14/12/2026
-11:00 AM
-Anirudh Subramanian
-Sivateja Mallajosyula
-S. Hariharan.
-70th Margazhi Mela - 2026 - Carnatic Vocal
-Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-14/12/2026
-06:30 PM
-Lalgudi GJR Krishnan & Vijayalakshmi
-Isai - Natya - Nataka Vizha - 2026 - Violin Duo Event - For Tickets/Passes Visit www.mdnd.in
-Narada Gana Sabha - Main Hall , Alwarpet
-14/12/2026
-11:00 AM
-Anirudh Subramanian
-Sivateja Mallajosyula
-S. Hariharan.
-70th Margazhi Mela - 2026 - Carnatic Vocal
-Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-14/12/2026
-01:00 PM
-Archana L. Rao
-Mantha Sriramya
-Tumukuru B. Ravishankar
-70th Margazhi Mela - 2026 - Carnatic Vocal
-Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-14/12/2026
-07:00 PM
-P. Praveen Kumar
-70th Margazhi Mela - 2026 - Bharatham - "Tyagaraja Hruth Sadana" Ensemble - Ticketing Partner: tikkl
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
 15/12/2026
 04:00 PM
@@ -2547,6 +2939,36 @@ Triplicane K. Shekar
 Kodungaiyur G. K. Narasimhan
 December Season Music Festival - 2026 - Dvayam - For Season/Day Pass Click MDnD.in - Managala Isai
 My Bungalow , Alwarpet
+16/12/2026
+11:45 AM
+K. Radhika
+Rangappriya Sankaranarayanan
+Prahalad Varahaswamy
+100th Annual Concerts - 2026 - Vocal Event
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+16/12/2026
+04:00 PM
+Lalgudi GJR Krishnan & Vijayalakshmi
+Dr. Trichy Sankaran.
+K. V. Gopalakrishnan
+70th Margazhi Mela - 2026 - Violin Duo - Ticketing Partner: tikkl
+Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+16/12/2026
+01:00 PM
+Keerthana Sreeram
+VSP Gayatri Sivani
+V. Sai Raghavan
+Sumukh Karnath
+70th Margazhi Mela - 2026 - Vocal Event
+Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+16/12/2026
+01:30 PM
+Maharajapuram S. Ganesh Viswanathan
+Delhi R. Sridhar
+Indalur R.D. Adarsh
+Kurichithanam Ananthakrishnan
+100th Annual Concerts - 2026 - Vocal Event
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 16/12/2026
 06:30 PM
 P. Unnikrishnan
@@ -2804,36 +3226,6 @@ V. Sai Raghavan
 Sumukh Karnath
 70th Margazhi Mela - 2026 - Vocal Event
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-16/12/2026
-11:45 AM
-K. Radhika
-Rangappriya Sankaranarayanan
-Prahalad Varahaswamy
-100th Annual Concerts - 2026 - Vocal Event
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-16/12/2026
-04:00 PM
-Lalgudi GJR Krishnan & Vijayalakshmi
-Dr. Trichy Sankaran.
-K. V. Gopalakrishnan
-70th Margazhi Mela - 2026 - Violin Duo - Ticketing Partner: tikkl
-Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-16/12/2026
-01:00 PM
-Keerthana Sreeram
-VSP Gayatri Sivani
-V. Sai Raghavan
-Sumukh Karnath
-70th Margazhi Mela - 2026 - Vocal Event
-Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-16/12/2026
-01:30 PM
-Maharajapuram S. Ganesh Viswanathan
-Delhi R. Sridhar
-Indalur R.D. Adarsh
-Kurichithanam Ananthakrishnan
-100th Annual Concerts - 2026 - Vocal Event
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 17/12/2026
 06:30 PM
 Nisha P. Rajagopalan
@@ -3177,6 +3569,33 @@ Debjit Patitundi
 70th Margazhi Mela - 2026 - Jugalbandi - Vocal & Sarod Ticketing Partner: tikkl
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
 18/12/2026
+01:00 PM
+Vishwas Hari
+Hariprasad Subramanian
+Aswini Srinivasan
+K. R. Sivaramakrishna
+70th Margazhi Mela - 2026 - Mandolin & Flute Combo Event
+Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+18/12/2026
+11:45 AM
+S. Swaminathan
+Chetana Shekar
+Pazhani Balaji
+100th Annual Concerts - 2026 - Vocal Event
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+18/12/2026
+07:00 PM
+Mavin Koo
+70th Margazhi Mela - 2026 - Bharathanatyam - Ticketing Partner: tikkl
+Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+18/12/2026
+11:45 AM
+S. Swaminathan
+Chetana Shekar
+Pazhani Balaji
+100th Annual Concerts - 2026 - Vocal Event
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+18/12/2026
 04:00 PM
 Kunnakudi M. Balamuralikrishna
 Shashank. Subramanyam
@@ -3457,33 +3876,6 @@ Rishabh Ranganathan
 Aduthurai G. Guruprasadh
 70th Margazhi Mela - 2026 - Vocal Event
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-18/12/2026
-01:00 PM
-Vishwas Hari
-Hariprasad Subramanian
-Aswini Srinivasan
-K. R. Sivaramakrishna
-70th Margazhi Mela - 2026 - Mandolin & Flute Combo Event
-Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-18/12/2026
-11:45 AM
-S. Swaminathan
-Chetana Shekar
-Pazhani Balaji
-100th Annual Concerts - 2026 - Vocal Event
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-18/12/2026
-07:00 PM
-Mavin Koo
-70th Margazhi Mela - 2026 - Bharathanatyam - Ticketing Partner: tikkl
-Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-18/12/2026
-11:45 AM
-S. Swaminathan
-Chetana Shekar
-Pazhani Balaji
-100th Annual Concerts - 2026 - Vocal Event
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 19/12/2026
 07:00 PM
 Dr. Nithyashri Mahadevan
@@ -3856,6 +4248,25 @@ Jaidev Haridoss
 December Season Music Festival - Dvayam - For Season/Day Pass Click MDnD.in - Namasankeerthanam
 My Bungalow , Alwarpet
 20/12/2026
+11:45 AM
+Charulatha Chandrasekar
+Sunaadha Krishna Amai
+Murali Varadarajan
+100th Annual Concerts - 2026 - Veena Recital
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+20/12/2026
+07:00 PM
+Anitha Guha
+U. Ve. Dushyanth Sridhar
+Students - Anitha Guhas Bharathanjali.
+70th Margazhi Mela - Anitha Guha’s Bharathanjali presents “Agre Pashyami”-Concept/Narration by -Ticketing: tikkl
+Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+20/12/2026
+10:30 AM
+Ritvik Rao Vaddi
+38th Margazhi Mahotsav - 2026 -2027 - Vocal Event
+YGP Auditorium , T. Nagar
+20/12/2026
 04:00 PM
 Dr. Baby Sreeram
 Thiruvizha Sri. Viju. S. Anand
@@ -4194,25 +4605,6 @@ Rangappriya Sankaranarayanan
 A. Rohith
 70th Margazhi Mela - 2026 - Vocal Event - Duo
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-20/12/2026
-11:45 AM
-Charulatha Chandrasekar
-Sunaadha Krishna Amai
-Murali Varadarajan
-100th Annual Concerts - 2026 - Veena Recital
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-20/12/2026
-07:00 PM
-Anitha Guha
-U. Ve. Dushyanth Sridhar
-Students - Anitha Guhas Bharathanjali.
-70th Margazhi Mela - Anitha Guha’s Bharathanjali presents “Agre Pashyami”-Concept/Narration by -Ticketing: tikkl
-Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
-20/12/2026
-10:30 AM
-Ritvik Rao Vaddi
-38th Margazhi Mahotsav - 2026 -2027 - Vocal Event
-YGP Auditorium , T. Nagar
 21/12/2026
 06:30 PM
 Kunnakudi M. Balamuralikrishna
@@ -4401,6 +4793,11 @@ Vazhappally R. Krishnakumar
 December Season Music Festival - Dvayam - For Season/Day Pass Click MDnD.in - Vocal Event
 My Bungalow , Alwarpet
 21/12/2026
+06:45 PM
+Dr. R. Ganesh
+66th Year Mandala Pooja Musical Evening - Namasankeerthanam with Troupe
+The Kalyan Nagar Association Hall , Mandaveli
+21/12/2026
 04:00 PM
 U. Ve. Dushyanth Sridhar
 Anahita & Ms. Apoorva Ravindran
@@ -4529,6 +4926,11 @@ Brahmasri Vittaldas Jayakrishna Deekshithar Mahara
 70th Margazhi Mela - 2026 - Namasankeerthanam
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
 21/12/2026
+07:00 AM
+Rudra Yagnam
+66th Year Mandala Pooja - Morning Session - Mahardhra Yagnam
+The Kalyan Nagar Association Hall , Mandaveli
+21/12/2026
 11:00 AM
 Charulatha Chandrasekar
 Master C. S. Keshav Chandra
@@ -4567,6 +4969,18 @@ Shivakumar Anantharaman
 Akshay Ram. R
 70th Margazhi Mela - 2026 - Harikatha on ‘Thirukkural Muzhangum Sanatanam’ - Ticketing Partner: tikkl
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+22/12/2026
+09:00 AM
+Jayaraj Krishnan & Jayashree Jayaraj
+Kumbakonam K. Swaminathan
+Shinu Gopinath
+100th Annual Concerts - 2026 - Veena Event - Duo
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+22/12/2026
+08:45 AM
+Subramanya Shadakshara Mantra Japa Homam
+6th Year Mandala Pooja - Morning Session - Sri Subramanya Shadakshara Mala mantra Japa Homam
+The Kalyan Nagar Association Hall , Mandaveli
 22/12/2026
 06:45 PM
 Malladi Brothers
@@ -4841,6 +5255,13 @@ Sunaad Anoor
 100th Annual Concerts - 2026 - Vocal Event
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 22/12/2026
+05:00 PM
+Rajeswari Shankar
+Neela Jayakumar
+V. R. Jayakumar
+66th Year Mandala Pooja - Musical Evening - Vocal Event
+The Kalyan Nagar Association Hall , Mandaveli
+22/12/2026
 07:15 PM
 Sid Sriram
 Chennaiyil Thiruvaiyaru - 2026 - Season:16 - Free Bus Drop in 12 Routes Daily @ 9:45 PM - Carnatic Vocal
@@ -4870,6 +5291,13 @@ Sreelakshmi Govardhan
 70th Margazhi Mela - 2026 - Dance - Kuchipudi - Ticketing Partner: tikkl
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
 22/12/2026
+05:00 PM
+Rajeswari Shankar
+Neela Jayakumar
+V. R. Jayakumar
+66th Year Mandala Pooja - Musical Evening - Vocal Event
+The Kalyan Nagar Association Hall , Mandaveli
+22/12/2026
 06:30 PM
 Dr. R. Ramprasad - Palghat
 Isai - Natya - Nataka Vizha - 2026 - Vocal Event - For Tickets/Passes Visit www.mdnd.in
@@ -4890,6 +5318,18 @@ Srinidhi R. Koundinya
 70th Margazhi Mela - 2026 - Carnatic Vocal
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
 22/12/2026
+06:45 PM
+Mumbai K. R. Sundara Raman Bhagavathar
+66th Year Mandala Pooja - Namasankeerthanam
+The Kalyan Nagar Association Hall , Mandaveli
+22/12/2026
+05:00 PM
+Rajeswari Shankar
+Neela Jayakumar
+V. R. Jayakumar
+66th Year Mandala Pooja - Musical Evening - Vocal Event
+The Kalyan Nagar Association Hall , Mandaveli
+22/12/2026
 11:45 AM
 S. Srivathsan
 Rishabh Ranganathan
@@ -4903,13 +5343,6 @@ K. V. Krishna
 V. S. Raghavan
 Sunaad Anoor
 100th Annual Concerts - 2026 - Vocal Event
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-22/12/2026
-09:00 AM
-Jayaraj Krishnan & Jayashree Jayaraj
-Kumbakonam K. Swaminathan
-Shinu Gopinath
-100th Annual Concerts - 2026 - Veena Event - Duo
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 23/12/2026
 04:00 PM
@@ -5048,6 +5481,11 @@ Dr. Ravi Balasubramanian
 100th Annual Concerts - 2026 - Vocal Event
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 23/12/2026
+06:45 PM
+Dr. Udayalur Kalyanaraman Bhagavathar
+66th Year Mandala Pooja - Musical Evening - Namasankeerthanam
+The Kalyan Nagar Association Hall , Mandaveli
+23/12/2026
 09:00 AM
 Delhi V. Muthukumar
 Sruti Sarathy
@@ -5216,6 +5654,11 @@ Deepika Srinivasan
 100th Annual Concerts - 2026 - Vocal Event
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 23/12/2026
+05:00 PM
+Shakthi Muralidaran
+66th Year Mandala Pooja - Musical Evening - Vocal Event
+The Kalyan Nagar Association Hall , Mandaveli
+23/12/2026
 11:00 AM
 Abhishek Ravishankar
 C. S. Chinmayi
@@ -5263,6 +5706,21 @@ Jaya Rajagopalan
 38th Margazhi Mahotsav-Tkts Bookmyshow.com 10AM, 7th Dec Contact 8248871089, 9941907993 'Mohammed Rafi 102 Night'
 YGP Auditorium , T. Nagar
 24/12/2026
+06:00 PM
+Dr. Ananda Shankar Jayanth
+73rd Annual Art Festival - Dance - 'Panchathanthra' - For Tkts MDnD.in
+Bharata Kalakshetra Auditorium , Thiruvanmiyur
+24/12/2026
+06:45 PM
+Govindapuram Shri Srinathdass Maharaj
+66th Year Mandala Pooja - Musical Evening - Namasankeerethanam
+The Kalyan Nagar Association Hall , Mandaveli
+24/12/2026
+05:30 PM
+Sakshi Ashok
+38th Margazhi Mahotsav - Bharatanatyam
+YGP Auditorium , T. Nagar
+24/12/2026
 01:30 PM
 Dr. N. Jayakrishnan Unni
 Sandeep Ramachandran
@@ -5270,11 +5728,6 @@ Karthik Ganeshram
 G. Venkatesh
 100th Annual Concerts - 2026 - Vocal Event
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-24/12/2026
-05:30 PM
-Sakshi Ashok
-38th Margazhi Mahotsav - Bharatanatyam
-YGP Auditorium , T. Nagar
 24/12/2026
 04:00 PM
 Malladi Brothers
@@ -5631,11 +6084,6 @@ P. Akshaya (Akshaya Parthasarathy)
 Rohit Ashok
 100th Annual Concerts - 2026 - Vocal Event
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-24/12/2026
-06:00 PM
-Dr. Ananda Shankar Jayanth
-73rd Annual Art Festival - Dance - 'Panchathanthra' - For Tkts MDnD.in
-Bharata Kalakshetra Auditorium , Thiruvanmiyur
 25/12/2026
 10:00 AM
 Dr. Sudha Raghunathan
@@ -5996,6 +6444,11 @@ Brahmasri Vittaldas Jayakrishna Deekshithar Mahara
 70th Margazhi Mela - 2026 - Namasankeerthanam
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
 25/12/2026
+06:45 PM
+Erode Rajamani Bhagavathar
+66th Year Mandala Pooja - Musical Evening - Namasankeerethanam
+The Kalyan Nagar Association Hall , Mandaveli
+25/12/2026
 11:45 AM
 Madhuri Kaushik B. J
 Palghat G. Kailasapathy
@@ -6069,6 +6522,22 @@ Madhuri Kaushik B. J
 Palghat G. Kailasapathy
 Vignesh Srinivasan
 100th Annual Concerts - 2026 - Vocal Event
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+26/12/2026
+01:30 PM
+Anahita & Ms. Apoorva Ravindran
+Pappu Gyandev
+D. V. Sivaraman
+Somnath Roy
+100th Annual Concerts - 2026 - Vocal Duo
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+26/12/2026
+01:30 PM
+Anahita & Ms. Apoorva Ravindran
+Pappu Gyandev
+D. V. Sivaraman
+Somnath Roy
+100th Annual Concerts - 2026 - Vocal Duo
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 26/12/2026
 06:30 PM
@@ -6338,6 +6807,11 @@ Akshara Samskriti
 28th Annual Music Festival - 2026 - 2027 - Season Donor pass Contact: 9884949597 / 9176309996
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 26/12/2026
+06:45 PM
+Chennai C. Nagarajan Baghavathar
+66th Year Mandala Pooja - Musical Evening - Namasankeerethanam
+The Kalyan Nagar Association Hall , Mandaveli
+26/12/2026
 06:30 PM
 N. Ravikiran
 VSP Gayatri Sivani
@@ -6350,22 +6824,6 @@ Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Vela
 Acharya Padmini Krishnamurthy
 38th Margazhi Mahotsav - Tickets: Bookmyshow.com 10AM, 7th Dec Contact 8248871089, 9941907993 - Thematic Dance
 YGP Auditorium , T. Nagar
-26/12/2026
-01:30 PM
-Anahita & Ms. Apoorva Ravindran
-Pappu Gyandev
-D. V. Sivaraman
-Somnath Roy
-100th Annual Concerts - 2026 - Vocal Duo
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-26/12/2026
-01:30 PM
-Anahita & Ms. Apoorva Ravindran
-Pappu Gyandev
-D. V. Sivaraman
-Somnath Roy
-100th Annual Concerts - 2026 - Vocal Duo
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 27/12/2026
 04:30 PM
 Malladi Brothers
@@ -6723,6 +7181,21 @@ Kanjira Quartet
 Isai - Natya - Nataka Vizha - 2026 - Kanjira Quartet - For Tickets/Passes Visit www.mdnd.in
 Narada Gana Sabha - Main Hall , Alwarpet
 28/12/2026
+06:15 PM
+Shankar Ramani
+Shraddha Ravindran
+Mumbai Rohit Prasad
+Sarvesh Shankar
+28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+28/12/2026
+02:30 PM
+Charanyamani Aditya
+Pappu Gyandev
+Ajeet sridhar
+28th Annual Music Festival - Carnatic Vocal
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+28/12/2026
 01:30 PM
 V. Venkatanagarajan.
 Vaibhav Ramani
@@ -7073,21 +7546,6 @@ Aswini Srinivasan
 Shamith S. Gowda
 100th Annual Concerts - 2026 - Flute Recital
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-28/12/2026
-06:15 PM
-Shankar Ramani
-Shraddha Ravindran
-Mumbai Rohit Prasad
-Sarvesh Shankar
-28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-28/12/2026
-02:30 PM
-Charanyamani Aditya
-Pappu Gyandev
-Ajeet sridhar
-28th Annual Music Festival - Carnatic Vocal
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 29/12/2026
 09:00 AM
 B. V. Balasai
@@ -7492,6 +7950,27 @@ Akshara Ramachandran
 38th Margazhi Mahotsav - Thematic present - Ulai - Forged by Fire
 YGP Auditorium , T. Nagar
 30/12/2026
+05:30 PM
+Smt. Sreeranjane Kaushik
+Smt. Subhashree Sivaramakrishnan
+Salem S. Ranganathan
+K. R. Sivaramakrishna
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+30/12/2026
+01:30 PM
+Smt. Archana Smt. Arathi
+Chidambaram G. Badrinath
+Chidambaram B. Sai Shankar
+Sowmi J. Narayanan
+100th Annual Concerts - 2026 - Vocal Duo
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+30/12/2026
+02:00 PM
+Siddharth Kaushik
+38th Margazhi Mahotsav - Vocal Event
+YGP Auditorium , T. Nagar
+30/12/2026
 04:30 PM
 Priya Parthasarathy
 Tamilsevan Bharathi
@@ -7646,6 +8125,14 @@ Nerkunam Dr. S. Sankar
 28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 30/12/2026
+07:00 PM
+Dr. B. Vijaya Gopal
+V.V. Srinivasarao
+R. Ramesh
+H. Prasanna
+Nadha Laya Mahotsavam - 2026 - 2027 - Inaugural Concert Flute Recital
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+30/12/2026
 01:00 PM
 Srividhya & Sudha (IYER SISTERS)
 Mumbai Rohit Prasad
@@ -7675,6 +8162,14 @@ U. N. Giridhar Udupa
 70th Margazhi Mela - 2026 - Carnatic Vocal Duo - Ticketing Partner: tikkl
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
 30/12/2026
+07:00 PM
+Dr. B. Vijaya Gopal
+V.V. Srinivasarao
+R. Ramesh
+H. Prasanna
+Nadha Laya Mahotsavam - 2026 - 2027 - Inaugural Concert Flute Recital
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+30/12/2026
 04:00 PM
 N. S. Kamakshi
 M. Vijay
@@ -7682,6 +8177,14 @@ B. GanapathyRaman
 Nerkunram S. Manikandan
 28th Annual Music Festival - Carnatic Concert - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+30/12/2026
+05:30 PM
+Smt. Sreeranjane Kaushik
+Smt. Subhashree Sivaramakrishnan
+Salem S. Ranganathan
+K. R. Sivaramakrishna
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 30/12/2026
 06:45 PM
 K. S. Vishnudev
@@ -7706,6 +8209,14 @@ B. GanapathyRaman
 Nerkunram S. Manikandan
 28th Annual Music Festival - Carnatic Concert - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+30/12/2026
+07:00 PM
+Dr. B. Vijaya Gopal
+V.V. Srinivasarao
+R. Ramesh
+H. Prasanna
+Nadha Laya Mahotsavam - 2026 - 2027 - Inaugural Concert Flute Recital
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 30/12/2026
 01:00 PM
 Srividhya & Sudha (IYER SISTERS)
@@ -7836,6 +8347,14 @@ Shri Sainath
 100th Annual Concerts - 2026 - Vocal Event
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 30/12/2026
+07:00 PM
+Dr. B. Vijaya Gopal
+V.V. Srinivasarao
+R. Ramesh
+H. Prasanna
+Nadha Laya Mahotsavam - 2026 - 2027 - Inaugural Concert Flute Recital
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+30/12/2026
 04:00 PM
 Kanyakumari. A
 Vittal Rangan. B
@@ -7917,18 +8436,21 @@ Sai-Sarangan Ravichandhira
 70th Margazhi Mela - 2026 - Strings - Violin Duo with Double Mridangam
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
 30/12/2026
-01:30 PM
-Smt. Archana Smt. Arathi
-Chidambaram G. Badrinath
-Chidambaram B. Sai Shankar
-Sowmi J. Narayanan
-100th Annual Concerts - 2026 - Vocal Duo
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+05:30 PM
+Smt. Sreeranjane Kaushik
+Smt. Subhashree Sivaramakrishnan
+Salem S. Ranganathan
+K. R. Sivaramakrishna
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 30/12/2026
-02:00 PM
-Siddharth Kaushik
-38th Margazhi Mahotsav - Vocal Event
-YGP Auditorium , T. Nagar
+05:30 PM
+Smt. Sreeranjane Kaushik
+Smt. Subhashree Sivaramakrishnan
+Salem S. Ranganathan
+K. R. Sivaramakrishna
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 31/12/2026
 04:30 PM
 Kunnakudi M. Balamuralikrishna
@@ -7960,6 +8482,14 @@ Praveen Narayanan (Tabla)
 28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Winds & Strings Concert
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 31/12/2026
+10:15 AM
+Pragadeesh Shanmugarajah
+V.V. Srinivasarao
+A. V. Manikantan
+Trichy Dr. Murali
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+31/12/2026
 10:30 AM
 Bharathi Thirumagan
 Kalaimagan. T
@@ -7973,6 +8503,14 @@ Bharadwaj. N. C
 Praveen Narayanan (Tabla)
 28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Winds & Strings Concert
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+31/12/2026
+05:30 PM
+Abilash Giriprasad
+B. V. Raghavendra Rao
+Kallidaikurichi S. Sivakumar
+Madipakkam A. Murali
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 31/12/2026
 06:45 PM
 Kalyanapuram Aravind Soundararajan
@@ -7996,6 +8534,14 @@ Ramana Balachandran
 Anantha R. Krishnan
 70th Margazhi Mela - 2026 - Carnatic Quartet Concert - Ticketing Partner: tikkl
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+31/12/2026
+10:15 AM
+Pragadeesh Shanmugarajah
+V.V. Srinivasarao
+A. V. Manikantan
+Trichy Dr. Murali
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 31/12/2026
 01:00 PM
 Aishwarya Shankar
@@ -8044,12 +8590,36 @@ A. S. Krishnan
 December Season Music Festival - Dvayam - For Season/Day Pass Click MDnD.in - Vocal Event
 My Bungalow , Alwarpet
 31/12/2026
+05:30 PM
+Abilash Giriprasad
+B. V. Raghavendra Rao
+Kallidaikurichi S. Sivakumar
+Madipakkam A. Murali
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+31/12/2026
 11:00 AM
 R. P. Shravan
 Vaibhav Ramani
 V. Sai Raghavan
 70th Margazhi Mela - 2026 - Carnatic Vocal
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+31/12/2026
+07:00 PM
+Suchithra Balasubramanian
+Karaikal S. Venkatasubramanian
+M. S. Venkatasubramaniam
+Kumbakonam Balaji Sairam
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+31/12/2026
+07:00 PM
+Suchithra Balasubramanian
+Karaikal S. Venkatasubramanian
+M. S. Venkatasubramaniam
+Kumbakonam Balaji Sairam
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 31/12/2026
 06:30 PM
 A. S. Murali
@@ -8111,6 +8681,14 @@ Anirudh Raj
 28th Annual Music Festival - Carnatic Concert - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 31/12/2026
+05:30 PM
+Abilash Giriprasad
+B. V. Raghavendra Rao
+Kallidaikurichi S. Sivakumar
+Madipakkam A. Murali
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+31/12/2026
 06:45 PM
 Kalyanapuram Aravind Soundararajan
 Parur M. S. Ananthakrishnan
@@ -8118,6 +8696,14 @@ Akshay Ram. R
 Nerkunam Dr. S. Sankar
 100th Annual Concerts - 2026 - Vocal Concert
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+31/12/2026
+10:15 AM
+Pragadeesh Shanmugarajah
+V.V. Srinivasarao
+A. V. Manikantan
+Trichy Dr. Murali
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 31/12/2026
 04:00 PM
 Kalpalathika Ravishankar
@@ -8142,6 +8728,20 @@ Anantha R. Krishnan
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
 31/12/2026
 04:00 PM
+Uma Ranganathan
+Parur M. K. Ananthalakshmi
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+31/12/2026
+07:00 PM
+Suchithra Balasubramanian
+Karaikal S. Venkatasubramanian
+M. S. Venkatasubramaniam
+Kumbakonam Balaji Sairam
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+31/12/2026
+04:00 PM
 Charumathi Raghuraman
 J. B. Sruthi Sagar
 Ramana Balachandran
@@ -8162,6 +8762,14 @@ Vaibhav Ramani
 V. Sai Raghavan
 70th Margazhi Mela - 2026 - Carnatic Vocal
 Krishna Gana Sabha (Dr.Nalli GanaVihar) , T. Nagar
+31/12/2026
+05:30 PM
+Abilash Giriprasad
+B. V. Raghavendra Rao
+Kallidaikurichi S. Sivakumar
+Madipakkam A. Murali
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 31/12/2026
 01:30 PM
 Anirudh Venkatesh
@@ -8279,10 +8887,21 @@ Pt. Venkatesh Kumar
 Jyothirgamaya - 2026 - Classical Melodies - Hindustani - in the glow of Candles & Diyas - For Tickets MDnD
 Museum Theatre , Egmore
 31/12/2026
+04:00 PM
+Uma Ranganathan
+Parur M. K. Ananthalakshmi
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+31/12/2026
 03:30 PM
 Smt. Sivasri Skandaprasad
 Isai - Natya - Nataka Vizha - 2026 - Namasankeerthanam - For Tickets/Passes Visit www.mdnd.in
 Narada Gana Sabha - Main Hall , Alwarpet
+31/12/2026
+09:00 AM
+Aditya Mohan
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 31/12/2026
 02:30 PM
 Sanjay Suresh
@@ -8301,6 +8920,11 @@ Dr. Sheela Unnikrishnan
 Students - Sridevi Nrithyalaya
 38th Margazhi Mahotsav - Tickets: Bookmyshow.com 10AM, 7th Dec Contact 8248871089, 9941907993 - Thematic Dance
 YGP Auditorium , T. Nagar
+31/12/2026
+03:00 PM
+Bhagyashree Sivakumar
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 31/12/2026
 11:45 AM
 Sidharth Prakash
@@ -8321,6 +8945,14 @@ Anirudh Raj
 28th Annual Music Festival - Carnatic Concert - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 31/12/2026
+07:00 PM
+Suchithra Balasubramanian
+Karaikal S. Venkatasubramanian
+M. S. Venkatasubramaniam
+Kumbakonam Balaji Sairam
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+31/12/2026
 01:30 PM
 Anirudh Venkatesh
 Madurai M. Vijayaganesh
@@ -8328,6 +8960,58 @@ Kishore Ramesh
 Bharadwaj R. Sathavalli
 100th Annual Concerts - 2026 - Vocal Concert
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+31/12/2026
+10:15 AM
+Pragadeesh Shanmugarajah
+V.V. Srinivasarao
+A. V. Manikantan
+Trichy Dr. Murali
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+01/01/2027
+02:30 PM
+C. Ramakrishna
+Chetana Shekar
+Prahalad Varahaswamy
+28th Annual Music Festival - Carnatic Vocal
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+01/01/2027
+10:00 AM
+Uma Kumar
+Kailasapathy. G
+Manivannan
+G. Ganapathy
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+01/01/2027
+02:30 PM
+C. Ramakrishna
+Chetana Shekar
+Prahalad Varahaswamy
+28th Annual Music Festival - Carnatic Vocal
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+01/01/2027
+10:00 AM
+Uma Kumar
+Kailasapathy. G
+Manivannan
+G. Ganapathy
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+01/01/2027
+10:00 AM
+Uma Kumar
+Kailasapathy. G
+Manivannan
+G. Ganapathy
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+01/01/2027
+12:00 PM
+Sriranjani Haran
+Shreya Anil
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 01/01/2027
 06:30 PM
 Dr. Nithyashri Mahadevan
@@ -8363,6 +9047,22 @@ U. N. Giridhar Udupa
 100th Annual Concerts - 2026 - Violin Recital Duo
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 01/01/2027
+04:30 PM
+R. P. Shravan
+Pappu Gyandev
+B. Guru Raghavendra
+Nerkunam Dr. S. Sankar
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+01/01/2027
+04:30 PM
+R. P. Shravan
+Pappu Gyandev
+B. Guru Raghavendra
+Nerkunam Dr. S. Sankar
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+01/01/2027
 06:15 PM
 Sikkil. C. Gurucharan
 Rishabh Ranganathan
@@ -8371,6 +9071,13 @@ Akshay Anantapadmanabhan
 28th Annual Music Festival - Season Donor pass 9884949597 / 9176309996 - Double Mridangam Concert
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 01/01/2027
+03:00 PM
+Bhuvanaja Iyengar
+Rishabh Ranganathan
+Ramya Ramesh
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+01/01/2027
 04:00 PM
 Krishna Ramarathinam
 V.V. Srinivasarao
@@ -8378,6 +9085,14 @@ Nellai A. Balaji
 Madipakkam A. Murali
 28th Annual Music Festival - Carnatic Vocal
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+01/01/2027
+04:30 PM
+R. P. Shravan
+Pappu Gyandev
+B. Guru Raghavendra
+Nerkunam Dr. S. Sankar
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 01/01/2027
 03:30 PM
 Vishakha Hari
@@ -8424,6 +9139,14 @@ Madipakkam A. Murali
 28th Annual Music Festival - Carnatic Vocal
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 01/01/2027
+04:30 PM
+R. P. Shravan
+Pappu Gyandev
+B. Guru Raghavendra
+Nerkunam Dr. S. Sankar
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+01/01/2027
 04:00 PM
 Krishna Ramarathinam
 V.V. Srinivasarao
@@ -8431,6 +9154,14 @@ Nellai A. Balaji
 Madipakkam A. Murali
 28th Annual Music Festival - Carnatic Vocal
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+01/01/2027
+10:00 AM
+Uma Kumar
+Kailasapathy. G
+Manivannan
+G. Ganapathy
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 01/01/2027
 06:15 PM
 Sikkil. C. Gurucharan
@@ -8440,24 +9171,47 @@ Akshay Anantapadmanabhan
 28th Annual Music Festival - Season Donor pass 9884949597 / 9176309996 - Double Mridangam Concert
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 01/01/2027
+02:00 PM
+Vaishnavi Venkat
+Parur M. K. Ananthalakshmi
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+01/01/2027
 06:30 PM
 Dr. Padma Subrahmanyam
 Isai - Natya - Nataka Vizha - 2026 - Dance Recital - For Tickets/Passes Visit www.mdnd.in
 Narada Gana Sabha - Main Hall , Alwarpet
 01/01/2027
-02:30 PM
-C. Ramakrishna
-Chetana Shekar
-Prahalad Varahaswamy
-28th Annual Music Festival - Carnatic Vocal
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+06:00 PM
+Kadayanallur K. S. Rajagopal Das Bhagavathar
+Nadha Laya Mahotsavam - 2026 - 2027 - A Grand Namasankeerthanam
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 01/01/2027
-02:30 PM
-C. Ramakrishna
-Chetana Shekar
-Prahalad Varahaswamy
-28th Annual Music Festival - Carnatic Vocal
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+02:00 PM
+Vaishnavi Venkat
+Parur M. K. Ananthalakshmi
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+01/01/2027
+03:00 PM
+Bhuvanaja Iyengar
+Rishabh Ranganathan
+Ramya Ramesh
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+01/01/2027
+12:00 PM
+Sriranjani Haran
+Shreya Anil
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+01/01/2027
+03:00 PM
+Bhuvanaja Iyengar
+Rishabh Ranganathan
+Ramya Ramesh
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 01/01/2027
 02:30 PM
 C. Ramakrishna
@@ -8470,6 +9224,27 @@ Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Vela
 Kunnakudi M. Balamuralikrishna
 126th Music Festival - Isai Vizha - For Online tickets MDnD.in - Vocal Event
 Vidya Bharathi Kalyana Mandapam , Mylapore
+02/01/2027
+05:00 PM
+Madurai T. N. Seshagopalan
+Haridwaramangalam A. K. Palanivel
+H. H. Ramananda Saraswati Swamigal
+Nadha Laya Mahotsavam - Award Function - Sangeetha Gyana Mani - Nadha Laya Mani on... By Saint/Guru
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
+06:45 PM
+Madurai T. N. Seshagopalan
+Karaikal S. Venkatasubramanian
+A. V. Manikantan
+Nadha Laya Mahotsavam - 2026 - 2027 - "Seeteha Kalyanam" Harikatha
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
+06:45 PM
+Madurai T. N. Seshagopalan
+Karaikal S. Venkatasubramanian
+A. V. Manikantan
+Nadha Laya Mahotsavam - 2026 - 2027 - "Seeteha Kalyanam" Harikatha
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 02/01/2027
 04:00 PM
 U. Rajesh
@@ -8484,6 +9259,13 @@ Madipakkam A. Murali
 Sri Sath Sangam (Ramanujar Hall) , Madipakkam
 02/01/2027
 06:45 PM
+Madurai T. N. Seshagopalan
+Karaikal S. Venkatasubramanian
+A. V. Manikantan
+Nadha Laya Mahotsavam - 2026 - 2027 - "Seeteha Kalyanam" Harikatha
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
+06:45 PM
 Paramakudi S Ravindran
 V.V. Srinivasarao
 Thiruvidaimarudur S. Sankaran
@@ -8514,6 +9296,20 @@ Tiruvarur Vaidyanathan
 G. Chandrasekar Sharma
 28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+02/01/2027
+11:30 AM
+Shrihari Bhat
+M. Vijay
+S. HariKishore
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
+05:00 PM
+Madurai T. N. Seshagopalan
+Haridwaramangalam A. K. Palanivel
+H. H. Ramananda Saraswati Swamigal
+Nadha Laya Mahotsavam - Award Function - Sangeetha Gyana Mani - Nadha Laya Mani on... By Saint/Guru
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 02/01/2027
 06:45 PM
 Paramakudi S Ravindran
@@ -8570,6 +9366,13 @@ Aduthurai G. Guruprasadh
 28th Annual Music Festival - Vocal Event - Duo
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 02/01/2027
+10:15 AM
+Aathreyee Krishnaa K.
+Sameth Sitaram
+Sabareesh Srinivas
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
 06:45 PM
 Paramakudi S Ravindran
 V.V. Srinivasarao
@@ -8585,12 +9388,39 @@ Aduthurai G. Guruprasadh
 28th Annual Music Festival - Vocal Event - Duo
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 02/01/2027
+05:00 PM
+Madurai T. N. Seshagopalan
+Haridwaramangalam A. K. Palanivel
+H. H. Ramananda Saraswati Swamigal
+Nadha Laya Mahotsavam - Award Function - Sangeetha Gyana Mani - Nadha Laya Mani on... By Saint/Guru
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
+03:45 PM
+Aadhya Sreedharan
+ChittoorV. Bhargava Vignesh
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
+10:15 AM
+Aathreyee Krishnaa K.
+Sameth Sitaram
+Sabareesh Srinivas
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
 02:30 PM
 Charulatha Chandrasekar
 A. P. Mahizhan
 Kottayam Rohit Prasad
 28th Annual Music Festival - Strings - Veena Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+02/01/2027
+11:30 AM
+Shrihari Bhat
+M. Vijay
+S. HariKishore
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 02/01/2027
 04:00 PM
 Pathangi-Brothers-Dathre-Dhruv
@@ -8599,12 +9429,89 @@ Aduthurai G. Guruprasadh
 28th Annual Music Festival - Vocal Event - Duo
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 02/01/2027
+11:30 AM
+Shrihari Bhat
+M. Vijay
+S. HariKishore
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
+02:30 PM
+Vasanth Ranganathan
+V. Mridulla
+Trissur K. Sudev
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
+02:30 PM
+Vasanth Ranganathan
+V. Mridulla
+Trissur K. Sudev
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
+10:15 AM
+Aathreyee Krishnaa K.
+Sameth Sitaram
+Sabareesh Srinivas
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
+02:30 PM
+Vasanth Ranganathan
+V. Mridulla
+Trissur K. Sudev
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
+03:45 PM
+Aadhya Sreedharan
+ChittoorV. Bhargava Vignesh
+Nadha Laya Mahotsavam - 2026 - 2027 - Vocal Event
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+02/01/2027
 02:30 PM
 Charulatha Chandrasekar
 A. P. Mahizhan
 Kottayam Rohit Prasad
 28th Annual Music Festival - Strings - Veena Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+03/01/2027
+02:30 PM
+Smitha sisters
+Arunachala Karthik. S
+28th Annual Music Festival - Carnatic Vocal Event - Duo
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+03/01/2027
+04:00 PM
+Shashank Ganeshan
+ChittoorV. Bhargava Vignesh
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+03/01/2027
+06:00 PM
+Dr. Nithyashri Mahadevan
+Lavanya Sundararaman
+M. A. Krishnaswamy
+A. V. Manikantan
+N. Rajaraman
+Nadha Laya Mahotsavam - 2026 - 2027 - A Grand Finale Concert - Vocal
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+03/01/2027
+08:30 AM
+A. V. Manikantan
+V.V. Srinivasarao
+Nadha Laya Mahotsavam - 2026 - 2027 - Annual Day Celebration Performance by more than 60 Students Led by Vidwan's
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+03/01/2027
+06:00 PM
+Dr. Nithyashri Mahadevan
+Lavanya Sundararaman
+M. A. Krishnaswamy
+A. V. Manikantan
+N. Rajaraman
+Nadha Laya Mahotsavam - 2026 - 2027 - A Grand Finale Concert - Vocal
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 03/01/2027
 07:45 PM
 Kalakshetra Foundation
@@ -8648,29 +9555,14 @@ Madipakkam A. Murali
 37th Year Annual Music/Dance Festival - 2027 - Concerts - Dly Tkts 100/- available from 15th Dec. at Hall
 Sri Sath Sangam (Ramanujar Hall) , Madipakkam
 03/01/2027
-06:45 PM
-Suchithra Balasubramanian
-Karaikal S. Venkatasubramanian
-V. Sai Raghavan
-Madipakkam A. Murali
-37th Year Annual Music/Dance Festival - 2027 - Concerts - Dly Tkts 100/- available from 15th Dec. at Hall
-Sri Sath Sangam (Ramanujar Hall) , Madipakkam
-03/01/2027
-06:45 PM
-Suchithra Balasubramanian
-Karaikal S. Venkatasubramanian
-V. Sai Raghavan
-Madipakkam A. Murali
-37th Year Annual Music/Dance Festival - 2027 - Concerts - Dly Tkts 100/- available from 15th Dec. at Hall
-Sri Sath Sangam (Ramanujar Hall) , Madipakkam
-03/01/2027
-06:45 PM
-Suchithra Balasubramanian
-Karaikal S. Venkatasubramanian
-V. Sai Raghavan
-Madipakkam A. Murali
-37th Year Annual Music/Dance Festival - 2027 - Concerts - Dly Tkts 100/- available from 15th Dec. at Hall
-Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+06:00 PM
+Dr. Nithyashri Mahadevan
+Lavanya Sundararaman
+M. A. Krishnaswamy
+A. V. Manikantan
+N. Rajaraman
+Nadha Laya Mahotsavam - 2026 - 2027 - A Grand Finale Concert - Vocal
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 03/01/2027
 06:15 PM
 Ranjani & Gayatri
@@ -8679,6 +9571,12 @@ Delhi Sairam
 G. Chandrasekar Sharma
 28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - A Grand Vocal Duo
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+03/01/2027
+08:30 AM
+A. V. Manikantan
+V.V. Srinivasarao
+Nadha Laya Mahotsavam - 2026 - 2027 - Annual Day Celebration Performance by more than 60 Students Led by Vidwan's
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 03/01/2027
 06:30 PM
 Sandeep Narayan
@@ -8693,13 +9591,14 @@ Madipakkam A. Murali
 37th Year Annual Music/Dance Festival - 2027 - Concerts - Dly Tkts 100/- available from 15th Dec. at Hall
 Sri Sath Sangam (Ramanujar Hall) , Madipakkam
 03/01/2027
-06:45 PM
-Suchithra Balasubramanian
-Karaikal S. Venkatasubramanian
-V. Sai Raghavan
-Madipakkam A. Murali
-37th Year Annual Music/Dance Festival - 2027 - Concerts - Dly Tkts 100/- available from 15th Dec. at Hall
-Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+06:00 PM
+Dr. Nithyashri Mahadevan
+Lavanya Sundararaman
+M. A. Krishnaswamy
+A. V. Manikantan
+N. Rajaraman
+Nadha Laya Mahotsavam - 2026 - 2027 - A Grand Finale Concert - Vocal
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
 03/01/2027
 06:15 PM
 Ranjani & Gayatri
@@ -8717,6 +9616,15 @@ G. Chandrasekar Sharma
 28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - A Grand Vocal Duo
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 03/01/2027
+06:00 PM
+Dr. Nithyashri Mahadevan
+Lavanya Sundararaman
+M. A. Krishnaswamy
+A. V. Manikantan
+N. Rajaraman
+Nadha Laya Mahotsavam - 2026 - 2027 - A Grand Finale Concert - Vocal
+Sri Durga Lakshmi Saraswathi Temple , Madanandapuram
+03/01/2027
 04:00 PM
 Shashank Ganeshan
 ChittoorV. Bhargava Vignesh
@@ -8728,18 +9636,6 @@ Smitha sisters
 Arunachala Karthik. S
 28th Annual Music Festival - Carnatic Vocal Event - Duo
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-03/01/2027
-02:30 PM
-Smitha sisters
-Arunachala Karthik. S
-28th Annual Music Festival - Carnatic Vocal Event - Duo
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-03/01/2027
-04:00 PM
-Shashank Ganeshan
-ChittoorV. Bhargava Vignesh
-37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
-Sri Sath Sangam (Ramanujar Hall) , Madipakkam
 04/01/2027
 06:15 PM
 T. V. S. Mahadevan
@@ -8883,6 +9779,16 @@ Aishwarya Balasubramanian
 20th Annual Dance Festival - 2026 - Bharathanatyam
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 05/01/2027
+09:30 AM
+Lekha Prasad
+20th Annual Dance Festival - 2026 - Bharatanatyam
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+05/01/2027
+02:30 PM
+Lavanya Rupakula
+28th Annual Music Festival - Vocal Event
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+05/01/2027
 06:15 PM
 Carnatica Brothers
 V. V. S. Murari
@@ -8998,16 +9904,6 @@ Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 Lakshmi Parthasarathy Athreya
 20th Annual Dance Festival - Bharatanatyam
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-05/01/2027
-09:30 AM
-Lekha Prasad
-20th Annual Dance Festival - 2026 - Bharatanatyam
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-05/01/2027
-02:30 PM
-Lavanya Rupakula
-28th Annual Music Festival - Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 06/01/2027
 06:15 PM
 Akkarai sisters
@@ -9016,6 +9912,22 @@ Delhi Sairam
 Dr. S. Karthick
 28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event Duo
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+06/01/2027
+06:45 PM
+Dr. Usha Rajagopalan
+Dr. Meera Sivaramakrishnan
+Sherthalai Ananthakrishnan
+A. S. Krishnan
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall - Violin Duo
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+06/01/2027
+06:45 PM
+Dr. Usha Rajagopalan
+Dr. Meera Sivaramakrishnan
+Sherthalai Ananthakrishnan
+A. S. Krishnan
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall - Violin Duo
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
 06/01/2027
 09:30 AM
 Bhavya Kumaran
@@ -9054,6 +9966,14 @@ H. Prasanna
 28th Annual Music Festival - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 06/01/2027
+06:45 PM
+Dr. Usha Rajagopalan
+Dr. Meera Sivaramakrishnan
+Sherthalai Ananthakrishnan
+A. S. Krishnan
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall - Violin Duo
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+06/01/2027
 06:15 PM
 Akkarai sisters
 Vittal Rangan. B
@@ -9061,6 +9981,14 @@ Delhi Sairam
 Dr. S. Karthick
 28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event Duo
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+06/01/2027
+06:45 PM
+Dr. Usha Rajagopalan
+Dr. Meera Sivaramakrishnan
+Sherthalai Ananthakrishnan
+A. S. Krishnan
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall - Violin Duo
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
 06/01/2027
 04:00 PM
 Mohan Santhanam
@@ -9119,60 +10047,31 @@ Anitha Guha
 20th Annual Dance Festival - Group Presentation - Bharatanatyam
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 06/01/2027
+05:00 PM
+Aadhya Sreedharan
+Tejas Murali
+Ramsmaran Krishnakumar
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+06/01/2027
+05:00 PM
+Aadhya Sreedharan
+Tejas Murali
+Ramsmaran Krishnakumar
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+06/01/2027
+05:00 PM
+Aadhya Sreedharan
+Tejas Murali
+Ramsmaran Krishnakumar
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+06/01/2027
 02:30 PM
 Ranjani Radha
 Niveditha Doraiswamy
 A. P. Mahizhan
-28th Annual Music Festival - Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-07/01/2027
-07:45 PM
-Shijith & Parvathy
-20th Annual Dance Festival - Bhartanatyam Duo
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-07/01/2027
-06:15 PM
-Sriranjani Tapasya Santhanagopalan
-VSP Gayatri Sivani
-Delhi Sairam
-28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-07/01/2027
-06:15 PM
-Sriranjani Tapasya Santhanagopalan
-VSP Gayatri Sivani
-Delhi Sairam
-28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-07/01/2027
-12:30 PM
-Shafeekudeen & Shabana
-20th Annual Dance Festival - Bharatnatyam Duo
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-07/01/2027
-06:00 PM
-Dr. Neena Prasad
-20th Annual Dance Festival - Online Season Tks till 10th Dec - Tkt valid to next Program also
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-07/01/2027
-06:15 PM
-Sriranjani Tapasya Santhanagopalan
-VSP Gayatri Sivani
-Delhi Sairam
-28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-07/01/2027
-02:30 PM
-Shreya Ravikumar
-Mridula. V
-Sooraj Radhakrishnan
-28th Annual Music Festival - Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-07/01/2027
-02:30 PM
-Shreya Ravikumar
-Mridula. V
-Sooraj Radhakrishnan
 28th Annual Music Festival - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 07/01/2027
@@ -9192,11 +10091,109 @@ Mridula. V
 Sooraj Radhakrishnan
 28th Annual Music Festival - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+07/01/2027
+07:45 PM
+Shijith & Parvathy
+20th Annual Dance Festival - Bhartanatyam Duo
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+07/01/2027
+06:45 PM
+Trichur Brothers
+Vishvesh Chandrasekar
+Trichur. R. Mohan
+B. S. Purushotham
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall - Vocal Duo
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+07/01/2027
+06:45 PM
+Trichur Brothers
+Vishvesh Chandrasekar
+Trichur. R. Mohan
+B. S. Purushotham
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall - Vocal Duo
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+07/01/2027
+06:15 PM
+Sriranjani Tapasya Santhanagopalan
+VSP Gayatri Sivani
+Delhi Sairam
+28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+07/01/2027
+06:15 PM
+Sriranjani Tapasya Santhanagopalan
+VSP Gayatri Sivani
+Delhi Sairam
+28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+07/01/2027
+06:45 PM
+Trichur Brothers
+Vishvesh Chandrasekar
+Trichur. R. Mohan
+B. S. Purushotham
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall - Vocal Duo
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+07/01/2027
+12:30 PM
+Shafeekudeen & Shabana
+20th Annual Dance Festival - Bharatnatyam Duo
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+07/01/2027
+06:00 PM
+Dr. Neena Prasad
+20th Annual Dance Festival - Online Season Tks till 10th Dec - Tkt valid to next Program also
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+07/01/2027
+06:45 PM
+Trichur Brothers
+Vishvesh Chandrasekar
+Trichur. R. Mohan
+B. S. Purushotham
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall - Vocal Duo
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+07/01/2027
+06:15 PM
+Sriranjani Tapasya Santhanagopalan
+VSP Gayatri Sivani
+Delhi Sairam
+28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+07/01/2027
+02:30 PM
+Shreya Ravikumar
+Mridula. V
+Sooraj Radhakrishnan
+28th Annual Music Festival - Vocal Event
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+07/01/2027
+02:30 PM
+Shreya Ravikumar
+Mridula. V
+Sooraj Radhakrishnan
+28th Annual Music Festival - Vocal Event
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 08/01/2027
 06:00 PM
 Priyadarshini Govind
 20th Annual Dance Festival - Online Season Tks till 10th Dec - Tkt valid to next Program also
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+08/01/2027
+06:45 PM
+Sid Sriram
+S. Varadarajan
+Neyveli B. Venkatesh
+S. Krishna
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+08/01/2027
+06:45 PM
+Sid Sriram
+S. Varadarajan
+Neyveli B. Venkatesh
+S. Krishna
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
 08/01/2027
 12:30 PM
 Pavithra Bhat
@@ -9217,6 +10214,14 @@ Ramsmaran Krishnakumar
 28th Annual Music Festival - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 08/01/2027
+05:00 PM
+Shri Sisters - Madhuvanthi Vijayganesh & Sumedha Vijayganesh
+Palghat G. Kailasapathy
+Ajeet sridhar
+G. Ganapathy
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+08/01/2027
 06:15 PM
 Ramakrishnan Murthy
 L. Ramakrishnan
@@ -9229,12 +10234,28 @@ Medha Hari
 20th Annual Dance Festival - Bharatanatyam
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 08/01/2027
+06:45 PM
+Sid Sriram
+S. Varadarajan
+Neyveli B. Venkatesh
+S. Krishna
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+08/01/2027
 06:15 PM
 Ramakrishnan Murthy
 L. Ramakrishnan
 Vijay B. Natesan
 28th Annual Music Festival - For Season Donor pass 9884949597 / 9176309996 - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+08/01/2027
+06:45 PM
+Sid Sriram
+S. Varadarajan
+Neyveli B. Venkatesh
+S. Krishna
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
 08/01/2027
 04:00 PM
 Swarathmika Srikanth
@@ -9254,6 +10275,22 @@ Shabin Bright
 20th Annual Dance Festival - Bharatanatyam
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 08/01/2027
+05:00 PM
+Shri Sisters - Madhuvanthi Vijayganesh & Sumedha Vijayganesh
+Palghat G. Kailasapathy
+Ajeet sridhar
+G. Ganapathy
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+08/01/2027
+05:00 PM
+Shri Sisters - Madhuvanthi Vijayganesh & Sumedha Vijayganesh
+Palghat G. Kailasapathy
+Ajeet sridhar
+G. Ganapathy
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+08/01/2027
 04:00 PM
 Swarathmika Srikanth
 Karthick Iyer
@@ -9267,10 +10304,57 @@ Thanjai Sri Balakrishnan
 28th Annual Music Festival - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 08/01/2027
+05:00 PM
+Shri Sisters - Madhuvanthi Vijayganesh & Sumedha Vijayganesh
+Palghat G. Kailasapathy
+Ajeet sridhar
+G. Ganapathy
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+08/01/2027
 07:45 PM
 P. S. V. Natyasangham
 20th Annual Dance Festival - Group Presentation - Kathakali
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+09/01/2027
+02:30 PM
+Aditya Sridhar
+ChittoorV. Bhargava Vignesh
+Anirudh Raj
+28th Annual Music Festival - Vocal Event
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+09/01/2027
+06:30 PM
+Kum. Spoorthi Rao
+Sivateja Mallajosyula
+Tanjore Praveen Kumar (Praveen Sparsh)
+Chennaiyil Sangeeth Utsav - Season:5 - Carnatic Vocal Event - For Tickets/Passes visit mdnd.in
+RK Convention Centre ( A M R K Hall) , ECR, Neelankarai
+09/01/2027
+06:00 PM
+Parashwanath upadhye
+20th Annual Dance Festival - Online Season Tks till 10th Dec - Tkt valid to next Program also
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+09/01/2027
+07:45 PM
+Nrityagram
+20th Annual Dance Festival - Odissi Group Presentation
+Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
+09/01/2027
+02:30 PM
+Aditya Sridhar
+ChittoorV. Bhargava Vignesh
+Anirudh Raj
+28th Annual Music Festival - Vocal Event
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+09/01/2027
+06:45 PM
+R. P. Shravan
+Rishipriya Pattabhiraman
+V. G. Vigneshwar
+Martin
+37th Year Annual Music/Dance Festival - Dly Tkts 100/- available from 15th Dec. at Hall' Tamil Cinimaum Bakthi Isaiyum
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
 09/01/2027
 06:15 PM
 Sandeep Narayan
@@ -9286,6 +10370,14 @@ Sivateja Mallajosyula
 Tanjore Praveen Kumar (Praveen Sparsh)
 Chennaiyil Sangeeth Utsav - Season:5 - Carnatic Vocal Event - For Tickets/Passes visit mdnd.in
 RK Convention Centre ( A M R K Hall) , ECR, Neelankarai
+09/01/2027
+06:45 PM
+R. P. Shravan
+Rishipriya Pattabhiraman
+V. G. Vigneshwar
+Martin
+37th Year Annual Music/Dance Festival - Dly Tkts 100/- available from 15th Dec. at Hall' Tamil Cinimaum Bakthi Isaiyum
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
 09/01/2027
 06:15 PM
 Sandeep Narayan
@@ -9353,6 +10445,14 @@ Harinie Jeevitha
 20th Annual Dance Festival - Bharatanatyam
 Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
 09/01/2027
+06:45 PM
+R. P. Shravan
+Rishipriya Pattabhiraman
+V. G. Vigneshwar
+Martin
+37th Year Annual Music/Dance Festival - Dly Tkts 100/- available from 15th Dec. at Hall' Tamil Cinimaum Bakthi Isaiyum
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+09/01/2027
 06:30 PM
 Kum. Spoorthi Rao
 Sivateja Mallajosyula
@@ -9372,36 +10472,21 @@ Anirudh Raj
 28th Annual Music Festival - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 09/01/2027
-02:30 PM
-Aditya Sridhar
-ChittoorV. Bhargava Vignesh
-Anirudh Raj
-28th Annual Music Festival - Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-09/01/2027
-06:30 PM
-Kum. Spoorthi Rao
-Sivateja Mallajosyula
-Tanjore Praveen Kumar (Praveen Sparsh)
-Chennaiyil Sangeeth Utsav - Season:5 - Carnatic Vocal Event - For Tickets/Passes visit mdnd.in
-RK Convention Centre ( A M R K Hall) , ECR, Neelankarai
-09/01/2027
-06:00 PM
-Parashwanath upadhye
-20th Annual Dance Festival - Online Season Tks till 10th Dec - Tkt valid to next Program also
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-09/01/2027
-07:45 PM
-Nrityagram
-20th Annual Dance Festival - Odissi Group Presentation
-Music Academy Main Hall (T.T.K. Auditorium) , Royapettah, Mylapore
-09/01/2027
-02:30 PM
-Aditya Sridhar
-ChittoorV. Bhargava Vignesh
-Anirudh Raj
-28th Annual Music Festival - Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+06:45 PM
+R. P. Shravan
+Rishipriya Pattabhiraman
+V. G. Vigneshwar
+Martin
+37th Year Annual Music/Dance Festival - Dly Tkts 100/- available from 15th Dec. at Hall' Tamil Cinimaum Bakthi Isaiyum
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+10/01/2027
+06:45 PM
+T. M. Krishna
+Akkarai Subbalakshmi
+R. Rajesh
+Anirudh Athreya. V.
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
 10/01/2027
 06:30 PM
 Sikkil. C. Gurucharan
@@ -9410,6 +10495,22 @@ Thiruvarur Dr. Bakthavathsalam
 Dr. S. Karthick
 Chennaiyil Sangeeth Utsav - Season:5 - Carnatic Vocal Event - For Tickets/Passes visit mdnd.in
 RK Convention Centre ( A M R K Hall) , ECR, Neelankarai
+10/01/2027
+06:45 PM
+T. M. Krishna
+Akkarai Subbalakshmi
+R. Rajesh
+Anirudh Athreya. V.
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+10/01/2027
+06:45 PM
+T. M. Krishna
+Akkarai Subbalakshmi
+R. Rajesh
+Anirudh Athreya. V.
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
 10/01/2027
 06:15 PM
 Sid Sriram
@@ -9487,6 +10588,42 @@ R. Srikriti
 Ajeet sridhar
 28th Annual Music Festival - Vocal Event
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+10/01/2027
+06:45 PM
+T. M. Krishna
+Akkarai Subbalakshmi
+R. Rajesh
+Anirudh Athreya. V.
+37th Year Annual Music/Dance Festival - 2027 - Dly Tkts 100/- available from 15th Dec. at Hall
+Sri Sath Sangam (Ramanujar Hall) , Madipakkam
+11/01/2027
+04:00 PM
+Smt. S. M. Vilasini
+Gayatri Vibhavari. V
+Ajeet sridhar
+28th Annual Music Festival - Vocal Event
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+11/01/2027
+02:30 PM
+Srijith Poosaria
+N. A. Amogh
+Anghiras Mahadevan
+28th Annual Music Festival - Mandolin Concert
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+11/01/2027
+02:30 PM
+Srijith Poosaria
+N. A. Amogh
+Anghiras Mahadevan
+28th Annual Music Festival - Mandolin Concert
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+11/01/2027
+02:30 PM
+Srijith Poosaria
+N. A. Amogh
+Anghiras Mahadevan
+28th Annual Music Festival - Mandolin Concert
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 11/01/2027
 06:15 PM
 Mudikondan S. N. Ramesh
@@ -9532,34 +10669,6 @@ Smt. S. M. Vilasini
 Gayatri Vibhavari. V
 Ajeet sridhar
 28th Annual Music Festival - Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-11/01/2027
-04:00 PM
-Smt. S. M. Vilasini
-Gayatri Vibhavari. V
-Ajeet sridhar
-28th Annual Music Festival - Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-11/01/2027
-02:30 PM
-Srijith Poosaria
-N. A. Amogh
-Anghiras Mahadevan
-28th Annual Music Festival - Mandolin Concert
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-11/01/2027
-02:30 PM
-Srijith Poosaria
-N. A. Amogh
-Anghiras Mahadevan
-28th Annual Music Festival - Mandolin Concert
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-11/01/2027
-02:30 PM
-Srijith Poosaria
-N. A. Amogh
-Anghiras Mahadevan
-28th Annual Music Festival - Mandolin Concert
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 12/01/2027
 06:30 PM
@@ -9614,6 +10723,24 @@ Pazhani Balaji
 28th Annual Music Festival - Vocal Concert
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 13/01/2027
+02:30 PM
+V. U. M. Ayshwarya
+Indhalur Shyam Raghav
+28th Annual Music Festival - Carnatic Vocal Event
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+13/01/2027
+04:00 PM
+Thirumanur Brothers
+Sholavaram S. Loganathan
+28th Annual Music Festival Nadasvaram Concert
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+13/01/2027
+04:00 PM
+Thirumanur Brothers
+Sholavaram S. Loganathan
+28th Annual Music Festival Nadasvaram Concert
+Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
+13/01/2027
 06:30 PM
 Dr. Sudha Raghunathan
 Embar S. Kannan
@@ -9682,23 +10809,5 @@ RK Convention Centre ( A M R K Hall) , ECR, Neelankarai
 V. U. M. Ayshwarya
 Indhalur Shyam Raghav
 28th Annual Music Festival - Carnatic Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-13/01/2027
-02:30 PM
-V. U. M. Ayshwarya
-Indhalur Shyam Raghav
-28th Annual Music Festival - Carnatic Vocal Event
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-13/01/2027
-04:00 PM
-Thirumanur Brothers
-Sholavaram S. Loganathan
-28th Annual Music Festival Nadasvaram Concert
-Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
-13/01/2027
-04:00 PM
-Thirumanur Brothers
-Sholavaram S. Loganathan
-28th Annual Music Festival Nadasvaram Concert
 Sri Ganapathi Sachchidananda Ashram Hall (A/c) , Seshadripuram, Baby Nagar, Velachery
 The event details are collected from various sources. While care has been taken to indicate the Artiste, Venue, start & end time of each program, you are advised to check with the Organization for the exact information. If you have any questions or concern regarding this program, please let us know by sending an email to info@chennaievent.com. We will get back to you soon.

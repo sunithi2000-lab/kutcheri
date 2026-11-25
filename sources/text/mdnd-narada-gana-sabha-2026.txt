@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2400
-# fetched 2026-11-25T01:30Z
+# fetched 2026-11-25T19:31Z
 Select Language
 English
 Tamil
@@ -9,6 +9,8 @@ Kannada
 Malayalam
 Select Location
 0
+Free
+Ticketed
 Season Passes
 All Season Pass | Narada Gana Sabha
 Dec 13, 2026 – Jan 1, 2027
