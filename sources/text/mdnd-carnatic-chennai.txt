@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-25T19:31Z
+# fetched 2026-11-26T01:06Z
 Select Language
 English
 Tamil
@@ -10,12 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Vocal Concert by Dr Sundar, Trichur Brothers
-Wed, 25th Nov 2026 | 4:30 PM
-Free | Offline
-Nadaswaram Concert by Mylai Karthikeyan
-Wed, 25th Nov 2026 | 6:15 PM
-Free | Offline
 Carnatic Vocal Concert by Sai Vignesh, Gayathri Venkatraghavan
 Thu, 26th Nov 2026 | 4:30 PM
 Free | Offline
@@ -760,10 +754,10 @@ Ticketed | Offline
 Carnatic Vocal by Abhirama Bode | Anujan Broadcasts and Sri Dayaa Trust
 Thu, 31st Dec 2026 | 4:00 PM
 Ticketed | Offline
-Carnatic Violin Concert by Akkarai Sisters
+KRUTHI VITTAL - Vocal | 4 :00 PM | Papanasam ASHOK RAMANI - Vocal | 6:30 PM | Mylapore Fine Arts Club
 Thu, 31st Dec 2026 | 4:00 PM
 Ticketed | Offline
-KRUTHI VITTAL - Vocal | 4 :00 PM | Papanasam ASHOK RAMANI - Vocal | 6:30 PM | Mylapore Fine Arts Club
+Carnatic Violin Concert by Akkarai Sisters
 Thu, 31st Dec 2026 | 4:00 PM
 Ticketed | Offline
 Kunnakudi M.Balamurali Krishna | Carnatic Vocal | Bharat Kalachar

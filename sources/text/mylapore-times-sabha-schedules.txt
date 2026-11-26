@@ -1,5 +1,5 @@
 # https://season.mylaporetimes.com/sabha-schedule/
-# fetched 2026-11-25T19:31Z
+# fetched 2026-11-26T01:06Z
 MARGAZHI 2026 IN MYLAPORE
 Sabha Schedule
 Sl.No Sabha
@@ -12,6 +12,9 @@ Sl.No Sabha
 7. Kartik Fine Arts
 8. Naada Inbam (Pre music festival)
 9. Naada Inbam
+10. Charsur Arts Foundation
+11. Global Heritage Music Fest
+12. Paddhathi Music Fest
 Home
 News
 Music
