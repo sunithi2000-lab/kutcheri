@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi?day=all&type=music
-# fetched 2026-11-26T01:06Z
+# fetched 2026-11-26T19:31Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -51,13 +51,13 @@ Create Your Profile
 Search the December Season
 THE SPIRIT OF DECEMBER
 December Season Schedule 2026
-Every concert from Chennai’s sabhas — 762 concerts from 22 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
+Every concert from Chennai’s sabhas — 780 concerts from 24 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
 Dance
 164
 Music
-539
+557
 Everything
-762
+780
 Sabhas
 Artists
 Add your programme
@@ -121,14 +121,15 @@ The Music Academy
 Sri Krishna Gana Sabha
 Bharat Kalachar
 Mylapore Fine Arts Club (Regd)
+Narada Gana Sabha
 Charsur Arts Foundation
 Sri Parthasarathy Swami Sabha
-Narada Gana Sabha
 Swaminathan
 Anujan Broadcasts and Sri Dayaa Trust
 The Indian Fine Arts Society
 Carnatica
 Kartik Fine Arts
+INDIAN STAGE
 Kalakshetra
 Aalaap
 Live4You
@@ -137,18 +138,20 @@ Chennaiyil Sangeeth Utsav
 Gems of Margazhi - From the House of Meenu Subbiah
 Minnaminni (Mélange Fest)
 Tamil Cultural Academy
-Anusham Arts Academy
 Brahma Gana Sabha
+Sri Thyaga Brahma Gana Sabha
+Anusham Arts Academy
 Neighbourhood
 All areas
 Alwarpet (60)
-Chennai (177)
+Chennai (178)
 ECR (6)
 Egmore (10)
 Luz (1)
 Main Hall (1)
 Mandaveli-R.A. Puram (2)
-Mylapore (217)
+Mylapore (233)
+T-Nagar (1)
 T. Nagar (227)
 Teynampet (40)
 Tharamani (3)
@@ -174,6 +177,7 @@ Abilash Giriprasad
 Adiitya Sridhar (Memphis Murali Raghavan)
 Aditya Madhavan
 Aditya Narayanan
+Aditya Ravidas for Anandha Margazhi
 Aishwarya Balasubramanian
 Aishwarya Shankar
 Aishwarya Valli Kakulapati & Harini N S
@@ -203,6 +207,7 @@ Anirudh Venkatesh
 Anitha Guha & Ensemble
 Anitha Guha's Bharathanjali
 Anugrah Lakshmanan
+Anushree Iyer for Anandha Margazhi
 Anwesha Das & Medha Hari
 Aparajitha (Nandhini Suresh)
 Aravind Soundararajan
@@ -241,6 +246,7 @@ Carnatica Brothers
 Carnatica Brothers - Vocal
 Carnatica Brothers (K.N.Shashikiran & P. Ganesh)
 Charulatha Chandrasekar
+Charulatha Chandrasekar for Anandha Margazhi
 Charumathi Raghuraman
 Chennayil 31st Year Celbrations - Spoorthi Rao- Tribute to the Female Trinity
 Chinmaya Sisters - Vocal
@@ -308,6 +314,7 @@ Dr.N.J. Nandini
 Dr.Pantula Rama
 Dummies Drama presents Kaanal Nero
 Dushyanth Sridhar
+E R Anirudh for Anandha Margazhi
 Embar Kannan & L Ramakrishnan
 ER Anirudh
 Faculty & Students of Kalakshetra
@@ -375,6 +382,7 @@ Kathadi Ramamurthy
 Kiranmayee Madupu
 Kolkata Padmavathi Saranathan
 Kripas Centre for Fine Arts presents Munna oru kaalaththula
+Krishna Vasudevan for Anandha Margazhi
 Krithika Bharadhwaj
 Kruthi Bhat
 Kruthi Vittal
@@ -396,6 +404,7 @@ Leela Samson and Rama Vaidyanathan
 Leela Samson’s Spanda Dance Company
 Lekha Prasad
 M Oviya
+Madhavi & Vaishnavi Sitaraman (Delhi Sisters) for Anandha Margazhi
 Madhusudhanan Kalaichelvan
 Madhuvanthi Badri
 Madurai T.N.S.Krishna
@@ -404,6 +413,7 @@ Maharajapuram S.Ganesh Viswanathan
 Mahathi
 Mahathi Kannan presents "Ramaya Thubhyam Namaha"
 Mahati Kannan
+Mahesh Madhu for Anandha Margazhi
 Malavika Sarukkai
 Malladi Brothers
 Malladi Brothers - Sreeramaprasad & Dr Ravikumar
@@ -422,6 +432,7 @@ Mandolin Siblings Samhitha Shivram & Shreyas Shivram
 Master Vittal Prasad
 Mavin Khoo
 Medha Hari
+Medha Udupa for Anandha Margazhi
 Meenakshi Chitharanjan & Pandanallur Pandian
 Meenakshi Chittaranjan
 Meenakshi Sreenivasan
@@ -439,6 +450,7 @@ Mythili Prakash
 N J Nandini
 N Vijay Siva
 N. Vijay Siva
+Nachikethan Vivek Srinivasan for Anandha Margazhi
 Nada Gurukulam Presents Sakthi Prabhavam
 Nagai Muralidharan & Dr. Badrinarayanan - Violin
 Nagai R. Muralidharan
@@ -512,6 +524,7 @@ R.K. Shriramkumar & V.V.S.Murari
 R.P.Shravan
 R.Sai Vignesh
 Raga & Rhythm
+Raghav Krishna for Anandha Margazhi
 Rajesh Vaidya Veenai and Flute Jayanth
 Rajhesh Vaidhya
 Rajhesh Vaidhya & U Rajesh
@@ -528,6 +541,7 @@ Ranjani & ‘Sangeetha Choodamani’ Gayatri
 Ranjani & Gayatri
 Ranjani and Gayatri
 Ranjani Gayatri
+Ranjani Radha V for Anandha Margazhi
 Rasika Sivakumar (USA)
 Ratikant Mohapatra
 Ravi Kiran G
@@ -558,6 +572,7 @@ S.Mahathi
 Sai Vignesh & Kavya Muralidharan
 Saikripa Prasanna & Jayanthi Subramaniam
 Saila Sudha Dance Academy presents Azhagan Murugan
+Sakambhari Kamesh for Anandha Margazhi
 Saketharaman
 Sakshi Ashok
 Salem Dr. Gayathri Venkatesan
@@ -658,6 +673,7 @@ Swarathmika Srikanth
 T.V. Varadarajen & Team
 T.V.S. Mahadevan
 Tamilselvan Bharathi & Priya Parthasarathy
+Tejasvi Subramanya for Anandha Margazhi
 Thiruvaimur T.R.B. Arulmozhi Karthikeyan
 Thomas Vo Van Tao
 Tom Medias - Perumale
@@ -710,7 +726,9 @@ Vidya Kalyanaraman
 Vignesh Ishwar
 Vignesh Ishwar - Vocal
 Vignesh Ishwar & Ashwath Narayanan
+Vignesh Shankar G for Anandha Margazhi
 Vijayalakshmi
+Vijayanti Pappu for Anandha Margazhi
 Vikram Sridhar
 Visakha Hari (SRI RANGA MAHATHMYAM)
 Vishaka Hari
@@ -740,7 +758,7 @@ Search
 Next up
 Free entry only
 6:00 pm
-in 1 day
+in 16 h 46 min
 Saindhavi & Sai Vignesh
 Gems of Margazhi - From the House of Meenu Subbiah · Tharamani
 Want a website of your own?
@@ -850,17 +868,17 @@ Sat
 Jan 16
 Sun
 Jan 17
-All music 539
-Vocal 303
-Instrumental 76
-Harikatha & Namasankeerthanam 31
+All music 557
+Vocal 313
+Instrumental 83
+Harikatha & Namasankeerthanam 32
 Lec-dems & talks 2
 Light & Fusion 8
 Concert (type not listed) 61
 Students' music performance 2
 Devotional music 2
 The whole season
-539 CONCERTS FOUND
+557 CONCERTS FOUND
 Free
 Ticketed
 SUN 15 NOV
@@ -1109,6 +1127,13 @@ Carnatica
 SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM, Thiruvanmiyur
 Ticketed
 SAT 12 DEC
+10:00 am
+Music
+Ranjani Radha V for Anandha Margazhi
+VOCAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
+SAT 12 DEC
 4:30 pm
 Music
 Dr.N.J. Nandini
@@ -1158,6 +1183,13 @@ HARIKATHA & NAMASANKEERTHANAM
 Sri Krishna Gana Sabha
 Dr. Nalli Gana Vihar, T. NagarFree
 NB
+SUN 13 DEC
+10:00 am
+Music
+Carnatic Mandolin Concert
+INSTRUMENTAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
 SUN 13 DEC
 11:00 am
 Music
@@ -1231,6 +1263,13 @@ HARIKATHA & NAMASANKEERTHANAM
 Sri Krishna Gana Sabha
 Dr. Nalli Gana Vihar, T. NagarFree
 NB
+MON 14 DEC
+10:00 am
+Music
+Harikatha Concert
+HARIKATHA & NAMASANKEERTHANAM
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
 MON 14 DEC
 11:00 am
 Music
@@ -1318,6 +1357,13 @@ HARIKATHA & NAMASANKEERTHANAM
 Sri Krishna Gana Sabha
 Dr. Nalli Gana Vihar, T. NagarFree
 NB
+TUE 15 DEC
+10:00 am
+Music
+E R Anirudh for Anandha Margazhi
+VOCAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
 TUE 15 DEC
 11:00 am
 Music
@@ -1461,6 +1507,13 @@ with Nagaswaram · Thavil
 The Music Academy
 Music Academy, TTK Auditorium, MylaporeFree
 IS
+WED 16 DEC
+10:00 am
+Music
+Medha Udupa for Anandha Margazhi
+INSTRUMENTAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
 WED 16 DEC
 11:00 am
 Music
@@ -1623,6 +1676,13 @@ with Violin · Mridangam · Kanjira
 The Music Academy
 Music Academy, TTK Auditorium, MylaporeFree
 KB
+THU 17 DEC
+10:00 am
+Music
+Nachikethan Vivek Srinivasan for Anandha Margazhi
+VOCAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
 THU 17 DEC
 11:00 am
 Music
@@ -1810,6 +1870,13 @@ Charsur Arts Foundation
 My Bungalow, Teynampet
 Ticketed
 SH
+FRI 18 DEC
+10:00 am
+Music
+Carnatic Guitar Concert
+INSTRUMENTAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
 FRI 18 DEC
 11:00 am
 Music
@@ -2025,6 +2092,13 @@ Charsur Arts Foundation
 My Bungalow, Teynampet
 Ticketed
 SS
+SAT 19 DEC
+10:00 am
+Music
+Krishna Vasudevan for Anandha Margazhi
+VOCAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
 SAT 19 DEC
 11:00 am
 Music
@@ -2258,6 +2332,13 @@ Charsur Arts Foundation
 My Bungalow, Teynampet
 Ticketed
 SUN 20 DEC
+10:00 am
+Music
+Anushree Iyer for Anandha Margazhi
+INSTRUMENTAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
+SUN 20 DEC
 10:30 am
 Music
 Ritvik Vaddi Rao
@@ -2477,6 +2558,13 @@ VOCAL
 with Violin · Mridangam · Ghatam
 The Music Academy
 Music Academy, TTK Auditorium, MylaporeFree
+MON 21 DEC
+10:00 am
+Music
+Vijayanti Pappu for Anandha Margazhi
+INSTRUMENTAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
 MON 21 DEC
 11:00 am
 Music
@@ -2701,6 +2789,13 @@ The Music Academy
 Music Academy, TTK Auditorium, MylaporeFree
 JK
 TUE 22 DEC
+10:00 am
+Music
+Tejasvi Subramanya for Anandha Margazhi
+VOCAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
+TUE 22 DEC
 11:00 am
 Music
 Kandadevi Brothers - Krishna Sai & Mukunda Sai
@@ -2734,6 +2829,14 @@ VOCAL
 with Violin · Mridangam · Kanjira
 The Music Academy
 Music Academy, TTK Auditorium, MylaporeFree
+TUE 22 DEC
+2:00 pm
+Music
+Vishruthi Girish
+VOCAL
+Narada Gana Sabha
+ChennaiFree
+VG
 TUE 22 DEC
 2:30 pm
 Music
@@ -2903,6 +3006,13 @@ VOCAL
 with Violin · Mridangam · Moharsing
 The Music Academy
 Music Academy, TTK Auditorium, MylaporeFree
+WED 23 DEC
+10:00 am
+Music
+Charulatha Chandrasekar for Anandha Margazhi
+INSTRUMENTAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
 WED 23 DEC
 11:00 am
 Music
@@ -3103,6 +3213,13 @@ VOCAL
 Indian Carnatic vocalist
 The Music Academy
 Music Academy, TTK Auditorium, MylaporeFree
+THU 24 DEC
+10:00 am
+Music
+Madhavi & Vaishnavi Sitaraman (Delhi Sisters) for Anandha Margazhi
+INSTRUMENTAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
 THU 24 DEC
 11:00 am
 Music
@@ -3321,6 +3438,13 @@ Sri Krishna Gana Sabha
 Dr. Nalli Gana Vihar, T. Nagar
 Ticketed
 FRI 25 DEC
+10:00 am
+Music
+Mahesh Madhu for Anandha Margazhi
+VOCAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
+FRI 25 DEC
 10:30 am
 Music
 B Kannan and Party
@@ -3353,6 +3477,14 @@ VOCAL
 Bharat Kalachar
 Sri YGP Auditorium, T. NagarFree
 MY
+FRI 25 DEC
+2:15 pm
+Music
+Vishruthi Girish
+VOCAL
+Brahma Gana Sabha
+RR Sabha, MylaporeFree
+VG
 FRI 25 DEC
 2:30 pm
 Music
@@ -3517,6 +3649,13 @@ VEENA
 with Mridangam · Ghatam
 The Music Academy
 Music Academy, TTK Auditorium, MylaporeFree
+SAT 26 DEC
+10:00 am
+Music
+Aditya Ravidas for Anandha Margazhi
+VOCAL
+INDIAN STAGE
+MDnD Performance Centre, MylaporeFree
 SAT 26 DEC
 10:30 am
 Music
@@ -4580,6 +4719,14 @@ Bharadwaj Subramaniam
 VOCAL
 Bharat Kalachar
 Sri YGP Auditorium, T. NagarFree
+THU 31 DEC
+2:15 pm
+Music
+Vishruthi Girish
+VOCAL
+Sri Thyaga Brahma Gana Sabha
+Vani Mahal, T-NagarFree
+VG
 THU 31 DEC
 3:30 pm
 Music

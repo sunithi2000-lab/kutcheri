@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi/sabhas
-# fetched 2026-11-26T01:06Z
+# fetched 2026-11-26T19:31Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -59,11 +59,12 @@ Luz
 Main Hall
 Mandaveli-R.A. Puram
 Mylapore
+T-Nagar
 T. Nagar
 Teynampet
 Tharamani
 Thiruvanmiyur
-22 venues with schedules
+24 venues with schedules
 Search venues
 TM
 The Music Academy
@@ -76,15 +77,15 @@ T. Nagar · 91 programmes
 MF
 Mylapore Fine Arts Club (Regd)
 Chennai · 67 programmes
+NG
+Narada Gana Sabha
+Alwarpet · 40 programmes
 CA
 Charsur Arts Foundation
 Teynampet · 40 programmes
 PS
 Sri Parthasarathy Swami Sabha
 Luz · 39 programmes
-NG
-Narada Gana Sabha
-Alwarpet · 39 programmes
 S
 Swaminathan
 Chennai · 38 programmes
@@ -100,6 +101,9 @@ Thiruvanmiyur · 27 programmes
 KF
 Kartik Fine Arts
 Main Hall · 23 programmes
+IS
+INDIAN STAGE
+Mylapore · 15 programmes
 Kalakshetra
 Thiruvanmiyur · 11 programmes
 A
@@ -122,12 +126,15 @@ Alwarpet · 2 programmes
 TC
 Tamil Cultural Academy
 Mandaveli-R.A. Puram · 2 programmes
+BG
+Brahma Gana Sabha
+Mylapore · 2 programmes
+TB
+Sri Thyaga Brahma Gana Sabha
+T-Nagar · 1 programmes
 AA
 Anusham Arts Academy
 T. Nagar · 1 programmes
-BG
-Brahma Gana Sabha
-Mylapore · 1 programmes
 SCHEDULES NOT OUT YET
 Mudhra
 Festival 1–27 Dec announced; programme not out yet

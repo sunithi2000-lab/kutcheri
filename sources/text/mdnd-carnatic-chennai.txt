@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-26T01:06Z
+# fetched 2026-11-26T19:31Z
 Select Language
 English
 Tamil
@@ -33,6 +33,9 @@ Sun, 29th Nov 2026 | 6:15 PM
 Free | Offline
 Carnatic Vocal Concert by Shreyas Gowrishankar
 Mon, 30th Nov 2026 | 6:15 PM
+Free | Offline
+Carnatic Vocal by Vishnudev | Carnatic Nadaswaram by Mylai Karthikeyan
+Tue, 1st Dec 2026 | 4:45 PM
 Free | Offline
 Carnatic Vocal Concert by Kunnakudi M Balamuralikrishna
 Tue, 1st Dec 2026 | 6:30 PM
@@ -91,6 +94,9 @@ Ticketed | Offline
 Carnatic Vocal Concert by Amritha Murali
 Fri, 11th Dec 2026 | 7:00 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Ranjani Radha V for Anandha Margazhi
+Sat, 12th Dec 2026 | 10:00 AM
+Free | Offline
 4.30 PM Carnatic Vocal by Dr.N.J. Nandini | 6.45 PM Carnatic Vocal by Dr. Sudha Ragunathan | Kartik Fine Arts
 Sat, 12th Dec 2026 | 4:30 PM
 Ticketed | Offline
@@ -100,6 +106,9 @@ Ticketed | Offline
 Carnatic Vocal by Sandeep Narayan | Sri Thyaga Brahma Gana Sabha
 Sat, 12th Dec 2026 | 6:30 PM
 Ticketed | Offline
+Carnatic Mandolin Concert by Raghav Krishna for Anandha Margazhi
+Sun, 13th Dec 2026 | 10:00 AM
+Free | Offline
 4.30 PM Carnatic Violin and Viola Concert by R.K. Shriramkumar & V.V.S.Murari | 6.45 PM Carnatic Vocal Concert by Sid Sriram | CARNATICA AND SRI PARTHASARATHY SWAMI SABHA
 Sun, 13th Dec 2026 | 4:30 PM
 Ticketed | Offline
@@ -124,6 +133,9 @@ Ticketed | Offline
 Carnatic Vocal by Sanjay Subrahmanyan | Sri Thyaga Brahma Gana Sabha
 Mon, 14th Dec 2026 | 6:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by E R Anirudh for Anandha Margazhi
+Tue, 15th Dec 2026 | 10:00 AM
+Free | Offline
 3.30 PM Carnatic Vocal by Ravi Kiran G | 6.30 PM Carnatic Vocal by Saketharaman S | Narada Gana Sabha
 Tue, 15th Dec 2026 | 3:30 PM
 Ticketed | Offline
@@ -145,6 +157,9 @@ Ticketed | Offline
 Carnatic Vocal by Gayathri Venkataraghavan | Sri Thyaga Brahma Gana Sabha
 Tue, 15th Dec 2026 | 6:30 PM
 Ticketed | Offline
+Carnatic Flute Concert by Medha Udupa for Anandha Margazhi
+Wed, 16th Dec 2026 | 10:00 AM
+Free | Offline
 Carnatic Vocal Concert by Vishruthi Girish
 Wed, 16th Dec 2026 | 11:00 AM
 Free | Offline
@@ -169,6 +184,9 @@ Ticketed | Offline
 Carnatic Vocal by Kunnakkudi M Balamuralikrishna | Sri Thyaga Brahma Gana Sabha
 Wed, 16th Dec 2026 | 6:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Nachikethan Vivek Srinivasan for Anandha Margazhi
+Thu, 17th Dec 2026 | 10:00 AM
+Free | Offline
 3.30 PM Carnatic Veena by Nirmala Rajasekar | 6.30 PM Carnatic Vocal by Nisha Rajagopal | Narada Gana Sabha
 Thu, 17th Dec 2026 | 3:30 PM
 Ticketed | Offline
@@ -199,6 +217,9 @@ Ticketed | Offline
 Carnatic Vocal Concert by Amritha Murali
 Thu, 17th Dec 2026 | 6:45 PM
 Ticketed | Offline
+Carnatic Guitar Concert by Vignesh Shankar G for Anandha Margazhi
+Fri, 18th Dec 2026 | 10:00 AM
+Free | Offline
 3.30 PM Carnatic Vocal by S Mahathi | 6.30 PM Carnatic Vocal by S Sowmya | Narada Gana Sabha
 Fri, 18th Dec 2026 | 3:30 PM
 Ticketed | Offline
@@ -229,6 +250,9 @@ Ticketed | Offline
 Carnatic Vocal by Trichur Brothers | Sri Thyaga Brahma Gana Sabha
 Fri, 18th Dec 2026 | 6:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Krishna Vasudevan for Anandha Margazhi
+Sat, 19th Dec 2026 | 10:00 AM
+Free | Offline
 3.30 PM Carnatic Vocal by Amritha Murali | 6.30 PM Bharatanatyam by Shobana | Narada Gana Sabha
 Sat, 19th Dec 2026 | 3:30 PM
 Ticketed | Offline
@@ -264,6 +288,9 @@ Sat, 19th Dec 2026 | 7:00 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Vishruthi Girish
 Sat, 19th Dec 2026 | 7:30 PM
+Free | Offline
+Carnatic Violin Concert by Anushree Iyer for Anandha Margazhi
+Sun, 20th Dec 2026 | 10:00 AM
 Free | Offline
 Carnatic Vocal Concert by Anahita & Apoorva
 Sun, 20th Dec 2026 | 10:00 AM
@@ -316,6 +343,9 @@ Ticketed | Offline
 Carnatic Lecdem by Prince Rama Varma & Amrutha Venkatesh
 Sun, 20th Dec 2026 | 8:30 AM
 Free | Offline
+Carnatic Veena Concert by Vijayanti Pappu for Anandha Margazhi
+Mon, 21st Dec 2026 | 10:00 AM
+Free | Offline
 A Carnatic Shot - Raga Saga by Ashwath Narayanan
 Mon, 21st Dec 2026 | 2:30 PM
 Ticketed | Offline
@@ -351,6 +381,9 @@ Mon, 21st Dec 2026 | 6:30 PM
 Ticketed | Offline
 LecDem by Amritha Murali
 Mon, 21st Dec 2026 | 8:05 AM
+Free | Offline
+Carnatic Vocal Concert by Tejasvi Subramanya for Anandha Margazhi
+Tue, 22nd Dec 2026 | 10:00 AM
 Free | Offline
 Carnatic Vocal Concert by Vishruthi Girish
 Tue, 22nd Dec 2026 | 2:00 PM
@@ -391,6 +424,9 @@ Ticketed | Offline
 Carnatic Vocal Concert by Sid Sriram
 Tue, 22nd Dec 2026 | 7:15 PM
 Free | Offline
+Carnatic Veena Concert by Charulatha Chandrasekar for Anandha Margazhi
+Wed, 23rd Dec 2026 | 10:00 AM
+Free | Offline
 A Carnatic Shot - Echo Chamber by Sumesh Narayanan
 Wed, 23rd Dec 2026 | 2:30 PM
 Ticketed | Offline
@@ -427,6 +463,9 @@ Ticketed | Offline
 Carnatic Vocal Concert by Sudha Ragunathan
 Wed, 23rd Dec 2026 | 7:15 PM
 Free | Offline
+Carnatic Vocal Concert by Madhavi & Vaishnavi Sitaraman (Delhi Sisters) for Anandha Margazhi
+Thu, 24th Dec 2026 | 10:00 AM
+Free | Offline
 A Carnatic Shot - Unscripted by G Ravikiran
 Thu, 24th Dec 2026 | 2:30 PM
 Ticketed | Offline
@@ -451,6 +490,9 @@ Ticketed | Offline
 4.30pm Dr. A Sabari - Vocal | 7.00pm Trichur Brothers - Vocal | The Indian Fine Arts Society
 Thu, 24th Dec 2026 | 4:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Dr. Nithyasree Mahadevan
+Thu, 24th Dec 2026 | 6:30 PM
+Free | Offline
 Carnatic Vocal by Ramakrishnan Murthy | Narada Gana Sabha
 Thu, 24th Dec 2026 | 6:30 PM
 Ticketed | Offline
@@ -466,6 +508,9 @@ Ticketed | Offline
 Seetha Narayanan - Vocal | Charsur Arts Foundation
 Fri, 25th Dec 2026 | 10:00 AM
 Ticketed | Offline
+Carnatic Vocal Concert by Mahesh Madhu for Anandha Margazhi
+Fri, 25th Dec 2026 | 10:00 AM
+Free | Offline
 Carnatic Veena Concert by B Kannan and Party
 Fri, 25th Dec 2026 | 10:30 AM
 Free | Offline
@@ -514,6 +559,9 @@ Ticketed | Offline
 K Arun Prakash - Ensemble | Charsur Arts Foundation
 Sat, 26th Dec 2026 | 10:00 AM
 Ticketed | Offline
+Carnatic Vocal Concert by Aditya Ravidas for Anandha Margazhi
+Sat, 26th Dec 2026 | 10:00 AM
+Free | Offline
 RAJHESH VAIDHYA & FLUTE JAYANTH's DUET | Instrumental | Bharat Kalachar
 Sat, 26th Dec 2026 | 10:30 AM
 Ticketed | Offline
@@ -790,7 +838,7 @@ Ticketed | Offline
 Carnatic Vocal Concert by Giridharan
 Fri, 1st Jan 2027 | 5:30 PM
 Free | Offline
-Carnatic Flute by J A Jayanth and Veena by by Nirmala Rajasekhar | Sri Thyaga Brahma Gana Sabha
+Carnatic Veena by Nirmala Rajasekhar and Carnatic Flute by J A Jayanth | Sri Thyaga Brahma Gana Sabha
 Fri, 1st Jan 2027 | 6:30 PM
 Ticketed | Offline
 Carnatic Fusion by Rishabh Ranganathan & Viswas Hari
@@ -880,3 +928,6 @@ Ticketed | Offline
 Carnatic Vocal Concert by Sudha Ragunathan | Chennaiyil Sangeeth Utsav
 Wed, 13th Jan 2027 | 6:30 PM
 Ticketed | Offline
+Carnatic Vocal Concert by Vishruthi Girish
+Sat, 16th Jan 2027 | 4:00 PM
+Free | Offline

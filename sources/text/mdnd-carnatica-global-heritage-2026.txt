@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=30992
-# fetched 2026-11-26T01:06Z
+# fetched 2026-11-26T19:31Z
 Select Language
 English
 Tamil
@@ -12,6 +12,7 @@ Select Location
 GLOBAL HERITAGE ARTS FEST 2026 -Music and Arts Fest
 Date: December 11th – 22nd, 2026
 Venue: SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM, Thiruvanmiyur, Chennai
+Ticketed
 Season Tickets
 Season Pass | GLOBAL HERITAGE ARTS FEST 2026 | CARNATICA AND SRI PARTHASARATHY SWAMI SABHA
 Dec 11, 2026 – Dec 22, 2026

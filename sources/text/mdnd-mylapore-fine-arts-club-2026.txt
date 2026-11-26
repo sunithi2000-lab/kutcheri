@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2293
-# fetched 2026-11-26T01:06Z
+# fetched 2026-11-26T19:31Z
 Select Language
 English
 Tamil
@@ -15,6 +15,7 @@ presents
 17.12.2026 TO 16.01.2027
 NOTE :TICKETS ONCE BOOKED CANNOT BE CANCELLED
 More
+Ticketed
 Season Tickets
 75th Year Art Festival | Season Pass | The Mylapore Fine Arts Club
 Dec 17, 2026 – Jan 14, 2027
