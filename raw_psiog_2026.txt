@@ -1,0 +1,24 @@
+# Psiog – Srothovaham Music Festival 2026 (3rd edition, "Rooted. Rising. Resonance"), 5–13 Dec 2026, Srinivasa Sastri Hall, Luz Church Road, Mylapore (Carnatic music only).
+# Source: chennaievent.com's season listing https://chennaievent.com/index_search.php?q=Kamarajar (watcher snapshot chennaievent-listing, run 2026-11-26 01:06Z; read 27 Nov 2026):
+#   series printed "Srothovaham - Festival - Celebrating Legacy & its Continuum" at "Sasthri Hall". The listing names no organiser; the festival is Psiog's
+#   (indian-heritage.org's 2026–27 Srothovaham page, whose line-up is images only). No ticket line printed. Performers printed without instruments:
+#   the first name is taken as the main artist, the others go in the note; where no category is printed, vocal is assumed (noted per row).
+# Not included: 5 Dec 6.45 pm 'Vatsala Kalyanam' harikatha (Suchithra Balasubramanian; after the 6 pm inauguration);
+#   12 Dec 6.45 pm special presentation "Intelligence & Artificial Intelligence" (Umayalpuram K. Sivaraman, Sikkil C. Gurucharan; moderated – format unclear).
+# Weekdays checked (5 Dec 2026 = Sat, 13 Dec 2026 = Sun).
+# date|start|entry|artist|form|note
+2026-12-05|16:30|Not stated|Swarathmika Srikanth|Vocal|No category printed (vocal assumed). Listed with C.S. Chinmayi, A.P. Mahizhan (instruments not printed).
+2026-12-06|17:00|Not stated|Cotah Sisters|Vocal Duet|No category printed (vocal duet assumed). Listed with Thirucherai Karthik, Thyagasamudram Siddhanth Girish (instruments not printed).
+2026-12-06|18:45|Not stated|S. Srivathsan|Vocal|Printed "Vocal". Listed with Rajeev Mukundan, N. Manoj Siva, B.S. Purushotham (instruments not printed).
+2026-12-07|18:45|Not stated|Abhishek Ravishankar|Vocal|Printed "Vocal Event". Listed with B. Ananthakrishnan, S.J. Arjun Ganesh, S. Hari Kishore (instruments not printed).
+2026-12-08|17:00|Not stated|Vishwas Hari|Mandolin|Printed "Mandolin Event". Listed with S. Sunil Kumar (instrument not printed).
+2026-12-08|18:45|Not stated|Anahita & Apoorva|Vocal Duet|Printed "Vocal Event Duo" (Anahita & Apoorva Ravindran). Listed with Sruti Sarathy, S. Sunil Kumar (instruments not printed).
+2026-12-09|17:00|Not stated|Ramya Rajagopal|Vocal|Printed "Vocal Event". Listed with Haritha Narayanan, Calcutta Karthik (instruments not printed).
+2026-12-09|18:45|Not stated|Ashwath Narayanan|Vocal|Printed "Vocal Event". Listed with Sayee Rakshith, R. Akshay Ram, V. Anirudh Athreya (instruments not printed).
+2026-12-10|17:00|Not stated|Sriranjani Venkatesan|Vocal|No category printed (vocal assumed). Listed with Subhashree Sivaramakrishnan (instrument not printed).
+2026-12-10|18:45|Not stated|J.B. Sruthi Sagar|Flute|Printed "Flute Recital". Listed with R.K. Shriramkumar, B. Ganapathyraman, N. Guruprasad (instruments not printed).
+2026-12-11|17:00|Not stated|Shivani Lakshman|Vocal|No category or co-artists printed (vocal assumed) – check before going.
+2026-12-11|18:45|Not stated|S. Adithyanarayanan|Vocal|No category printed (vocal assumed). Listed with N. Madan Mohan, K. Arun Prakash, K.V. Gopalakrishnan (instruments not printed).
+2026-12-12|17:00|Not stated|M. Shrikanth|Violin|Printed "Violin Solo". Listed with Neyveli R. Narayanan, N. Guruprasad (instruments not printed).
+2026-12-13|16:30|Not stated|Vikram Prabhu|Vocal|No category printed (vocal assumed). Listed with Indhalur Shyam Raghav (instrument not printed).
+2026-12-13|18:45|Not stated|Aditya Madhavan|Vocal|Concert after the 6 pm valedictory function. No category printed (vocal assumed). Listed with L. Ramakrishnan, Umayalpuram K. Sivaraman, B.S. Purushotham (instruments not printed).

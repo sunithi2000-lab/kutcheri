@@ -1236,6 +1236,32 @@
   "fetched": "2026-11-18"
  },
  {
+  "id": "psg-2026-12-05-1630",
+  "date": "2026-12-05",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Swarathmika Srikanth",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Swarathmika Srikanth",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "No category printed (vocal assumed). Listed with C.S. Chinmayi, A.P. Mahizhan (instruments not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
+ },
+ {
   "id": "ni-2026-12-05-1700",
   "date": "2026-12-05",
   "start": "17:00",
@@ -1667,6 +1693,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "psg-2026-12-06-1700",
+  "date": "2026-12-06",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Cotah Sisters",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Cotah Sisters",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "No category printed (vocal duet assumed). Listed with Thirucherai Karthik, Thyagasamudram Siddhanth Girish (instruments not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
+ },
+ {
   "id": "as-2026-12-06-1730-vdeepikavn",
   "date": "2026-12-06",
   "start": "17:30",
@@ -1769,6 +1821,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "\"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "psg-2026-12-06-1845",
+  "date": "2026-12-06",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Srivathsan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Srivathsan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"Vocal\". Listed with Rajeev Mukundan, N. Manoj Siva, B.S. Purushotham (instruments not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "ni-2026-12-06-1900",
@@ -2083,6 +2161,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "psg-2026-12-07-1845",
+  "date": "2026-12-07",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Abhishek Ravishankar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Abhishek Ravishankar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"Vocal Event\". Listed with B. Ananthakrishnan, S.J. Arjun Ganesh, S. Hari Kishore (instruments not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
+ },
+ {
   "id": "as-2026-12-07-1915-drbabysree",
   "date": "2026-12-07",
   "start": "19:15",
@@ -2291,6 +2395,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "psg-2026-12-08-1700",
+  "date": "2026-12-08",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vishwas Hari",
+  "main_instrument": "Mandolin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Vishwas Hari",
+    "instrument": "Mandolin",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"Mandolin Event\". Listed with S. Sunil Kumar (instrument not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
+ },
+ {
   "id": "as-2026-12-08-1730-varalakshm",
   "date": "2026-12-08",
   "start": "17:30",
@@ -2393,6 +2523,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with H.N. Bhaskar, Trichur C. Narendran, S. Krishna (ghatam) (instruments not printed except where shown). Season and daily tickets on MDnD.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "psg-2026-12-08-1845",
+  "date": "2026-12-08",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Anahita & Apoorva",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Anahita & Apoorva",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"Vocal Event Duo\" (Anahita & Apoorva Ravindran). Listed with Sruti Sarathy, S. Sunil Kumar (instruments not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "as-2026-12-08-1915-iyersister",
@@ -2603,6 +2759,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "psg-2026-12-09-1700",
+  "date": "2026-12-09",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramya Rajagopal",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ramya Rajagopal",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"Vocal Event\". Listed with Haritha Narayanan, Calcutta Karthik (instruments not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
+ },
+ {
   "id": "ni-2026-12-09-1815",
   "date": "2026-12-09",
   "start": "18:15",
@@ -2627,6 +2809,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Mathangi Chamber Music series (7–10 Dec). Listed with Kamalakiran Vinjamuri, B. Sivaraman, Sunil Kumar (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "as-2026-12-09-1830-amrithamur",
+  "date": "2026-12-09",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Amritha Murali",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Amritha Murali",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Amritha Murali\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bvb-2026-12-09-1845",
@@ -2720,6 +2928,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Mysore V. Srikanth, Srimushnam V. Raja Rao, N. Guruprasad (ghatam) (instruments not printed except where shown). Season and daily tickets on MDnD.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "psg-2026-12-09-1845",
+  "date": "2026-12-09",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ashwath Narayanan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ashwath Narayanan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"Vocal Event\". Listed with Sayee Rakshith, R. Akshay Ram, V. Anirudh Athreya (instruments not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "as-2026-12-09-1915-abhiramgbo",
@@ -2878,6 +3112,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "psg-2026-12-10-1700",
+  "date": "2026-12-10",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sriranjani Venkatesan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sriranjani Venkatesan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "No category printed (vocal assumed). Listed with Subhashree Sivaramakrishnan (instrument not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
+ },
+ {
   "id": "ni-2026-12-10-1815",
   "date": "2026-12-10",
   "start": "18:15",
@@ -2951,14 +3211,14 @@
    }
   ],
   "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
   "venue": "Vani Mahal, G.N. Road, T. Nagar",
   "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "bvb-2026-12-10-1845",
@@ -3021,6 +3281,32 @@
   "source_label": "Artist's website",
   "note": "Also in Kartik Fine Arts' programme on MDnD (6.45 pm, ticketed).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "psg-2026-12-10-1845",
+  "date": "2026-12-10",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "J.B. Sruthi Sagar",
+  "main_instrument": "Flute",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "J.B. Sruthi Sagar",
+    "instrument": "Flute",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"Flute Recital\". Listed with R.K. Shriramkumar, B. Ganapathyraman, N. Guruprasad (instruments not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "bvb-2026-12-11-1030",
@@ -3101,6 +3387,32 @@
   "fetched": "2026-11-17"
  },
  {
+  "id": "psg-2026-12-11-1700",
+  "date": "2026-12-11",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shivani Lakshman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shivani Lakshman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "No category or co-artists printed (vocal assumed) – check before going. Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
+ },
+ {
   "id": "as-2026-12-11-1800-ksvishnude",
   "date": "2026-12-11",
   "start": "18:00",
@@ -3143,14 +3455,14 @@
    }
   ],
   "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
   "venue": "Vani Mahal, G.N. Road, T. Nagar",
   "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "as-2026-12-11-1845-punnikrish",
@@ -3203,6 +3515,58 @@
   "source_label": "MDnD listing",
   "note": "Listed as \"Saraswati Veena by Nirmala Rajasekar\". Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
   "fetched": "2026-11-17"
+ },
+ {
+  "id": "psg-2026-12-11-1845",
+  "date": "2026-12-11",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Adithyanarayanan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Adithyanarayanan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "No category printed (vocal assumed). Listed with N. Madan Mohan, K. Arun Prakash, K.V. Gopalakrishnan (instruments not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
+ },
+ {
+  "id": "as-2026-12-11-1900-amrithamur",
+  "date": "2026-12-11",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Amritha Murali",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Amritha Murali",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Amritha Murali\" (ticketed, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "bvb-2026-12-12-1030",
@@ -3307,6 +3671,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Mysore V. Srikanth, Praveen Sparsh, G. Guru Prasanna (kanjira) (instruments not printed except where shown). Season and daily tickets on MDnD.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "psg-2026-12-12-1700",
+  "date": "2026-12-12",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "M. Shrikanth",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "M. Shrikanth",
+    "instrument": "Violin",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"Violin Solo\". Listed with Neyveli R. Narayanan, N. Guruprasad (instruments not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "as-2026-12-12-1830-sandeepnar",
@@ -3687,6 +4077,32 @@
   "fetched": "2026-11-17"
  },
  {
+  "id": "psg-2026-12-13-1630",
+  "date": "2026-12-13",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vikram Prabhu",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vikram Prabhu",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "No category printed (vocal assumed). Listed with Indhalur Shyam Raghav (instrument not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
+ },
+ {
   "id": "kfa-2026-12-13-1700",
   "date": "2026-12-13",
   "start": "17:00",
@@ -3770,13 +4186,13 @@
    }
   ],
   "entry": "Ticketed",
-  "organisation": "Organiser not stated",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
   "festival": "—",
   "venue": "Vani Mahal, 103 G.N. Road, T. Nagar",
   "area": "T. Nagar",
   "source_url": "https://www.ranjanigayatri.com/concerts",
   "source_label": "Artist's website",
-  "note": "Listed on the artists' site as \"Vani Mahal, T Nagar, Chennai\", Sun, Dec 13th 2026, 6 pm, with co-artists Vittal Rangan, N. Manoj Siva and Vazhapally Krishnakumar (instruments: their usual violin, mridangam, ghatam). Organiser not named (the venue's own sabha is not assumed); no ticket link. Also on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026): Swaminathan Vani Mahal, ticketed, at 6.30 pm (artists' site: 6 pm, kept) – check the time.",
+  "note": "Listed on the artists' site as \"Vani Mahal, T Nagar, Chennai\", Sun, Dec 13th 2026, 6 pm, with co-artists Vittal Rangan, N. Manoj Siva and Vazhapally Krishnakumar (instruments: their usual violin, mridangam, ghatam). Organiser not named (the venue's own sabha is not assumed); no ticket link. Also on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026): Swaminathan Vani Mahal, ticketed, at 6.30 pm (artists' site: 6 pm, kept) – check the time. Organiser found 27 Nov 2026: MDnD's Chennai Carnatic listing (watcher snapshot 26 Nov 2026) lists \"Carnatic Vocal by Ranjani & Gayatri – Sri Thyaga Brahma Gana Sabha\", Sun 13 Dec, 6.30 pm, ticketed.",
   "fetched": "2026-10-12"
  },
  {
@@ -3856,6 +4272,32 @@
   "source_label": "MDnD listing",
   "note": "Presented by Carnatica and Sri Parthasarathy Swami Sabha (MDnD listing); festival name and venue from indian-heritage.org's 2026–27 season page. Accompanists not listed.",
   "fetched": "2026-11-17"
+ },
+ {
+  "id": "psg-2026-12-13-1845",
+  "date": "2026-12-13",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Aditya Madhavan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aditya Madhavan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Psiog",
+  "festival": "Srothovaham Music Festival 2026 (3rd edition)",
+  "venue": "Srinivasa Sastri Hall, Luz Church Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Concert after the 6 pm valedictory function. No category printed (vocal assumed). Listed with L. Ramakrishnan, Umayalpuram K. Sivaraman, B.S. Purushotham (instruments not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "kfa-2026-12-13-1900",
@@ -4247,13 +4689,13 @@
    }
   ],
   "entry": "Ticketed",
-  "organisation": "Organiser not stated",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
   "festival": "—",
   "venue": "Vani Mahal, G.N. Road",
   "area": "T. Nagar",
   "source_url": "https://sanjaysub.com/",
   "source_label": "Artist's website",
-  "note": "Artist's site marks details as awaited. Also on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026): Swaminathan Vani Mahal, 6.30 pm, ticketed (no organiser printed).",
+  "note": "Artist's site marks details as awaited. Also on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026): Swaminathan Vani Mahal, 6.30 pm, ticketed (no organiser printed). Organiser found 27 Nov 2026: MDnD's Chennai Carnatic listing (watcher snapshot 26 Nov 2026) lists it under Sri Thyaga Brahma Gana Sabha (Mon 14 Dec, 6.30 pm, ticketed).",
   "fetched": "2026-10-12"
  },
  {
@@ -4740,13 +5182,13 @@
   ],
   "entry": "Ticketed",
   "organisation": "Sri Thyaga Brahma Gana Sabha",
-  "festival": "December Music Festival",
+  "festival": "December Music Festival 2026–27",
   "venue": "Vani Mahal, G.N. Road, T. Nagar",
   "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", Tue 15 Dec, 6.30 pm, ticketed, vocal (no organiser printed there). Organiser from the artist's website (gayathrivenkataraghavan.com/schedule): \"Sri Thyaga Gana Brahma Sabha, Vani Mahal\", 15 Dec 2026 (no time printed). Accompanists not listed.",
-  "fetched": "2026-10-12"
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed; the artist's website (gayathrivenkataraghavan.com/schedule) also lists \"Sri Thyaga Gana Brahma Sabha, Vani Mahal\", 15 Dec 2026. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "cg-2026-12-15-1845",
@@ -5416,14 +5858,14 @@
    }
   ],
   "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
   "venue": "Vani Mahal, G.N. Road, T. Nagar",
   "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "cg-2026-12-16-1845",
@@ -6072,32 +6514,6 @@
   "fetched": "2026-11-12"
  },
  {
-  "id": "as-2026-12-17-1830-kbharatsun",
-  "date": "2026-12-17",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "K. Bharat Sundar",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "K. Bharat Sundar",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Vani Mahal, G.N. Road, T. Nagar",
-  "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "spss-2026-12-17-1830",
   "date": "2026-12-17",
   "start": "18:30",
@@ -6122,6 +6538,32 @@
   "source_label": "MDnD listing",
   "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2026-12-17-1830-kbharatsun",
+  "date": "2026-12-17",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K. Bharat Sundar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K. Bharat Sundar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "cg-2026-12-17-1845",
@@ -7045,32 +7487,6 @@
   "fetched": "2026-11-12"
  },
  {
-  "id": "as-2026-12-18-1830-trichurbro",
-  "date": "2026-12-18",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Trichur Brothers",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal duet",
-  "performers": [
-   {
-    "name": "Trichur Brothers",
-    "instrument": "Vocal Duet",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Vani Mahal, G.N. Road, T. Nagar",
-  "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "spss-2026-12-18-1830",
   "date": "2026-12-18",
   "start": "18:30",
@@ -7095,6 +7511,32 @@
   "source_label": "MDnD listing",
   "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2026-12-18-1830-trichurbro",
+  "date": "2026-12-18",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Trichur Brothers",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Trichur Brothers",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "ma-2026-12-18-1845",
@@ -7924,6 +8366,32 @@
   "fetched": "2026-11-20"
  },
  {
+  "id": "spss-2026-12-19-1830",
+  "date": "2026-12-19",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sudha Ragunathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sudha Ragunathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Parthasarathy Swami Sabha",
+  "festival": "126th Year Isai Vizha (December Music Festival)",
+  "venue": "Vidya Bharathi Kalyana Mandapam, Bheemasena Garden Road, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304",
+  "source_label": "MDnD listing",
+  "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
+  "fetched": "2026-10-25"
+ },
+ {
   "id": "as-2026-12-19-1830-ramanabala",
   "date": "2026-12-19",
   "start": "18:30",
@@ -7950,40 +8418,14 @@
    }
   ],
   "entry": "Ticketed",
-  "organisation": "Organiser not stated",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
   "festival": "—",
   "venue": "Vani Mahal, G.N. Road",
   "area": "T. Nagar",
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ramana-balachandhran-2026-27.jpg",
   "source_label": "Artist's poster",
-  "note": "Listed only as \"Vani Mahal\"; organiser not named (the venue's own sabha is not assumed). From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Details updated 23 Nov 2026 from the artist's website (ramanabalachandhran.com/events/margazhi-2026): \"Tickets on vanimahal.com and mdnd.in\"; also on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) (6.30 pm, ticketed, no organiser printed).",
+  "note": "Listed only as \"Vani Mahal\"; organiser not named (the venue's own sabha is not assumed). From the artist's season poster \"Margazhi Music Season – Ramana Balachandhran\" (social-media post, sent in by the site owner 19 Nov 2026; copy kept with the site's sources). The poster lists co-artists without instruments; instruments given here are each artist's usual instrument. Details updated 23 Nov 2026 from the artist's website (ramanabalachandhran.com/events/margazhi-2026): \"Tickets on vanimahal.com and mdnd.in\"; also on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) (6.30 pm, ticketed, no organiser printed). Details updated 27 Nov 2026 from MDnD's Chennai Carnatic listing (watcher snapshot 26 Nov 2026) and the artist's website: organiser Sri Thyaga Brahma Gana Sabha (MDnD: \"Carnatic Veena by Ramana Balachander – Sri Thyaga Brahma Gana Sabha\", 6.30 pm, ticketed; the artist's ticket link names the sabha).",
   "fetched": "2026-10-12"
- },
- {
-  "id": "spss-2026-12-19-1830",
-  "date": "2026-12-19",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Sudha Ragunathan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Sudha Ragunathan",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Sri Parthasarathy Swami Sabha",
-  "festival": "126th Year Isai Vizha (December Music Festival)",
-  "venue": "Vidya Bharathi Kalyana Mandapam, Bheemasena Garden Road, Mylapore",
-  "area": "Mylapore",
-  "source_url": "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2304",
-  "source_label": "MDnD listing",
-  "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
-  "fetched": "2026-10-25"
  },
  {
   "id": "cg-2026-12-19-1845",
@@ -8079,6 +8521,32 @@
   "fetched": "2026-11-24"
  },
  {
+  "id": "as-2026-12-19-1930-vishruthig",
+  "date": "2026-12-19",
+  "start": "19:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vishruthi Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vishruthi Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Vishruthi Girish\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-20-0900-manasasubr",
   "date": "2026-12-20",
   "start": "09:00",
@@ -8170,6 +8638,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Subhashree Sivaramakrishna, S. Kavichelvan (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "as-2026-12-20-1000-anahitaapo",
+  "date": "2026-12-20",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Anahita & Apoorva",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Anahita & Apoorva",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Anahita & Apoorva\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-20-1015-vigneshthy",
@@ -8571,6 +9065,32 @@
   "fetched": "2026-11-20"
  },
  {
+  "id": "as-2026-12-20-1600-anahitaapo",
+  "date": "2026-12-20",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Anahita & Apoorva",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Anahita & Apoorva",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Anahita & Apoorva\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "skgs-2026-12-20-1600",
   "date": "2026-12-20",
   "start": "16:00",
@@ -8938,32 +9458,6 @@
   "fetched": "2026-10-12"
  },
  {
-  "id": "as-2026-12-20-1830-palghatrra",
-  "date": "2026-12-20",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Palghat R. Ramprasad",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Palghat R. Ramprasad",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Vani Mahal, G.N. Road, T. Nagar",
-  "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "spss-2026-12-20-1830",
   "date": "2026-12-20",
   "start": "18:30",
@@ -8988,6 +9482,32 @@
   "source_label": "MDnD listing",
   "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2026-12-20-1830-palghatrra",
+  "date": "2026-12-20",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Palghat R. Ramprasad",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Palghat R. Ramprasad",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "ma-2026-12-20-1845",
@@ -9714,32 +10234,6 @@
   "fetched": "2026-11-12"
  },
  {
-  "id": "as-2026-12-21-1830-ssakethara",
-  "date": "2026-12-21",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "S. Saketharaman",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "S. Saketharaman",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Vani Mahal, G.N. Road, T. Nagar",
-  "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "as-2026-12-21-1830-ramanabala",
   "date": "2026-12-21",
   "start": "18:30",
@@ -9836,6 +10330,32 @@
   "source_label": "Artist's poster",
   "note": "Listed as \"Sri Parthasarathi Swami Sabha\" at Madras Sanskrit College, Mylapore (a different hall from the sabha's MDnD list, which has Trichur Brothers at 6.30 pm that day at Vidya Bharathi). From the artist's season poster \"Margazhi Concert Schedule 2026-27 – Charumathi Raghuraman\" (Instagram, sent in by the site owner 19 Nov 2026; copy kept with the site's sources; tickets info at charuraghu.com). Entry not stated.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-21-1830-ssakethara",
+  "date": "2026-12-21",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Saketharaman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Saketharaman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "ma-2026-12-21-1845",
@@ -10173,6 +10693,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "as-2026-12-22-1400-vishruthig",
+  "date": "2026-12-22",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Vishruthi Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vishruthi Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Vishruthi Girish\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-22-1430-sayeeraksh",
   "date": "2026-12-22",
   "start": "14:30",
@@ -10463,6 +11009,32 @@
   "fetched": "2026-11-24"
  },
  {
+  "id": "as-2026-12-22-1700-rajeswaris",
+  "date": "2026-12-22",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Rajeswari Shankar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Rajeswari Shankar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "66th Year Mandala Pooja",
+  "venue": "The Kalyan Nagar Association Hall, Mandaveli",
+  "area": "Mandaveli",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"Musical Evening – Vocal Event\" in the \"66th Year Mandala Pooja\" series (21–26 Dec; its other evening items are namasankeerthanam, not listed here), chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Listed with Neela Jayakumar, V.R. Jayakumar (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "kfa-2026-12-22-1815",
   "date": "2026-12-22",
   "start": "18:15",
@@ -10567,32 +11139,6 @@
   "fetched": "2026-11-12"
  },
  {
-  "id": "as-2026-12-22-1830-nvijaysiva",
-  "date": "2026-12-22",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "N. Vijay Siva",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "N. Vijay Siva",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Vani Mahal, G.N. Road, T. Nagar",
-  "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "spss-2026-12-22-1830",
   "date": "2026-12-22",
   "start": "18:30",
@@ -10617,6 +11163,32 @@
   "source_label": "MDnD listing",
   "note": "Accompanists per the artist's season poster: Patri Satishkumar (mridangam), Chandrasekara Sharma (ghatam). Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2026-12-22-1830-nvijaysiva",
+  "date": "2026-12-22",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "N. Vijay Siva",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "N. Vijay Siva",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "cg-2026-12-22-1845",
@@ -11242,6 +11814,32 @@
   "source_label": "NatyaNetwork listing",
   "note": "Two ticketed concerts a day (4.30 pm and 7 pm) in the society's Annual Music Festival, from NatyaNetwork's Margazhi 2026 listing. Accompanists not listed.",
   "fetched": "2026-11-24"
+ },
+ {
+  "id": "as-2026-12-23-1700-shakthimur",
+  "date": "2026-12-23",
+  "start": "17:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shakthi Muralidaran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shakthi Muralidaran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "66th Year Mandala Pooja",
+  "venue": "The Kalyan Nagar Association Hall, Mandaveli",
+  "area": "Mandaveli",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "Printed \"Musical Evening – Vocal Event\" in the \"66th Year Mandala Pooja\" series (21–26 Dec; its other evening items are namasankeerthanam, not listed here), chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-23-1715-ksvishnude",
@@ -12885,6 +13483,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "as-2026-12-25-1415-vishruthig",
+  "date": "2026-12-25",
+  "start": "14:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Vishruthi Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vishruthi Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Vishruthi Girish\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-25-1430-sadityanar",
   "date": "2026-12-25",
   "start": "14:30",
@@ -13474,6 +14098,32 @@
   "source_label": "MDnD listing",
   "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2026-12-25-1830-rajheshvai",
+  "date": "2026-12-25",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Rajhesh Vaidhya & U. Rajesh",
+  "main_instrument": "Veena",
+  "concert_type": "Duet",
+  "performers": [
+   {
+    "name": "Rajhesh Vaidhya & U. Rajesh",
+    "instrument": "Veena & Mandolin",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Carnatic Veena and Mandolin by Rajhesh Vaidhya & U Rajesh\". Venue not printed on MDnD (the sabha's 6.30 pm concerts are at Vani Mahal). Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "ma-2026-12-25-1845",
@@ -14190,6 +14840,32 @@
   "fetched": "2026-11-24"
  },
  {
+  "id": "as-2026-12-26-1645-vishruthig",
+  "date": "2026-12-26",
+  "start": "16:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vishruthi Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vishruthi Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Vishruthi Girish\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-26-1700-dharinikal",
   "date": "2026-12-26",
   "start": "17:00",
@@ -14434,32 +15110,6 @@
   "fetched": "2026-10-12"
  },
  {
-  "id": "as-2026-12-26-1830-smahathi",
-  "date": "2026-12-26",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "S. Mahathi",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "S. Mahathi",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Vani Mahal, G.N. Road, T. Nagar",
-  "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "spss-2026-12-26-1830",
   "date": "2026-12-26",
   "start": "18:30",
@@ -14484,6 +15134,32 @@
   "source_label": "MDnD listing",
   "note": "Listed as \"Malladi Brothers (Shriramkumar & Ravikumar)\". Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2026-12-26-1830-smahathi",
+  "date": "2026-12-26",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Mahathi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Mahathi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "as-2026-12-26-1845-ksvishnude",
@@ -15190,6 +15866,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-27-1730-vishruthig",
+  "date": "2026-12-27",
+  "start": "17:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vishruthi Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vishruthi Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Vishruthi Girish\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-27-1800-ranjanigay",
   "date": "2026-12-27",
   "start": "18:00",
@@ -15438,32 +16140,6 @@
   "fetched": "2026-10-12"
  },
  {
-  "id": "as-2026-12-27-1830-ramakrishn",
-  "date": "2026-12-27",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Ramakrishnan Murthy",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Ramakrishnan Murthy",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Vani Mahal, G.N. Road, T. Nagar",
-  "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "spss-2026-12-27-1830",
   "date": "2026-12-27",
   "start": "18:30",
@@ -15488,6 +16164,32 @@
   "source_label": "MDnD listing",
   "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2026-12-27-1830-ramakrishn",
+  "date": "2026-12-27",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ramakrishnan Murthy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ramakrishnan Murthy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "ma-2026-12-27-1845",
@@ -16386,32 +17088,6 @@
   "fetched": "2026-10-12"
  },
  {
-  "id": "as-2026-12-28-1830-malladibro",
-  "date": "2026-12-28",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Malladi Brothers",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal duet",
-  "performers": [
-   {
-    "name": "Malladi Brothers",
-    "instrument": "Vocal Duet",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Vani Mahal, G.N. Road, T. Nagar",
-  "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "as-2026-12-28-1830-sanjaysubr",
   "date": "2026-12-28",
   "start": "18:30",
@@ -16462,6 +17138,32 @@
   "source_label": "MDnD listing",
   "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2026-12-28-1830-malladibro",
+  "date": "2026-12-28",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Malladi Brothers",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Malladi Brothers",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "ma-2026-12-28-1845",
@@ -17541,32 +18243,6 @@
   "fetched": "2026-10-12"
  },
  {
-  "id": "as-2026-12-29-1830-akkaraisis",
-  "date": "2026-12-29",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Akkarai Sisters",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal duet",
-  "performers": [
-   {
-    "name": "Akkarai Sisters",
-    "instrument": "Vocal Duet",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Vani Mahal, G.N. Road, T. Nagar",
-  "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "spss-2026-12-29-1830",
   "date": "2026-12-29",
   "start": "18:30",
@@ -17591,6 +18267,32 @@
   "source_label": "MDnD listing",
   "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2026-12-29-1830-akkaraisis",
+  "date": "2026-12-29",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Akkarai Sisters",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Akkarai Sisters",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "ma-2026-12-29-1845",
@@ -18312,6 +19014,73 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2026-12-30-1730-sreeranjan",
+  "date": "2026-12-30",
+  "start": "17:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sreeranjane Kaushik",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sreeranjane Kaushik",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with Subhashree Sivaramakrishnan, Salem S. Ranganathan, K.R. Sivaramakrishna (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-30-1800-ranjanigay",
+  "date": "2026-12-30",
+  "start": "18:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ranjani & Gayatri",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Ranjani & Gayatri",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   },
+   {
+    "name": "M. Rajeev",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "Patri Satishkumar",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "V. Anirudh Athreya",
+    "instrument": "Kanjira",
+    "role": "accompanist"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Brahma Gana Sabha",
+  "festival": "Brahma Gana Sabha December festival",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://www.ranjanigayatri.com/concerts",
+  "source_label": "Artist's website",
+  "note": "Listed on the artists' site (read 27 Nov 2026) under \"Brahma Gana Sabha\", Wed 30 Dec 2026, 6 pm, venue \"TBD\", no ticket link, with co-artists M. Rajeev, Patri Satishkumar and Anirudh Athreya (instruments: their usual violin, mridangam, kanjira). The entry's text also mentions Kalakshetra – check the venue before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-30-1800-jayalakshm",
   "date": "2026-12-30",
   "start": "18:00",
@@ -18362,6 +19131,32 @@
   "source_label": "chennaievent.com listing",
   "note": "With Alankode S. Gokul, K.V. Prasad, Nerkunam Dr. S. Sankar (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
+ },
+ {
+  "id": "as-2026-12-30-1815-amrithamur",
+  "date": "2026-12-30",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Amritha Murali",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Amritha Murali",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Amritha Murali\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "ch-2026-12-30-1830",
@@ -18613,6 +19408,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-30-1900-drbvijayag",
+  "date": "2026-12-30",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. B. Vijayagopal",
+  "main_instrument": "Flute",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Dr. B. Vijayagopal",
+    "instrument": "Flute",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Inaugural concert, printed \"Flute Recital\". Listed with V.V. Srinivasarao, R. Ramesh, H. Prasanna (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2026-12-31-0900-sanikapand",
   "date": "2026-12-31",
   "start": "09:00",
@@ -18729,6 +19550,32 @@
   "source_url": "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf",
   "source_label": "Organiser's schedule (PDF)",
   "note": "Morning concert in the club's 75th Year Art Festival (17 Dec 2026 – 16 Jan 2027), from the club's own schedule PDF on season.mylaporetimes.com (read 25 Nov 2026). Free: \"All are welcome only for 9.00 am and 10.15 am concerts\". Listed with Karthik Iyer, Krish (instruments not printed). No instrument printed for the main artist (vocal assumed, as for the PDF's other unlabelled concerts).",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2026-12-31-1015-pragadeesh",
+  "date": "2026-12-31",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Pragadeesh Shanmugarajah",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Pragadeesh Shanmugarajah",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with V.V. Srinivasarao, A.V. Manikantan, Trichy Dr. Murali (instruments not printed). No organiser or ticket line printed.",
   "fetched": "2026-10-12"
  },
  {
@@ -18938,6 +19785,32 @@
   "note": ""
  },
  {
+  "id": "as-2026-12-31-1415-vishruthig",
+  "date": "2026-12-31",
+  "start": "14:15",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Vishruthi Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vishruthi Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Vishruthi Girish\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "nsu-2026-12-31-1430",
   "date": "2026-12-31",
   "start": "14:30",
@@ -18962,6 +19835,32 @@
   "source_label": "chennaievent.com listing",
   "note": "Listed as \"Strings Concert – Violin & Chitravina\". Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
+ },
+ {
+  "id": "as-2026-12-31-1500-bhagyashre",
+  "date": "2026-12-31",
+  "start": "15:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Bhagyashree Sivakumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Bhagyashree Sivakumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-31-1530-spoorthira",
@@ -19066,6 +19965,32 @@
   "source_label": "chennaievent.com listing",
   "note": "With M. Vijay, Anirudh Raj (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
+ },
+ {
+  "id": "as-2026-12-31-1600-umarangana",
+  "date": "2026-12-31",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Uma Ranganathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Uma Ranganathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with Parur M.K. Ananthalakshmi (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "skgs-2026-12-31-1600",
@@ -19221,6 +20146,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-31-1730-abilashgir",
+  "date": "2026-12-31",
+  "start": "17:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Abilash Giriprasad",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Abilash Giriprasad",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with B.V. Raghavendra Rao, Kallidaikurichi S. Sivakumar, Madipakkam A. Murali (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-31-1815-sandeepnar",
@@ -19394,32 +20345,6 @@
   "fetched": "2026-11-12"
  },
  {
-  "id": "as-2026-12-31-1830-abhishekra",
-  "date": "2026-12-31",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Abhishek Raghuram",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Abhishek Raghuram",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Vani Mahal, G.N. Road, T. Nagar",
-  "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "spss-2026-12-31-1830",
   "date": "2026-12-31",
   "start": "18:30",
@@ -19444,6 +20369,32 @@
   "source_label": "MDnD listing",
   "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2026-12-31-1830-abhishekra",
+  "date": "2026-12-31",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Abhishek Raghuram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Abhishek Raghuram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "ma-2026-12-31-1845",
@@ -19485,6 +20436,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "as-2026-12-31-1900-suchithrab",
+  "date": "2026-12-31",
+  "start": "19:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Suchithra Balasubramanian",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Suchithra Balasubramanian",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with Karaikal S. Venkatasubramanian, M.S. Venkatasubramaniam, Kumbakonam Balaji Sairam (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "ma-2027-01-01-0915",
@@ -19601,6 +20578,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "as-2027-01-01-1000-umakumar",
+  "date": "2027-01-01",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Uma Kumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Uma Kumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with G. Kailasapathy, Manivannan, G. Ganapathy (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bk-2027-01-01-1030-ganeshkuma",
   "date": "2027-01-01",
   "start": "10:30",
@@ -19651,6 +20654,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Faculty of the Music College, Chennai; printed 11.30 am – 1 pm. Listed with Pudukottai R. Ambika Prasath (violin), Anumanthapuram R.J. Boovarahan (mridangam), Chennai K. Raghuraman (morsing). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "as-2027-01-01-1200-sriranjani",
+  "date": "2027-01-01",
+  "start": "12:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Sriranjani Haran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sriranjani Haran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with Shreya Anil (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "skgs-2027-01-01-1300",
@@ -19720,6 +20749,32 @@
   "note": ""
  },
  {
+  "id": "as-2027-01-01-1400-vaishnaviv",
+  "date": "2027-01-01",
+  "start": "14:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Vaishnavi Venkat",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vaishnavi Venkat",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with Parur M.K. Ananthalakshmi (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "nsu-2027-01-01-1430",
   "date": "2027-01-01",
   "start": "14:30",
@@ -19744,6 +20799,32 @@
   "source_label": "chennaievent.com listing",
   "note": "With Chetana Shekar, Prahalad Varahaswamy (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
+ },
+ {
+  "id": "as-2027-01-01-1500-bhuvanajai",
+  "date": "2027-01-01",
+  "start": "15:00",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Bhuvanaja Iyengar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Bhuvanaja Iyengar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with Rishabh Ranganathan, Ramya Ramesh (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "ma-2027-01-01-1545",
@@ -19932,6 +21013,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "as-2027-01-01-1630-rpshravan",
+  "date": "2027-01-01",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "R.P. Shravan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "R.P. Shravan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with Pappu Gyandev, B. Guru Raghavendra, Nerkunam Dr. S. Sankar (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "bk-2027-01-01-1730-giridharan",
   "date": "2027-01-01",
   "start": "17:30",
@@ -20062,6 +21169,32 @@
   "fetched": "2026-10-25"
  },
  {
+  "id": "as-2027-01-01-1830-jajayantni",
+  "date": "2027-01-01",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "J.A. Jayant & Nirmala Rajasekar",
+  "main_instrument": "Flute",
+  "concert_type": "Duet",
+  "performers": [
+   {
+    "name": "J.A. Jayant & Nirmala Rajasekar",
+    "instrument": "Flute & Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Carnatic Flute by J A Jayanth and Veena by Nirmala Rajasekhar\". Venue not printed on MDnD (the sabha's 6.30 pm concerts are at Vani Mahal). Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
+ },
+ {
   "id": "as-2027-01-02-0600-sandeepnar",
   "date": "2027-01-02",
   "start": "06:00",
@@ -20129,6 +21262,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "as-2027-01-02-1015-aathreyeek",
+  "date": "2027-01-02",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Aathreyee Krishna",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aathreyee Krishna",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\" (\"Aathreyee Krishnaa K.\"). Listed with Sameth Sitaram, Sabareesh Srinivas (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "kfa-2027-01-02-1130",
   "date": "2027-01-02",
   "start": "11:30",
@@ -20153,6 +21312,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "NRI Music Festival. Listed with Lavanya Karthikeyan, Srivatsan Srinivasan (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "as-2027-01-02-1130-shriharibh",
+  "date": "2027-01-02",
+  "start": "11:30",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Shrihari Bhat",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shrihari Bhat",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with M. Vijay, S. Hari Kishore (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "kfa-2027-01-02-1300",
@@ -20259,6 +21444,32 @@
   "fetched": "2026-11-21"
  },
  {
+  "id": "as-2027-01-02-1430-vasanthran",
+  "date": "2027-01-02",
+  "start": "14:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Vasanth Ranganathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vasanth Ranganathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with V. Mridulla, Trissur K. Sudev (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "as-2027-01-02-1530-anahitaapo",
   "date": "2027-01-02",
   "start": "15:30",
@@ -20282,6 +21493,32 @@
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
   "note": "Presented by Live4You (MDnD listing: \"Carnatic Vocal Concert by Anahita and Apoorva – Live4You\", 3.30 pm). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore. Accompanists not listed.",
+  "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2027-01-02-1545-aadhyasree",
+  "date": "2027-01-02",
+  "start": "15:45",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Aadhya Sreedharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aadhya Sreedharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with Chittoor V. Bhargava Vignesh (instruments not printed). No organiser or ticket line printed.",
   "fetched": "2026-10-12"
  },
  {
@@ -20469,6 +21706,21 @@
     "name": "Ranjani & Gayatri",
     "instrument": "Vocal Duet",
     "role": "main"
+   },
+   {
+    "name": "M. Rajeev",
+    "instrument": "Violin",
+    "role": "accompanist"
+   },
+   {
+    "name": "N. Manoj Siva",
+    "instrument": "Mridangam",
+    "role": "accompanist"
+   },
+   {
+    "name": "S. Krishna",
+    "instrument": "Ghatam",
+    "role": "accompanist"
    }
   ],
   "entry": "Ticketed",
@@ -20478,7 +21730,7 @@
   "area": "Egmore",
   "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
   "source_label": "MDnD listing",
-  "note": "Presented by Live4You (MDnD listing). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore. The artists' website lists this concert at 6.45 pm (20 Nov 2026); MDnD's 6.30 pm kept – check before going.",
+  "note": "Presented by Live4You (MDnD listing). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore. The artists' website now also lists 6.30 pm (read 27 Nov 2026), with co-artists M. Rajeev, N. Manoj Siva and S. Krishna (instruments: their usual violin, mridangam, ghatam).",
   "fetched": "2026-10-12"
  },
  {
@@ -20506,6 +21758,32 @@
   "source_label": "MDnD listing",
   "note": "Venue as printed on the sabha's MDnD festival page (Vidya Bharathi Kalyana Mandapam); street address from the sabha's website.",
   "fetched": "2026-10-25"
+ },
+ {
+  "id": "as-2027-01-02-1830-drjayanthi",
+  "date": "2027-01-02",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Jayanthi Kumaresh & R. Kumaresh",
+  "main_instrument": "Veena",
+  "concert_type": "Duet",
+  "performers": [
+   {
+    "name": "Dr. Jayanthi Kumaresh & R. Kumaresh",
+    "instrument": "Veena & Violin",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed as \"Strings Attached by Dr. Jayanthi Kumaresh & R. Kumaresh\" (veena and violin). Venue not printed on MDnD (the sabha's 6.30 pm concerts are at Vani Mahal). Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "as-2027-01-02-1845-paramakudi",
@@ -20861,6 +22139,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "as-2027-01-03-1800-drnithyasr",
+  "date": "2027-01-03",
+  "start": "18:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Nithyasree Mahadevan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Nithyasree Mahadevan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Not stated",
+  "organisation": "Organiser not stated",
+  "festival": "Nadha Laya Mahotsavam 2026–27",
+  "venue": "Sri Durga Lakshmi Saraswathi Temple, Madanandapuram",
+  "area": "Madanandapuram",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). \"A Grand Finale Concert – Vocal\". Listed with Lavanya Sundararaman, M.A. Krishnaswamy, A.V. Manikantan, N. Rajaraman (instruments not printed). No organiser or ticket line printed.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "kfa-2027-01-03-1830",
   "date": "2027-01-03",
   "start": "18:30",
@@ -20969,32 +22273,6 @@
   "fetched": "2026-10-12"
  },
  {
-  "id": "as-2027-01-03-1830-sidsriram",
-  "date": "2027-01-03",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Sid Sriram",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Sid Sriram",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Vani Mahal, G.N. Road, T. Nagar",
-  "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "as-2027-01-03-1830-shashanksu",
   "date": "2027-01-03",
   "start": "18:30",
@@ -21024,6 +22302,32 @@
   "source_label": "Artist's website",
   "note": "Flute and vocal duet; accompanists not listed. Now on MDnD (watcher run 2026-11-17): \"Carnatic Vocal and Flute Concert by Abhishek Raghuram and S S Shashank – Sri Parthasarathy Swami Sabha\", Sun 3 Jan 2027, 6.30 pm, ticketed, at Narada Gana Sabha (venue changed from Vidya Bharathi).",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "as-2027-01-03-1830-sidsriram",
+  "date": "2027-01-03",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sid Sriram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sid Sriram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Ticketed",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
+  "venue": "Vani Mahal, G.N. Road, T. Nagar",
+  "area": "T. Nagar",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
  },
  {
   "id": "as-2027-01-03-1845-suchithrab",
@@ -21442,6 +22746,32 @@
   "fetched": "2026-11-21"
  },
  {
+  "id": "as-2027-01-08-1000-anahitaapo",
+  "date": "2027-01-08",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Anahita & Apoorva",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Anahita & Apoorva",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Anahita & Apoorva\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "nsu-2027-01-08-1430",
   "date": "2027-01-08",
   "start": "14:30",
@@ -21598,6 +22928,32 @@
   "fetched": "2026-11-21"
  },
  {
+  "id": "as-2027-01-09-1530-anahitaapo",
+  "date": "2027-01-09",
+  "start": "15:30",
+  "end": "",
+  "slot": "Afternoon",
+  "main_artist": "Anahita & Apoorva",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Anahita & Apoorva",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Anahita & Apoorva\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
+ },
+ {
   "id": "nsu-2027-01-09-1600",
   "date": "2027-01-09",
   "start": "16:00",
@@ -21717,13 +23073,39 @@
    }
   ],
   "entry": "Ticketed",
-  "organisation": "Organiser not stated",
-  "festival": "—",
+  "organisation": "Sri Thyaga Brahma Gana Sabha",
+  "festival": "December Music Festival 2026–27",
   "venue": "Vani Mahal, G.N. Road, T. Nagar",
   "area": "T. Nagar",
-  "source_url": "https://natyanetwork.com/margazhi",
-  "source_label": "NatyaNetwork listing",
-  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed, vocal; no organiser printed (probably Sri Thyaga Brahma Gana Sabha's December festival at its own hall – not assumed). Accompanists not listed.",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at \"Swaminathan Vani Mahal\", 6.30 pm, ticketed. Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.",
+  "fetched": "2026-11-27"
+ },
+ {
+  "id": "as-2027-01-10-0800-vishruthig",
+  "date": "2027-01-10",
+  "start": "08:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Vishruthi Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vishruthi Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Vishruthi Girish\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
   "fetched": "2026-10-12"
  },
  {
@@ -22063,6 +23445,32 @@
   "source_label": "chennaievent.com listing",
   "note": "With Niveditha Doraiswamy, Pazhani Balaji (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
+ },
+ {
+  "id": "as-2027-01-12-1630-vishruthig",
+  "date": "2027-01-12",
+  "start": "16:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vishruthi Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vishruthi Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Organiser not stated",
+  "festival": "—",
+  "venue": "Not stated",
+  "area": "Not stated",
+  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
+  "source_label": "MDnD listing",
+  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Vishruthi Girish\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2027-01-12-1815-charumathi",

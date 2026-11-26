@@ -30,7 +30,8 @@ ORGS = [
     ("Sri Krishna Gana Sabha", MAJOR, PUB, "T. Nagar", "Dr. Nalli Gana Vihar, 20 Maharajapuram Santhanam Salai",
      "70th Margazhi Mela · 12 Dec 2026 – 3 Jan 2027", "Music and dance; tickets on tikkl.com. Natya Kala Conference (dance) 26–28 Dec.",
      "https://krishnaganasabha.com/assets/images/nkc/margazhimela2026/MM_schedule(2026).pdf"),
-    ("Sri Thyaga Brahma Gana Sabha", MAJOR, AW, "T. Nagar", "Vani Mahal, G.N. Road", "", "vanimahal.com shows no 2026–27 events yet. NatyaNetwork's listing (23–24 Nov 2026) has ticketed 6.30 pm concerts at \"Swaminathan Vani Mahal\", 10 Dec – 9 Jan, without an organiser (listed under 'Organiser not stated'), and untitled 6.30 pm items on 5, 6, 13 and 15 Jan under this sabha's name; Gayathri Venkataraghavan's site lists a 15 Dec concert for the sabha.", "https://www.vanimahal.com/"),
+    # 2026-11-27: MDnD's Chennai Carnatic listing now names the sabha as organiser of its 6.30 pm concerts at Vani Mahal
+    ("Sri Thyaga Brahma Gana Sabha", MAJOR, PUB, "T. Nagar", "Vani Mahal, G.N. Road", "December Music Festival 2026–27 · 10 Dec 2026 – 9 Jan 2027 (listed so far)", "Ticketed 6.30 pm concerts at Vani Mahal, 10 Dec – 9 Jan, listed on MDnD under the sabha's name (read 27 Nov 2026; also on NatyaNetwork at \"Swaminathan Vani Mahal\"); a few further concerts come from artists' sites (S. J. Jananiy 19 Dec 4 pm). vanimahal.com shows no 2026–27 programme yet; untitled 6.30 pm items on 5, 6, 13 and 15 Jan (NatyaNetwork) are not listed here.", "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
     ("Brahma Gana Sabha", MAJOR, AW, "Mylapore", "Sivagami Pethachi Auditorium", "", "", ""),
     ("Mylapore Fine Arts Club", MAJOR, PUB, "Mylapore", "45 Musiri Subramaniam Road", "75th Year Art Festival · 17 Dec 2026 – 16 Jan 2027",
      "Music 18 Dec – 1 Jan: free morning concerts at 9 am and 10.15 am (\"All are welcome\"; 9.30 am on 1 Jan) and two ticketed concerts a day at 4 pm and 6.30 pm (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD), from the club's own schedule PDF (season.mylaporetimes.com, read 25 Nov 2026) and its MDnD page. 2–16 Jan is the dance festival (not listed here); a 22 Dec upanyasam and a 23 Dec classical-meets-film programme are not listed either.",
@@ -139,8 +140,8 @@ ORGS = [
 ORGS += [
     ("World Brahmins Welfare Association", OTHER, PUB, "", "Panigraha", "WBWA 13th anniversary celebrations · 3 Jan 2027",
      "Anniversary celebration with an award ceremony and a Carnatic vocal concert by S. J. Jananiy, 5 pm (artist's website).", "https://sjjananiy.com/shows"),
-    ("Psiog", FEST, ANN, "Mylapore", "Srinivasa Sastri Hall, Luz Church Road", "Srothovaham Music Festival 2026 (3rd edition) · 5–13 Dec 2026",
-     "Edition 3: \"Rooted. Rising. Resonance\". Line-up published on indian-heritage.org's festival page (24 Nov 2026) as ten images only – not readable here, so no concerts listed yet.", "https://www.indian-heritage.org/musicseason/2627/srothovaham.html"),
+    ("Psiog", FEST, PUB, "Mylapore", "Srinivasa Sastri Hall, Luz Church Road", "Srothovaham Music Festival 2026 (3rd edition) · 5–13 Dec 2026",
+     "Edition 3: \"Rooted. Rising. Resonance\". Two concerts a day (4.30 or 5 pm and 6.45 pm) at Srinivasa Sastri Hall, from chennaievent.com's season listing (read 27 Nov 2026; organiser not printed there – the festival is Psiog's per indian-heritage.org). A harikatha (5 Dec) and a moderated special presentation (12 Dec) are not listed here; entry not printed.", "https://www.indian-heritage.org/musicseason/2627/srothovaham.html"),
     ("Tamil Cultural Academy", OTHER, PUB, "R.A. Puram", "Image Auditorium, Raja Annamalaipuram", "31st year celebrations · 19–20 Dec 2026",
      "Spoorthi Rao's \"Tribute to the Female Trinity\" on 19 Dec (NatyaNetwork listing); its Mega Isai Vizha and film-hits shows are not listed here.", "https://natyanetwork.com/margazhi"),
     ("Minnaminni", FEST, PUB, "Alwarpet / TTK Road", "Medai – The Stage, Alwarpet", "Mélange Fest · 15 Nov 2026",
@@ -157,7 +158,6 @@ ORGS += [
 # organisers whose individual dates appear on artists' websites, before their own schedule is out
 for i, row in enumerate(ORGS):
     if row[0] in {"Brahma Gana Sabha", "Sruthi Laya Kendra",
-                  "Sri Thyaga Brahma Gana Sabha",
                   "Hamsadhwani", "Tamil Isai Sangam",
                   "VVS Foundation & SaMaa Arts",
                   "TTVV Trust & Cleveland Thyagaraja Festival", "Lakshman Sruthi",

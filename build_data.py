@@ -100,6 +100,16 @@ ORG = {
         name="Naada Inbam", festival="Pre-music festival 2026",
         venue="Ragasudha Hall, 85/2 Luz Avenue, Mylapore", area="Mylapore",
         url="https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf"),
+    # 2026-11-27: Sri Thyaga Brahma Gana Sabha's 6.30 pm concerts at Vani Mahal, 10 Dec – 9 Jan, now with the sabha named as organiser on MDnD
+    "sri-thyaga-brahma-gana-sabha": dict(
+        name="Sri Thyaga Brahma Gana Sabha", festival="December Music Festival 2026–27",
+        venue="Vani Mahal, G.N. Road, T. Nagar", area="T. Nagar",
+        url="https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
+    # 2026-11-27: Psiog's Srothovaham festival (3rd edition), 5–13 Dec, at Srinivasa Sastri Hall, from chennaievent.com's season listing
+    "psiog": dict(
+        name="Psiog", festival="Srothovaham Music Festival 2026 (3rd edition)",
+        venue="Srinivasa Sastri Hall, Luz Church Road, Mylapore", area="Mylapore",
+        url="https://chennaievent.com/index_search.php?q=Kamarajar"),
 }
 
 concerts = []
@@ -306,6 +316,32 @@ main_only("raw_indian_fine_arts_society_2026.txt", "indian-fine-arts-society", "
 # 2026-11-26: Naada Inbam's pre-music festival, 1–10 Dec (its own schedule PDF on season.mylaporetimes.com)
 main_only("raw_naada_inbam_2026.txt", "naada-inbam", "ni", "2026-11-26", "Organiser's schedule (PDF)",
           "Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.")
+
+# Sri Thyaga Brahma Gana Sabha (2026-11-27): main artist only, from MDnD (Carnatica pattern for two-instrument duets).
+# Ids use the raw_artist_sites formula (as-<date>-<hhmm>-<artist>) because most rows were moved from that file; saved favourites keep working.
+for line in (ROOT / "raw_sri_thyaga_brahma_gana_sabha_2026.txt").read_text().splitlines():
+    if not line or line.startswith("#"):
+        continue
+    date, start, entry, artist, form, note = line.split("|")
+    parts = [x.strip() for x in form.split("&")]
+    if len(parts) == 2 and parts[0].lower() != parts[1].lower():
+        ctype, instrument = "Duet", classify(parts[0])[1]
+    else:
+        ctype, instrument = classify(form)
+    o = ORG["sri-thyaga-brahma-gana-sabha"]
+    concerts.append(dict(
+        id=f"as-{date}-{start.replace(':','')}-{re.sub(r'[^a-z]', '', artist.lower())[:10]}",
+        date=date, start=start, end="", slot=slot(start),
+        main_artist=artist, main_instrument=instrument, concert_type=ctype,
+        performers=[dict(name=artist, instrument=form, role="main")],
+        entry=entry, organisation=o["name"], festival=o["festival"], venue=o["venue"], area=o["area"],
+        source_url=o["url"], source_label="MDnD listing",
+        note=" ".join(x for x in (note, "Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.") if x),
+        fetched="2026-11-27"))
+
+# 2026-11-27: Psiog's Srothovaham festival, 5–13 Dec (chennaievent.com's season listing; performers printed without instruments)
+main_only("raw_psiog_2026.txt", "psiog", "psg", "2026-11-27", "chennaievent.com listing",
+          "Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.")
 
 # Nada Sudha (2026-11-21): main artist only (Charsur pattern), from chennaievent.com's listing. form "Not stated" = not printed;
 # form "A & B" with two different instruments = a duet of two instruments (Carnatica pattern).

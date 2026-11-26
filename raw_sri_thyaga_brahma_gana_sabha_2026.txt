@@ -1,0 +1,31 @@
+# Sri Thyaga Brahma Gana Sabha – December Music Festival 2026–27 at Vani Mahal, T. Nagar (Carnatic music only).
+# Source: MDnD's Chennai Carnatic listing https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
+#   (watcher snapshot mdnd-carnatic-chennai, run 2026-11-26 01:06Z; read 27 Nov 2026): 24 entries "Carnatic Vocal by <artist> | Sri Thyaga Brahma Gana Sabha",
+#   all 6.30 pm, Ticketed | Offline, 10 Dec 2026 – 9 Jan 2027. MDnD prints no venue, accompanists or end times; NatyaNetwork's Margazhi 2026 listing
+#   (read 22–23 Nov 2026) has the same concerts at "Swaminathan Vani Mahal" (the sabha's own hall), 6.30 pm, ticketed, without an organiser.
+# The rows below were in raw_artist_sites_2026.txt as "Organiser not stated" (NatyaNetwork) until 27 Nov 2026; their ids are kept (same id formula), so saved favourites still work.
+# Kept in raw_artist_sites_2026.txt (they carry accompanists or come from artists' own pages), organiser set to this sabha: Sandeep Narayan 12 Dec,
+#   Ranjani & Gayatri 13 Dec (6 pm on the artists' site), Sanjay Subrahmanyan 14 Dec, Ramana Balachandhran 19 Dec, K.S. Vishnudev 24 Dec.
+# New on 27 Nov 2026 (not listed before): 25 Dec Rajhesh Vaidhya & U. Rajesh (veena & mandolin), 1 Jan J.A. Jayant & Nirmala Rajasekar (flute & veena),
+#   2 Jan "Strings Attached" Dr. Jayanthi Kumaresh & R. Kumaresh (veena & violin) – venue not printed for these three; Vani Mahal assumed as for the sabha's other 6.30 pm concerts (noted per row).
+# Weekdays checked (10 Dec 2026 = Thu, 9 Jan 2027 = Sat).
+# date|start|entry|artist|form|note   (form "A & B" with two different instruments = a duet of two instruments)
+2026-12-10|18:30|Ticketed|G. Ravikiran|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2026-12-11|18:30|Ticketed|Sikkil Gurucharan|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2026-12-15|18:30|Ticketed|Gayathri Venkataraghavan|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed; the artist's website (gayathrivenkataraghavan.com/schedule) also lists "Sri Thyaga Gana Brahma Sabha, Vani Mahal", 15 Dec 2026.
+2026-12-16|18:30|Ticketed|Kunnakudi M. Balamuralikrishna|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2026-12-17|18:30|Ticketed|K. Bharat Sundar|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2026-12-18|18:30|Ticketed|Trichur Brothers|Vocal Duet|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2026-12-20|18:30|Ticketed|Palghat R. Ramprasad|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2026-12-21|18:30|Ticketed|S. Saketharaman|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2026-12-22|18:30|Ticketed|N. Vijay Siva|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2026-12-25|18:30|Ticketed|Rajhesh Vaidhya & U. Rajesh|Veena & Mandolin|Listed as "Carnatic Veena and Mandolin by Rajhesh Vaidhya & U Rajesh". Venue not printed on MDnD (the sabha's 6.30 pm concerts are at Vani Mahal).
+2026-12-26|18:30|Ticketed|S. Mahathi|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2026-12-27|18:30|Ticketed|Ramakrishnan Murthy|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2026-12-28|18:30|Ticketed|Malladi Brothers|Vocal Duet|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2026-12-29|18:30|Ticketed|Akkarai Sisters|Vocal Duet|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2026-12-31|18:30|Ticketed|Abhishek Raghuram|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2027-01-01|18:30|Ticketed|J.A. Jayant & Nirmala Rajasekar|Flute & Veena|Listed as "Carnatic Flute by J A Jayanth and Veena by Nirmala Rajasekhar". Venue not printed on MDnD (the sabha's 6.30 pm concerts are at Vani Mahal).
+2027-01-02|18:30|Ticketed|Dr. Jayanthi Kumaresh & R. Kumaresh|Veena & Violin|Listed as "Strings Attached by Dr. Jayanthi Kumaresh & R. Kumaresh" (veena and violin). Venue not printed on MDnD (the sabha's 6.30 pm concerts are at Vani Mahal).
+2027-01-03|18:30|Ticketed|Sid Sriram|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
+2027-01-09|18:30|Ticketed|Sudha Ragunathan|Vocal|Listed on NatyaNetwork's Margazhi 2026 listing (read 22–23 Nov 2026) at "Swaminathan Vani Mahal", 6.30 pm, ticketed.
