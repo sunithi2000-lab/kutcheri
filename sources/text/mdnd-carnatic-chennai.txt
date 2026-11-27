@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-26T19:31Z
+# fetched 2026-11-27T01:06Z
 Select Language
 English
 Tamil
@@ -10,12 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Vocal Concert by Sai Vignesh, Gayathri Venkatraghavan
-Thu, 26th Nov 2026 | 4:30 PM
-Free | Offline
-Carnatic Vocal Concert by Dr Gayathri Girish
-Thu, 26th Nov 2026 | 6:15 PM
-Free | Offline
 Carnatic Vocal Concert by Jayashree Jayaramakrishnan, Ashwath Narayanan, Sri Ramakrishnan Murthy
 Fri, 27th Nov 2026 | 10:30 AM
 Free | Offline
@@ -289,10 +283,10 @@ Ticketed | Offline
 Carnatic Vocal Concert by Vishruthi Girish
 Sat, 19th Dec 2026 | 7:30 PM
 Free | Offline
-Carnatic Violin Concert by Anushree Iyer for Anandha Margazhi
+Carnatic Vocal Concert by Anahita & Apoorva
 Sun, 20th Dec 2026 | 10:00 AM
 Free | Offline
-Carnatic Vocal Concert by Anahita & Apoorva
+Carnatic Violin Concert by Anushree Iyer for Anandha Margazhi
 Sun, 20th Dec 2026 | 10:00 AM
 Free | Offline
 R K Shriramkumar - Lec Dem | Charsur Arts Foundation

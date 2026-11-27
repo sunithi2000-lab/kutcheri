@@ -1,5 +1,5 @@
 # https://season.mylaporetimes.com/sabha-schedule/
-# fetched 2026-11-26T19:31Z
+# fetched 2026-11-27T01:06Z
 MARGAZHI 2026 IN MYLAPORE
 Sabha Schedule
 Sl.No Sabha
@@ -15,6 +15,7 @@ Sl.No Sabha
 10. Global Heritage Music Fest
 11. Paddhathi Music Fest
 12. Narada Gana Sabha
+13. Brahma Gana Sabha
 Home
 News
 Music
