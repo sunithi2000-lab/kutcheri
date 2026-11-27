@@ -110,6 +110,16 @@ ORG = {
         name="Psiog", festival="Srothovaham Music Festival 2026 (3rd edition)",
         venue="Srinivasa Sastri Hall, Luz Church Road, Mylapore", area="Mylapore",
         url="https://chennaievent.com/index_search.php?q=Kamarajar"),
+    # 2026-11-28: Naada Inbam's main December Music Festival (11 Dec – 10 Jan), its own schedule PDF on season.mylaporetimes.com
+    "naada-inbam-december": dict(
+        name="Naada Inbam", festival="December Music Festival 2026",
+        venue="Ragasudha Hall, 85/2 Luz Avenue, Mylapore", area="Mylapore",
+        url="https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf"),
+    # 2026-11-28: Hamsadhwani's Margazhi Maha Utsavam Series (1–11 Dec) at the Youth Hostel, Indira Nagar, from chennaievent.com's season listing
+    "hamsadhwani": dict(
+        name="Hamsadhwani", festival="Margazhi Maha Utsavam 2026",
+        venue="Youth Hostel Auditorium, Indira Nagar, Adyar", area="Adyar",
+        url="https://chennaievent.com/index_search.php?q=Kamarajar"),
 }
 
 concerts = []
@@ -338,6 +348,13 @@ for line in (ROOT / "raw_sri_thyaga_brahma_gana_sabha_2026.txt").read_text().spl
         source_url=o["url"], source_label="MDnD listing",
         note=" ".join(x for x in (note, "Organiser as printed on MDnD (\"| Sri Thyaga Brahma Gana Sabha\"). Accompanists not listed.") if x),
         fetched="2026-11-27"))
+
+# 2026-11-28: Naada Inbam's December Music Festival, 11 Dec – 10 Jan (its own schedule PDF; same id prefix – dates do not overlap the pre-festival)
+main_only("raw_naada_inbam_december_2026.txt", "naada-inbam-december", "ni", "2026-11-28", "Organiser's schedule (PDF)",
+          "Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.")
+# 2026-11-28: Hamsadhwani's Margazhi Maha Utsavam Series, 1–11 Dec (chennaievent.com's season listing; no organiser, instruments or accompanists printed)
+main_only("raw_hamsadhwani_2026.txt", "hamsadhwani", "hd", "2026-11-28", "chennaievent.com listing",
+          "Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.")
 
 # 2026-11-27: Psiog's Srothovaham festival, 5–13 Dec (chennaievent.com's season listing; performers printed without instruments)
 main_only("raw_psiog_2026.txt", "psiog", "psg", "2026-11-27", "chennaievent.com listing",

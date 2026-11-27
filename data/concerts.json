@@ -72,14 +72,14 @@
     "role": "main"
    }
   ],
-  "entry": "Not stated",
+  "entry": "Free",
   "organisation": "Hamsadhwani",
   "festival": "Margazhi Maha Utsavam",
-  "venue": "Youth Hostel, Indira Nagar, Adyar",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
   "area": "Adyar",
   "source_url": "https://sunithi2000-lab.github.io/kutcheri/sources/posters/ks-vishnudev-2026-27.png",
   "source_label": "Artist's poster (Facebook)",
-  "note": "Listed as \"Margazhi Maha Utsavam\" (Hamsadhwani's season festival), in collaboration with Mylai Karthikeyan (nagaswaram). From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
+  "note": "Listed as \"Margazhi Maha Utsavam\" (Hamsadhwani's season festival), in collaboration with Mylai Karthikeyan (nagaswaram). From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed. Details updated 28 Nov 2026 from chennaievent.com's listing of the \"Margazhi Maha Utsavam Series\" (watcher snapshot 27 Nov 2026): \"A Grand Invocation Concert – Mangala Naadham\", Mylai M. Karthikeyan / K.S. Vishnudev, 4.45 pm, Youth Hostel Auditorium, Indira Nagar, \"Seat 1st cum 1st\" (free as for the series' other concerts); accompanists still not listed.",
   "fetched": "2026-10-12"
  },
  {
@@ -174,6 +174,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "\"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "hd-2026-12-01-1845",
+  "date": "2026-12-01",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Gayathri Venkataraghavan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Gayathri Venkataraghavan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"A Grand Invocation Concert – MSS-110 – Thamizh Thellamudhu\". No category printed (vocal assumed). The artist's own site lists a \"Margazhi Mahotsavam\" at the Youth Hostel, Adyar on 2 Dec (no time) – check the date before going. Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "kfa-2026-12-01-1900",
@@ -332,6 +358,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "hd-2026-12-02-1645",
+  "date": "2026-12-02",
+  "start": "16:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Mahathi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Mahathi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Varnamalika\" – printed \"Vocal Event\". Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "ni-2026-12-02-1730",
   "date": "2026-12-02",
   "start": "17:30",
@@ -434,6 +486,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "\"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "hd-2026-12-02-1845",
+  "date": "2026-12-02",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vignesh Ishwar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vignesh Ishwar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Ore Ragam Orayiram Bhaavam\". No category printed (vocal assumed). Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "kfa-2026-12-02-1845",
@@ -602,6 +680,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "hd-2026-12-03-1645",
+  "date": "2026-12-03",
+  "start": "16:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Spoorthi Rao",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Spoorthi Rao",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Vaishnavam\". Printed \"Kum. Spoorthi Rao\"; no category printed (vocal assumed). Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "ni-2026-12-03-1700",
   "date": "2026-12-03",
   "start": "17:00",
@@ -730,6 +834,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "\"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "hd-2026-12-03-1845",
+  "date": "2026-12-03",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Trichur Brothers",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Trichur Brothers",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Aval – The all Powerful women\" – printed \"Vocal Duo\". Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "as-2026-12-03-1915-radhikakan",
@@ -1028,6 +1158,32 @@
   "fetched": "2026-11-18"
  },
  {
+  "id": "hd-2026-12-04-1845",
+  "date": "2026-12-04",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sikkil C. Gurucharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sikkil C. Gurucharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Southwest Bhakthi Wind\". No category printed (vocal assumed). Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "kfa-2026-12-04-1845",
   "date": "2026-12-04",
   "start": "18:45",
@@ -1262,6 +1418,32 @@
   "fetched": "2026-11-27"
  },
  {
+  "id": "hd-2026-12-05-1645",
+  "date": "2026-12-05",
+  "start": "16:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Kunnakudi M. Balamuralikrishna",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kunnakudi M. Balamuralikrishna",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Pinne Varum Munne\". No category printed (vocal assumed). Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "ni-2026-12-05-1700",
   "date": "2026-12-05",
   "start": "17:00",
@@ -1340,32 +1522,6 @@
   "fetched": "2026-11-26"
  },
  {
-  "id": "as-2026-12-05-1830-sudharagun",
-  "date": "2026-12-05",
-  "start": "18:30",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Sudha Ragunathan",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Sudha Ragunathan",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Not stated",
-  "organisation": "Hamsadhwani",
-  "festival": "Margazhi Maha Utsavam",
-  "venue": "Not stated",
-  "area": "Adyar",
-  "source_url": "https://sudharagunathan.com/in-concert/",
-  "source_label": "Artist's website",
-  "note": "Listed on the artist's site as \"Marghazhi Maha Utsavam\", Chennai, Sat 5 Dec 2026, 6.30 pm (Hamsadhwani's season festival; its other concerts are at the Indira Nagar Youth Hostel, Adyar – hall not printed here). Accompanists and tickets not stated.",
-  "fetched": "2026-10-12"
- },
- {
   "id": "as-2026-12-05-1830-drkgayatri",
   "date": "2026-12-05",
   "start": "18:30",
@@ -1416,6 +1572,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "\"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "as-2026-12-05-1845-sudharagun",
+  "date": "2026-12-05",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sudha Ragunathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sudha Ragunathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://sudharagunathan.com/in-concert/",
+  "source_label": "Artist's website",
+  "note": "Listed on the artist's site as \"Marghazhi Maha Utsavam\", Chennai, Sat 5 Dec 2026, 6.30 pm (Hamsadhwani's season festival; its other concerts are at the Indira Nagar Youth Hostel, Adyar – hall not printed here). Accompanists and tickets not stated. Details updated 28 Nov 2026 from chennaievent.com's listing of the \"Margazhi Maha Utsavam Series\" (watcher snapshot 27 Nov 2026): \"Guru Mahimai\", Dr. Sudha Raghunathan, 6.45 pm (artist's site: 6.30 pm – check the time), Youth Hostel Auditorium, Indira Nagar, \"Seat 1st cum 1st\"; free as for the series' other concerts.",
+  "fetched": "2026-10-12"
  },
  {
   "id": "as-2026-12-05-1845-sandeepnar",
@@ -1693,6 +1875,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "hd-2026-12-06-1645",
+  "date": "2026-12-06",
+  "start": "16:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K. Bharat Sundar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K. Bharat Sundar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Yethu(um) Bhakthi\". No category printed (vocal assumed). Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "psg-2026-12-06-1700",
   "date": "2026-12-06",
   "start": "17:00",
@@ -1821,6 +2029,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "\"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "hd-2026-12-06-1845",
+  "date": "2026-12-06",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. S. Sowmya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. S. Sowmya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Navaratnam\". No category printed (vocal assumed). Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "psg-2026-12-06-1845",
@@ -2083,6 +2317,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "hd-2026-12-07-1645",
+  "date": "2026-12-07",
+  "start": "16:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Amrutha Venkatesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Amrutha Venkatesh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Chandiran – The Moon – Moods & Musings\". No category printed (vocal assumed). Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "as-2026-12-07-1730-drnjayakri",
   "date": "2026-12-07",
   "start": "17:30",
@@ -2133,6 +2393,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Mathangi Chamber Music series (7–10 Dec). Listed with L. Ramakrishnan, Trivandrum V. Balaji, Sunil Kumar (instruments not printed). Naada Inbam's pre-music festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com). Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "hd-2026-12-07-1845",
+  "date": "2026-12-07",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "N. Vijay Siva",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "N. Vijay Siva",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Om Shanthi – Shanthi Shanthihi\". No category printed (vocal assumed). Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "kfa-2026-12-07-1845",
@@ -2395,6 +2681,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "hd-2026-12-08-1645",
+  "date": "2026-12-08",
+  "start": "16:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Sangeetha Numerology\". Printed \"Carnatica Brothers\"; no category printed (vocal duet assumed). Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "psg-2026-12-08-1700",
   "date": "2026-12-08",
   "start": "17:00",
@@ -2497,6 +2809,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "\"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "hd-2026-12-08-1845",
+  "date": "2026-12-08",
+  "start": "18:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sriranjani Tapasya Santhanagopalan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sriranjani Tapasya Santhanagopalan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Love\". No category printed (vocal assumed). Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "kfa-2026-12-08-1845",
@@ -2757,6 +3095,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with R.K. Shriram Kumar, K. Arunprakash, N. Guruprasad (ghatam) (instruments not printed except where shown). Season and daily tickets on MDnD.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "hd-2026-12-09-1645",
+  "date": "2026-12-09",
+  "start": "16:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "J.A. Jayant",
+  "main_instrument": "Flute",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "J.A. Jayant",
+    "instrument": "Flute",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Maaliyin Mahimai\". No category printed (the artist is a flautist). Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "psg-2026-12-09-1700",
@@ -3112,6 +3476,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "hd-2026-12-10-1645",
+  "date": "2026-12-10",
+  "start": "16:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Kruthi Vittal",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kruthi Vittal",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Hamsadhwani",
+  "festival": "Margazhi Maha Utsavam 2026",
+  "venue": "Youth Hostel Auditorium, Indira Nagar, Adyar",
+  "area": "Adyar",
+  "source_url": "https://chennaievent.com/index_search.php?q=Kamarajar",
+  "source_label": "chennaievent.com listing",
+  "note": "\"Ranga Ratnamalika\". Printed \"Kruthi (Bhat) Vittal\"; no category printed (vocal assumed). Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "psg-2026-12-10-1700",
   "date": "2026-12-10",
   "start": "17:00",
@@ -3309,6 +3699,32 @@
   "fetched": "2026-11-27"
  },
  {
+  "id": "ni-2026-12-11-1015",
+  "date": "2026-12-11",
+  "start": "10:15",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Dr. Bhairavi Vaitheeswaran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Bhairavi Vaitheeswaran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Inaugural day concert. Listed with Pudukkottai Ambika Prasad, Kallidaikurichi Sivakumar. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "bvb-2026-12-11-1030",
   "date": "2026-12-11",
   "start": "10:30",
@@ -3359,6 +3775,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Mysore M. Nagaraj & Dr M. Manjunath, printed 4.00–6.00 pm; no hall header printed on that page (main hall assumed, as for the rest of 1–12 Dec). Listed with Patri Satish Kumar, Dr Suresh Vaidyanathan (ghatam) (instruments not printed except where shown). Season and daily tickets on MDnD.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-11-1600",
+  "date": "2026-12-11",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Anuvratha Narasimhan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Anuvratha Narasimhan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Karthik Iyer, Ajeet Sridhar. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "cg-2026-12-11-1630",
@@ -3437,6 +3879,32 @@
   "source_label": "Artist's poster (Facebook)",
   "note": "From the artist's season poster \"KS Vishnudev – Chennai Margazhi 2026–27\" (posted on his Facebook page, 4 Nov 2026; copy kept with the site's sources). Accompanists not listed.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-11-1815",
+  "date": "2026-12-11",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ashwath Narayanan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ashwath Narayanan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Nishanth Chandran, Neyveli Narayanan, Chandrasekara Sharma. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "as-2026-12-11-1830-sikkilguru",
@@ -3569,6 +4037,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-12-1000",
+  "date": "2026-12-12",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Cuddalore V. Uthirapathy & Cuddalore T.R. Vasudevan",
+  "main_instrument": "Nagaswaram",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Cuddalore V. Uthirapathy & Cuddalore T.R. Vasudevan",
+    "instrument": "Nagaswaram Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mic-less nagaswaram concert supported by Sumanasa Foundation. Thavil: Sivapuri T.R.P. Ramamoorthy & Valavanur V.N.R. Kumaravel. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "bvb-2026-12-12-1030",
   "date": "2026-12-12",
   "start": "10:30",
@@ -3593,6 +4087,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Printed \"Sri Prasanna\" (guitar). \"All are welcome\" (free). Accompanists not printed.",
   "fetched": "2026-11-18"
+ },
+ {
+  "id": "ni-2026-12-12-1600",
+  "date": "2026-12-12",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "B. Sai Harinni",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "B. Sai Harinni",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Veena\". Listed with Anirudh Raj. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "bvb-2026-12-12-1630",
@@ -3697,6 +4217,32 @@
   "source_label": "chennaievent.com listing",
   "note": "Printed \"Violin Solo\". Listed with Neyveli R. Narayanan, N. Guruprasad (instruments not printed). Srothovaham festival (\"Celebrating Legacy & its Continuum\") at Srinivasa Sastri Hall, from chennaievent.com's season listing; organiser Psiog per indian-heritage.org's festival page. Entry not printed.",
   "fetched": "2026-11-27"
+ },
+ {
+  "id": "ni-2026-12-12-1815",
+  "date": "2026-12-12",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "T.K. Ramachandran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "T.K. Ramachandran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with M. Vijay, N. Manoj Siva, S. Venkataramanan. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "as-2026-12-12-1830-sandeepnar",
@@ -3868,6 +4414,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Shreelakshmi S. Bhat, Kaushik Sridhar (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-13-1000",
+  "date": "2026-12-13",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Dr. Shubha Ganesan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Shubha Ganesan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Hamsanadam – \"Thillai Thandavarayan\", thematic presentation of Tamil compositions on Thillai Natarajar. Listed with M. Vijay, Guru Raghavendra. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "skgs-2026-12-13-1100",
@@ -4051,6 +4623,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "ni-2026-12-13-1600",
+  "date": "2026-12-13",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "N. Malavi Hari",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "N. Malavi Hari",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with C. Charulatha (veena support), G.N. Bhuvan. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "cg-2026-12-13-1630",
   "date": "2026-12-13",
   "start": "16:30",
@@ -4222,6 +4820,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "ni-2026-12-13-1815",
+  "date": "2026-12-13",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Vignesh Ishwar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vignesh Ishwar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Concert dedicated to Dr. A. Ramanathan, Calicut. Listed with M. Rajeev, A. Rohith, Chandrasekara Sharma. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "ngs-2026-12-13-1830",
   "date": "2026-12-13",
   "start": "18:30",
@@ -4324,6 +4948,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with B.U. Ganesh Prasad, Sherthalai R. Ananthakrishnan, Prasanna Hariharan (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Main Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-14-1000",
+  "date": "2026-12-14",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Kalasapakkam K.N. Amaresan & Gnayiru R. Govindaraj",
+  "main_instrument": "Nagaswaram",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Kalasapakkam K.N. Amaresan & Gnayiru R. Govindaraj",
+    "instrument": "Nagaswaram Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Mic-less nagaswaram concert supported by Sumanasa Foundation. Thavil: Ammapettai V. Gopiswaran & Alangadu P. Vijayakumar. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "skgs-2026-12-14-1100",
@@ -4507,6 +5157,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "ni-2026-12-14-1600",
+  "date": "2026-12-14",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Cotah Sisters",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Cotah Sisters",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Purva Dhanashree Cotah and Paavani Cotah. Listed with Madan Mohan, S. Kavichelvan. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "skgs-2026-12-14-1600",
   "date": "2026-12-14",
   "start": "16:00",
@@ -4593,6 +5269,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Karaikal S. Venkatasubramanian, M.S. Venkatasubramanian, D.V. Venkatasubramaniam (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-14-1815",
+  "date": "2026-12-14",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Nirmala Sundararajan & Dr. Subhashini Parthasarathy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Dr. Nirmala Sundararajan & Dr. Subhashini Parthasarathy",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R.K. Shriramkumar, K. Arun Prakash. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "bk-2026-12-14-1830-trichurbro",
@@ -4723,6 +5425,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "'Isai Peroli' title. Listed with Kamalakiran Vinjamuri, Parupalli Phalgun, G. Chandrasekara Sharma (ghatam) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Main Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-15-1000",
+  "date": "2026-12-15",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Varalakshmi Anandakumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Varalakshmi Anandakumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Dr Andal Ananthanarayanan & Sri V. Ananthanarayanan Memorial Concert. Listed with Melakaveri Thyagarajan, Neyveli Ramkumar. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "skgs-2026-12-15-1100",
@@ -4932,6 +5660,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-15-1600",
+  "date": "2026-12-15",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ram Srivatsan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ram Srivatsan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Srikrishnan Subramanian, Trissur Sudev. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "skgs-2026-12-15-1600",
   "date": "2026-12-15",
   "start": "16:00",
@@ -5085,6 +5839,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with T.K.V. Ramanujacharyulu, T.R. Sundaresan, Trichy Dr K. Murali (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-15-1815",
+  "date": "2026-12-15",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Aishwarya Vidhya Raghunath",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aishwarya Vidhya Raghunath",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Evening concerts supported by SAFE. Listed with M. Rajeev, K. Arunprakash, Chandrasekara Sharma. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "abst-2026-12-15-1830",
@@ -5323,6 +6103,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ni-2026-12-16-0930",
+  "date": "2026-12-16",
+  "start": "09:30",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Gokul Chandramouli",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Gokul Chandramouli",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Concert sponsored by Shri Padmakumar, Kerala. Listed with Kamalakiran Vinjamuri, Trivandrum Balaji. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "skgs-2026-12-16-1100",
@@ -5609,6 +6415,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "ni-2026-12-16-1600",
+  "date": "2026-12-16",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "E.R. Anirudh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "E.R. Anirudh",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Haritha Narayanan, Pazhani Balaji. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "skgs-2026-12-16-1600",
   "date": "2026-12-16",
   "start": "16:00",
@@ -5762,6 +6594,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Delhi R. Sridhar, Dr S. Balashankar, Chittor S. Venkataramanan (kanjira) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-16-1815",
+  "date": "2026-12-16",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "H.K. Venkatram & B.U. Ganesh Prasad",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "H.K. Venkatram & B.U. Ganesh Prasad",
+    "instrument": "Violin Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Thiruvarur Bhakthavathsalam, Anirudh Athreya. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "as-2026-12-16-1830-ksvishnude",
@@ -5959,6 +6817,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Srikrishnan Subramanian, Punnur Arvind Kaushik (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-17-1000",
+  "date": "2026-12-17",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Carnatica Brothers - K.N. Shashikiran & P. Ganesh",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with B.U. Ganesh Prasad, Arun Prakash, Anirudh Athreya. No category printed (vocal duet assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "skgs-2026-12-17-1100",
@@ -6271,6 +7155,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "ni-2026-12-17-1600",
+  "date": "2026-12-17",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shreya Kolathaya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shreya Kolathaya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with N.M. Brahmadathan, S. Kavichelvan. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "skgs-2026-12-17-1600",
   "date": "2026-12-17",
   "start": "16:00",
@@ -6434,6 +7344,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with M. Vijay, M.S. Varadhan, Shamith Gowda (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-17-1815",
+  "date": "2026-12-17",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Thiruvarur S. Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Thiruvarur S. Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Thiruvarur Girish\". Listed with H.K. Venkatram, Sherthalai Ananthakrishnan, Dr Suresh Vaidhyanathan. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "abst-2026-12-17-1830",
@@ -6745,6 +7681,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "'Isai Chudar' title. Listed with Shreelakshmi S. Bhat, Suriya Nambisan (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-18-1000",
+  "date": "2026-12-18",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Vivek Sadasivam",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vivek Sadasivam",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with B. Ananthakrishnan, N.C. Bharadwaj, Chandrasekara Sharma. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "as-2026-12-18-1000-ksvishnude",
@@ -7135,6 +8097,32 @@
   "fetched": "2026-11-20"
  },
  {
+  "id": "ni-2026-12-18-1600",
+  "date": "2026-12-18",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dhanush Anantharaman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dhanush Anantharaman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Urmika Balaji, Kaushik Sridhar. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "skgs-2026-12-18-1600",
   "date": "2026-12-18",
   "start": "16:00",
@@ -7355,6 +8343,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Tumkur B. Ravishankar, Trichy Dr K. Murali (ghatam) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-18-1815",
+  "date": "2026-12-18",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Iyer Brothers (Ramnath & Gopinath)",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Iyer Brothers (Ramnath & Gopinath)",
+    "instrument": "Veena Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Trichur Narendran, Vaikom Gopalakrishnan. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "abst-2026-12-18-1830",
@@ -7712,6 +8726,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Printed as a violin solo. Listed with Kishore Ramesh, K.V. Gopalakrishnan (kanjira) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-19-1000",
+  "date": "2026-12-19",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "V. Bharath Kumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "V. Bharath Kumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Concert dedicated to Smt Lakshmi Srinivasan. Listed with R. Raghul, Guru Raghavendra. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "as-2026-12-19-1015-prithinara",
@@ -8102,6 +9142,32 @@
   "fetched": "2026-11-20"
  },
  {
+  "id": "ni-2026-12-19-1600",
+  "date": "2026-12-19",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ranjani Radha",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ranjani Radha",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Karthik Iyer, Ettumanoor Balaji. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "skgs-2026-12-19-1600",
   "date": "2026-12-19",
   "start": "16:00",
@@ -8286,6 +9352,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Tanjavur Ramaakrishnan, B. Ganapathiraman, H. Sivaramakrishnan (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-19-1815",
+  "date": "2026-12-19",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sikkil Mala Chandrasekhar",
+  "main_instrument": "Flute",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Sikkil Mala Chandrasekhar",
+    "instrument": "Flute",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Flute\". Listed with Bombay Madhavan, Kallidaikurichi Sivakumar, D.V. Venkatasubramanian. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "abst-2026-12-19-1830",
@@ -8638,6 +9730,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Subhashree Sivaramakrishna, S. Kavichelvan (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-20-1000",
+  "date": "2026-12-20",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Delhi P. Sunder Rajan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Delhi P. Sunder Rajan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Delhi Sunderarajan – Vocal\". Memorial concert. Listed with Delhi R. Sridhar, K.V. Prasad, Trichy Dr K. Murali. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "as-2026-12-20-1000-anahitaapo",
@@ -9065,6 +10183,32 @@
   "fetched": "2026-11-20"
  },
  {
+  "id": "ni-2026-12-20-1600",
+  "date": "2026-12-20",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Praveena Thodge",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Praveena Thodge",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Dr Sudha R.S. Iyer, Puttur Nikshith. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "as-2026-12-20-1600-anahitaapo",
   "date": "2026-12-20",
   "start": "16:00",
@@ -9316,6 +10460,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Pappu Gyandev, Anirudha S. Bhat (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-20-1815",
+  "date": "2026-12-20",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Rama Ravi & Dr. Nanditha Ravi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Rama Ravi & Dr. Nanditha Ravi",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R.K. Shriramkumar, K. Arun Prakash. No category printed (vocal duet assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "cg-2026-12-20-1830",
@@ -9616,6 +10786,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ni-2026-12-21-1000",
+  "date": "2026-12-21",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Bharathi Ramasubban",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Bharathi Ramasubban",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Madan Mohan, Balachandar, Alathur Rajaganesh. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "as-2026-12-21-1015-vaibhavpra",
@@ -9985,6 +11181,32 @@
   "fetched": "2026-11-20"
  },
  {
+  "id": "ni-2026-12-21-1600",
+  "date": "2026-12-21",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Charulatha Chandrasekar",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "Charulatha Chandrasekar",
+    "instrument": "Veena",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"C Charulatha – Veena\"; dedicated to Vainika T.R. Balakrishnan. Listed with K. Arun Prakash, Nerkunam Sankar. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "spss-2026-12-21-1600",
   "date": "2026-12-21",
   "start": "16:00",
@@ -10102,6 +11324,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Dr Usha Rajagopalan, Kumbakonam K. Ramakrishnan, N. Rajaraman (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-21-1815",
+  "date": "2026-12-21",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Pantula Rama",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Pantula Rama",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with M.S.N. Murthy, N. Manoj Siva, Alathur Rajaganesh. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "abst-2026-12-21-1830",
@@ -10487,6 +11735,32 @@
   "note": ""
  },
  {
+  "id": "ni-2026-12-22-1000",
+  "date": "2026-12-22",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Thamarakkad Krishnan Namboothiri",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Thamarakkad Krishnan Namboothiri",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R. Raghul, Arjun Ganesh, Trivandrum Rajagopal. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "as-2026-12-22-1015-pranavkikk",
   "date": "2026-12-22",
   "start": "10:15",
@@ -10849,6 +12123,32 @@
   "fetched": "2026-11-20"
  },
  {
+  "id": "ni-2026-12-22-1600",
+  "date": "2026-12-22",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. V. Subashri",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. V. Subashri",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"V Subashri\". Listed with Bargava Vignesh, A. Rohith. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "skgs-2026-12-22-1600",
   "date": "2026-12-22",
   "start": "16:00",
@@ -11059,6 +12359,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Villivakkam S. Raghuraman, Jayamangala Krishnamani, N. Phanindra (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-22-1815",
+  "date": "2026-12-22",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "B. Balasubramanian",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "B. Balasubramanian",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Dr R. Hemalatha, K. Arunprakash. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "abst-2026-12-22-1830",
@@ -11377,6 +12703,32 @@
   "note": ""
  },
  {
+  "id": "ni-2026-12-23-1000",
+  "date": "2026-12-23",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Vaikkam Jayachandran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vaikkam Jayachandran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "B. Doraiswamy centenary concerts. Listed with M. Vijay (violin), B. Sivaraman (mridangam), S. Venkataraman (kanjira). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "as-2026-12-23-1015-saradakart",
   "date": "2026-12-23",
   "start": "10:15",
@@ -11687,6 +13039,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "ni-2026-12-23-1600",
+  "date": "2026-12-23",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "C.R. Vaidyanathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "C.R. Vaidyanathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "B. Doraiswamy centenary concerts. Listed with Annayampatti Venkatasubramaniam (violin), Poongulam Subramaniam (mridangam), G. Ganapathy (ghatam). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "skgs-2026-12-23-1600",
   "date": "2026-12-23",
   "start": "16:00",
@@ -11918,6 +13296,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Neela Jayakumar, V.R. Jayakumar, Papanasam Dr S. Sethuraman (kanjira) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-23-1815",
+  "date": "2026-12-23",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. R.S. Jayalakshmi & Charulatha Chandrasekar",
+  "main_instrument": "Veena",
+  "concert_type": "Instrumental duet",
+  "performers": [
+   {
+    "name": "Dr. R.S. Jayalakshmi & Charulatha Chandrasekar",
+    "instrument": "Veena Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "B. Doraiswamy centenary concerts. Listed with B. Ganapathiraman (mridangam), D.V. Venkatasubramanian (ghatam). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "abst-2026-12-23-1830",
@@ -12239,6 +13643,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Thirumarugal Dinesh Kumar, T. Karthik (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-24-1000",
+  "date": "2026-12-24",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Thamarakkadu Govindan Nambudiri",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Thamarakkadu Govindan Nambudiri",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "'Shiva sthuthi' (Margazhi Thiruvadirai). Listed with L. Ramakrishnan, K. Arun Prakash. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "as-2026-12-24-1015-sanjaysure",
@@ -12634,6 +14064,32 @@
   "fetched": "2026-11-20"
  },
  {
+  "id": "ni-2026-12-24-1600",
+  "date": "2026-12-24",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "S. Swaminathan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "S. Swaminathan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "\"Arudra\" special concert. Listed with Kailasapathy, Sanjay Subramanian. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "skgs-2026-12-24-1600",
   "date": "2026-12-24",
   "start": "16:00",
@@ -12818,6 +14274,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Delhi R. Sridhar, Nirmal Narayanan, Balaji Chandran (ghatam) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-24-1815",
+  "date": "2026-12-24",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sangeetha Sivakumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sangeetha Sivakumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "\"Arudra\" special concert. Listed with V.S. Gokul, Poongulam Subramanian. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "abst-2026-12-24-1830",
@@ -13207,6 +14689,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Sivateja Mallajosyula, Ajeet Sridhar (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-25-1000",
+  "date": "2026-12-25",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Dr. Sundar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Sundar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Dr Sundar – Vocal\"; memorial concert. Listed with Mysore Shrikanth, J. Vaidhyanathan. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "skgs-2026-12-25-1000",
@@ -13670,6 +15178,32 @@
   "fetched": "2026-11-20"
  },
  {
+  "id": "ni-2026-12-25-1600",
+  "date": "2026-12-25",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Niranjan Dindodi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Niranjan Dindodi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Vocal\"; memorial concert. Listed with Chidambaram Badrinath, Kaushik Sridhar. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "nsu-2026-12-25-1600",
   "date": "2026-12-25",
   "start": "16:00",
@@ -13906,6 +15440,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "'Isai Peroli' title. Listed with V.V. Srinivasa Rao, Dr S. Balashankar, Nanganallur S. Swaminathan (ghatam) (instruments not printed except where shown). No category printed (vocal assumed). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-25-1815",
+  "date": "2026-12-25",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Sumithra Vasudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Sumithra Vasudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Vocal\"; memorial concert. Listed with Dr R. Hemalatha, B. Ganapathiraman. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "abst-2026-12-25-1830",
@@ -14307,6 +15867,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "ni-2026-12-26-1000",
+  "date": "2026-12-26",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Aishwarya Shankar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aishwarya Shankar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Vocal\". Listed with L. Ramakrishnan, N. Manoj Siva, Chandrasekara Sharma. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "as-2026-12-26-1000-ksvishnude",
   "date": "2026-12-26",
   "start": "10:00",
@@ -14685,6 +16271,32 @@
   "fetched": "2026-11-20"
  },
  {
+  "id": "ni-2026-12-26-1600",
+  "date": "2026-12-26",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shakthi Muralidaran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shakthi Muralidaran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Shakthi Muralidharan\". Listed with Madan Mohan, Levin K. Vijayan. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "skgs-2026-12-26-1600",
   "date": "2026-12-26",
   "start": "16:00",
@@ -14916,6 +16528,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Listed with Dr S. Balashankar, Adambakkam K. Shankar (ghatam) (instruments not printed except where shown). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-26-1815",
+  "date": "2026-12-26",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Thamarakkadu Govindan Nambudiri",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Thamarakkadu Govindan Nambudiri",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Insights Foundation, New Jersey presents a Thyagaraja special concert. Listed with Charulatha Ramanujam, K. Arun Prakash. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "abst-2026-12-26-1830",
@@ -15374,6 +17012,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "ni-2026-12-27-1000",
+  "date": "2026-12-27",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "G. Ravikiran",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "G. Ravikiran",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"G Ravi Kiran\". Listed with Sruti Sarathy, K. Arun Prakash, N. Guruprasad. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "as-2026-12-27-1015-snithyashr",
   "date": "2026-12-27",
   "start": "10:15",
@@ -15652,6 +17316,32 @@
   "source_label": "MDnD listing",
   "note": "Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
   "fetched": "2026-11-20"
+ },
+ {
+  "id": "ni-2026-12-27-1600",
+  "date": "2026-12-27",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Nanditha Kannan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Nanditha Kannan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Memorial concert. Listed with C. Charulatha (veena support), Nochur Nagaraj. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "skgs-2026-12-27-1600",
@@ -16112,6 +17802,32 @@
   "source_label": "MDnD listing",
   "note": "Listed as \"Palakkad Dr R Ramaprasad\". Ticketed (tickets and season pass on MDnD; no prices printed). Accompanists not listed.",
   "fetched": "2026-11-20"
+ },
+ {
+  "id": "ni-2026-12-27-1830",
+  "date": "2026-12-27",
+  "start": "18:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "R.K. Shriramkumar",
+  "main_instrument": "Violin",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "R.K. Shriramkumar",
+    "instrument": "Violin",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Violin Solo\" (6.30 pm). Listed with Trichy Sankaran, K.V. Gopalakrishnan. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "as-2026-12-27-1830-unnikrishn",
@@ -16666,6 +18382,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "In the club's own 75th Year Art Festival schedule (PDF on season.mylaporetimes.com, read 25 Nov 2026) at 4 pm, ticketed (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD). Listed with Balu Raghuram, R. Sankaranarayanan (instruments not printed). First found on NatyaNetwork's Margazhi 2026 listing (22 Nov 2026) as \"R. Suryaprakash - Vocal\".",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-28-1600",
+  "date": "2026-12-28",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Seetha Narayanan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Seetha Narayanan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Dedicated to Smt. Kamakshi Ammal. Listed with Mullaivasal Chandramouli, Nanjil Arul, Nerkunam Shankar. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "nsu-2026-12-28-1600",
@@ -17326,6 +19068,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "ni-2026-12-29-1000",
+  "date": "2026-12-29",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Vidya Kalyanaraman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Vidya Kalyanaraman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with B. Ananthakrishnan, Kaushik Sridhar, K.V. Gopalakrishnan. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "as-2026-12-29-1000-jayalakshm",
   "date": "2026-12-29",
   "start": "10:00",
@@ -17797,6 +19565,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-29-1600",
+  "date": "2026-12-29",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Abhirama Bode",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Abhirama Bode",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Madan Mohan, Kasinadh. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "nsu-2026-12-29-1600",
   "date": "2026-12-29",
   "start": "16:00",
@@ -18033,6 +19827,32 @@
   "source_label": "MDnD listing",
   "note": "Listed on MDnD as \"Carnatic Vocal Concert by Shruthi shankar kumar\" (5 pm, free, offline) — one of a series of free concerts at 5 pm and 6.30 pm, 25–30 Dec; organiser, venue and accompanists not printed in the listing.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-29-1815",
+  "date": "2026-12-29",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Nanditha Ravi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Nanditha Ravi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with B.U. Ganeshprasad, J. Vaidhyanathan. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "nsu-2026-12-29-1815",
@@ -18455,6 +20275,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "ni-2026-12-30-1000",
+  "date": "2026-12-30",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Srirangam Venkatanagarajan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Srirangam Venkatanagarajan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with M. Vijay, Arjun Ganesh, Trichy Dr K. Murali. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "as-2026-12-30-1015-prajnaadig",
   "date": "2026-12-30",
   "start": "10:15",
@@ -18833,6 +20679,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-30-1600",
+  "date": "2026-12-30",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Lakshmi Surya Teja",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Lakshmi Surya Teja",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Mantha Sriramya, Aduthurai Guruprasadh. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "nsu-2026-12-30-1600",
   "date": "2026-12-30",
   "start": "16:00",
@@ -19107,6 +20979,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-30-1815",
+  "date": "2026-12-30",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Amritha Murali",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Amritha Murali",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Evening concerts dedicated to Shri K.V. Ramani and Shri R. Natarajan. Listed with R.K. Shriramkumar, K. Arunprakash. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "nsu-2026-12-30-1815",
   "date": "2026-12-30",
   "start": "18:15",
@@ -19131,32 +21029,6 @@
   "source_label": "chennaievent.com listing",
   "note": "With Alankode S. Gokul, K.V. Prasad, Nerkunam Dr. S. Sankar (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
- },
- {
-  "id": "as-2026-12-30-1815-amrithamur",
-  "date": "2026-12-30",
-  "start": "18:15",
-  "end": "",
-  "slot": "Evening",
-  "main_artist": "Amritha Murali",
-  "main_instrument": "Vocal",
-  "concert_type": "Vocal",
-  "performers": [
-   {
-    "name": "Amritha Murali",
-    "instrument": "Vocal",
-    "role": "main"
-   }
-  ],
-  "entry": "Free",
-  "organisation": "Organiser not stated",
-  "festival": "—",
-  "venue": "Not stated",
-  "area": "Not stated",
-  "source_url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic",
-  "source_label": "MDnD listing",
-  "note": "Listed on MDnD as \"Carnatic Vocal Concert by Amritha Murali\" (free, offline; watcher snapshot 26 Nov 2026, read 27 Nov 2026); organiser, venue and accompanists not printed in the listing – check before going.",
-  "fetched": "2026-10-12"
  },
  {
   "id": "ch-2026-12-30-1830",
@@ -19525,6 +21397,32 @@
   "source_label": "Organiser's schedule (PDF)",
   "note": "Students' concert, printed 10–11.30 am. Listed with Aditi Venkat, Aasraya S., Satvika S., Akshaya V. (vocal); Keerthana Viswanathan (violin), Ajeeth Sridhar (mridangam). Hall printed as Bharatiya Vidya Bhavan Mini Hall. Entry not printed.",
   "fetched": "2026-11-26"
+ },
+ {
+  "id": "ni-2026-12-31-1000",
+  "date": "2026-12-31",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "J.A. Jayant",
+  "main_instrument": "Flute",
+  "concert_type": "Instrumental",
+  "performers": [
+   {
+    "name": "J.A. Jayant",
+    "instrument": "Flute",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Flute\". Listed with L. Ramakrishnan, N.C. Bharadwaj, Sunil Kumar, Samyuktha Sreeram (ghatam). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "as-2026-12-31-1015-vaibhavram",
@@ -19941,6 +21839,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2026-12-31-1600",
+  "date": "2026-12-31",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. R. Lakshmipriya",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. R. Lakshmipriya",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Sivateja Mallajosyula, Aashrith Aravind, G. Ganapathy. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "nsu-2026-12-31-1600",
   "date": "2026-12-31",
   "start": "16:00",
@@ -20213,6 +22137,32 @@
   "source_label": "Artist's website",
   "note": "Listed under \"Brahma Gana Sabha\" at \"RR Sabha Main Hall, Mylapore\" on the artist's site; tickets \"TBA\".",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2026-12-31-1815",
+  "date": "2026-12-31",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Madurai T.N.S. Krishna",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Madurai T.N.S. Krishna",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with V.V. Ravi, R. Sankaranarayanan, Payyanur Govindaprasad (morsing). No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "abst-2026-12-31-1830",
@@ -20578,6 +22528,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "ni-2027-01-01-1000",
+  "date": "2027-01-01",
+  "start": "10:00",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Bala Brundam Gurukulam – 'Sangita Saurabham'",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Bala Brundam Gurukulam – 'Sangita Saurabham'",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "New Year group presentation by the gurukulam (performers not named). Violin Dr Sudha R.S. Iyer, mridangam Guru Raghavendra. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "as-2027-01-01-1000-umakumar",
   "date": "2027-01-01",
   "start": "10:00",
@@ -20894,6 +22870,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2027-01-01-1600",
+  "date": "2027-01-01",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Kamakshi Srinivas",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kamakshi Srinivas",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Concert dedicated to Sri T.A. Narayanan. Listed with R. Raghul, B. Ganapathyraman. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "nsu-2027-01-01-1600",
   "date": "2027-01-01",
   "start": "16:00",
@@ -21063,6 +23065,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ni-2027-01-01-1815",
+  "date": "2027-01-01",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Prasanna Venkataraman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Prasanna Venkataraman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Prasanna Venkatraman\"; Lakshmi Kuppuswami Trust & Naada Inbam present a New Year 2027 concert. Listed with R. Raghul, Manoj Siva, Prasanna Hariharan. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "nsu-2027-01-01-1815",
@@ -21288,6 +23316,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2027-01-02-1045",
+  "date": "2027-01-02",
+  "start": "10:45",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Rama Ravi & Dr. Nanditha Ravi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Rama Ravi & Dr. Nanditha Ravi",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "\"Vandanamu\" – tribute to Prof. T. Viswanathan by his students (2–3 Jan). No accompanists or category printed (vocal duet assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "kfa-2027-01-02-1130",
   "date": "2027-01-02",
   "start": "11:30",
@@ -21338,6 +23392,32 @@
   "source_label": "chennaievent.com listing",
   "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). Printed \"Vocal Event\". Listed with M. Vijay, S. Hari Kishore (instruments not printed). No organiser or ticket line printed.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2027-01-02-1145",
+  "date": "2027-01-02",
+  "start": "11:45",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "B. Balasubramanian",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "B. Balasubramanian",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Wesleyan Balu\"; \"Vandanamu\" tribute to Prof. T. Viswanathan. No accompanists or category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "kfa-2027-01-02-1300",
@@ -21522,6 +23602,32 @@
   "fetched": "2026-10-12"
  },
  {
+  "id": "ni-2027-01-02-1600",
+  "date": "2027-01-02",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Ragasudha Balasubramaniam",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Ragasudha Balasubramaniam",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "\"Vandanamu\". Listed with Adithya Anil, Nochur Nagaraj. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "nsu-2027-01-02-1600",
   "date": "2027-01-02",
   "start": "16:00",
@@ -21639,6 +23745,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ni-2027-01-02-1815",
+  "date": "2027-01-02",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Jyotsna Krishnamurthy",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Jyotsna Krishnamurthy",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "\"Vandanamu\". Listed with R. Raghul, Dr Mannarkoil J. Balaji. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "nsu-2027-01-02-1815",
@@ -21890,6 +24022,32 @@
   "fetched": "2026-11-26"
  },
  {
+  "id": "ni-2027-01-03-1145",
+  "date": "2027-01-03",
+  "start": "11:45",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "Thiruvarur S. Girish",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Thiruvarur S. Girish",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Printed \"Tiruvarur Sri. Girish & Party\"; \"Vandanamu\". No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "kfa-2027-01-03-1300",
   "date": "2027-01-03",
   "start": "13:00",
@@ -22018,6 +24176,32 @@
   "source_label": "MDnD listing",
   "note": "Presented by Live4You (MDnD listing: \"Carnatic Vocal Concert by Anirudh Subramaniam – Live4You\", 3.30 pm). Festival and venue from indian-heritage.org's 2026–27 season page: Live4You \"Jyothirgamaya – Diya Dhvani Season 2\", 29 Dec 2026 – 3 Jan 2027, Museum Theatre, Pantheon Road, Egmore. Accompanists not listed.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2027-01-03-1600",
+  "date": "2027-01-03",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shruthi Shankar Kumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shruthi Shankar Kumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "\"Vandanamu\". Listed with Chidambaram Badrinath, Akshay Ram R, Sai Subramaniam. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "as-2027-01-03-1600-shashankga",
@@ -22163,6 +24347,32 @@
   "source_label": "chennaievent.com listing",
   "note": "\"Nadha Laya Mahotsavam – 2026 – 2027\" (30 Dec – 3 Jan) at Sri Durga Lakshmi Saraswathi Temple, Madanandapuram, from chennaievent.com's season listing (watcher snapshot 26 Nov 2026; read 27 Nov 2026). \"A Grand Finale Concert – Vocal\". Listed with Lavanya Sundararaman, M.A. Krishnaswamy, A.V. Manikantan, N. Rajaraman (instruments not printed). No organiser or ticket line printed.",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2027-01-03-1815",
+  "date": "2027-01-03",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "K. Bharat Sundar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "K. Bharat Sundar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "\"Vandanamu\". Listed with Sayee Rakshith, Anirudh Raj, N. Guruprasad. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "kfa-2027-01-03-1830",
@@ -22382,6 +24592,32 @@
   "note": ""
  },
  {
+  "id": "ni-2027-01-04-1600",
+  "date": "2027-01-04",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Shardul Krishnakumar",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Shardul Krishnakumar",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R. Srikriti, A.P. Mahizhan. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "nsu-2027-01-04-1600",
   "date": "2027-01-04",
   "start": "16:00",
@@ -22432,6 +24668,32 @@
   "source_label": "chennaievent.com listing",
   "note": "Sri Sath Sangam's 37th Year Annual Music/Dance Festival 2027 (chennaievent.com, watcher snapshot 24 Nov 2026), Mon 4 Jan, 4 pm, printed as \"Violin Duo (Anushree Iyer is another violin support)\" with K. Sivaraman, N. Ramakrishnan and N. Rajaraman (instruments not printed). \"Daily tickets Rs 100, available from 15 Dec at the hall.\"",
   "fetched": "2026-10-12"
+ },
+ {
+  "id": "ni-2027-01-04-1815",
+  "date": "2027-01-04",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Nisha Rajagopalan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Nisha Rajagopalan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Sruti Sarathy, Delhi Sairam, Anirudh Athreya. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "nsu-2027-01-04-1815",
@@ -22512,6 +24774,32 @@
   "fetched": "2026-11-21"
  },
  {
+  "id": "ni-2027-01-05-1600",
+  "date": "2027-01-05",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Padmashree Srinivasan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Padmashree Srinivasan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Saketha Pantula, Sannath Parameshwaran. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "nsu-2027-01-05-1600",
   "date": "2027-01-05",
   "start": "16:00",
@@ -22536,6 +24824,32 @@
   "source_label": "chennaievent.com listing",
   "note": "With Mantha Sriramya, Sriram Srinivasan, G. Ganapathy (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
+ },
+ {
+  "id": "ni-2027-01-05-1815",
+  "date": "2027-01-05",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Kalyanapuram S. Aravind",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Kalyanapuram S. Aravind",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with B. Ananthakrishnan, N.C. Bharadwaj, S. Krishna. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "nsu-2027-01-05-1815",
@@ -22642,6 +24956,32 @@
   "fetched": "2026-11-21"
  },
  {
+  "id": "ni-2027-01-06-1600",
+  "date": "2027-01-06",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sri Sri Sisters – Sriya Srinivas & Sreeja Srinivas",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal duet",
+  "performers": [
+   {
+    "name": "Sri Sri Sisters – Sriya Srinivas & Sreeja Srinivas",
+    "instrument": "Vocal Duet",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "In memory of Smt. Usha Rani & Sri Soundara Rajan. Listed with Mridula V., Nandan Kashyap. No category printed (vocal duet assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "nsu-2027-01-06-1600",
   "date": "2027-01-06",
   "start": "16:00",
@@ -22666,6 +25006,32 @@
   "source_label": "chennaievent.com listing",
   "note": "With M. Vijay, Melakaveri K. Balaji, H. Prasanna (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
+ },
+ {
+  "id": "ni-2027-01-06-1815",
+  "date": "2027-01-06",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sunil R. Gargyan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sunil R. Gargyan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with B.U. Ganeshprasad, Thiruvarur Bhakthavathsalam, K.V. Gopalakrishnan. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "nsu-2027-01-06-1815",
@@ -22718,6 +25084,58 @@
   "source_label": "chennaievent.com listing",
   "note": "With Mridula V., Sooraj Radhakrishnan (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
+ },
+ {
+  "id": "ni-2027-01-07-1600",
+  "date": "2027-01-07",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Aathreyee Krishna",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Aathreyee Krishna",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Shyam Raghav, Jayendra Kumar. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
+  "id": "ni-2027-01-07-1815",
+  "date": "2027-01-07",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Sikkil C. Gurucharan",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Sikkil C. Gurucharan",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with Vivek Dinesh, Trivandrum Balaji, Sriram Ramesh (kanjira). No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "nsu-2027-01-07-1815",
@@ -22798,6 +25216,32 @@
   "fetched": "2026-11-21"
  },
  {
+  "id": "ni-2027-01-08-1600",
+  "date": "2027-01-08",
+  "start": "16:00",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Pranathi Ganapuram",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Pranathi Ganapuram",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Sri T.A. Narayanan Memorial Concert. Listed with Bargava Vignesh, Sudarshan Srinivas. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "nsu-2027-01-08-1600",
   "date": "2027-01-08",
   "start": "16:00",
@@ -22822,6 +25266,32 @@
   "source_label": "chennaievent.com listing",
   "note": "With Karthick Iyer, Ramsmaran Krishnakumar (instruments not printed). Organiser not printed on the listing; the festival is Nada Sudha's (artists' own sources name Nada Sudha for its 25 Dec, 3, 9 and 12 Jan concerts).",
   "fetched": "2026-11-21"
+ },
+ {
+  "id": "ni-2027-01-08-1815",
+  "date": "2027-01-08",
+  "start": "18:15",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Ushalakshmi",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Ushalakshmi",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Listed with R. Raghul, Ganapathyraman. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "nsu-2027-01-08-1815",
@@ -22980,6 +25450,32 @@
   "fetched": "2026-11-21"
  },
  {
+  "id": "ni-2027-01-09-1745",
+  "date": "2027-01-09",
+  "start": "17:45",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Prasanna Venkataraman",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Prasanna Venkataraman",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "\"Guruvamsham\" – 99th birthday celebrations of Palghat Raghu. Listed with B.U. Ganesh Prasad, Sanjay Tharanathan, Dr Trichy Murali. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "as-2027-01-09-1830-spoorthira",
   "date": "2027-01-09",
   "start": "18:30",
@@ -23083,6 +25579,32 @@
   "fetched": "2026-11-27"
  },
  {
+  "id": "ni-2027-01-09-1930",
+  "date": "2027-01-09",
+  "start": "19:30",
+  "end": "",
+  "slot": "Evening",
+  "main_artist": "Dr. Sumithra Vasudev",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "Dr. Sumithra Vasudev",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "\"Guruvamsham\", printed 7.30–9 pm. Listed with B.U. Ganesh Prasad, Nakul Sridhar, Dr Trichy Murali. No category printed (vocal assumed). Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
+ },
+ {
   "id": "as-2027-01-10-0800-vishruthig",
   "date": "2027-01-10",
   "start": "08:00",
@@ -23159,6 +25681,32 @@
   "fetched": "2026-10-12",
   "source_label": "Organiser's schedule",
   "note": ""
+ },
+ {
+  "id": "ni-2027-01-10-1030",
+  "date": "2027-01-10",
+  "start": "10:30",
+  "end": "",
+  "slot": "Morning",
+  "main_artist": "N. Manoj Siva and disciples",
+  "main_instrument": "Vocal",
+  "concert_type": "Vocal",
+  "performers": [
+   {
+    "name": "N. Manoj Siva and disciples",
+    "instrument": "Vocal",
+    "role": "main"
+   }
+  ],
+  "entry": "Free",
+  "organisation": "Naada Inbam",
+  "festival": "December Music Festival 2026",
+  "venue": "Ragasudha Hall, 85/2 Luz Avenue, Mylapore",
+  "area": "Mylapore",
+  "source_url": "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf",
+  "source_label": "Organiser's schedule (PDF)",
+  "note": "Ramapriya Arts Foundation \"Guruguha Vibhakthi\" kritis group rendering, printed 10.30 am – 12.30 pm, \"Rasikas Welcome\". Violin Poorna Vaidhyanathan, mridangam S. Kavichelvan, ghatam S. Krishna. Naada Inbam's December Music Festival at Ragasudha Hall, Luz Avenue (schedule PDF on season.mylaporetimes.com): \"All Concerts are free for the public\"; donations welcome.",
+  "fetched": "2026-11-28"
  },
  {
   "id": "bk-2027-01-10-1400-vdeepikavn",

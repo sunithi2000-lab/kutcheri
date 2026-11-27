@@ -1,0 +1,93 @@
+# Naada Inbam – December Music Festival 2026, 11 Dec 2026 – 10 Jan 2027, Ragasudha Hall, 85/2 Luz Avenue, Mylapore (Carnatic music only).
+# Source: Naada Inbam's own schedule PDF https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf ("NAADA INBAM DECEMBER MUSIC FESTIVAL 2026, From 11th Dec 2026 to 8th Jan 2027",
+#   dedicated to the memory of Shri S.V. Krishnan; read 28 Nov 2026; also in watcher snapshot mylapore-times-sabha-schedules, run 2026-11-27 01:06Z).
+#   "All Concerts are free for the public. Your support by way of donations welcome." Three concerts most days (10 am, 4 pm, 6.15 pm). Categories are mostly not printed:
+#   the artist's usual form is used, vocal where unknown (noted). Accompanists printed without instruments (kept in the note).
+# Not included: 28 Dec 10 am lecture-demonstration 'Bodhana' (Bala Brundam Gurukulam); 2 Jan 9.30 am invocation/welcome/speech and 12.40 pm vote of thanks; 3 Jan 10.30 am lecture
+#   demonstration (Dr Sriram Parasuram), 10.45 am audio-video presentation, 12.45 pm dance (Aniruddha Knight & party), vote of thanks. 28 Dec 6.15 pm slot printed without an artist.
+# 9 and 10 Jan are printed after the header's end date (8 Jan) – kept as printed. Weekdays checked (11 Dec 2026 = Fri, 10 Jan 2027 = Sun).
+# date|start|entry|artist|form|note
+2026-12-11|10:15|Free|Dr. Bhairavi Vaitheeswaran|Vocal|Inaugural day concert. Listed with Pudukkottai Ambika Prasad, Kallidaikurichi Sivakumar. No category printed (vocal assumed).
+2026-12-11|16:00|Free|Anuvratha Narasimhan|Vocal|Listed with Karthik Iyer, Ajeet Sridhar. No category printed (vocal assumed).
+2026-12-11|18:15|Free|Ashwath Narayanan|Vocal|Listed with Nishanth Chandran, Neyveli Narayanan, Chandrasekara Sharma. No category printed (vocal assumed).
+2026-12-12|10:00|Free|Cuddalore V. Uthirapathy & Cuddalore T.R. Vasudevan|Nagaswaram Duet|Mic-less nagaswaram concert supported by Sumanasa Foundation. Thavil: Sivapuri T.R.P. Ramamoorthy & Valavanur V.N.R. Kumaravel.
+2026-12-12|16:00|Free|B. Sai Harinni|Veena|Printed "Veena". Listed with Anirudh Raj.
+2026-12-12|18:15|Free|T.K. Ramachandran|Vocal|Listed with M. Vijay, N. Manoj Siva, S. Venkataramanan. No category printed (vocal assumed).
+2026-12-13|10:00|Free|Dr. Shubha Ganesan|Vocal|Hamsanadam – "Thillai Thandavarayan", thematic presentation of Tamil compositions on Thillai Natarajar. Listed with M. Vijay, Guru Raghavendra.
+2026-12-13|16:00|Free|N. Malavi Hari|Vocal|Listed with C. Charulatha (veena support), G.N. Bhuvan. No category printed (vocal assumed).
+2026-12-13|18:15|Free|Vignesh Ishwar|Vocal|Concert dedicated to Dr. A. Ramanathan, Calicut. Listed with M. Rajeev, A. Rohith, Chandrasekara Sharma. No category printed (vocal assumed).
+2026-12-14|10:00|Free|Kalasapakkam K.N. Amaresan & Gnayiru R. Govindaraj|Nagaswaram Duet|Mic-less nagaswaram concert supported by Sumanasa Foundation. Thavil: Ammapettai V. Gopiswaran & Alangadu P. Vijayakumar.
+2026-12-14|16:00|Free|Cotah Sisters|Vocal Duet|Purva Dhanashree Cotah and Paavani Cotah. Listed with Madan Mohan, S. Kavichelvan.
+2026-12-14|18:15|Free|Dr. Nirmala Sundararajan & Dr. Subhashini Parthasarathy|Vocal Duet|Listed with R.K. Shriramkumar, K. Arun Prakash.
+2026-12-15|10:00|Free|Varalakshmi Anandakumar|Vocal|Dr Andal Ananthanarayanan & Sri V. Ananthanarayanan Memorial Concert. Listed with Melakaveri Thyagarajan, Neyveli Ramkumar. No category printed (vocal assumed).
+2026-12-15|16:00|Free|Ram Srivatsan|Vocal|Listed with Srikrishnan Subramanian, Trissur Sudev. No category printed (vocal assumed).
+2026-12-15|18:15|Free|Aishwarya Vidhya Raghunath|Vocal|Evening concerts supported by SAFE. Listed with M. Rajeev, K. Arunprakash, Chandrasekara Sharma. No category printed (vocal assumed).
+2026-12-16|09:30|Free|Gokul Chandramouli|Vocal|Concert sponsored by Shri Padmakumar, Kerala. Listed with Kamalakiran Vinjamuri, Trivandrum Balaji. No category printed (vocal assumed).
+2026-12-16|16:00|Free|E.R. Anirudh|Vocal|Listed with Haritha Narayanan, Pazhani Balaji. No category printed (vocal assumed).
+2026-12-16|18:15|Free|H.K. Venkatram & B.U. Ganesh Prasad|Violin Duet|Listed with Thiruvarur Bhakthavathsalam, Anirudh Athreya.
+2026-12-17|10:00|Free|Carnatica Brothers - K.N. Shashikiran & P. Ganesh|Vocal Duet|Listed with B.U. Ganesh Prasad, Arun Prakash, Anirudh Athreya. No category printed (vocal duet assumed).
+2026-12-17|16:00|Free|Shreya Kolathaya|Vocal|Listed with N.M. Brahmadathan, S. Kavichelvan. No category printed (vocal assumed).
+2026-12-17|18:15|Free|Thiruvarur S. Girish|Vocal|Printed "Thiruvarur Girish". Listed with H.K. Venkatram, Sherthalai Ananthakrishnan, Dr Suresh Vaidhyanathan. No category printed (vocal assumed).
+2026-12-18|10:00|Free|Vivek Sadasivam|Vocal|Listed with B. Ananthakrishnan, N.C. Bharadwaj, Chandrasekara Sharma. No category printed (vocal assumed).
+2026-12-18|16:00|Free|Dhanush Anantharaman|Vocal|Listed with Urmika Balaji, Kaushik Sridhar. No category printed (vocal assumed).
+2026-12-18|18:15|Free|Iyer Brothers (Ramnath & Gopinath)|Veena Duet|Listed with Trichur Narendran, Vaikom Gopalakrishnan.
+2026-12-19|10:00|Free|V. Bharath Kumar|Vocal|Concert dedicated to Smt Lakshmi Srinivasan. Listed with R. Raghul, Guru Raghavendra. No category printed (vocal assumed).
+2026-12-19|16:00|Free|Ranjani Radha|Vocal|Listed with Karthik Iyer, Ettumanoor Balaji. No category printed (vocal assumed).
+2026-12-19|18:15|Free|Sikkil Mala Chandrasekhar|Flute|Printed "Flute". Listed with Bombay Madhavan, Kallidaikurichi Sivakumar, D.V. Venkatasubramanian.
+2026-12-20|10:00|Free|Delhi P. Sunder Rajan|Vocal|Printed "Delhi Sunderarajan – Vocal". Memorial concert. Listed with Delhi R. Sridhar, K.V. Prasad, Trichy Dr K. Murali.
+2026-12-20|16:00|Free|Dr. Praveena Thodge|Vocal|Listed with Dr Sudha R.S. Iyer, Puttur Nikshith. No category printed (vocal assumed).
+2026-12-20|18:15|Free|Rama Ravi & Dr. Nanditha Ravi|Vocal Duet|Listed with R.K. Shriramkumar, K. Arun Prakash. No category printed (vocal duet assumed).
+2026-12-21|10:00|Free|Bharathi Ramasubban|Vocal|Listed with Madan Mohan, Balachandar, Alathur Rajaganesh. No category printed (vocal assumed).
+2026-12-21|16:00|Free|Charulatha Chandrasekar|Veena|Printed "C Charulatha – Veena"; dedicated to Vainika T.R. Balakrishnan. Listed with K. Arun Prakash, Nerkunam Sankar.
+2026-12-21|18:15|Free|Dr. Pantula Rama|Vocal|Listed with M.S.N. Murthy, N. Manoj Siva, Alathur Rajaganesh. No category printed (vocal assumed).
+2026-12-22|10:00|Free|Thamarakkad Krishnan Namboothiri|Vocal|Listed with R. Raghul, Arjun Ganesh, Trivandrum Rajagopal. No category printed (vocal assumed).
+2026-12-22|16:00|Free|Dr. V. Subashri|Vocal|Printed "V Subashri". Listed with Bargava Vignesh, A. Rohith. No category printed (vocal assumed).
+2026-12-22|18:15|Free|B. Balasubramanian|Vocal|Listed with Dr R. Hemalatha, K. Arunprakash. No category printed (vocal assumed).
+2026-12-23|10:00|Free|Vaikkam Jayachandran|Vocal|B. Doraiswamy centenary concerts. Listed with M. Vijay (violin), B. Sivaraman (mridangam), S. Venkataraman (kanjira).
+2026-12-23|16:00|Free|C.R. Vaidyanathan|Vocal|B. Doraiswamy centenary concerts. Listed with Annayampatti Venkatasubramaniam (violin), Poongulam Subramaniam (mridangam), G. Ganapathy (ghatam).
+2026-12-23|18:15|Free|Dr. R.S. Jayalakshmi & Charulatha Chandrasekar|Veena Duet|B. Doraiswamy centenary concerts. Listed with B. Ganapathiraman (mridangam), D.V. Venkatasubramanian (ghatam).
+2026-12-24|10:00|Free|Thamarakkadu Govindan Nambudiri|Vocal|'Shiva sthuthi' (Margazhi Thiruvadirai). Listed with L. Ramakrishnan, K. Arun Prakash. No category printed (vocal assumed).
+2026-12-24|16:00|Free|S. Swaminathan|Vocal|"Arudra" special concert. Listed with Kailasapathy, Sanjay Subramanian. No category printed (vocal assumed).
+2026-12-24|18:15|Free|Sangeetha Sivakumar|Vocal|"Arudra" special concert. Listed with V.S. Gokul, Poongulam Subramanian. No category printed (vocal assumed).
+2026-12-25|10:00|Free|Dr. Sundar|Vocal|Printed "Dr Sundar – Vocal"; memorial concert. Listed with Mysore Shrikanth, J. Vaidhyanathan.
+2026-12-25|16:00|Free|Niranjan Dindodi|Vocal|Printed "Vocal"; memorial concert. Listed with Chidambaram Badrinath, Kaushik Sridhar.
+2026-12-25|18:15|Free|Dr. Sumithra Vasudev|Vocal|Printed "Vocal"; memorial concert. Listed with Dr R. Hemalatha, B. Ganapathiraman.
+2026-12-26|10:00|Free|Aishwarya Shankar|Vocal|Printed "Vocal". Listed with L. Ramakrishnan, N. Manoj Siva, Chandrasekara Sharma.
+2026-12-26|16:00|Free|Shakthi Muralidaran|Vocal|Printed "Shakthi Muralidharan". Listed with Madan Mohan, Levin K. Vijayan. No category printed (vocal assumed).
+2026-12-26|18:15|Free|Thamarakkadu Govindan Nambudiri|Vocal|Insights Foundation, New Jersey presents a Thyagaraja special concert. Listed with Charulatha Ramanujam, K. Arun Prakash. No category printed (vocal assumed).
+2026-12-27|10:00|Free|G. Ravikiran|Vocal|Printed "G Ravi Kiran". Listed with Sruti Sarathy, K. Arun Prakash, N. Guruprasad. No category printed (vocal assumed).
+2026-12-27|16:00|Free|Nanditha Kannan|Vocal|Memorial concert. Listed with C. Charulatha (veena support), Nochur Nagaraj. No category printed (vocal assumed).
+2026-12-27|18:30|Free|R.K. Shriramkumar|Violin|Printed "Violin Solo" (6.30 pm). Listed with Trichy Sankaran, K.V. Gopalakrishnan.
+2026-12-28|16:00|Free|Seetha Narayanan|Vocal|Dedicated to Smt. Kamakshi Ammal. Listed with Mullaivasal Chandramouli, Nanjil Arul, Nerkunam Shankar. No category printed (vocal assumed).
+2026-12-29|10:00|Free|Vidya Kalyanaraman|Vocal|Listed with B. Ananthakrishnan, Kaushik Sridhar, K.V. Gopalakrishnan. No category printed (vocal assumed).
+2026-12-29|16:00|Free|Abhirama Bode|Vocal|Listed with Madan Mohan, Kasinadh. No category printed (vocal assumed).
+2026-12-29|18:15|Free|Dr. Nanditha Ravi|Vocal|Listed with B.U. Ganeshprasad, J. Vaidhyanathan. No category printed (vocal assumed).
+2026-12-30|10:00|Free|Srirangam Venkatanagarajan|Vocal|Listed with M. Vijay, Arjun Ganesh, Trichy Dr K. Murali. No category printed (vocal assumed).
+2026-12-30|16:00|Free|Lakshmi Surya Teja|Vocal|Listed with Mantha Sriramya, Aduthurai Guruprasadh. No category printed (vocal assumed).
+2026-12-30|18:15|Free|Amritha Murali|Vocal|Evening concerts dedicated to Shri K.V. Ramani and Shri R. Natarajan. Listed with R.K. Shriramkumar, K. Arunprakash. No category printed (vocal assumed).
+2026-12-31|10:00|Free|J.A. Jayant|Flute|Printed "Flute". Listed with L. Ramakrishnan, N.C. Bharadwaj, Sunil Kumar, Samyuktha Sreeram (ghatam).
+2026-12-31|16:00|Free|Dr. R. Lakshmipriya|Vocal|Listed with Sivateja Mallajosyula, Aashrith Aravind, G. Ganapathy. No category printed (vocal assumed).
+2026-12-31|18:15|Free|Madurai T.N.S. Krishna|Vocal|Listed with V.V. Ravi, R. Sankaranarayanan, Payyanur Govindaprasad (morsing). No category printed (vocal assumed).
+2027-01-01|10:00|Free|Bala Brundam Gurukulam – 'Sangita Saurabham'|Vocal|New Year group presentation by the gurukulam (performers not named). Violin Dr Sudha R.S. Iyer, mridangam Guru Raghavendra. No category printed (vocal assumed).
+2027-01-01|16:00|Free|Kamakshi Srinivas|Vocal|Concert dedicated to Sri T.A. Narayanan. Listed with R. Raghul, B. Ganapathyraman. No category printed (vocal assumed).
+2027-01-01|18:15|Free|Prasanna Venkataraman|Vocal|Printed "Prasanna Venkatraman"; Lakshmi Kuppuswami Trust & Naada Inbam present a New Year 2027 concert. Listed with R. Raghul, Manoj Siva, Prasanna Hariharan. No category printed (vocal assumed).
+2027-01-02|10:45|Free|Rama Ravi & Dr. Nanditha Ravi|Vocal Duet|"Vandanamu" – tribute to Prof. T. Viswanathan by his students (2–3 Jan). No accompanists or category printed (vocal duet assumed).
+2027-01-02|11:45|Free|B. Balasubramanian|Vocal|Printed "Wesleyan Balu"; "Vandanamu" tribute to Prof. T. Viswanathan. No accompanists or category printed (vocal assumed).
+2027-01-02|16:00|Free|Ragasudha Balasubramaniam|Vocal|"Vandanamu". Listed with Adithya Anil, Nochur Nagaraj. No category printed (vocal assumed).
+2027-01-02|18:15|Free|Dr. Jyotsna Krishnamurthy|Vocal|"Vandanamu". Listed with R. Raghul, Dr Mannarkoil J. Balaji. No category printed (vocal assumed).
+2027-01-03|11:45|Free|Thiruvarur S. Girish|Vocal|Printed "Tiruvarur Sri. Girish & Party"; "Vandanamu". No category printed (vocal assumed).
+2027-01-03|16:00|Free|Shruthi Shankar Kumar|Vocal|"Vandanamu". Listed with Chidambaram Badrinath, Akshay Ram R, Sai Subramaniam. No category printed (vocal assumed).
+2027-01-03|18:15|Free|K. Bharat Sundar|Vocal|"Vandanamu". Listed with Sayee Rakshith, Anirudh Raj, N. Guruprasad. No category printed (vocal assumed).
+2027-01-04|16:00|Free|Shardul Krishnakumar|Vocal|Listed with R. Srikriti, A.P. Mahizhan. No category printed (vocal assumed).
+2027-01-04|18:15|Free|Nisha Rajagopalan|Vocal|Listed with Sruti Sarathy, Delhi Sairam, Anirudh Athreya. No category printed (vocal assumed).
+2027-01-05|16:00|Free|Padmashree Srinivasan|Vocal|Listed with Saketha Pantula, Sannath Parameshwaran. No category printed (vocal assumed).
+2027-01-05|18:15|Free|Kalyanapuram S. Aravind|Vocal|Listed with B. Ananthakrishnan, N.C. Bharadwaj, S. Krishna. No category printed (vocal assumed).
+2027-01-06|16:00|Free|Sri Sri Sisters – Sriya Srinivas & Sreeja Srinivas|Vocal Duet|In memory of Smt. Usha Rani & Sri Soundara Rajan. Listed with Mridula V., Nandan Kashyap. No category printed (vocal duet assumed).
+2027-01-06|18:15|Free|Sunil R. Gargyan|Vocal|Listed with B.U. Ganeshprasad, Thiruvarur Bhakthavathsalam, K.V. Gopalakrishnan. No category printed (vocal assumed).
+2027-01-07|16:00|Free|Aathreyee Krishna|Vocal|Listed with Shyam Raghav, Jayendra Kumar. No category printed (vocal assumed).
+2027-01-07|18:15|Free|Sikkil C. Gurucharan|Vocal|Listed with Vivek Dinesh, Trivandrum Balaji, Sriram Ramesh (kanjira). No category printed (vocal assumed).
+2027-01-08|16:00|Free|Pranathi Ganapuram|Vocal|Sri T.A. Narayanan Memorial Concert. Listed with Bargava Vignesh, Sudarshan Srinivas. No category printed (vocal assumed).
+2027-01-08|18:15|Free|Dr. Ushalakshmi|Vocal|Listed with R. Raghul, Ganapathyraman. No category printed (vocal assumed).
+2027-01-09|17:45|Free|Prasanna Venkataraman|Vocal|"Guruvamsham" – 99th birthday celebrations of Palghat Raghu. Listed with B.U. Ganesh Prasad, Sanjay Tharanathan, Dr Trichy Murali. No category printed (vocal assumed).
+2027-01-09|19:30|Free|Dr. Sumithra Vasudev|Vocal|"Guruvamsham", printed 7.30–9 pm. Listed with B.U. Ganesh Prasad, Nakul Sridhar, Dr Trichy Murali. No category printed (vocal assumed).
+2027-01-10|10:30|Free|N. Manoj Siva and disciples|Vocal|Ramapriya Arts Foundation "Guruguha Vibhakthi" kritis group rendering, printed 10.30 am – 12.30 pm, "Rasikas Welcome". Violin Poorna Vaidhyanathan, mridangam S. Kavichelvan, ghatam S. Krishna.

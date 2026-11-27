@@ -1,0 +1,27 @@
+# Hamsadhwani – "Margazhi Maha Utsavam Series" 2026, 1–11 Dec 2026, Youth Hostel Auditorium, Indira Nagar, Adyar (Carnatic music only).
+# Source: chennaievent.com's season listing https://chennaievent.com/index_search.php?q=Kamarajar (watcher snapshot chennaievent-listing, run 2026-11-27 01:06Z; read 28 Nov 2026):
+#   22 entries "Margazhi Maha Utsavam Series - <theme> - Seat 1st cum 1st", two a day at 4.45 pm and 6.45 pm. No organiser, weekday, instruments or accompanists printed.
+#   "Marghazhi Maha Utsavam" is Hamsadhwani's season festival (season.mylaporetimes.com sabha-schedule page: "Marghazhi Maha Utsavam / Hamsadhwani, Adyar"), as already used for the
+#   artists' rows of this series. Entry: the listing prints only "Seat 1st cum 1st"; the artists' own pages for this series say "Free Admission"/"Free entry" – Free used.
+# Already listed (raw_artist_sites_2026.txt, with accompanists): 1 Dec 4.45 pm K.S. Vishnudev & Mylai Karthikeyan; 4 Dec 4.45 pm Ramana Balachandhran; 5 Dec Sudha Ragunathan
+#   (time set to 6.45 pm from this listing; her site said 6.30 pm); 9 Dec 6.45 pm Sandeep Narayan.
+# Not included: 10 Dec 6.45 pm "Silapathikaram" musical discourse (Dushyanth Sridhar / Aditya Madhavan); 11 Dec 4.45 pm "Chozham" musical lecture (V.K. Manimaran /
+#   Madhusudhanan Kalaichelvan); 11 Dec 6.45 pm "Multifacets of Mahakavi BharaTHEE" (moderated programme with Subhashree Thanikachalam, Vidya Kalyanaraman, Vinaya Karthik Rajan,
+#   Saindhavi – format unclear). Where no category is printed the artist's usual form is used (vocal unless noted).
+# Weekdays checked (1 Dec 2026 = Tue, 10 Dec 2026 = Thu).
+# date|start|entry|artist|form|note
+2026-12-01|18:45|Free|Gayathri Venkataraghavan|Vocal|"A Grand Invocation Concert – MSS-110 – Thamizh Thellamudhu". No category printed (vocal assumed). The artist's own site lists a "Margazhi Mahotsavam" at the Youth Hostel, Adyar on 2 Dec (no time) – check the date before going.
+2026-12-02|16:45|Free|S. Mahathi|Vocal|"Varnamalika" – printed "Vocal Event".
+2026-12-02|18:45|Free|Vignesh Ishwar|Vocal|"Ore Ragam Orayiram Bhaavam". No category printed (vocal assumed).
+2026-12-03|16:45|Free|Spoorthi Rao|Vocal|"Vaishnavam". Printed "Kum. Spoorthi Rao"; no category printed (vocal assumed).
+2026-12-03|18:45|Free|Trichur Brothers|Vocal Duet|"Aval – The all Powerful women" – printed "Vocal Duo".
+2026-12-04|18:45|Free|Sikkil C. Gurucharan|Vocal|"Southwest Bhakthi Wind". No category printed (vocal assumed).
+2026-12-05|16:45|Free|Kunnakudi M. Balamuralikrishna|Vocal|"Pinne Varum Munne". No category printed (vocal assumed).
+2026-12-06|16:45|Free|K. Bharat Sundar|Vocal|"Yethu(um) Bhakthi". No category printed (vocal assumed).
+2026-12-06|18:45|Free|Dr. S. Sowmya|Vocal|"Navaratnam". No category printed (vocal assumed).
+2026-12-07|16:45|Free|Amrutha Venkatesh|Vocal|"Chandiran – The Moon – Moods & Musings". No category printed (vocal assumed).
+2026-12-07|18:45|Free|N. Vijay Siva|Vocal|"Om Shanthi – Shanthi Shanthihi". No category printed (vocal assumed).
+2026-12-08|16:45|Free|Carnatica Brothers - K.N. Shashikiran & P. Ganesh|Vocal Duet|"Sangeetha Numerology". Printed "Carnatica Brothers"; no category printed (vocal duet assumed).
+2026-12-08|18:45|Free|Sriranjani Tapasya Santhanagopalan|Vocal|"Love". No category printed (vocal assumed).
+2026-12-09|16:45|Free|J.A. Jayant|Flute|"Maaliyin Mahimai". No category printed (the artist is a flautist).
+2026-12-10|16:45|Free|Kruthi Vittal|Vocal|"Ranga Ratnamalika". Printed "Kruthi (Bhat) Vittal"; no category printed (vocal assumed).

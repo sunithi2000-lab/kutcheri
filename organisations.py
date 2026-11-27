@@ -46,7 +46,9 @@ ORGS = [
      "With South Zone Cultural Centre. Free (all are welcome): 4.30 pm and 6.45 pm daily, some 10.30 am slots, from the Kendra's programme schedule PDF. Bhajans, discourses, harikatha, dance and film-based items are not listed here.",
      "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf"),
     ("Tamil Isai Sangam", MAJOR, AW, "George Town", "Rajah Annamalai Mandram, Esplanade Road", "", "", ""),
-    ("Hamsadhwani", MAJOR, AW, "Adyar", "Indira Nagar", "Margazhi Maha Utsavam", "Sandeep Narayan's website lists a 9 Dec 2026 \"Margazhi Maha Utsavam\" concert at Hamsadhwani, Indira Nagar (organiser not named there).", ""),
+    # 2026-11-28: Margazhi Maha Utsavam Series (1–11 Dec) on chennaievent.com's season listing
+    ("Hamsadhwani", MAJOR, PUB, "Adyar", "Youth Hostel Auditorium, Indira Nagar", "Margazhi Maha Utsavam 2026 · 1–11 Dec 2026",
+     "Two themed concerts a day, 4.45 pm and 6.45 pm, 1–11 Dec, at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (read 28 Nov 2026; \"Seat 1st cum 1st\"; the listing names no organiser – Marghazhi Maha Utsavam is Hamsadhwani's festival per season.mylaporetimes.com). Free entry per the artists' own pages. A musical discourse (10 Dec), a musical lecture (11 Dec 4.45 pm) and a moderated Bharathi programme (11 Dec 6.45 pm) are not listed here.", "https://chennaievent.com/index_search.php?q=Kamarajar"),
     ("Asthika Samajam", MAJOR, AW, "Alwarpet", "Venus Colony", "", "", ""),
     ("Chromepet Cultural Academy", OTHER, AW, "Chromepet", "", "", "Margazhi Festival.", ""),
     ("Thrimoorthi Sangeetha Sabha", OTHER, AW, "", "", "", "", ""),
@@ -74,9 +76,9 @@ ORGS = [
     ("Sat Sangam Sabha", OTHER, ANN, "Madipakkam", "Sri Sath Sangam (Ramanujar Hall), Madipakkam", "37th Year Annual Music/Dance Festival · from 2 Jan 2027", "Festival opens 2 Jan 2027 (inauguration and award 5.30 pm, inaugural concert by Paramakudi S. Ravindran 6.45 pm); daily tickets Rs 100 at the hall from 15 Dec (chennaievent.com listing). Concerts 3–5 Jan (4 pm on 3 and 4 Jan; 6.45 pm daily) also on that listing; rest of the programme not yet seen.", "https://chennaievent.com/index_search.php?q=Kamarajar"),
     ("Chennai Cultural Academy Trust", OTHER, AW, "", "", "", "", ""),
     # 2026-11-26: pre-music festival programme (1–10 Dec), its own schedule PDF on season.mylaporetimes.com
-    ("Naada Inbam", FEST, PUB, "Mylapore", "Ragasudha Hall, 85/2 Luz Avenue", "Pre-music festival · 1–10 Dec 2026 (incl. \"A Weekend with Dikshitar\", 4–6 Dec)",
-     "Concerts at 10 am, 3 pm, 4.15 pm and 6.15 pm most days, from Naada Inbam's own schedule PDF (season.mylaporetimes.com, read 26 Nov 2026); entry not printed. A harikatha (1 Dec), lectures and prize functions are not listed here. The main December festival programme is not yet published.",
-     "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam-Pre-music-festival.pdf"),
+    ("Naada Inbam", FEST, PUB, "Mylapore", "Ragasudha Hall, 85/2 Luz Avenue", "Pre-music festival · 1–10 Dec 2026; December Music Festival · 11 Dec 2026 – 10 Jan 2027",
+     "December Music Festival (dedicated to the memory of Shri S.V. Krishnan): three free concerts most days (10 am, 4 pm, 6.15 pm), 11 Dec – 10 Jan, incl. mic-less nagaswaram mornings (12 and 14 Dec), the B. Doraiswamy centenary (23 Dec), \"Vandanamu\" for Prof. T. Viswanathan (2–3 Jan) and \"Guruvamsham\" for Palghat Raghu (9 Jan) – \"All Concerts are free for the public\", donations welcome (own schedule PDF, read 28 Nov 2026). Pre-music festival 1–10 Dec: concerts at 10 am, 3 pm, 4.15 pm and 6.15 pm (incl. \"A Weekend with Dikshitar\", 4–6 Dec), entry not printed. Harikatha, lectures, lecture-demonstrations, a dance item and prize functions are not listed here.",
+     "https://season.mylaporetimes.com/schedules-2026/Naada-Inbam.pdf"),
     ("Charsur Arts Foundation", FEST, PUB, "Teynampet", "My Bungalow, 40 Eldams Road",
      "DVAYAM – Sounds of Duality · 15–31 Dec 2026", "Two concerts daily, 4 pm and 6.30 pm (plus some 10 am slots); programme for 15–30 Dec listed on MDnD; 31 Dec 6.30 pm A.S. Murali from NatyaNetwork's listing. Lecture-demonstrations not included.",
      "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
@@ -158,7 +160,7 @@ ORGS += [
 # organisers whose individual dates appear on artists' websites, before their own schedule is out
 for i, row in enumerate(ORGS):
     if row[0] in {"Brahma Gana Sabha", "Sruthi Laya Kendra",
-                  "Hamsadhwani", "Tamil Isai Sangam",
+                  "Tamil Isai Sangam",
                   "VVS Foundation & SaMaa Arts",
                   "TTVV Trust & Cleveland Thyagaraja Festival", "Lakshman Sruthi",
                   "SciArtsRUs", "SASTRA Satsangh", "Sri Rama Bhaktha Jana Samaj", "Gayatri Fine Arts Global", "Asthika Samajam",
