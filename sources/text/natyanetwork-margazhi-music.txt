@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi?day=all&type=music
-# fetched 2026-11-27T01:06Z
+# fetched 2026-11-27T19:31Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -51,13 +51,13 @@ Create Your Profile
 Search the December Season
 THE SPIRIT OF DECEMBER
 December Season Schedule 2026
-Every concert from Chennai’s sabhas — 780 concerts from 24 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
+Every concert from Chennai’s sabhas — 822 concerts from 27 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
 Dance
-164
+166
 Music
-557
+597
 Everything
-780
+822
 Sabhas
 Artists
 Add your programme
@@ -128,7 +128,9 @@ Swaminathan
 Anujan Broadcasts and Sri Dayaa Trust
 The Indian Fine Arts Society
 Carnatica
+Brahma Gana Sabha
 Kartik Fine Arts
+M.S. Subbulakshmi Arangam
 INDIAN STAGE
 Kalakshetra
 Aalaap
@@ -136,25 +138,27 @@ Live4You
 Beachville Coffee Roasters
 Chennaiyil Sangeeth Utsav
 Gems of Margazhi - From the House of Meenu Subbiah
+Tamil Isai Sangam
 Minnaminni (Mélange Fest)
+Paadarivom Padipparivom
 Tamil Cultural Academy
-Brahma Gana Sabha
 Sri Thyaga Brahma Gana Sabha
 Anusham Arts Academy
 Neighbourhood
 All areas
 Alwarpet (60)
-Chennai (178)
+Chennai (181)
+Chennai - 600004 (2)
 ECR (6)
 Egmore (10)
 Luz (1)
 Main Hall (1)
 Mandaveli-R.A. Puram (2)
-Mylapore (233)
+Mylapore (255)
 T-Nagar (1)
 T. Nagar (227)
 Teynampet (40)
-Tharamani (3)
+Tharamani (18)
 Thiruvanmiyur (18)
 Artist
 All artists
@@ -174,7 +178,9 @@ Abhishek Raghuram and S S Shashank
 Abhishek Raghuram and Sruti Sagar
 Abhishek Ravishankar
 Abilash Giriprasad
+Abishek Raghuraman - Vocal
 Adiitya Sridhar (Memphis Murali Raghavan)
+Adithyanarayanan S and Anirudh Venkatesh - Vocal
 Aditya Madhavan
 Aditya Narayanan
 Aditya Ravidas for Anandha Margazhi
@@ -194,12 +200,14 @@ Amrita Murali
 Amritha Murali
 Amritha Murali - Vocal
 Amrutha Venkatesh
+Amrutha Venkatesh - Vocal
 Amurtha Soundarya & Pavithrasai
 Anahita & Apoorva
 Anahita and Apoorva
 Anahita Apoorva
 Ananda Shankar Jayanth
 Ananya Ashok
+Anil Srinivasan - Piano
 Anil Srinivasan & Sikkil C. Gurucharan with Madhan Karky
 Anirudh Subramaniam
 Anirudh Subramanian
@@ -220,6 +228,7 @@ Artists of Kalakshetra Foundation
 Arushi Mudgal
 Ashok Ramani
 Ashwath Narayanan
+Ashwath Narayanan - Vocal
 Atul Kumar
 Award Function
 B J Madhuri Kaushik
@@ -230,17 +239,22 @@ Bala Kala Vaibhavam by Bala Kala Bharthy Awardees
 Baladevi Chandrasekaran
 Bangalore Brothers
 Bhajan Clubbing
+Bhajan Reloaded
 Bharadwaj Subramaniam
 Bharat Sundar
 Bharat Sundar - Vocal
 Bharatanatyam
+Bharath Sundar - Vocal
 Bharathi Tirumagan and Yuva Kala Bharathi
 Bhargavi Venkatram
+Bhargavi Venkatram - Vocal
 Bhavajan Kumar
+Bhavajan Kumar - Bharatanatyam
 Bhavya Hari
 Bhavya Kumaran
 C R Vaidyanathan
 C.S. Keshava Chandra
+Carnatic Collective
 Carnatic Nadaswaram, Mandolin and Veena Concert Mylai Karthikeyan, Vishwas Hari, Charulatha Chandrasekhar
 Carnatica Brothers
 Carnatica Brothers - Vocal
@@ -248,6 +262,7 @@ Carnatica Brothers (K.N.Shashikiran & P. Ganesh)
 Charulatha Chandrasekar
 Charulatha Chandrasekar for Anandha Margazhi
 Charumathi Raghuraman
+Charumathi Raghuraman - Violin
 Chennayil 31st Year Celbrations - Spoorthi Rao- Tribute to the Female Trinity
 Chinmaya Sisters - Vocal
 Christopher Gurusamy
@@ -325,10 +340,12 @@ G. Narendra
 G. Ravikiran
 Ganapathyam – Tales of Ganesa
 Ganapathyam – Tales of Ganesa - Bharatanatyam
+Ganesh & Kumaresh - Violin
 Ganesh Kumaresh
 Gayathri Girish - Vocal
 Gayathri Venkataraghavan
 Gayathri Venkataraghavan - Vocal
+Gayathri Venkatraghavan - Vocal
 Gayatri K
 Gayatri Venkatraghavan
 Ghatam Ensemble
@@ -343,6 +360,7 @@ Indira Kadambi
 Injikudi E M Subramaniam
 Isai Payanam – Classical meets Film – Dr. Charulatha Mani
 J B Sruthi Sagar
+J B Sruthi Sagar - Flute
 J.A. Jayanth and Mylai Karthikeyan
 J.A.Jayant
 J.B.Keerthana
@@ -352,6 +370,7 @@ Jaya Jaya Devi a Sangita Nritya Natakam
 Jayashree Vaidyanathan
 Jayashree Vaidyanathan - Vocal
 JB Keerthana
+JB Keerthana - Vocal
 Jugalbandi concert
 Jyotsna Vaidee
 K Arun Prakash
@@ -362,6 +381,7 @@ K Gayatri & Amritha Murali
 K P Nandini
 K Radhika
 K S Vishnudev
+K S Vishnudev - Vocal
 K. Bharat Sundar
 K. R. Manasvini
 K.Bharat Sundar
@@ -370,6 +390,7 @@ K.S.Vishnudev
 Kalakshetra Foundation
 Kalakshetra Foundation presents ‘Rukmini Kalyanam’
 Kalyanapuram S Aravind
+Kalyanapuram S Aravind - Vocal
 Kalyanapuram S Arvind
 Kalyanapuram S.Aravind
 Kamalakiran Vinjamuri & Bhargav Tumkur
@@ -394,12 +415,14 @@ Kunnakkudi M Balamuralikrishna
 Kunnakudi Balamurali Krishna
 Kunnakudi Balamuralikrishna
 Kunnakudi M Balamuralikrishna
+Kunnakudi M Balamuralikrishna - Vocal
 Kunnakudi M Balamuralikrishna & Shashank Subramanyam
 Kunnakudi M. Balamuralikrishna
 Kunnakudi M.Balamuralikrishna
 Lakshmi Parthasarathy Athreya
 Lakshmi Ramaswamy
 Lalgudi Duo
+Lalgudi G.J.R.Krishnan and Lalgudi Vijayalakshmi - Violin
 Leela Samson and Rama Vaidyanathan
 Leela Samson’s Spanda Dance Company
 Lekha Prasad
@@ -465,8 +488,10 @@ Nirmala Rajasekhar
 Nirmala Rajashekar
 Nirupama Rajendra
 Nisha Rajagopal
+Nisha Rajagopal - Vocal
 Nisha Rajagopalan
 Nisha Rajagopalan - Vocal
+Nithyasree Mahadevan
 Nivrithi Mahesh
 NJ Nandini
 Nrithyakshethra Dance Academy presents Madurai R Muralidharans Sri Krishna Leela
@@ -509,6 +534,7 @@ Pritam Das
 Priya Krishnamurthy
 Priyadarshini Govind
 Priyadarsini Govind
+Priyadarsini Govind - Bharatanatyam
 R K Shriramkumar
 R Lakshmipriya
 R Parthasarathy
@@ -536,10 +562,12 @@ Ramakrishnan Murthy - Vocal
 Ramana Balachandhran
 Ramana Balachandhran -Veena
 Ramana Balachandran
+Ramana Balachandran - Veena
 Ramnath Venkat Bagavath - Vocal
 Ranjani & ‘Sangeetha Choodamani’ Gayatri
 Ranjani & Gayatri
 Ranjani and Gayatri
+Ranjani and Gayatri - Vocal
 Ranjani Gayatri
 Ranjani Radha V for Anandha Margazhi
 Rasika Sivakumar (USA)
@@ -574,6 +602,7 @@ Saikripa Prasanna & Jayanthi Subramaniam
 Saila Sudha Dance Academy presents Azhagan Murugan
 Sakambhari Kamesh for Anandha Margazhi
 Saketharaman
+Saketharaman S - Vocal
 Sakshi Ashok
 Salem Dr. Gayathri Venkatesan
 Samanvitha Sashidharan
@@ -592,6 +621,7 @@ Sangita Kalanidhi T.M. Krishna
 Sanjana Chandrasekaran
 Sanjana Harikumar
 Sanjay Subrahmanyan
+Sanjay Subrahmanyan - Vocal
 Sanji Piranthapan
 Sankari Krishnan
 Savita Sreeram
@@ -645,8 +675,10 @@ Sneha Jayakumar
 Snigdha Venkataramani
 Sooraj Subramaniam
 Soorya Gayathri - Vocal
+Soorya Gayatri - Vocal
 Sowmya
 Spoorthi Rao
+Spoorthi Rao - Vocal
 Sreelakshmy Govardhanan
 Srekala Bharat and Thejas presents Moksha Margam
 Sri Sai Nrithyalaya presents Hari Hara Nandhan
@@ -730,6 +762,7 @@ Vignesh Shankar G for Anandha Margazhi
 Vijayalakshmi
 Vijayanti Pappu for Anandha Margazhi
 Vikram Sridhar
+Vinay Varanasai - Narration
 Visakha Hari (SRI RANGA MAHATHMYAM)
 Vishaka Hari
 Vishnudev K S
@@ -758,8 +791,8 @@ Search
 Next up
 Free entry only
 6:00 pm
-in 11 h 10 min
-Saindhavi & Sai Vignesh
+in 2 days
+IndoSoul by Karthick Iyer
 Gems of Margazhi - From the House of Meenu Subbiah · Tharamani
 Want a website of your own?
 Eight designs made for dance, so people, search engines and AI assistants find you. From ₹7,999.
@@ -868,17 +901,17 @@ Sat
 Jan 16
 Sun
 Jan 17
-All music 557
-Vocal 313
-Instrumental 83
-Harikatha & Namasankeerthanam 32
+All music 597
+Vocal 342
+Instrumental 89
+Harikatha & Namasankeerthanam 33
 Lec-dems & talks 2
 Light & Fusion 8
 Concert (type not listed) 61
 Students' music performance 2
 Devotional music 2
 The whole season
-557 CONCERTS FOUND
+597 CONCERTS FOUND
 Free
 Ticketed
 SUN 15 NOV
@@ -1007,6 +1040,21 @@ Kartik Fine Arts
 Narada Gana Sabha, Chennai
 Ticketed
 SAT 5 DEC
+4:00 pm
+Music
+PPYil Margazhi - Unplugged
+Paadarivom Padipparivom
+Kavikko Mandram, Chennai - 600004
+Ticketed
+SAT 5 DEC
+6:00 pm
+Music
+PPYil Margazhi - Unplugged
+HARIKATHA & NAMASANKEERTHANAM
+Paadarivom Padipparivom
+Kavikko Mandram, Chennai - 600004
+Ticketed
+SAT 5 DEC
 6:45 pm
 Music
 Sandeep Narayan
@@ -1079,6 +1127,14 @@ Kartik Fine Arts
 Narada Gana Sabha, Chennai
 Ticketed
 THU 10 DEC
+6:15 pm
+Music
+Abishek Raghuraman - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
+Ticketed
+THU 10 DEC
 6:30 pm
 Music
 G. Ravikiran
@@ -1093,6 +1149,14 @@ Shashank Subrahmanyam
 INSTRUMENTAL
 Kartik Fine Arts
 Narada Gana Sabha, Chennai
+Ticketed
+FRI 11 DEC
+10:30 am
+Music
+Soulfest 2026
+VOCAL
+M.S. Subbulakshmi Arangam
+Chamber Music Sadas, Tharamani
 Ticketed
 FRI 11 DEC
 4:00 pm
@@ -1111,6 +1175,14 @@ Carnatica
 SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM, Thiruvanmiyur
 Ticketed
 FRI 11 DEC
+6:15 pm
+Music
+K S Vishnudev - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
+Ticketed
+FRI 11 DEC
 6:30 pm
 Music
 Sikkil C Gurucharan
@@ -1126,6 +1198,14 @@ INSTRUMENTAL
 Carnatica
 SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM, Thiruvanmiyur
 Ticketed
+FRI 11 DEC
+7:00 pm
+Music
+Soulfest 2026
+VOCAL
+M.S. Subbulakshmi Arangam
+M S Subbulakshmi Auditorium, Tharamani
+Ticketed
 SAT 12 DEC
 10:00 am
 Music
@@ -1133,6 +1213,14 @@ Ranjani Radha V for Anandha Margazhi
 VOCAL
 INDIAN STAGE
 MDnD Performance Centre, MylaporeFree
+SAT 12 DEC
+2:30 pm
+Music
+Soulfest 2026
+VOCAL
+M.S. Subbulakshmi Arangam
+M S Subbulakshmi Auditorium, Tharamani
+Ticketed
 SAT 12 DEC
 4:30 pm
 Music
@@ -1150,6 +1238,22 @@ Carnatica
 SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM Thiruvanmiyur, Chennai
 Ticketed
 CF
+SAT 12 DEC
+6:00 pm
+Music
+Soulfest 2026
+VOCAL
+M.S. Subbulakshmi Arangam
+M S Subbulakshmi Auditorium, Tharamani
+Ticketed
+SAT 12 DEC
+6:15 pm
+Music
+Saketharaman S - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
+Ticketed
 SAT 12 DEC
 6:30 pm
 Music
@@ -1191,6 +1295,14 @@ INSTRUMENTAL
 INDIAN STAGE
 MDnD Performance Centre, MylaporeFree
 SUN 13 DEC
+10:30 am
+Music
+Soulfest 2026
+VOCAL
+M.S. Subbulakshmi Arangam
+Chamber Music Sadas, Tharamani
+Ticketed
+SUN 13 DEC
 11:00 am
 Music
 ER Anirudh
@@ -1206,6 +1318,14 @@ VOCAL DUET
 with Violin · Mridangam · Kanjira
 Sri Krishna Gana Sabha
 Dr. Nalli Gana Vihar, T. NagarFree
+SUN 13 DEC
+2:30 pm
+Music
+Soulfest 2026
+VOCAL
+M.S. Subbulakshmi Arangam
+M S Subbulakshmi Auditorium, Tharamani
+Ticketed
 SUN 13 DEC
 3:30 pm
 Music
@@ -1231,6 +1351,22 @@ Carnatica
 SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM Thiruvanmiyur, Chennai
 Ticketed
 CV
+SUN 13 DEC
+6:00 pm
+Music
+Soulfest 2026
+INSTRUMENTAL
+M.S. Subbulakshmi Arangam
+M S Subbulakshmi Auditorium, Tharamani
+Ticketed
+SUN 13 DEC
+6:15 pm
+Music
+Sanjay Subrahmanyan - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
+Ticketed
 SUN 13 DEC
 6:30 pm
 Music
@@ -1313,6 +1449,14 @@ Ashwath Narayanan
 INSTRUMENTAL
 Carnatica
 SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM Thiruvanmiyur, Chennai
+Ticketed
+MON 14 DEC
+6:15 pm
+Music
+Sikkil Gurucharan - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
 Ticketed
 MON 14 DEC
 6:30 pm
@@ -1432,6 +1576,14 @@ Nagai R. Muralidharan
 INSTRUMENTAL
 Carnatica
 SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM Thiruvanmiyur, Chennai
+Ticketed
+TUE 15 DEC
+6:15 pm
+Music
+Soorya Gayatri - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
 Ticketed
 TUE 15 DEC
 6:30 pm
@@ -1599,6 +1751,14 @@ Prince Rama Varma
 VOCAL
 Carnatica
 SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM Thiruvanmiyur, Chennai
+Ticketed
+WED 16 DEC
+6:15 pm
+Music
+Malladi Brothers - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
 Ticketed
 WED 16 DEC
 6:30 pm
@@ -1777,6 +1937,14 @@ Carnatica
 SRI SANKARA VIDHYASHRAMAM MAT. HR.SEC.SCHOOL AUDITORIUM Thiruvanmiyur, Chennai
 Ticketed
 THU 17 DEC
+6:15 pm
+Music
+Lalgudi G.J.R.Krishnan and Lalgudi Vijayalakshmi - Violin
+INSTRUMENTAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
+Ticketed
+THU 17 DEC
 6:30 pm
 Music
 Mandolin Day - U Rajesh and Party
@@ -1911,6 +2079,14 @@ with Violin · Mridangam · Kanjira
 The Music Academy
 Music Academy, TTK Auditorium, MylaporeFree
 FRI 18 DEC
+2:30 pm
+Music
+Soulfest 2026
+VOCAL
+M.S. Subbulakshmi Arangam
+M S Subbulakshmi Auditorium, Tharamani
+Ticketed
+FRI 18 DEC
 3:30 pm
 Music
 Mahathi
@@ -1992,6 +2168,22 @@ Jayashree Vaidyanathan - Vocal
 VOCAL
 The Indian Fine Arts Society
 Ethiraj Kalyana Nilayam, Chennai
+Ticketed
+FRI 18 DEC
+6:00 pm
+Music
+Soulfest 2026
+INSTRUMENTAL
+M.S. Subbulakshmi Arangam
+M S Subbulakshmi Auditorium, Tharamani
+Ticketed
+FRI 18 DEC
+6:15 pm
+Music
+Sid Sriram - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
 Ticketed
 FRI 18 DEC
 6:30 pm
@@ -2100,6 +2292,14 @@ VOCAL
 INDIAN STAGE
 MDnD Performance Centre, MylaporeFree
 SAT 19 DEC
+10:30 am
+Music
+Soulfest 2026
+VOCAL
+M.S. Subbulakshmi Arangam
+Chamber Music Sadas, Tharamani
+Ticketed
+SAT 19 DEC
 11:00 am
 Music
 R Sai Vignesh
@@ -2138,6 +2338,14 @@ Music
 Chennayil 31st Year Celbrations - Spoorthi Rao- Tribute to the Female Trinity
 Tamil Cultural Academy
 Image Auditorium, Raja Annamalaipuram, Mandaveli-R.A. Puram
+Ticketed
+SAT 19 DEC
+2:30 pm
+Music
+Soulfest 2026
+VOCAL
+M.S. Subbulakshmi Arangam
+M S Subbulakshmi Auditorium, Tharamani
 Ticketed
 SAT 19 DEC
 3:30 pm
@@ -2231,6 +2439,22 @@ SM Vilasini - Vocal
 VOCAL
 The Indian Fine Arts Society
 Ethiraja Kalyana Vilayam, Chennai
+Ticketed
+SAT 19 DEC
+6:00 pm
+Music
+Soulfest 2026
+VOCAL
+M.S. Subbulakshmi Arangam
+M S Subbulakshmi Auditorium, Tharamani
+Ticketed
+SAT 19 DEC
+6:15 pm
+Music
+Carnatica Brothers - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
 Ticketed
 SAT 19 DEC
 6:30 pm
@@ -2371,6 +2595,14 @@ with Violin · Mridangam · Ghatam
 The Music Academy
 Music Academy, TTK Auditorium, MylaporeFree
 SUN 20 DEC
+2:30 pm
+Music
+Soulfest 2026
+VOCAL
+M.S. Subbulakshmi Arangam
+M S Subbulakshmi Auditorium, Tharamani
+Ticketed
+SUN 20 DEC
 3:30 pm
 Music
 Ghatam Ensemble
@@ -2477,6 +2709,14 @@ CONCERT (TYPE NOT LISTED)
 Indian singer
 Narada Gana Sabha
 Narada Gana Sabha, TTK Road, Alwarpet
+Ticketed
+SUN 20 DEC
+6:15 pm
+Music
+Nisha Rajagopal - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
 Ticketed
 SUN 20 DEC
 6:30 pm
@@ -2694,6 +2934,14 @@ Music
 Savita Sreeram - Abhang
 The Indian Fine Arts Society
 Ethiraja Kalyana Nilayam, Chennai
+Ticketed
+MON 21 DEC
+6:15 pm
+Music
+Ganesh & Kumaresh - Violin
+INSTRUMENTAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
 Ticketed
 MON 21 DEC
 6:30 pm
@@ -2925,6 +3173,14 @@ The Indian Fine Arts Society
 Ethiraja Kalyana Nilayam, Chennai
 Ticketed
 TUE 22 DEC
+6:15 pm
+Music
+Ramakrishnan Murthy - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
+Ticketed
+TUE 22 DEC
 6:30 pm
 Music
 Palghat Ramprasad
@@ -2963,6 +3219,14 @@ N. Vijay Siva
 VOCAL
 Swaminathan
 Vani Mahal, Chennai
+Ticketed
+TUE 22 DEC
+6:30 pm
+Music
+Nithyasree Mahadevan
+VOCAL
+Tamil Isai Sangam
+Rajah Annamalai Mandram, Chennai
 Ticketed
 TUE 22 DEC
 6:45 pm
@@ -3138,6 +3402,14 @@ Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
 Ticketed
 WED 23 DEC
+6:15 pm
+Music
+Bharath Sundar - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
+Ticketed
+WED 23 DEC
 6:30 pm
 Music
 Mohammed Rafi 102 Night
@@ -3178,6 +3450,14 @@ Mysuru Chandankumar
 INSTRUMENTAL
 Anujan Broadcasts and Sri Dayaa Trust
 Sri Ramanujar Millenium Hall, Mylapore
+Ticketed
+WED 23 DEC
+6:30 pm
+Music
+Rajhesh Vaidhya
+INSTRUMENTAL
+Tamil Isai Sangam
+Rajah Annamalai Mandram, Chennai
 Ticketed
 WED 23 DEC
 6:45 pm
@@ -3344,6 +3624,13 @@ Dr. A Sabari - Vocal
 VOCAL
 The Indian Fine Arts Society
 Ethiraja Kalyana Nilayam, Chennai
+Ticketed
+THU 24 DEC
+6:15 pm
+Music
+Dushyanth Sridhar - Story Narration
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
 Ticketed
 THU 24 DEC
 6:30 pm
@@ -3583,6 +3870,14 @@ Narada Gana Sabha
 Narada Gana Sabha, TTK Road, Alwarpet
 Ticketed
 FRI 25 DEC
+6:15 pm
+Music
+Gayathri Venkatraghavan - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
+Ticketed
+FRI 25 DEC
 6:30 pm
 Music
 Amrutha Venkatesh
@@ -3778,6 +4073,14 @@ Vasudha Ravi - Vocal
 VOCAL
 The Indian Fine Arts Society
 Ethiraja Kalyana Nilayam, Chennai
+Ticketed
+SAT 26 DEC
+6:15 pm
+Music
+Ramana Balachandran - Veena
+INSTRUMENTAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
 Ticketed
 SAT 26 DEC
 6:30 pm
@@ -3995,6 +4298,13 @@ Narada Gana Sabha
 Narada Gana Sabha, TTK Road, Alwarpet
 Ticketed
 SUN 27 DEC
+6:15 pm
+Music
+Vinay Varanasai - Narration
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
+Ticketed
+SUN 27 DEC
 6:30 pm
 Music
 Abhishek Raghuram
@@ -4176,6 +4486,13 @@ Dr.M Narmadha - Violin
 INSTRUMENTAL
 The Indian Fine Arts Society
 Ethiraja Kalyana Nilayam, Chennai
+Ticketed
+MON 28 DEC
+6:15 pm
+Music
+Parama Bhagavathan Smarami - Tribute to the Mahapurushas of Bharath
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
 Ticketed
 MON 28 DEC
 6:30 pm
@@ -4378,6 +4695,14 @@ Dr. Subha Ganesan - Vocal
 VOCAL
 The Indian Fine Arts Society
 Ethiraja Kalyana Nilayam, Chennai
+Ticketed
+TUE 29 DEC
+6:15 pm
+Music
+Kunnakudi M Balamuralikrishna - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
 Ticketed
 TUE 29 DEC
 6:30 pm
@@ -4604,6 +4929,14 @@ Bharat Kalachar
 Sri YGP Auditorium, T. NagarFree
 TB
 WED 30 DEC
+6:15 pm
+Music
+Ranjani and Gayatri - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
+Ticketed
+WED 30 DEC
 6:30 pm
 Music
 Ramakrishnan Murthy
@@ -4635,6 +4968,14 @@ K. Bharat Sundar
 VOCAL
 Sri Parthasarathy Swami Sabha
 Vidya Bharathi Kalyana Mandapam, Mylapore
+Ticketed
+WED 30 DEC
+6:30 pm
+Music
+Sanjay Subrahmanyan
+VOCAL
+Tamil Isai Sangam
+Rajah Annamalai Mandram, Chennai
 Ticketed
 WED 30 DEC
 6:45 pm
@@ -4818,6 +5159,14 @@ Kunnakudi M Balamuralikrishna
 VOCAL
 Bharat Kalachar
 Sri YGP Auditorium, T. Nagar
+Ticketed
+THU 31 DEC
+6:15 pm
+Music
+Sandeep Narayan - Vocal
+VOCAL
+Brahma Gana Sabha
+Rasika Ranjani Sabha, Mylapore
 Ticketed
 THU 31 DEC
 6:30 pm

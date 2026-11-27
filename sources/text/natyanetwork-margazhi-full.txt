@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi
-# fetched 2026-11-27T01:06Z
+# fetched 2026-11-27T19:31Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -47,13 +47,13 @@ Create Your Profile
 Search the December Season
 THE SPIRIT OF DECEMBER
 December Season Schedule 2026
-Every concert from Chennai’s sabhas — 780 concerts from 24 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
+Every concert from Chennai’s sabhas — 822 concerts from 27 sabhas so far, more as they publish. Find your artists, venues and timings in one place.
 Dance
-164
+166
 Music
-557
+597
 Everything
-780
+822
 Sabhas
 Artists
 Add your programme
@@ -124,7 +124,9 @@ Swaminathan
 Anujan Broadcasts and Sri Dayaa Trust
 The Indian Fine Arts Society
 Carnatica
+Brahma Gana Sabha
 Kartik Fine Arts
+M.S. Subbulakshmi Arangam
 INDIAN STAGE
 Kalakshetra
 Aalaap
@@ -132,25 +134,27 @@ Live4You
 Beachville Coffee Roasters
 Chennaiyil Sangeeth Utsav
 Gems of Margazhi - From the House of Meenu Subbiah
+Tamil Isai Sangam
 Minnaminni (Mélange Fest)
+Paadarivom Padipparivom
 Tamil Cultural Academy
-Brahma Gana Sabha
 Sri Thyaga Brahma Gana Sabha
 Anusham Arts Academy
 Neighbourhood
 All areas
 Alwarpet (60)
-Chennai (178)
+Chennai (181)
+Chennai - 600004 (2)
 ECR (6)
 Egmore (10)
 Luz (1)
 Main Hall (1)
 Mandaveli-R.A. Puram (2)
-Mylapore (233)
+Mylapore (255)
 T-Nagar (1)
 T. Nagar (227)
 Teynampet (40)
-Tharamani (3)
+Tharamani (18)
 Thiruvanmiyur (18)
 Artist
 All artists
@@ -170,7 +174,9 @@ Abhishek Raghuram and S S Shashank
 Abhishek Raghuram and Sruti Sagar
 Abhishek Ravishankar
 Abilash Giriprasad
+Abishek Raghuraman - Vocal
 Adiitya Sridhar (Memphis Murali Raghavan)
+Adithyanarayanan S and Anirudh Venkatesh - Vocal
 Aditya Madhavan
 Aditya Narayanan
 Aditya Ravidas for Anandha Margazhi
@@ -190,12 +196,14 @@ Amrita Murali
 Amritha Murali
 Amritha Murali - Vocal
 Amrutha Venkatesh
+Amrutha Venkatesh - Vocal
 Amurtha Soundarya & Pavithrasai
 Anahita & Apoorva
 Anahita and Apoorva
 Anahita Apoorva
 Ananda Shankar Jayanth
 Ananya Ashok
+Anil Srinivasan - Piano
 Anil Srinivasan & Sikkil C. Gurucharan with Madhan Karky
 Anirudh Subramaniam
 Anirudh Subramanian
@@ -216,6 +224,7 @@ Artists of Kalakshetra Foundation
 Arushi Mudgal
 Ashok Ramani
 Ashwath Narayanan
+Ashwath Narayanan - Vocal
 Atul Kumar
 Award Function
 B J Madhuri Kaushik
@@ -226,17 +235,22 @@ Bala Kala Vaibhavam by Bala Kala Bharthy Awardees
 Baladevi Chandrasekaran
 Bangalore Brothers
 Bhajan Clubbing
+Bhajan Reloaded
 Bharadwaj Subramaniam
 Bharat Sundar
 Bharat Sundar - Vocal
 Bharatanatyam
+Bharath Sundar - Vocal
 Bharathi Tirumagan and Yuva Kala Bharathi
 Bhargavi Venkatram
+Bhargavi Venkatram - Vocal
 Bhavajan Kumar
+Bhavajan Kumar - Bharatanatyam
 Bhavya Hari
 Bhavya Kumaran
 C R Vaidyanathan
 C.S. Keshava Chandra
+Carnatic Collective
 Carnatic Nadaswaram, Mandolin and Veena Concert Mylai Karthikeyan, Vishwas Hari, Charulatha Chandrasekhar
 Carnatica Brothers
 Carnatica Brothers - Vocal
@@ -244,6 +258,7 @@ Carnatica Brothers (K.N.Shashikiran & P. Ganesh)
 Charulatha Chandrasekar
 Charulatha Chandrasekar for Anandha Margazhi
 Charumathi Raghuraman
+Charumathi Raghuraman - Violin
 Chennayil 31st Year Celbrations - Spoorthi Rao- Tribute to the Female Trinity
 Chinmaya Sisters - Vocal
 Christopher Gurusamy
@@ -321,10 +336,12 @@ G. Narendra
 G. Ravikiran
 Ganapathyam – Tales of Ganesa
 Ganapathyam – Tales of Ganesa - Bharatanatyam
+Ganesh & Kumaresh - Violin
 Ganesh Kumaresh
 Gayathri Girish - Vocal
 Gayathri Venkataraghavan
 Gayathri Venkataraghavan - Vocal
+Gayathri Venkatraghavan - Vocal
 Gayatri K
 Gayatri Venkatraghavan
 Ghatam Ensemble
@@ -339,6 +356,7 @@ Indira Kadambi
 Injikudi E M Subramaniam
 Isai Payanam – Classical meets Film – Dr. Charulatha Mani
 J B Sruthi Sagar
+J B Sruthi Sagar - Flute
 J.A. Jayanth and Mylai Karthikeyan
 J.A.Jayant
 J.B.Keerthana
@@ -348,6 +366,7 @@ Jaya Jaya Devi a Sangita Nritya Natakam
 Jayashree Vaidyanathan
 Jayashree Vaidyanathan - Vocal
 JB Keerthana
+JB Keerthana - Vocal
 Jugalbandi concert
 Jyotsna Vaidee
 K Arun Prakash
@@ -358,6 +377,7 @@ K Gayatri & Amritha Murali
 K P Nandini
 K Radhika
 K S Vishnudev
+K S Vishnudev - Vocal
 K. Bharat Sundar
 K. R. Manasvini
 K.Bharat Sundar
@@ -366,6 +386,7 @@ K.S.Vishnudev
 Kalakshetra Foundation
 Kalakshetra Foundation presents ‘Rukmini Kalyanam’
 Kalyanapuram S Aravind
+Kalyanapuram S Aravind - Vocal
 Kalyanapuram S Arvind
 Kalyanapuram S.Aravind
 Kamalakiran Vinjamuri & Bhargav Tumkur
@@ -390,12 +411,14 @@ Kunnakkudi M Balamuralikrishna
 Kunnakudi Balamurali Krishna
 Kunnakudi Balamuralikrishna
 Kunnakudi M Balamuralikrishna
+Kunnakudi M Balamuralikrishna - Vocal
 Kunnakudi M Balamuralikrishna & Shashank Subramanyam
 Kunnakudi M. Balamuralikrishna
 Kunnakudi M.Balamuralikrishna
 Lakshmi Parthasarathy Athreya
 Lakshmi Ramaswamy
 Lalgudi Duo
+Lalgudi G.J.R.Krishnan and Lalgudi Vijayalakshmi - Violin
 Leela Samson and Rama Vaidyanathan
 Leela Samson’s Spanda Dance Company
 Lekha Prasad
@@ -461,8 +484,10 @@ Nirmala Rajasekhar
 Nirmala Rajashekar
 Nirupama Rajendra
 Nisha Rajagopal
+Nisha Rajagopal - Vocal
 Nisha Rajagopalan
 Nisha Rajagopalan - Vocal
+Nithyasree Mahadevan
 Nivrithi Mahesh
 NJ Nandini
 Nrithyakshethra Dance Academy presents Madurai R Muralidharans Sri Krishna Leela
@@ -505,6 +530,7 @@ Pritam Das
 Priya Krishnamurthy
 Priyadarshini Govind
 Priyadarsini Govind
+Priyadarsini Govind - Bharatanatyam
 R K Shriramkumar
 R Lakshmipriya
 R Parthasarathy
@@ -532,10 +558,12 @@ Ramakrishnan Murthy - Vocal
 Ramana Balachandhran
 Ramana Balachandhran -Veena
 Ramana Balachandran
+Ramana Balachandran - Veena
 Ramnath Venkat Bagavath - Vocal
 Ranjani & ‘Sangeetha Choodamani’ Gayatri
 Ranjani & Gayatri
 Ranjani and Gayatri
+Ranjani and Gayatri - Vocal
 Ranjani Gayatri
 Ranjani Radha V for Anandha Margazhi
 Rasika Sivakumar (USA)
@@ -570,6 +598,7 @@ Saikripa Prasanna & Jayanthi Subramaniam
 Saila Sudha Dance Academy presents Azhagan Murugan
 Sakambhari Kamesh for Anandha Margazhi
 Saketharaman
+Saketharaman S - Vocal
 Sakshi Ashok
 Salem Dr. Gayathri Venkatesan
 Samanvitha Sashidharan
@@ -588,6 +617,7 @@ Sangita Kalanidhi T.M. Krishna
 Sanjana Chandrasekaran
 Sanjana Harikumar
 Sanjay Subrahmanyan
+Sanjay Subrahmanyan - Vocal
 Sanji Piranthapan
 Sankari Krishnan
 Savita Sreeram
@@ -641,8 +671,10 @@ Sneha Jayakumar
 Snigdha Venkataramani
 Sooraj Subramaniam
 Soorya Gayathri - Vocal
+Soorya Gayatri - Vocal
 Sowmya
 Spoorthi Rao
+Spoorthi Rao - Vocal
 Sreelakshmy Govardhanan
 Srekala Bharat and Thejas presents Moksha Margam
 Sri Sai Nrithyalaya presents Hari Hara Nandhan
@@ -726,6 +758,7 @@ Vignesh Shankar G for Anandha Margazhi
 Vijayalakshmi
 Vijayanti Pappu for Anandha Margazhi
 Vikram Sridhar
+Vinay Varanasai - Narration
 Visakha Hari (SRI RANGA MAHATHMYAM)
 Vishaka Hari
 Vishnudev K S
@@ -754,8 +787,8 @@ Search
 Next up
 Free entry only
 6:00 pm
-in 11 h 7 min
-Saindhavi & Sai Vignesh
+in 16 h 42 min
+Aayana Dance Company
 Gems of Margazhi - From the House of Meenu Subbiah · Tharamani
 Want a website of your own?
 Eight designs made for dance, so people, search engines and AI assistants find you. From ₹7,999.
@@ -864,14 +897,13 @@ Sat
 Jan 16
 Sun
 Jan 17
-Friday, 27 November
+Saturday, 28 November
 1 CONCERT FOUND
 Free
 Ticketed
 6:00 pm
-Music
-Saindhavi & Sai Vignesh
-HARIKATHA & NAMASANKEERTHANAM
+Dance
+Aayana Dance Company
 Gems of Margazhi - From the House of Meenu Subbiah
 M S Subbulakshmi Auditorium, Tharamani
 Ticketed

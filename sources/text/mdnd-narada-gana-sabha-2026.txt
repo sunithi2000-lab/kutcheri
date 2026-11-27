@@ -1,5 +1,5 @@
 # https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=2400
-# fetched 2026-11-27T01:06Z
+# fetched 2026-11-27T19:31Z
 Select Language
 English
 Tamil
@@ -84,8 +84,6 @@ Narada Gana Sabha, Chennai
 3:30 PM
 20 December 2026
 Sunday
-Day Pass | 20 Dec | Ghatam Ensemble - 3.30 PM | Abhishek Raghuram - 6.00 PM | Narada Gana Sabha
-Narada Gana Sabha, Chennai
 Ghatam Ensemble | Narada Gana Sabha
 Narada Gana Sabha, Chennai
 3:30 PM
@@ -94,8 +92,6 @@ Narada Gana Sabha, Chennai
 6:00 PM
 21 December 2026
 Monday
-Day Pass | 21 Dec | Vignesh Ishwar - 3.30 PM | Kunnakudi Balamuralikrishna - 6.30 PM | Narada Gana Sabha
-Narada Gana Sabha, Chennai
 Carnatic Vocal by Vignesh Ishwar | Narada Gana Sabha
 Narada Gana Sabha, Chennai
 3:30 PM
@@ -104,8 +100,6 @@ Narada Gana Sabha, Chennai
 6:30 PM
 22 December 2026
 Tuesday
-Day Pass | 22 Dec | U.Ve. Dushyanth Sridhar - 3.30 PM | Palghat Ramprasad - 6.30 PM | Narada Gana Sabha
-Narada Gana Sabha, Chennai
 Thirukkural Muzhangum Sanathanam by U Ve Dushyanth Sridhar | Narada Gana Sabha
 Narada Gana Sabha, Chennai
 3:30 PM
@@ -114,8 +108,6 @@ Narada Gana Sabha, Chennai
 6:30 PM
 23 December 2026
 Wednesday
-Day Pass | 23 Dec | Gayathri Venkataraghavan - 3.30 PM | Sikkil C Gurucharan - 6.30 PM | Narada Gana Sabha
-Narada Gana Sabha, Chennai
 Carnatic Vocal by Gayathri Venkatraghavan | Narada Gana Sabha
 Narada Gana Sabha, Chennai
 3:30 PM
@@ -124,8 +116,6 @@ Narada Gana Sabha, Chennai
 6:30 PM
 24 December 2026
 Thursday
-Day Pass | 24 Dec | Charumathi Raghuraman - 3.30 PM | Ramakrishnan Murthy - 6.30 PM | Narada Gana Sabha
-Narada Gana Sabha, Chennai
 Carnatic Violin by Charumathi Raghuraman | Narada Gana Sabha
 Narada Gana Sabha, Chennai
 3:30 PM
@@ -139,8 +129,6 @@ Narada Gana Sabha, Chennai
 6:00 PM
 26 December 2026
 Saturday
-Day Pass | 26 Dec | Akkarai Sisters - 3.30 PM | Trichur Brothers - 6.30 PM | Narada Gana Sabha
-Narada Gana Sabha, Chennai
 Carnatic Violin by Akkarai Sisters | Narada Gana Sabha
 Narada Gana Sabha, Chennai
 3:30 PM
@@ -149,8 +137,6 @@ Narada Gana Sabha, Chennai
 6:30 PM
 27 December 2026
 Sunday
-Day Pass | 27 Dec | Kanjira Quartet - 3.30 PM | Sandeep Narayan - 6.00 PM | Narada Gana Sabha
-Narada Gana Sabha, Chennai
 Laya Chathura - Kanjira Quartet | Narada Gana Sabha
 Narada Gana Sabha, Chennai
 3:30 PM
@@ -159,8 +145,6 @@ Narada Gana Sabha, Chennai
 6:00 PM
 28 December 2026
 Monday
-Day Pass | 28 Dec | Ashwath Narayanan - 3.30 PM | Bharat Sundar - 6.30 PM | Narada Gana Sabha
-Narada Gana Sabha, Chennai
 Carnatic Vocal by Ashwath Narayanan | Narada Gana Sabha
 Narada Gana Sabha, Chennai
 3:30 PM
@@ -169,8 +153,6 @@ Narada Gana Sabha, Chennai
 6:30 PM
 29 December 2026
 Tuesday
-Day Pass | 29 Dec | Malladi Trio - 3.30 PM | Ramana Balachandran - 6.30 PM | Narada Gana Sabha
-Narada Gana Sabha, Chennai
 Carnatic Vocal by Malladi Trio | Narada Gana Sabha
 Narada Gana Sabha, Chennai
 3:30 PM
@@ -179,8 +161,6 @@ Narada Gana Sabha, Chennai
 6:30 PM
 30 December 2026
 Wednesday
-Day Pass | 30 Dec | Rithvik Raja - 3.30 PM | Sudha Raghunathan - 6.30 PM | Narada Gana Sabha
-Narada Gana Sabha, Chennai
 Carnatic Vocal by Rithvik Raja | Narada Gana Sabha
 Narada Gana Sabha, Chennai
 3:30 PM
@@ -189,8 +169,6 @@ Narada Gana Sabha, Chennai
 6:30 PM
 31 December 2026
 Thursday
-Day Pass | 31 Dec | Sivasri Skandaprasad - 3.30 PM | Sriranjani Santhanagpalan - 6.30 PM | Narada Gana Sabha
-Narada Gana Sabha, Chennai
 Bhajans by Sivasri Skandaprasad | Narada Gana Sabha
 Narada Gana Sabha, Chennai
 3:30 PM
@@ -199,8 +177,6 @@ Narada Gana Sabha, Chennai
 6:30 PM
 1 January 2027
 Friday
-Day Pass | 1 Jan 2027 | Vishaka Hari - 3.30 PM | Padma Subrahmanyam - 6.30 PM | Narada Gana Sabha
-Narada Gana Sabha, Chennai
 Musical Discourse by Vishaka Hari | Narada Gana Sabha
 Narada Gana Sabha, Chennai
 3:30 PM

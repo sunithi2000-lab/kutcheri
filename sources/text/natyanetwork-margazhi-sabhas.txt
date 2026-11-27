@@ -1,5 +1,5 @@
 # https://natyanetwork.com/margazhi/sabhas
-# fetched 2026-11-27T01:06Z
+# fetched 2026-11-27T19:31Z
 NatyaNetwork
 THE GLOBAL HOME OF
 INDIAN CLASSICAL DANCE
@@ -53,6 +53,7 @@ Explore the season by sabha. Pick one to see its address, map, tickets and every
 All venues
 Alwarpet
 Chennai
+Chennai - 600004
 ECR
 Egmore
 Luz
@@ -64,7 +65,7 @@ T. Nagar
 Teynampet
 Tharamani
 Thiruvanmiyur
-24 venues with schedules
+27 venues with schedules
 Search venues
 TM
 The Music Academy
@@ -98,9 +99,15 @@ Alwarpet · 29 programmes
 C
 Carnatica
 Thiruvanmiyur · 27 programmes
+BG
+Brahma Gana Sabha
+Mylapore · 24 programmes
 KF
 Kartik Fine Arts
 Main Hall · 23 programmes
+SA
+M.S. Subbulakshmi Arangam
+Tharamani · 15 programmes
 IS
 INDIAN STAGE
 Mylapore · 15 programmes
@@ -120,15 +127,18 @@ ECR · 6 programmes
 GO
 Gems of Margazhi - From the House of Meenu Subbiah
 Tharamani · 3 programmes
+TI
+Tamil Isai Sangam
+Chennai · 3 programmes
 MM
 Minnaminni (Mélange Fest)
 Alwarpet · 2 programmes
+PP
+Paadarivom Padipparivom
+Chennai - 600004 · 2 programmes
 TC
 Tamil Cultural Academy
 Mandaveli-R.A. Puram · 2 programmes
-BG
-Brahma Gana Sabha
-Mylapore · 2 programmes
 TB
 Sri Thyaga Brahma Gana Sabha
 T-Nagar · 1 programmes
