@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-27T19:31Z
+# fetched 2026-11-28T00:38Z
 Select Language
 English
 Tamil
@@ -10,12 +10,6 @@ Malayalam
 Select Location
 0
 Filter
-Carnatic Vocal Concert by Jayashree Jayaramakrishnan, Ashwath Narayanan, Sri Ramakrishnan Murthy
-Fri, 27th Nov 2026 | 10:30 AM
-Free | Offline
-Carnatic Mandolin Concert by Vishwas Hari
-Fri, 27th Nov 2026 | 6:15 PM
-Free | Offline
 Carnatic Vocal Concert by Trivandrum Dr Baby Sreeram
 Sat, 28th Nov 2026 | 6:15 PM
 Free | Offline
@@ -112,10 +106,10 @@ Ticketed | Offline
 Carnatic Vocal by Sikkil C Gurucharan | Sri Thyaga Brahma Gana Sabha
 Fri, 11th Dec 2026 | 6:30 PM
 Ticketed | Offline
-Carnatic Vocal Concert by Amritha Murali
+Amritha Murali - Vocal | Soulfest 2026
 Fri, 11th Dec 2026 | 7:00 PM
 Ticketed | Offline
-Amritha Murali - Vocal | Soulfest 2026
+Carnatic Vocal Concert by Amritha Murali
 Fri, 11th Dec 2026 | 7:00 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Ranjani Radha V for Anandha Margazhi
@@ -877,12 +871,12 @@ Ticketed | Offline
 Carnatic Mandolin Concert by Saigovind Vijayaraghavan
 Wed, 30th Dec 2026 | 5:00 PM
 Free | Offline
-Ranjani and Gayatri - Vocal | Brahma Gana Sabha
-Wed, 30th Dec 2026 | 6:15 PM
-Ticketed | Offline
 Carnatic Vocal Concert by Amritha Murali
 Wed, 30th Dec 2026 | 6:15 PM
 Free | Offline
+Ranjani and Gayatri - Vocal | Brahma Gana Sabha
+Wed, 30th Dec 2026 | 6:15 PM
+Ticketed | Offline
 Carnatic Vocal Concert by Sanjay Subrahmanyan | Tamil Isai Sangam
 Wed, 30th Dec 2026 | 6:30 PM
 Ticketed | Offline
