@@ -1,5 +1,5 @@
 # https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
-# fetched 2026-11-28T00:38Z
+# fetched 2026-11-28T19:31Z
 Select Language
 English
 Tamil
@@ -70,15 +70,27 @@ Free | Offline
 4.00 PM Carnatic Vocal by Ranjani and Gayatri | 6.45 PM Abhangavalli Natya Ranjani A Devotional Journey of bhakthi through Natya and Marathi Abhangs | Kartik Fine Arts
 Sun, 6th Dec 2026 | 4:00 PM
 Ticketed | Offline
+Carnatic Vocal by Bharat Sundar & Dr S Sowmya
+Sun, 6th Dec 2026 | 4:45 PM
+Free | Offline
 4.30 PM Carnatic Vocal by K. Bharat Sundar | 6.45 PM Carnatic Vocal by Trichur Brothers | Kartik Fine Arts
 Mon, 7th Dec 2026 | 4:30 PM
 Ticketed | Offline
+Carnatic Vocal by Amrutha Venkatesh & N Vijay Siva
+Mon, 7th Dec 2026 | 4:45 PM
+Free | Offline
 4.30 PM Carnatic Vocal by Sikkil C. Gurucharan | 6.45 PM Carnatic Vocal by Malladi Brothers | Kartik Fine Arts
 Tue, 8th Dec 2026 | 4:30 PM
 Ticketed | Offline
+Carnatic Vocal by Carnatica Brothers & Sriranjani Tapasya Santhanagopalan
+Tue, 8th Dec 2026 | 4:45 PM
+Free | Offline
 4.30 PM Carnatic Vocal by Dr.K. Gayatri | 6.45 PM Carnatic Vocal by Kunnakudi M. Balamuralikrishna | Kartik Fine Arts
 Wed, 9th Dec 2026 | 4:30 PM
 Ticketed | Offline
+Carnatic Flute by Jayant J A | Carnatic Vocal by Sandeep Narayan
+Wed, 9th Dec 2026 | 4:45 PM
+Free | Offline
 Carnatic Vocal Concert by Amritha Murali
 Wed, 9th Dec 2026 | 6:30 PM
 Free | Offline
@@ -107,9 +119,6 @@ Carnatic Vocal by Sikkil C Gurucharan | Sri Thyaga Brahma Gana Sabha
 Fri, 11th Dec 2026 | 6:30 PM
 Ticketed | Offline
 Amritha Murali - Vocal | Soulfest 2026
-Fri, 11th Dec 2026 | 7:00 PM
-Ticketed | Offline
-Carnatic Vocal Concert by Amritha Murali
 Fri, 11th Dec 2026 | 7:00 PM
 Ticketed | Offline
 Carnatic Vocal Concert by Ranjani Radha V for Anandha Margazhi
@@ -300,9 +309,6 @@ Fri, 18th Dec 2026 | 4:30 PM
 Ticketed | Offline
 Charumathi Raghuraman - Violin | Soulfest 2026
 Fri, 18th Dec 2026 | 6:00 PM
-Ticketed | Offline
-Sid Sriram - Vocal | Brahma Gana Sabha
-Fri, 18th Dec 2026 | 6:15 PM
 Ticketed | Offline
 Carnatic Vocal by Kalyanapuram S Aravind | Anujan Broadcasts and Sri Dayaa Trust
 Fri, 18th Dec 2026 | 6:30 PM
