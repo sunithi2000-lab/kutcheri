@@ -32,7 +32,10 @@ ORGS = [
      "https://krishnaganasabha.com/assets/images/nkc/margazhimela2026/MM_schedule(2026).pdf"),
     # 2026-11-27: MDnD's Chennai Carnatic listing now names the sabha as organiser of its 6.30 pm concerts at Vani Mahal
     ("Sri Thyaga Brahma Gana Sabha", MAJOR, PUB, "T. Nagar", "Vani Mahal, G.N. Road", "December Music Festival 2026–27 · 10 Dec 2026 – 9 Jan 2027 (listed so far)", "Ticketed 6.30 pm concerts at Vani Mahal, 10 Dec – 9 Jan, listed on MDnD under the sabha's name (read 27 Nov 2026; also on NatyaNetwork at \"Swaminathan Vani Mahal\"); a few further concerts come from artists' sites (S. J. Jananiy 19 Dec 4 pm). vanimahal.com shows no 2026–27 programme yet; untitled 6.30 pm items on 5, 6, 13 and 15 Jan (NatyaNetwork) are not listed here.", "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
-    ("Brahma Gana Sabha", MAJOR, AW, "Mylapore", "Sivagami Pethachi Auditorium", "", "", ""),
+    # 2026-11-29: the sabha's December festival (10–31 Dec) on MDnD's Chennai Carnatic listing
+    ("Brahma Gana Sabha", MAJOR, PUB, "Mylapore", "Rasika Ranjani Sabha, Mylapore", "December festival 2026 · 10–31 Dec 2026 (listed so far)",
+     "Ticketed concerts at 6.15 pm, 10–31 Dec, listed on MDnD under \"Brahma Gana Sabha\" (read 29 Nov 2026; no venue printed there – the artists' own pages place the sabha's concerts at Rasika Ranjani Sabha, Mylapore). Sanjay Subrahmanyan's 1 Jan 9.30 am concert comes from his site. Season.mylaporetimes.com lists the sabha (index entry 13) but its schedule PDF is not out yet.",
+     "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
     ("Mylapore Fine Arts Club", MAJOR, PUB, "Mylapore", "45 Musiri Subramaniam Road", "75th Year Art Festival · 17 Dec 2026 – 16 Jan 2027",
      "Music 18 Dec – 1 Jan: free morning concerts at 9 am and 10.15 am (\"All are welcome\"; 9.30 am on 1 Jan) and two ticketed concerts a day at 4 pm and 6.30 pm (season tickets Rs 5,900 reserved / Rs 1,770 unreserved from 7 Dec at the club office; daily and season tickets on MDnD), from the club's own schedule PDF (season.mylaporetimes.com, read 25 Nov 2026) and its MDnD page. 2–16 Jan is the dance festival (not listed here); a 22 Dec upanyasam and a 23 Dec classical-meets-film programme are not listed either.",
      "https://season.mylaporetimes.com/schedules-2026/Mylapore-Fine-Arts-Club.pdf"),
@@ -45,7 +48,8 @@ ORGS = [
      "Bhavan's Margazhi Mahotsav 2026 (first edition) · 20 Nov – 12 Dec 2026",
      "With South Zone Cultural Centre. Free (all are welcome): 4.30 pm and 6.45 pm daily, some 10.30 am slots, from the Kendra's programme schedule PDF. Bhajans, discourses, harikatha, dance and film-based items are not listed here.",
      "https://www.bhavanschennai.org/assets/images/event/14112026_BHAVANS_Margazhi_Cultural_2026ProgrammeSchedule.pdf"),
-    ("Tamil Isai Sangam", MAJOR, AW, "George Town", "Rajah Annamalai Mandram, Esplanade Road", "", "", ""),
+    ("Tamil Isai Sangam", MAJOR, ANN, "George Town", "Rajah Annamalai Mandram, Esplanade Road", "Annual music festival · December 2026",
+     "Ticketed 6.30 pm concerts on 22, 23 and 30 Dec listed on MDnD under \"Tamil Isai Sangam\" (read 29 Nov 2026; no venue printed – the Sangam's hall is Raja Annamalai Mandram). Full programme not yet seen.", ""),
     # 2026-11-28: Margazhi Maha Utsavam Series (1–11 Dec) on chennaievent.com's season listing
     ("Hamsadhwani", MAJOR, PUB, "Adyar", "Youth Hostel Auditorium, Indira Nagar", "Margazhi Maha Utsavam 2026 · 1–11 Dec 2026",
      "Two themed concerts a day, 4.45 pm and 6.45 pm, 1–11 Dec, at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (read 28 Nov 2026; \"Seat 1st cum 1st\"; the listing names no organiser – Marghazhi Maha Utsavam is Hamsadhwani's festival per season.mylaporetimes.com). Free entry per the artists' own pages. A musical discourse (10 Dec), a musical lecture (11 Dec 4.45 pm) and a moderated Bharathi programme (11 Dec 6.45 pm) are not listed here.", "https://chennaievent.com/index_search.php?q=Kamarajar"),
@@ -75,6 +79,9 @@ ORGS = [
     ("Perambur Sangeetha Sabha", OTHER, AW, "Perambur", "", "", "", ""),
     ("Sat Sangam Sabha", OTHER, ANN, "Madipakkam", "Sri Sath Sangam (Ramanujar Hall), Madipakkam", "37th Year Annual Music/Dance Festival · from 2 Jan 2027", "Festival opens 2 Jan 2027 (inauguration and award 5.30 pm, inaugural concert by Paramakudi S. Ravindran 6.45 pm); daily tickets Rs 100 at the hall from 15 Dec (chennaievent.com listing). Concerts 3–5 Jan (4 pm on 3 and 4 Jan; 6.45 pm daily) also on that listing; rest of the programme not yet seen.", "https://chennaievent.com/index_search.php?q=Kamarajar"),
     ("Chennai Cultural Academy Trust", OTHER, AW, "", "", "", "", ""),
+    # 2026-11-29: found on chennaievent.com's season listing (Panchami and monthly concerts)
+    ("Sri Thiagaraja Sangeetha Vidwath Samajam", OTHER, ANN, "Mylapore", "Thyagarajapuram, near Madhava Perumal Koil, Mylapore", "Panchami and monthly concerts · 8 and 18 Dec 2026",
+     "Mylapore samajam (\"Regd\"). Saxophone Panchami concert by G. Ramanathan (8 Dec, 6.30 pm) and a mandolin monthly concert by Nidhi Hariharan (18 Dec, 6 pm), from chennaievent.com's season listing (read 29 Nov 2026; phones 98410 31680 / 98400 64292). Entry not printed.", "https://chennaievent.com/index_search.php?q=Kamarajar"),
     # 2026-11-26: pre-music festival programme (1–10 Dec), its own schedule PDF on season.mylaporetimes.com
     ("Naada Inbam", FEST, PUB, "Mylapore", "Ragasudha Hall, 85/2 Luz Avenue", "Pre-music festival · 1–10 Dec 2026; December Music Festival · 11 Dec 2026 – 10 Jan 2027",
      "December Music Festival (dedicated to the memory of Shri S.V. Krishnan): three free concerts most days (10 am, 4 pm, 6.15 pm), 11 Dec – 10 Jan, incl. mic-less nagaswaram mornings (12 and 14 Dec), the B. Doraiswamy centenary (23 Dec), \"Vandanamu\" for Prof. T. Viswanathan (2–3 Jan) and \"Guruvamsham\" for Palghat Raghu (9 Jan) – \"All Concerts are free for the public\", donations welcome (own schedule PDF, read 28 Nov 2026). Pre-music festival 1–10 Dec: concerts at 10 am, 3 pm, 4.15 pm and 6.15 pm (incl. \"A Weekend with Dikshitar\", 4–6 Dec), entry not printed. Harikatha, lectures, lecture-demonstrations, a dance item and prize functions are not listed here.",
@@ -90,12 +97,12 @@ ORGS = [
     ("Carnatica", FEST, PUB, "Thiruvanmiyur", "Sri Sankara Vidhyashramam School Auditorium, Thiruvanmiyur", "Global Heritage Music & Arts Fest 2026 · 11–22 Dec 2026",
      "Presented with Sri Parthasarathy Swami Sabha: two ticketed concerts a day (4.30 pm and 6.45 pm; 4 pm and 6.30 pm on 14 and 20 Dec), 11–22 Dec, listed on MDnD; venue from indian-heritage.org. Two non-Carnatic items (18 Dec piano–vocal with Madhan Karky, 21 Dec film music) and a 19 Dec katha kutcheri are not listed here; Kunnakudi M. Balamuralikrishna 19 Dec 6.45 pm from NatyaNetwork's listing. Also co-presented Bharat Sangeet Utsav 2026 (31 Oct – 7 Nov, before the season).",
      "https://mdnd.in/SeasonTickets/OrganizerLandingPage?ci=101&r_id=30992"),
-    ("MDnD", FEST, AW, "Mylapore", "MDnD Performance Centre, Luz Church Road", "", "Anandha Margazhi; also sells season tickets for many sabhas. An \"Anandha Margazhi\" (Indian Stage) is listed for 12–26 Dec 2026; no programme yet.","https://www.mdnd.in/seasontickets"),
+    ("MDnD", FEST, PUB, "Mylapore", "MDnD Performance Centre, Luz Church Road", "Anandha Margazhi · 12–26 Dec 2026", "Anandha Margazhi: a free 10 am concert every day, 12–26 Dec 2026, listed on MDnD as \"... for Anandha Margazhi\" (read 29 Nov 2026; venue not printed). MDnD also sells season tickets for many sabhas.","https://www.mdnd.in/seasontickets"),
     # 2026-11-21: 28th Annual Music Festival programme (24 Dec – 13 Jan so far) found on chennaievent.com's season listing
     ("Nada Sudha", FEST, PUB, "Velachery", "Sri Ganapathi Sachchidananda Ashram Hall, Velachery", "28th Annual Music Festival · 24 Dec 2026 – 13 Jan 2027 (listed so far)",
      "Three concerts a day (2.30 pm, 4 pm, 6.15 pm) at the Ashram hall, from chennaievent.com's season listing (which names no organiser; artists' own pages name Nada Sudha for its concerts). Season donor pass by phone (98849 49597 / 91763 09996). A thematic film-based concert, a fusion-style item and two items of unclear format are not listed here.",
      "https://chennaievent.com/index_search.php?q=Kamarajar"),
-    ("Sruthi Laya Kendra", FEST, AW, "Mylapore", "Bharatiya Vidya Bhavan Mini Hall", "", "Winter Music Festival.", ""),
+    ("Sruthi Laya Kendra", FEST, ANN, "Mylapore", "Bharatiya Vidya Bhavan, Mylapore", "39th Winter Music Festival · 26 Dec 2026", "Winter Music Festival at the Bhavan main auditorium on 26 Dec: 9 am \"Layataranga\" percussion ensemble led by Giridhar Udupa, then award presentations and Shashank's flute recital (chennaievent.com, read 29 Nov 2026; Shashank's site: 11 am).", ""),
     ("Gayatri Fine Arts Global", FEST, AW, "Mylapore", "Sri Krishna Saras Hall, P.S. Sivaswamy Salai", "", "", ""),
     ("Shakthi Sangita Sabha", FEST, AW, "Valasaravakkam", "Anbu Nagar", "", "", ""),
     ("SASTRA Satsangh", FEST, AW, "Vadapalani", "SASTRA Chennai Campus, AVM Road, Vadapalani", "", "Margazhi Mela.", ""),
@@ -159,8 +166,7 @@ ORGS += [
 ]
 # organisers whose individual dates appear on artists' websites, before their own schedule is out
 for i, row in enumerate(ORGS):
-    if row[0] in {"Brahma Gana Sabha", "Sruthi Laya Kendra",
-                  "Tamil Isai Sangam",
+    if row[0] in {
                   "VVS Foundation & SaMaa Arts",
                   "TTVV Trust & Cleveland Thyagaraja Festival", "Lakshman Sruthi",
                   "SciArtsRUs", "SASTRA Satsangh", "Sri Rama Bhaktha Jana Samaj", "Gayatri Fine Arts Global", "Asthika Samajam",

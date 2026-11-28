@@ -4,6 +4,7 @@
 #   (JavaScript-only; proposed for the watcher). All ticketed; no accompanists or end times printed.
 # Not included: 20 Dec 6.30 pm "Abhang" (Savita Sreeram) – devotional. Already listed (raw_artist_sites_2026.txt): 16 Dec 6.30 pm K.S. Vishnudev.
 # 23 Dec: R. Lakshmipriya listed at 6 pm and Mysuru Chandankumar at 6.30 pm (times as listed).
+# 2026-11-29: checked against chennaievent.com's listing "December Season Concerts – In Association with Anujan Broadcast" (watcher snapshot 28 Nov 2026; "For Season/Daily Passes visit MDnD"): 22 Dec Bangalore Brothers 6.30 → 6.45 pm; 23 Dec R. Lakshmipriya 6 → 4 pm; 19 Dec Akkarai Sisters printed "Violin Duo" (was vocal); added 27 Dec 4 pm R. Sai Vignesh and 30 Dec 6.30 pm Malladi Brothers. Not included: 27 Dec 10 am drama, 28 Dec 6.30 pm discourse, 29 Dec 4 pm musical discourse.
 # Weekdays checked (15 Dec 2026 = Tue, 31 Dec 2026 = Thu).
 # date|start|entry|artist|form|note
 2026-12-15|16:00|Ticketed|Anugrah Lakshmanan|Vocal|
@@ -14,13 +15,13 @@
 2026-12-18|16:00|Ticketed|Veena Venkatramani|Veena|
 2026-12-18|18:30|Ticketed|Aravind Soundararajan|Vocal|
 2026-12-19|16:00|Ticketed|Aditya Madhavan|Vocal|
-2026-12-19|18:30|Ticketed|Akkarai Sisters|Vocal Duet|Listed as a vocal concert.
+2026-12-19|18:30|Ticketed|Akkarai Sisters|Violin Duet|Printed "Violin Duo" with Kishore Ramesh, N. Guruprasad on chennaievent.com (28 Nov 2026); NatyaNetwork had listed it as a vocal concert.
 2026-12-20|16:00|Ticketed|Bhavya Hari|Vocal|Listed as "Divya Prabandam" (thematic concert).
 2026-12-21|16:00|Ticketed|Vishruthi Girish|Vocal|
 2026-12-21|18:30|Ticketed|J.B. Sruthi Sagar|Flute|
 2026-12-22|16:00|Ticketed|Rakshita Ramesh|Veena|Listed as instrumental.
-2026-12-22|18:30|Ticketed|Bangalore Brothers|Vocal Duet|
-2026-12-23|18:00|Ticketed|R. Lakshmipriya|Vocal|Listed at 6 pm (the next concert is listed at 6.30 pm) – check the time before going.
+2026-12-22|18:45|Ticketed|Bangalore Brothers|Vocal Duet|Printed 6.45 pm on chennaievent.com (28 Nov 2026; NatyaNetwork: 6.30 pm), with M. Vijay, B. Ganapathyraman, Sai Subramaniam.
+2026-12-23|16:00|Ticketed|R. Lakshmipriya|Vocal|Printed 4 pm on chennaievent.com (28 Nov 2026), with Thirucherai Karthik, Pazhani Balaji; NatyaNetwork and MDnD's ticket listing print 6 pm (the next concert is at 6.30 pm) – check the time before going.
 2026-12-23|18:30|Ticketed|Mysuru Chandankumar|Flute|Listed as instrumental.
 2026-12-24|16:00|Ticketed|V. Venkatanagarajan|Vocal|
 2026-12-24|18:30|Ticketed|Mylai Karthikeyan|Nagaswaram|Listed as "Nadaswaram Concert".
@@ -28,9 +29,11 @@
 2026-12-25|18:30|Ticketed|Anahita & Apoorva|Vocal Duet|
 2026-12-26|16:00|Ticketed|Archana & Samani|Vocal Duet|
 2026-12-26|18:30|Ticketed|S. Saketharaman|Vocal|
+2026-12-27|16:00|Ticketed|R. Sai Vignesh|Vocal|From chennaievent.com (28 Nov 2026), with Chidambaram G. Badrinath, Nandan Kashyap.
 2026-12-27|18:30|Ticketed|Vivek Sadasivam|Vocal|
 2026-12-28|16:00|Ticketed|Prarthana Sai Narasimhan|Vocal|
 2026-12-29|18:30|Ticketed|Prasanna Venkataraman|Vocal|
 2026-12-30|16:00|Ticketed|Weslyan B. Balasubramanian & Tiruvarur Girish|Vocal Duet|
+2026-12-30|18:30|Ticketed|Malladi Brothers|Vocal Duet|From chennaievent.com (28 Nov 2026), with B.U. Ganesh Prasad, Burra Sriram, S. Hari Kishore.
 2026-12-31|16:00|Ticketed|Abhirama Bode|Vocal|
 2026-12-31|18:30|Ticketed|Gayathri Venkataraghavan|Vocal|

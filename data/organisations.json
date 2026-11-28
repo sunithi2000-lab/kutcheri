@@ -62,12 +62,12 @@
  {
   "name": "Brahma Gana Sabha",
   "group": "Major sabha",
-  "status": "Some dates via artists' websites",
+  "status": "Schedule published",
   "area": "Mylapore",
-  "venue": "Sivagami Pethachi Auditorium",
-  "festival_2026": "",
-  "note": "Own schedule not yet published; dates found on artists' websites.",
-  "url": ""
+  "venue": "Rasika Ranjani Sabha, Mylapore",
+  "festival_2026": "December festival 2026 · 10–31 Dec 2026 (listed so far)",
+  "note": "Ticketed concerts at 6.15 pm, 10–31 Dec, listed on MDnD under \"Brahma Gana Sabha\" (read 29 Nov 2026; no venue printed there – the artists' own pages place the sabha's concerts at Rasika Ranjani Sabha, Mylapore). Sanjay Subrahmanyan's 1 Jan 9.30 am concert comes from his site. Season.mylaporetimes.com lists the sabha (index entry 13) but its schedule PDF is not out yet.",
+  "url": "https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"
  },
  {
   "name": "Mylapore Fine Arts Club",
@@ -122,11 +122,11 @@
  {
   "name": "Tamil Isai Sangam",
   "group": "Major sabha",
-  "status": "Some dates via artists' websites",
+  "status": "Dates announced",
   "area": "George Town",
   "venue": "Rajah Annamalai Mandram, Esplanade Road",
-  "festival_2026": "",
-  "note": "Own schedule not yet published; dates found on artists' websites.",
+  "festival_2026": "Annual music festival · December 2026",
+  "note": "Ticketed 6.30 pm concerts on 22, 23 and 30 Dec listed on MDnD under \"Tamil Isai Sangam\" (read 29 Nov 2026; no venue printed – the Sangam's hall is Raja Annamalai Mandram). Full programme not yet seen.",
   "url": ""
  },
  {
@@ -400,6 +400,16 @@
   "url": ""
  },
  {
+  "name": "Sri Thiagaraja Sangeetha Vidwath Samajam",
+  "group": "Other sabha",
+  "status": "Dates announced",
+  "area": "Mylapore",
+  "venue": "Thyagarajapuram, near Madhava Perumal Koil, Mylapore",
+  "festival_2026": "Panchami and monthly concerts · 8 and 18 Dec 2026",
+  "note": "Mylapore samajam (\"Regd\"). Saxophone Panchami concert by G. Ramanathan (8 Dec, 6.30 pm) and a mandolin monthly concert by Nidhi Hariharan (18 Dec, 6 pm), from chennaievent.com's season listing (read 29 Nov 2026; phones 98410 31680 / 98400 64292). Entry not printed.",
+  "url": "https://chennaievent.com/index_search.php?q=Kamarajar"
+ },
+ {
   "name": "Naada Inbam",
   "group": "Festival / arts organisation",
   "status": "Schedule published",
@@ -462,11 +472,11 @@
  {
   "name": "MDnD",
   "group": "Festival / arts organisation",
-  "status": "Awaiting 2026–27 schedule",
+  "status": "Schedule published",
   "area": "Mylapore",
   "venue": "MDnD Performance Centre, Luz Church Road",
-  "festival_2026": "",
-  "note": "Anandha Margazhi; also sells season tickets for many sabhas. An \"Anandha Margazhi\" (Indian Stage) is listed for 12–26 Dec 2026; no programme yet.",
+  "festival_2026": "Anandha Margazhi · 12–26 Dec 2026",
+  "note": "Anandha Margazhi: a free 10 am concert every day, 12–26 Dec 2026, listed on MDnD as \"... for Anandha Margazhi\" (read 29 Nov 2026; venue not printed). MDnD also sells season tickets for many sabhas.",
   "url": "https://www.mdnd.in/seasontickets"
  },
  {
@@ -482,11 +492,11 @@
  {
   "name": "Sruthi Laya Kendra",
   "group": "Festival / arts organisation",
-  "status": "Some dates via artists' websites",
+  "status": "Dates announced",
   "area": "Mylapore",
-  "venue": "Bharatiya Vidya Bhavan Mini Hall",
-  "festival_2026": "",
-  "note": "Own schedule not yet published; dates found on artists' websites.",
+  "venue": "Bharatiya Vidya Bhavan, Mylapore",
+  "festival_2026": "39th Winter Music Festival · 26 Dec 2026",
+  "note": "Winter Music Festival at the Bhavan main auditorium on 26 Dec: 9 am \"Layataranga\" percussion ensemble led by Giridhar Udupa, then award presentations and Shashank's flute recital (chennaievent.com, read 29 Nov 2026; Shashank's site: 11 am).",
   "url": ""
  },
  {

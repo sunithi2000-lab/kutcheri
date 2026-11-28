@@ -120,6 +120,11 @@ ORG = {
         name="Hamsadhwani", festival="Margazhi Maha Utsavam 2026",
         venue="Youth Hostel Auditorium, Indira Nagar, Adyar", area="Adyar",
         url="https://chennaievent.com/index_search.php?q=Kamarajar"),
+    # 2026-11-29: Brahma Gana Sabha's December festival (10–31 Dec) on MDnD's Chennai Carnatic listing; venue from artists' pages (Rasika Ranjani Sabha)
+    "brahma-gana-sabha": dict(
+        name="Brahma Gana Sabha", festival="Brahma Gana Sabha December festival",
+        venue="Rasika Ranjani Sabha, Mylapore", area="Mylapore",
+        url="https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic"),
 }
 
 concerts = []
@@ -355,6 +360,10 @@ main_only("raw_naada_inbam_december_2026.txt", "naada-inbam-december", "ni", "20
 # 2026-11-28: Hamsadhwani's Margazhi Maha Utsavam Series, 1–11 Dec (chennaievent.com's season listing; no organiser, instruments or accompanists printed)
 main_only("raw_hamsadhwani_2026.txt", "hamsadhwani", "hd", "2026-11-28", "chennaievent.com listing",
           "Margazhi Maha Utsavam Series (Hamsadhwani's season festival) at the Youth Hostel Auditorium, Indira Nagar, from chennaievent.com's season listing (\"Seat 1st cum 1st\"). Organiser not printed on the listing. Accompanists not listed.")
+
+# 2026-11-29: Brahma Gana Sabha's December festival, 10–31 Dec (MDnD's Chennai Carnatic listing; no venue, accompanists or end times printed)
+main_only("raw_brahma_gana_sabha_2026.txt", "brahma-gana-sabha", "bgs", "2026-11-29", "MDnD listing",
+          "Listed on MDnD under \"Brahma Gana Sabha\" (ticketed). Venue not printed there: the sabha's concerts are at Rasika Ranjani Sabha, Mylapore on the artists' own pages – check the hall before going. Accompanists not listed.")
 
 # 2026-11-27: Psiog's Srothovaham festival, 5–13 Dec (chennaievent.com's season listing; performers printed without instruments)
 main_only("raw_psiog_2026.txt", "psiog", "psg", "2026-11-27", "chennaievent.com listing",

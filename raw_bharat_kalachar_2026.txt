@@ -1,9 +1,9 @@
 # Source: https://www.bharatkalachar.com/38-bharat-kalachar.html  (fetched 2026-10-12)
 # Carnatic music programmes only; dance, drama, harikatha, fusion, film/light music, award functions excluded.
 # Page lists main artist + art form only (no accompanists, no end times).
+# 2026-11-29: from MDnD's listing under "Bharat Kalachar" and chennaievent.com's listing of the 38th Margazhi Mahotsav (watcher snapshot 28 Nov 2026): 18 Dec 6.30 pm "Bolava Vitthala" removed – it is a harikatha by Dushyanth Sridhar with Swarathmika Srikanth; 29 Dec 10.30 am Sanjay Suresh (violin) and Sai Govind Vijayaraghavan (mandolin) merged into one string concert ("Carnatic Violin by Sanjay Suresh & Mandolin by Sai Govind Vijayaraghavan"); 3 Jan 4.30 pm Sikkil Gurucharan added (MDnD, ticketed). Tickets on BookMyShow from 10 am, 7 Dec (contact 82488 71089 / 99419 07993).
 # date|start|entry|main artist|art form
 2026-12-14|18:30|Ticketed|Trichur Brothers|Vocal
-2026-12-18|18:30|Ticketed|Bolava Vitthala|Vocal
 2026-12-20|10:30|Free|Ritvik Vaddi Rao|Vocal
 2026-12-20|16:00|Ticketed (special)|Sid Sriram|Vocal
 2026-12-21|18:30|Ticketed|Sudha Ragunathan and Party|Vocal
@@ -16,8 +16,7 @@
 2026-12-27|16:30|Ticketed|Malladi Brothers - Sri Ramaprasad and Ravikumar|Vocal
 2026-12-28|14:00|Free|Priya Krishnamurthy|Vocal
 2026-12-28|16:30|Free|Vaishnavi Ramdos|Vocal
-2026-12-29|10:30|Free|(Madison) Sanjay Suresh|Violin
-2026-12-29|10:30|Free|Sai Govind Vijayaraghavan|Mandolin
+2026-12-29|10:30|Free|(Madison) Sanjay Suresh & Sai Govind Vijayaraghavan|Violin & Mandolin
 2026-12-29|14:00|Free|Karthik Raju (USA)|Vocal
 2026-12-30|10:30|Free|Kalyanapuram S Arvind|Vocal
 2026-12-30|14:00|Free|Sidhdharth Kaushik|Vocal
@@ -30,6 +29,7 @@
 2027-01-02|16:30|Free|R Suryaprakash|Vocal
 2027-01-03|10:30|Free|Shishir Kumar|Saxophone
 2027-01-03|14:00|Free|Vishruthii Girish|Vocal
+2027-01-03|16:30|Ticketed|Sikkil C. Gurucharan|Vocal
 2027-01-03|19:00|Ticketed|Ramana Balachandran|Veena
 2027-01-09|10:30|Free|Cotah Sisters|Vocal
 2027-01-09|14:00|Free|Jayashree Vaidyanathan|Vocal

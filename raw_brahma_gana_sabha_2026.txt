@@ -1,0 +1,24 @@
+# Brahma Gana Sabha – December festival 2026 (Carnatic music only).
+# Source: MDnD's Chennai Carnatic listing https://mdnd.in/ViewEvents/Carnatic?ci=101&c=3659&eMode=All&Date=All&mc=8&mcName=Carnatic
+#   (watcher snapshot mdnd-carnatic-chennai, run 2026-11-28 00:38Z; read 29 Nov 2026): 19 entries "<artist> - <form> | Brahma Gana Sabha" (organiser printed exactly so,
+#   distinct from "Sri Thyaga Brahma Gana Sabha"), 10–31 Dec 2026, all at 6.15 pm, Ticketed | Offline. MDnD prints no venue, accompanists or end times.
+# Venue: the sabha's concerts are at Rasika Ranjani Sabha, Mylapore on the artists' own pages (Ramana Balachandhran "BGS at RR Sabha", Sandeep Narayan "RR Sabha Main Hall",
+#   K.S. Vishnudev "RR Sabha Auditorium", Sanjay Subrahmanyan "Sundareswarar Hall, Rasika Ranjani Sabha") – used here (noted per row).
+# Already listed (raw_artist_sites_2026.txt, with accompanists or halls from the artists' pages; time set to MDnD's 6.15 pm): 11 Dec K.S. Vishnudev, 13 Dec Sanjay Subrahmanyan,
+#   26 Dec Ramana Balachandhran, 30 Dec Ranjani & Gayatri, 31 Dec Sandeep Narayan. No January entries yet (Sanjay Subrahmanyan 1 Jan 9.30 am comes from his site).
+# Names normalised to the dataset's spellings (printed form in the note); weekdays checked (10 Dec 2026 = Thu, 31 Dec 2026 = Thu).
+# date|start|entry|artist|form|note
+2026-12-10|18:15|Ticketed|Abhishek Raghuram|Vocal|Printed "Abishek Raghuraman - Vocal".
+2026-12-12|18:15|Ticketed|S. Saketharaman|Vocal|
+2026-12-14|18:15|Ticketed|Sikkil C. Gurucharan|Vocal|Printed "Sikkil Gurucharan".
+2026-12-15|18:15|Ticketed|Soorya Gayathri|Vocal|Printed "Soorya Gayatri".
+2026-12-16|18:15|Ticketed|Malladi Brothers|Vocal Duet|
+2026-12-17|18:15|Ticketed|Lalgudi G.J.R. Krishnan & Lalgudi Vijayalakshmi|Violin Duet|
+2026-12-18|18:15|Ticketed|Sid Sriram|Vocal|
+2026-12-19|18:15|Ticketed|Carnatica Brothers - K.N. Shashikiran & P. Ganesh|Vocal Duet|Printed "Carnatica Brothers".
+2026-12-20|18:15|Ticketed|Nisha Rajagopalan|Vocal|Printed "Nisha Rajagopal".
+2026-12-21|18:15|Ticketed|Ganesh & Kumaresh|Violin Duet|
+2026-12-22|18:15|Ticketed|Ramakrishnan Murthy|Vocal|
+2026-12-23|18:15|Ticketed|K. Bharat Sundar|Vocal|Printed "Bharath Sundar".
+2026-12-25|18:15|Ticketed|Gayathri Venkataraghavan|Vocal|Printed "Gayathri Venkatraghavan".
+2026-12-29|18:15|Ticketed|Kunnakudi M. Balamuralikrishna|Vocal|
